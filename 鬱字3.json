@@ -20064,7 +20064,7 @@
           "meanings": [
             {
               "descriptions": {
-                "zh": "凶恶",
+                "zh": "凶恶，凶狠",
                 "en": "英文释义"
               },
               "words": [
@@ -20077,10 +20077,10 @@
                   },
                   "sentences": [
                     {
-                      "prefix": "{U+4F62-gyu5}{U+96BB-zik7}相{U+751F-saa1}{U+5F97-ddak7}",
-                      "suffix": "，{U+5452-maa5}人敢{U+3A2E-ddau1}{U+4F62-gyu5}",
+                      "prefix": "你",
+                      "suffix": "{U+35B7-si5}{U+4B87-lat9}？",
                       "descriptions": {
-                        "zh": "他长相凶恶，无人敢挑衅他",
+                        "zh": "你凶什么凶？",
                         "en": "英文释义"
                       }
                     }
