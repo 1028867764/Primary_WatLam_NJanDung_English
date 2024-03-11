@@ -47635,6 +47635,51 @@
           ]
         },
         {
+          "id": "A+105-jing2",
+          "unicode": "",
+          "character": "jing2",
+          "back_up_character": [],
+          "pinyin": "",
+          "jyut++": "jing2",
+          "IPA": "",
+          "stroke": "",
+          "head": "j",
+          "tail": "ng",
+          "meanings": [
+            {
+              "descriptions": {
+                "zh": "踮高脚",
+                "en": "英文释义"
+              },
+              "words": [
+                {
+                  "prefix": "",
+                  "suffix": "",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "A+105-jang2",
+          "ref":"A+105-jing2",
+          "unicode": "",
+          "character": "jang2",
+          "back_up_character": [],
+          "pinyin": "",
+          "jyut++": "jang2",
+          "IPA": "",
+          "stroke": "",
+          "head": "j",
+          "tail": "ng",
+          "meanings": []
+        },
+        {
           "id": "A+er",
           "unicode": "",
           "character": "ㇽ",
