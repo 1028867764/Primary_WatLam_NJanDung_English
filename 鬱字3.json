@@ -8440,7 +8440,16 @@
           "id": "U+236BA-ong6",
           "unicode": "U+236BA",
           "character": "𣚺",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "项",
+              "bian_hao": "U+9879"
+            },
+            {
+              "han_zi": "𮬷",
+              "bian_hao": "U+2EB37"
+            }
+          ],
           "pinyin": "",
           "jyut++": "ong6",
           "IPA": "",
@@ -10717,7 +10726,12 @@
           "id": "U+76EA-long2",
           "unicode": "U+76EA",
           "character": "盪",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "𠺘",
+              "bian_hao": "U+20E98"
+            }
+          ],
           "pinyin": "",
           "jyut++": "long2",
           "IPA": "",
@@ -13187,7 +13201,12 @@
           "id": "U+3CCC-ap7",
           "unicode": "U+3CCC",
           "character": "㳌",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "罯",
+              "bian_hao": "U+7F6F"
+            }
+          ],
           "pinyin": "",
           "jyut++": "ap7",
           "IPA": "",
@@ -14484,7 +14503,12 @@
           "id": "U+8872-nap7",
           "unicode": "U+8872",
           "character": "衲",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "㨥",
+              "bian_hao": "U+3A25"
+            }
+          ],
           "pinyin": "",
           "jyut++": "nap7",
           "IPA": "",
@@ -17549,7 +17573,12 @@
           "id": "U+21CAC-gwat9",
           "unicode": "U+21CAC",
           "character": "𡲬",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "䘿",
+              "bian_hao": "U+463F"
+            }
+          ],
           "pinyin": "",
           "jyut++": "gwat9",
           "IPA": "",
@@ -18268,7 +18297,12 @@
           "id": "U+57D2-loet10",
           "unicode": "U+57D2",
           "character": "埒",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "浖",
+              "bian_hao": "U+6D56"
+            }
+          ],
           "pinyin": "",
           "jyut++": "loet10",
           "IPA": "",
@@ -22202,7 +22236,16 @@
           "id": "U+27C35-dduk7",
           "unicode": "U+27C35",
           "character": "𧰵",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "㧻",
+              "bian_hao": "U+39FB"
+            },
+            {
+              "han_zi": "剢",
+              "bian_hao": "U+5262"
+            }
+          ],
           "pinyin": "",
           "jyut++": "dduk7",
           "IPA": "",
@@ -23046,7 +23089,12 @@
           "id": "U+8E60-jik7",
           "unicode": "U+8E60",
           "character": "蹠",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "⿰𧾷則",
+              "bian_hao": "U+30E20"
+            }
+          ],
           "pinyin": "",
           "jyut++": "jik7",
           "IPA": "",
@@ -25011,7 +25059,13 @@
           "id": "U+97A0-nguk7",
           "unicode": "U+97A0",
           "character": "鞠",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "𠤄",
+              "bian_hao": "U+20904"
+            }
+ 
+          ],
           "pinyin": "",
           "jyut++": "nguk7",
           "IPA": "",
@@ -36955,7 +37009,12 @@
           "id": "U+5C15-nai3",
           "unicode": "U+5C15",
           "character": "尕",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "细",
+              "bian_hao": "U+7EC6"
+            }
+          ],
           "pinyin": "",
           "jyut++": "nai3",
           "IPA": "",
@@ -42799,7 +42858,12 @@
           "id": "U+6EBE-oi1",
           "unicode": "U+6EBE",
           "character": "溾",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "埃",
+              "bian_hao": "U+57C3"
+            }
+          ],
           "pinyin": "",
           "jyut++": "oi1",
           "IPA": "",
