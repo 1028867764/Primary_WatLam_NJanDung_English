@@ -20185,7 +20185,7 @@
                       "suffix": "{U+5622-nje5}？",
                       "descriptions": {
                         "zh": "你要买什么？",
-                        "en": "英文释义"
+                        "en": "What do you want to buy?"
                       }
                     }
                   ]
@@ -20223,7 +20223,7 @@
             {
               "descriptions": {
                 "zh": "从物体表面掠过击打，以拍除附在表面的东西",
-                "en": "英文释义"
+                "en": "Sweeping and striking from the surface of an object to remove something attached to the surface"
               },
               "words": [
                 {
@@ -20239,7 +20239,7 @@
                       "suffix": "{U+62C2-pat7}净",
                       "descriptions": {
                         "zh": "衣服脏了，拍打干净",
-                        "en": "英文释义"
+                        "en": "The clothes are dirty, pat them clean"
                       }
                     }
                   ]
@@ -20263,7 +20263,7 @@
             {
               "descriptions": {
                 "zh": "摔脱，甩",
-                "en": "英文释义"
+                "en": "Move (hand) backward and forward; Swing; Shake"
               },
               "words": [
                 {
@@ -20279,7 +20279,7 @@
                       "suffix": "{U+62C2-fat7}又写{U+5F97-ddak7}出",
                       "descriptions": {
                         "zh": "本以为这支笔的墨水用完了，甩了一下又写得出来了",
-                        "en": "英文释义"
+                        "en": "I thought this pen had run out of ink, but after shaking it, it could write again"
                       }
                     },
                     {
@@ -20287,7 +20287,7 @@
                       "suffix": "{U+587D-song3}手",
                       "descriptions": {
                         "zh": "把手甩干",
-                        "en": "英文释义"
+                        "en": "Shake one's hands dry"
                       }
                     }
                   ]
@@ -20311,7 +20311,7 @@
             {
               "descriptions": {
                 "zh": "按，摁，挤",
-                "en": "英文释义"
+                "en": "Press, squeeze"
               },
               "words": [
                 {
@@ -20327,7 +20327,7 @@
                       "suffix": "{U+71C3-njin4}盏灯",
                       "descriptions": {
                         "zh": "摁下按钮，把灯打开",
-                        "en": "英文释义"
+                        "en": "Press the button to turn on the light"
                       }
                     },
                     {
@@ -20335,7 +20335,7 @@
                       "suffix": "手机",
                       "descriptions": {
                         "zh": "摁手机",
-                        "en": "英文释义"
+                        "en": "Press the mobile phone screen with fingers"
                       }
                     }
                   ]
@@ -20373,7 +20373,7 @@
             {
               "descriptions": {
                 "zh": "拥挤，推挤",
-                "en": "英文释义"
+                "en": "Crowding, pushing"
               },
               "words": [
                 {
@@ -20389,7 +20389,7 @@
                       "suffix": "{U+5F97-ddak7}上地铁",
                       "descriptions": {
                         "zh": "挤不上地铁",
-                        "en": "英文释义"
+                        "en": "Unable to squeeze into the subway"
                       }
                     },
                     {
@@ -20397,7 +20397,7 @@
                       "suffix": "{U+2CF82-lang3}条桥",
                       "descriptions": {
                         "zh": "被挤摔下桥",
-                        "en": "英文释义"
+                        "en": "Being squeezed off the bridge"
                       }
                     },
                     {
@@ -20405,7 +20405,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "公交车上太拥挤",
-                        "en": "英文释义"
+                        "en": "The bus is too crowded"
                       }
                     }
                   ]
@@ -20415,7 +20415,7 @@
             {
               "descriptions": {
                 "zh": "挨近，靠近",
-                "en": "英文释义"
+                "en": "Get closer, crowd"
               },
               "words": [
                 {
@@ -20431,7 +20431,7 @@
                       "suffix": "近{U+7099-zyk7}火",
                       "descriptions": {
                         "zh": "天气冷，挨近烤火取暖",
-                        "en": "英文释义"
+                        "en": "Crowd around the stove to keep warm in cold weather"
                       }
                     }
                   ]
@@ -20469,7 +20469,7 @@
             {
               "descriptions": {
                 "zh": "翘起",
-                "en": "英文释义"
+                "en": "Raise up"
               },
               "words": [
                 {
@@ -20485,7 +20485,7 @@
                       "suffix": "{U+5C3E-mi2}知{U+5C59-eo1}屎",
                       "descriptions": {
                         "zh": "翘起尾巴，就知道将会拉屎（意为：对于一个人的言行举止乃至心思习性都很熟悉）",
-                        "en": "英文释义"
+                        "en": "You should know it is going to poop, when cattle raise up their tail(The meaning is: Someone is very familiar with a person's words, actions, and even their mental habits)"
                       }
                     }
                   ]
@@ -20509,7 +20509,7 @@
             {
               "descriptions": {
                 "zh": "担，负",
-                "en": "英文释义"
+                "en": "To support the weight of sb/sth"
               },
               "words": [
                 {
@@ -20525,7 +20525,7 @@
                       "suffix": "{U+5F97-ddak7}起",
                       "descriptions": {
                         "zh": "人老了，就连一包米也担不起",
-                        "en": "英文释义"
+                        "en": "As I get older, I can't even support the weight of a bag of rice"
                       }
                     }
                   ]
@@ -20557,7 +20557,7 @@
                   "suffix": "{U+7D9F-lat7}",
                   "descriptions": {
                     "zh": "绳结",
-                    "en": "英文释义"
+                    "en": "Knot"
                   },
                   "sentences": []
                 }
@@ -20594,7 +20594,7 @@
             {
               "descriptions": {
                 "zh": "凶恶，凶狠",
-                "en": "英文释义"
+                "en": "Fierce"
               },
               "words": [
                 {
@@ -20610,7 +20610,7 @@
                       "suffix": "{U+35B7-si5}{U+4B87-lat9}？",
                       "descriptions": {
                         "zh": "你凶什么凶？",
-                        "en": "英文释义"
+                        "en": "What are you ferocious about?"
                       }
                     }
                   ]
@@ -20620,7 +20620,7 @@
             {
               "descriptions": {
                 "zh": "硬气，霸道",
-                "en": "英文释义"
+                "en": "Stubborn and domineering"
               },
               "words": [
                 {
@@ -20636,7 +20636,7 @@
                       "suffix": "{U+5F97-ddak7}{A+le5}",
                       "descriptions": {
                         "zh": "他硬不起来了",
-                        "en": "英文释义"
+                        "en": "He can no longer be as domineering as before"
                       }
                     }
                   ]
@@ -20654,7 +20654,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "发狠，无理取闹",
-                    "en": "英文释义"
+                    "en": "Be ruthless and cause trouble without reason"
                   },
                   "sentences": [
                     {
@@ -20662,7 +20662,7 @@
                       "suffix": "跳上阁",
                       "descriptions": {
                         "zh": "老李胡闹不休，跳上楼",
-                        "en": "英文释义"
+                        "en": "Old Li is mischievous and jumps upstairs"
                       }
                     }
                   ]
@@ -20686,7 +20686,7 @@
             {
               "descriptions": {
                 "zh": "翅膀",
-                "en": "英文释义"
+                "en": "Wing"
               },
               "words": [
                 {
@@ -20702,7 +20702,7 @@
                       "suffix": "{U+5187-mau5}剪，{U+4F62-gyu5}会飞{U+8E7D-liu1}",
                       "descriptions": {
                         "zh": "如果不修剪番鸭翅膀的羽毛，它就会飞走",
-                        "en": "英文释义"
+                        "en": "If you don't trim the feathers of the muscovy duck's wings, it will fly away"
                       }
                     }
                   ]
@@ -20726,7 +20726,7 @@
             {
               "descriptions": {
                 "zh": "家",
-                "en": "英文释义"
+                "en": "Home, family"
               },
               "words": [
                 {
@@ -20734,7 +20734,7 @@
                   "suffix": "己",
                   "descriptions": {
                     "zh": "家，家里",
-                    "en": "英文释义"
+                    "en": "Home"
                   },
                   "sentences": [
                     {
@@ -20742,7 +20742,7 @@
                       "suffix": "{U+770B-hon1}有狗",
                       "descriptions": {
                         "zh": "家里养了狗",
-                        "en": "英文释义"
+                        "en": "I have a dog at home"
                       }
                     }
                   ]
@@ -20774,7 +20774,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "（打）嗝",
-                    "en": "英文释义"
+                    "en": "Hiccup"
                   },
                   "sentences": [
                     {
@@ -20782,7 +20782,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "打嗝",
-                        "en": "英文释义"
+                        "en": "Hiccup"
                       }
                     }
                   ]
@@ -20806,7 +20806,7 @@
             {
               "descriptions": {
                 "zh": "环状饰物，镯子",
-                "en": "英文释义"
+                "en": "Circular ornament, bracelet"
               },
               "words": [
                 {
@@ -20814,7 +20814,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "手镯",
-                    "en": "英文释义"
+                    "en": "Bracelet"
                   },
                   "sentences": []
                 },
@@ -20823,7 +20823,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "银手镯",
-                    "en": "英文释义"
+                    "en": "Silver Bracelet"
                   },
                   "sentences": []
                 }
@@ -20846,7 +20846,7 @@
             {
               "descriptions": {
                 "zh": "形容油脂腐败后的味道",
-                "en": "英文释义"
+                "en": "Describe the taste of oil after spoilage"
               },
               "words": [
                 {
@@ -20862,7 +20862,7 @@
                       "suffix": "{U+5473-mi6}",
                       "descriptions": {
                         "zh": "含油物质腐败味道",
-                        "en": "英文释义"
+                        "en": "Oil containing substances with a putrid odor"
                       }
                     }
                   ]
@@ -20894,7 +20894,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "光膀子",
-                    "en": "英文释义"
+                    "en": "stripped to the waist"
                   },
                   "sentences": []
                 }
@@ -20925,7 +20925,7 @@
                   "suffix": "肩",
                   "descriptions": {
                     "zh": "肩膀",
-                    "en": "英文释义"
+                    "en": "Shoulder"
                   },
                   "sentences": []
                 }
@@ -20948,7 +20948,7 @@
             {
               "descriptions": {
                 "zh": "火热以干物",
-                "en": "英文释义"
+                "en": "Dry the wet material with heat"
               },
               "words": [
                 {
@@ -20964,7 +20964,7 @@
                       "suffix": "{U+587D-song3}件{U+886B-som1}",
                       "descriptions": {
                         "zh": "用取暖炉把衣服烤干",
-                        "en": "英文释义"
+                        "en": "Use a heating stove to dry clothes"
                       }
                     }
                   ]
@@ -20974,7 +20974,7 @@
             {
               "descriptions": {
                 "zh": "阳光、热浪强烈",
-                "en": "英文释义"
+                "en": "Strong sunlight and heat waves"
               },
               "words": [
                 {
@@ -20990,7 +20990,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "太阳很毒辣",
-                        "en": "英文释义"
+                        "en": "The sun is very poisonous and spicy"
                       }
                     }
                   ]
@@ -21014,7 +21014,7 @@
             {
               "descriptions": {
                 "zh": "凭借，倚仗",
-                "en": "英文释义"
+                "en": "Rely on"
               },
               "words": [
                 {
@@ -21030,7 +21030,7 @@
                       "suffix": "你大过我",
                       "descriptions": {
                         "zh": "凭借你比我大",
-                        "en": "英文释义"
+                        "en": "With you being older than me"
                       }
                     }
                   ]
@@ -21061,8 +21061,8 @@
                   "prefix": "",
                   "suffix": "{U+22AE3-bbak7}{U+67AA-taa1}",
                   "descriptions": {
-                    "zh": "同「{U+22AE3}{U+22AE3}筒」、「竹筒{U+67AA-taa1}」，一种用细竹筒制成的活塞式玩具，通过将「{U+22AE3-bbak7}{U+22AE3-bbak7}{U+5B50-ddi2}」塞入其中，并用长条细物骤然舂击，最终发出响亮的爆竹声",
-                    "en": "英文释义"
+                    "zh": "同「{U+22AE3-bbak7}{U+22AE3-bbak7}筒」、「竹筒{U+67AA-taa1}」，一种用细竹筒制成的活塞式玩具，通过将「{U+22AE3-bbak7}{U+22AE3-bbak7}{U+5B50-ddi2}」塞入其中，并用长条细物骤然舂击，最终发出响亮的爆竹声",
+                    "en": "Same as「{U+22AE3-bbak7}{U+22AE3-bbak7}筒」、「竹筒{U+67AA-taa1}」, A piston shaped toy made of thin bamboo tubes, which inserted 「{U+22AE3-bbak7}{U+22AE3-bbak7}{U+5B50-ddi2}」into it and suddenly pounded with a long and thin object, ultimately emitting a loud sound like firecrackers"
                   },
                   "sentences": []
                 },
@@ -21071,7 +21071,7 @@
                   "suffix": "{U+22AE3-bbak7}筒",
                   "descriptions": {
                     "zh": "同「{U+22AE3-bbak7}{U+22AE3-bbak7}{U+67AA-taa1}」、「竹筒{U+67AA-taa1}」",
-                    "en": "英文释义"
+                    "en": "Same as「{U+22AE3-bbak7}{U+22AE3-bbak7}{U+67AA-taa1}」、「竹筒{U+67AA-taa1}」"
                   },
                   "sentences": []
                 },
@@ -21080,7 +21080,7 @@
                   "suffix": "{U+22AE3-bbak7}{U+5B50-ddi2}",
                   "descriptions": {
                     "zh": "女桢属植物的果实",
-                    "en": "英文释义"
+                    "en": "The fruits of plants in the genus Ligustrum"
                   },
                   "sentences": []
                 }
@@ -21103,7 +21103,7 @@
             {
               "descriptions": {
                 "zh": "步行",
-                "en": "英文释义"
+                "en": "Walk"
               },
               "words": []
             }
@@ -21124,7 +21124,7 @@
             {
               "descriptions": {
                 "zh": "量词，「串」、「撮」、「团」、「簇」",
-                "en": "英文释义"
+                "en": "Measure word, 「string」、「tuft」、「strand」、「bunch」etc."
               },
               "words": [
                 {
@@ -21140,7 +21140,7 @@
                       "suffix": "锁匙",
                       "descriptions": {
                         "zh": "一串钥匙",
-                        "en": "英文释义"
+                        "en": "A string of keys"
                       }
                     },
                     {
@@ -21148,7 +21148,7 @@
                       "suffix": "头毛",
                       "descriptions": {
                         "zh": "一撮头发",
-                        "en": "英文释义"
+                        "en": "A tuft of hair"
                       }
                     },
                     {
@@ -21156,7 +21156,7 @@
                       "suffix": "头髻",
                       "descriptions": {
                         "zh": "扎两团发髻",
-                        "en": "英文释义"
+                        "en": "Tie two buns of hair"
                       }
                     }
                   ]
@@ -21188,7 +21188,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "旧式旱厕",
-                    "en": "英文释义"
+                    "en": "Old style dry toilet"
                   },
                   "sentences": []
                 },
@@ -21197,7 +21197,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "旧式湿厕",
-                    "en": "英文释义"
+                    "en": "Old style wet toilet"
                   },
                   "sentences": []
                 }
@@ -21236,7 +21236,7 @@
                       "suffix": "角地雷",
                       "descriptions": {
                         "zh": "只敢在背后说闲话",
-                        "en": "英文释义"
+                        "en": "Only dare to gossip behind back"
                       }
                     }
                   ]
@@ -21246,7 +21246,7 @@
                   "suffix": "{U+2B2B7-lop8}",
                   "descriptions": {
                     "zh": "蟑螂，同「{U+86C2-bbet8}{U+2B2B7-sop8}」",
-                    "en": "英文释义"
+                    "en": "Cockroach, same as「{U+86C2-bbet8}{U+2B2B7-sop8}」"
                   },
                   "sentences": []
                 }
@@ -21269,7 +21269,7 @@
             {
               "descriptions": {
                 "zh": "上下颠簸粉篱的动作",
-                "en": "英文释义"
+                "en": "The movement of bumping the noodle strainer up and down"
               },
               "words": [
                 {
