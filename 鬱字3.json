@@ -16286,10 +16286,10 @@
                   "sentences": [
                     {
                       "prefix": "",
-                      "suffix": "{U+5403-hik7}螺蛳粉jaa03？",
+                      "suffix": "{U+719D-luk7}米粉{U+5403-hik7}jaa03？",
                       "descriptions": {
-                        "zh": "要不然吃螺蛳粉？",
-                        "en": "Or eat Luosifen alternatively?"
+                        "zh": "要不然煮米粉吃？",
+                        "en": "How about cooking Rice noodles instead?"
                       }
                     }
                   ]
@@ -24106,7 +24106,12 @@
           "id": "U+5774-luk7",
           "unicode": "U+5774",
           "character": "坴",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "碌",
+              "bian_hao": "U+788C"
+            }
+          ],
           "pinyin": "",
           "jyut++": "luk7",
           "IPA": "",
