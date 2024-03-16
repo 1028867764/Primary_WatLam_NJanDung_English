@@ -4237,7 +4237,7 @@
             {
               "descriptions": {
                 "zh": "作动词的补语，类似于普通话的「住」，有时弱读",
-                "en": "As a complement to a verb, similar to 「住」in Mandarin, sometimes pronounced weakly"
+                "en": "As a complement to a verb, similar to 「住」in Mandarin, sometimes is unstressed"
               },
               "words": [
                 {
@@ -4271,7 +4271,7 @@
             {
               "descriptions": {
                 "zh": "动词后缀，表示进行时，常常弱读",
-                "en": "Verb suffix, indicating continuous tense, often pronounced weakly"
+                "en": "Verb suffix, indicating continuous tense; It is often unstressed"
               },
               "words": [
                 {
@@ -5291,7 +5291,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "原意为「满意」，延伸意为「有趣」；「顶」字有时念小称音",
-                    "en": "The original meaning is 「satisfied」, and the extended meaning is 「funny」; The character「顶」is pronounced cute-tone sometimes"
+                    "en": "The original meaning is 「satisfied」, and the extended meaning is 「funny」; The character「顶」is pronounced as cute-tone sometimes"
                   },
                   "sentences": [
                     {
@@ -9328,7 +9328,7 @@
             {
               "descriptions": {
                 "zh": "语法助词，常常前接「{U+5187-mau5}」，表示「未曾」；「{U+5187-mau5}」和「{U+66FE-dang4}」有时会弱读",
-                "en": "Grammar particle, often preceded by 「{U+5187-mau5}」, indicating 「have not...yet」; 「{U+5187-mau5}」 and 「{U+66FE-dang4}」 sometimes have weak pronunciations"
+                "en": "Grammar particle, often preceded by 「{U+5187-mau5}」, indicating 「have not...yet」;「{U+5187-mau5}」and「{U+66FE-dang4}」are sometimes unstressed"
               },
               "words": [
                 {
@@ -11717,7 +11717,7 @@
             {
               "descriptions": {
                 "zh": "小孩；常用小称",
-                "en": "Children, kids; Commonly pronounce cute-tone"
+                "en": "Children, kids; Commonly is pronounced as cute-tone"
               },
               "words": [
                 {
@@ -11761,7 +11761,7 @@
             {
               "descriptions": {
                 "zh": "稚气，年幼；常用小称",
-                "en": "Childishness, youthfulness; Commonly pronounce cute-tone"
+                "en": "Childishness, youthfulness; Commonly is pronounced as cute-tone"
               },
               "words": [
                 {
@@ -12027,7 +12027,7 @@
             {
               "descriptions": {
                 "zh": "附于某些动词后面，表示略微；常用小称",
-                "en": "Added after certain verbs, indicating slightly; Commonly pronounce cute-tone"
+                "en": "Added after certain verbs, indicating slightly; Commonly is pronounced as cute-tone"
               },
               "words": [
                 {
@@ -12952,7 +12952,7 @@
             {
               "descriptions": {
                 "zh": "仍然，还有；有时弱读",
-                "en": "Still; Sometimes weakly pronounced"
+                "en": "Still; It is sometimes unstressed"
               },
               "words": [
                 {
@@ -12978,7 +12978,7 @@
             {
               "descriptions": {
                 "zh": "而且，还要，更加；有时弱读",
-                "en": "And also, even more; Sometimes weakly pronounced"
+                "en": "And also, even more; It is sometimes unstressed"
               },
               "words": [
                 {
@@ -14624,7 +14624,7 @@
             {
               "descriptions": {
                 "zh": "比较级，常用小称",
-                "en": "Comparative, commonly pronounce cute-tone"
+                "en": "Comparative; And it is commonly pronounced as cute-tone"
               },
               "words": [
                 {
@@ -15671,7 +15671,7 @@
             {
               "descriptions": {
                 "zh": "片刻，一会儿；有时用小称",
-                "en": "A moment, a short while; Sometimes pronounce cute-tone"
+                "en": "A moment, a short while; Sometimes is pronounced as cute-tone"
               },
               "words": [
                 {
@@ -18673,7 +18673,7 @@
                   "suffix": "{U+5622-nje5}",
                   "descriptions": {
                     "zh": "同「{U+7269-mat9}{U+4EF6-gin5}」，家伙；「{U+7269-mat9}」字有时弱读",
-                    "en": "Same as「{U+7269-mat9}{U+4EF6-gin5}」, Guy;「{U+7269-mat9}」 sometimes weakly pronounced"
+                    "en": "Same as「{U+7269-mat9}{U+4EF6-gin5}」, Guy;「{U+7269-mat9}」is sometimes unstressed"
                   },
                   "sentences": [
                     {
@@ -18700,7 +18700,7 @@
                   "suffix": "{U+4EF6-gin5}",
                   "descriptions": {
                     "zh": "同「{U+5605-geo4}{U+7269-mat9}{U+5622-nje5}」，位于句尾，强调不管怎样，结果都不会改变；「{U+7269-mat9}」字有时弱读",
-                    "en": "Same as「{U+5605-geo4}{U+7269-mat9}{U+5622-nje5}」, located at the end of the sentence, emphasizing that no matter what, the result will not change; 「{U+7269-mat9}」sometimes weakly pronounced"
+                    "en": "Same as「{U+5605-geo4}{U+7269-mat9}{U+5622-nje5}」, located at the end of the sentence, emphasizing that no matter what, the result will not change;「{U+7269-mat9}」is sometimes unstressed"
                   },
                   "sentences": [
                     {
@@ -22066,7 +22066,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "同「好{U+60DC-slik7}」，幸好，幸亏；「{U+60DC-slik7}」字有时用小称",
-                    "en": "Same as「好{U+60DC-slik7}」; Fortunately, luckily; 「{U+60DC-slik7}」sometimes pronounced cute-tone"
+                    "en": "Same as「好{U+60DC-slik7}」; Fortunately, luckily; 「{U+60DC-slik7}」sometimes is pronounced as cute-tone"
                   },
                   "sentences": [
                     {
@@ -24820,7 +24820,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "晚上，夜晚；<1>当「夜」字念「je6」时，「{U+2D9EA-mak7}」字不念小称；<2>当「夜」字念「je3」时，「{U+2D9EA-mak7}」字念小称",
-                    "en": "Nighttime; <1> When「夜」 pronounced「je6」, the character「{U+2D9EA-mak7}」 does not be pronounced cute-tone; <2> When「夜」 pronounced「je3」, the character「{U+2D9EA-mak7}」 is pronounced cute-tone"
+                    "en": "Nighttime; <1> When「夜」 is pronounced as「je6」, the character「{U+2D9EA-mak7}」 does not be pronounced as cute-tone; <2> When「夜」is pronounced as「je3」, the character「{U+2D9EA-mak7}」is pronounced as cute-tone"
                   },
                   "sentences": [
                     {
@@ -25653,7 +25653,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "同「好{U+5F97-ddak7}」，幸好，幸亏；「{U+60DC-slik7}」字有时用小称",
-                    "en": "Same as「好{U+5F97-ddak7}」; Fortunately, luckily; 「{U+60DC-slik7}」sometimes pronounced cute-tone"
+                    "en": "Same as「好{U+5F97-ddak7}」; Fortunately, luckily; 「{U+60DC-slik7}」is sometimes pronounced as cute-tone"
                   },
                   "sentences": [
                     {
@@ -28868,7 +28868,7 @@
                   "suffix": "{A+tsu}",
                   "descriptions": {
                     "zh": "指示代词「那」，弱读",
-                    "en": "The demonstrative pronoun「那」, weakly pronounced"
+                    "en": "The demonstrative pronoun「那」, is sometimes unstressed"
                   },
                   "sentences": [
                     {
@@ -31809,7 +31809,7 @@
             {
               "descriptions": {
                 "zh": "量词，衡量轻微接触的动作；所选字仅为个人主张，本词汇或来源于壮语的「ciuq」",
-                "en": "The measure unit of slight instantaneous touches; The selected character「{U+54AE-ddiu3}」is only personal opinions, and this vocabulary may be derived from the Zhuang language's word「ciuq」"
+                "en": "The measure unit of slight instantaneous touches; The selected character「{U+54AE-ddiu3}」is only for reference, and this vocabulary may be derived from the Zhuang language's word「ciuq」"
               },
               "words": [
                 {
@@ -32725,7 +32725,7 @@
             {
               "descriptions": {
                 "zh": "指示代词「这」；弱读",
-                "en": "The demonstrative pronoun「这」(this), weakly pronounced"
+                "en": "The demonstrative pronoun「这」(this), is sometimes unstressed"
               },
               "words": [
                 {
@@ -36277,7 +36277,7 @@
             {
               "descriptions": {
                 "zh": "末端的，最后的，位置靠后的，有时用小称",
-                "en": "At the rear end; Sometimes pronounced cute-tone"
+                "en": "At the rear end; Sometimes is pronounced as cute-tone"
               },
               "words": [
                 {
@@ -36528,7 +36528,7 @@
             {
               "descriptions": {
                 "zh": "否定副词，有时弱读",
-                "en": "A negative adverb, sometimes pronounced weakly"
+                "en": "A negative adverb, is sometimes unstressed"
               },
               "words": [
                 {
@@ -36681,7 +36681,7 @@
             {
               "descriptions": {
                 "zh": "形容词，文静的，像女孩一样的，常用小称",
-                "en": "An adjective; Being quiet or acting like a girl; Commonly pronounced cute-tone"
+                "en": "An adjective; Being quiet or acting like a girl; It is commonly pronounced as cute-tone"
               },
               "words": [
                 {
@@ -41220,8 +41220,8 @@
           "meanings": [
             {
               "descriptions": {
-                "zh": "折腾，捣鼓",
-                "en": "英文释义"
+                "zh": "折腾",
+                "en": "To spend one's time doing things that are not important; To fiddle about, to fiddle around"
               },
               "words": [
                 {
@@ -41237,7 +41237,7 @@
                       "suffix": "半日",
                       "descriptions": {
                         "zh": "在火车站折腾了半天",
-                        "en": "英文释义"
+                        "en": "Waste half a day at the train station"
                       }
                     }
                   ]
@@ -42177,7 +42177,7 @@
             {
               "descriptions": {
                 "zh": "常构成「动词+{U+5F97-ddak7}+{U+4E0B-on03}」短词组，表示水平不低，还不错",
-                "en": "英文释义"
+                "en": "It often forms a short phrase「verb+{U+5F97-ddak7}+{U+4E0B-on03}」, indicating that the level is not low, the quality is not poor"
               },
               "words": [
                 {
@@ -42193,7 +42193,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "他功夫还不错",
-                        "en": "英文释义"
+                        "en": "His martial arts are pretty good"
                       }
                     }
                   ]
@@ -42712,14 +42712,14 @@
             {
               "descriptions": {
                 "zh": "壁陡直的烹具",
-                "en": "英文释义"
+                "en": "A cooking utensil with steep walls"
               },
               "words": []
             },
             {
               "descriptions": {
                 "zh": "用煲熬煮",
-                "en": "英文释义"
+                "en": "Boil in a pot"
               },
               "words": [
                 {
@@ -42735,7 +42735,7 @@
                       "suffix": "汤",
                       "descriptions": {
                         "zh": "煮汤",
-                        "en": "英文释义"
+                        "en": "Boil soup in a pot"
                       }
                     },
                     {
@@ -42743,7 +42743,7 @@
                       "suffix": "电话粥",
                       "descriptions": {
                         "zh": "长时间通话",
-                        "en": "英文释义"
+                        "en": "Phone call for a long time"
                       }
                     }
                   ]
@@ -42774,8 +42774,8 @@
                   "prefix": "{U+6B63-zing3}",
                   "suffix": "",
                   "descriptions": {
-                    "zh": "实在是，不折不扣的；（蕴含嫌憎、不满情绪）",
-                    "en": "英文释义"
+                    "zh": "实在是，不折不扣的（蕴含嫌憎、不满情绪）",
+                    "en": "It is truly, without a doubt (Contains feelings of disgust and dissatisfaction)"
                   },
                   "sentences": [
                     {
@@ -42783,7 +42783,7 @@
                       "suffix": "是{U+5EC3-bbai3}{U+4F5C-ddok8}{A+le5}",
                       "descriptions": {
                         "zh": "真是白干了",
-                        "en": "英文释义"
+                        "en": "It's really a waste of effort"
                       }
                     }
                   ]
@@ -42820,7 +42820,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "肮脏，不讲卫生",
-                    "en": "英文释义"
+                    "en": "Dirty, unhygienic"
                   },
                   "sentences": [
                     {
@@ -42828,7 +42828,7 @@
                       "suffix": "相",
                       "descriptions": {
                         "zh": "肮脏模样",
-                        "en": "英文释义"
+                        "en": "Dirty appearance"
                       }
                     }
                   ]
@@ -42846,7 +42846,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "耍赖",
-                    "en": "英文释义"
+                    "en": "Be deliberately dishonest"
                   },
                   "sentences": []
                 }
@@ -42869,7 +42869,7 @@
             {
               "descriptions": {
                 "zh": "距离远",
-                "en": "英文释义"
+                "en": "Long distance"
               },
               "words": [
                 {
@@ -42877,7 +42877,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "差距大；长时间，遥遥无期",
-                    "en": "英文释义"
+                    "en": "There is a large gap; Long term, distant and endless"
                   },
                   "sentences": [
                     {
@@ -42885,7 +42885,7 @@
                       "suffix": "回到{U+5C4B-uk7}",
                       "descriptions": {
                         "zh": "距离到家还很远",
-                        "en": "英文释义"
+                        "en": "It's still a long way from home"
                       }
                     }
                   ]
@@ -42923,7 +42923,7 @@
             {
               "descriptions": {
                 "zh": "钻入（该字暂未找到正字，所选字仅为个人主张）",
-                "en": "英文释义"
+                "en": "Burrow down, duck into (The original character has not been found yet, and the selected character is only for reference)"
               },
               "words": [
                 {
@@ -42939,7 +42939,7 @@
                       "suffix": "回被窝",
                       "descriptions": {
                         "zh": "钻进被窝",
-                        "en": "英文释义"
+                        "en": "Get into bed"
                       }
                     },
                     {
@@ -42947,7 +42947,7 @@
                       "suffix": "{U+67B1-doi4}底",
                       "descriptions": {
                         "zh": "钻桌底",
-                        "en": "英文释义"
+                        "en": "Burrow down beneath the table"
                       }
                     }
                   ]
@@ -42985,7 +42985,7 @@
             {
               "descriptions": {
                 "zh": "（用软而韧的枝状物）抽打",
-                "en": "英文释义"
+                "en": "Whip"
               },
               "words": []
             }
@@ -43006,14 +43006,14 @@
             {
               "descriptions": {
                 "zh": "象声词，挥鞭声",
-                "en": "英文释义"
+                "en": "The onomatopoeia of whipping"
               },
               "words": []
             },
             {
               "descriptions": {
                 "zh": "鞭打",
-                "en": "英文释义"
+                "en": "Whip"
               },
               "words": []
             },
@@ -43028,7 +43028,7 @@
                   "suffix": "{U+790A-fak9}",
                   "descriptions": {
                     "zh": "形容人轻浮放荡",
-                    "en": "英文释义"
+                    "en": "Describing a person as frivolous"
                   },
                   "sentences": []
                 }
@@ -43051,14 +43051,14 @@
             {
               "descriptions": {
                 "zh": "锄头",
-                "en": "英文释义"
+                "en": "Hoe"
               },
               "words": []
             },
             {
               "descriptions": {
                 "zh": "挖掘",
-                "en": "英文释义"
+                "en": "Excavate, hoe"
               },
               "words": []
             }
@@ -43120,7 +43120,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "婴儿",
-                    "en": "英文释义"
+                    "en": "Baby, infant"
                   },
                   "sentences": []
                 }
@@ -43147,7 +43147,7 @@
             {
               "descriptions": {
                 "zh": "疑问语气词",
-                "en": "英文释义"
+                "en": "An interrogative particle"
               },
               "words": []
             }
@@ -43168,7 +43168,7 @@
             {
               "descriptions": {
                 "zh": "相当于普通话的轻声助词「了」",
-                "en": "英文释义"
+                "en": "Equivalent to the unstressed auxiliary word「了」in Mandarin"
               },
               "words": []
             }
@@ -43189,7 +43189,7 @@
             {
               "descriptions": {
                 "zh": "躲藏",
-                "en": "英文释义"
+                "en": "Hide oneself"
               },
               "words": [
                 {
@@ -43205,7 +43205,7 @@
                       "suffix": "回{U+886B-som1}柜",
                       "descriptions": {
                         "zh": "躲进衣柜",
-                        "en": "英文释义"
+                        "en": "Hide in the wardrobe"
                       }
                     }
                   ]
@@ -43215,7 +43215,7 @@
                   "suffix": "{A+2-nem2}{U+9E21-gai1}",
                   "descriptions": {
                     "zh": "捉迷藏",
-                    "en": "英文释义"
+                    "en": "Hide-and-seek"
                   },
                   "sentences": []
                 }
@@ -43237,8 +43237,8 @@
           "meanings": [
             {
               "descriptions": {
-                "zh": "脏",
-                "en": "英文释义"
+                "zh": "脏, 不讲卫生",
+                "en": "Dirty, unhygienic"
               },
               "words": [
                 {
@@ -43254,7 +43254,7 @@
                       "suffix": "{A+le5}",
                       "descriptions": {
                         "zh": "衣服脏了",
-                        "en": "英文释义"
+                        "en": "The clothes are dirty"
                       }
                     }
                   ]
@@ -43264,7 +43264,7 @@
             {
               "descriptions": {
                 "zh": "令人恶心，丑陋的",
-                "en": "英文释义"
+                "en": "Disgusting, ugly"
               },
               "words": [
                 {
@@ -43280,7 +43280,7 @@
                       "suffix": "叔",
                       "descriptions": {
                         "zh": "令人恶心的人",
-                        "en": "英文释义"
+                        "en": "A disgusting person"
                       }
                     },
                     {
@@ -43288,7 +43288,7 @@
                       "suffix": "相",
                       "descriptions": {
                         "zh": "丑陋的模样",
-                        "en": "英文释义"
+                        "en": "Ugly appearance"
                       }
                     }
                   ]
@@ -43312,7 +43312,7 @@
             {
               "descriptions": {
                 "zh": "无能，差劲",
-                "en": "英文释义"
+                "en": "Impotent, incompetent, poor"
               },
               "words": [
                 {
@@ -43327,8 +43327,8 @@
                       "prefix": "成绩",
                       "suffix": "",
                       "descriptions": {
-                        "zh": "差",
-                        "en": "英文释义"
+                        "zh": "成绩差",
+                        "en": "Poor grades"
                       }
                     },
                     {
@@ -43336,7 +43336,7 @@
                       "suffix": "{U+997D-beo6}",
                       "descriptions": {
                         "zh": "无能的人",
-                        "en": "英文释义"
+                        "en": "An incompetent person"
                       }
                     }
                   ]
@@ -43368,7 +43368,7 @@
                   "suffix": "{U+46A6-ce2}",
                   "descriptions": {
                     "zh": "倾斜",
-                    "en": "英文释义"
+                    "en": "Tilted, inclined"
                   },
                   "sentences": []
                 }
@@ -43391,7 +43391,7 @@
             {
               "descriptions": {
                 "zh": "舀",
-                "en": "英文释义"
+                "en": "Ladle, scoop"
               },
               "words": [
                 {
@@ -43407,7 +43407,7 @@
                       "suffix": "半碗粥{U+5206-fan1}我",
                       "descriptions": {
                         "zh": "请给我舀半碗粥",
-                        "en": "英文释义"
+                        "en": "Please ladle me half a bowl of Congee"
                       }
                     }
                   ]
@@ -43431,7 +43431,7 @@
             {
               "descriptions": {
                 "zh": "扣上，把器物广口朝下放或用来罩东西",
-                "en": "英文释义"
+                "en": "Place objects with wide mouths facing downwards or use them to cover things"
               },
               "words": [
                 {
@@ -43447,7 +43447,7 @@
                       "suffix": "{U+5728-doi5}{U+67B1-doi4}面",
                       "descriptions": {
                         "zh": "把碗倒扣在桌面上",
-                        "en": "英文释义"
+                        "en": "Flip the bowl upside down on the table"
                       }
                     },
                     {
@@ -43455,7 +43455,7 @@
                       "suffix": "{U+4F4F-zyu6}头",
                       "descriptions": {
                         "zh": "戴头盔把头给罩住",
-                        "en": "英文释义"
+                        "en": "Wear a helmet to cover your head"
                       }
                     }
                   ]
@@ -43479,7 +43479,7 @@
             {
               "descriptions": {
                 "zh": "痕迹",
-                "en": "英文释义"
+                "en": "Trace"
               },
               "words": [
                 {
@@ -43495,7 +43495,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "扇一巴掌脸蛋，留下一个手印",
-                        "en": "英文释义"
+                        "en": "Slap one's face and leave a handprint"
                       }
                     }
                   ]
@@ -43519,7 +43519,7 @@
             {
               "descriptions": {
                 "zh": "摆弄、玩弄（物件）",
-                "en": "英文释义"
+                "en": "Play with (an object)"
               },
               "words": [
                 {
@@ -43535,7 +43535,7 @@
                       "suffix": "{U+5622-nje5}",
                       "descriptions": {
                         "zh": "玩弄物件",
-                        "en": "英文释义"
+                        "en": "Playing with objects"
                       }
                     }
                   ]
@@ -43575,7 +43575,7 @@
                       "suffix": "屁",
                       "descriptions": {
                         "zh": "放响屁",
-                        "en": "英文释义"
+                        "en": "Fart loudly"
                       }
                     },
                     {
@@ -43583,7 +43583,7 @@
                       "suffix": "牛{U+95AA-hai1}",
                       "descriptions": {
                         "zh": "吹牛",
-                        "en": "英文释义"
+                        "en": "Brag, boast"
                       }
                     }
                   ]
@@ -43607,7 +43607,7 @@
             {
               "descriptions": {
                 "zh": "摞成一栋",
-                "en": "英文释义"
+                "en": "Stack"
               },
               "words": [
                 {
@@ -43623,7 +43623,7 @@
                       "suffix": "{U+8D77-hi2}{U+5572-ni01}碗",
                       "descriptions": {
                         "zh": "把这些碗摞起来",
-                        "en": "英文释义"
+                        "en": "Stack these bowls up"
                       }
                     }
                   ]
@@ -43633,7 +43633,7 @@
             {
               "descriptions": {
                 "zh": "量词，用于码成一栋的物体",
-                "en": "英文释义"
+                "en": "A stack of"
               },
               "words": [
                 {
@@ -43649,7 +43649,7 @@
                       "suffix": "碗",
                       "descriptions": {
                         "zh": "一摞碗",
-                        "en": "英文释义"
+                        "en": "A stack of bowls"
                       }
                     }
                   ]
@@ -43673,7 +43673,7 @@
             {
               "descriptions": {
                 "zh": "外翻",
-                "en": "英文释义"
+                "en": "The act of turning inside out"
               },
               "words": [
                 {
@@ -43689,7 +43689,7 @@
                       "suffix": "猪嘴",
                       "descriptions": {
                         "zh": "（像）外翻的猪嘴",
-                        "en": "英文释义"
+                        "en": "(Like) A Pig mouth eversion"
                       }
                     }
                   ]
@@ -43713,7 +43713,7 @@
             {
               "descriptions": {
                 "zh": "给",
-                "en": "英文释义"
+                "en": "Give"
               },
               "words": []
             }
@@ -43734,7 +43734,7 @@
             {
               "descriptions": {
                 "zh": "使软、硬物相揩擦，并使软物沾上液体或糊状物、粉状物",
-                "en": "英文释义"
+                "en": "Wipe soft and hard objects together, and make the soft object contaminated with liquid, paste, or powder"
               },
               "words": [
                 {
@@ -43750,7 +43750,7 @@
                       "suffix": "{w+49-nji gwai}",
                       "descriptions": {
                         "zh": "用棉签掏耳洞",
-                        "en": "英文释义"
+                        "en": "Digging ear wax with a cotton swab"
                       }
                     },
                     {
@@ -43758,7 +43758,7 @@
                       "suffix": "净{U+4E2A-geo3}{A+tsu}{U+96BB-zik7}碗{U+5605-geo4}饭米",
                       "descriptions": {
                         "zh": "夹一点菜把碗里残剩的米饭粒擦干净",
-                        "en": "英文释义"
+                        "en": "Take some vegetables by chopsticks and wipe off the remaining rice grains in the bowl"
                       }
                     }
                   ]
@@ -43782,7 +43782,7 @@
             {
               "descriptions": {
                 "zh": "物体往低处滑动",
-                "en": "英文释义"
+                "en": "The object slides downwards"
               },
               "words": [
                 {
@@ -43798,7 +43798,7 @@
                       "suffix": "滑梯",
                       "descriptions": {
                         "zh": "滑滑梯",
-                        "en": "英文释义"
+                        "en": "Play on a slide"
                       }
                     },
                     {
@@ -43806,7 +43806,7 @@
                       "suffix": "{U+843D-lok10}",
                       "descriptions": {
                         "zh": "瓦片向下滑",
-                        "en": "英文释义"
+                        "en": "Tiles sliding downwards"
                       }
                     }
                   ]
@@ -43830,7 +43830,7 @@
             {
               "descriptions": {
                 "zh": "发痒，使发痒",
-                "en": "英文释义"
+                "en": "Itch"
               },
               "words": [
                 {
@@ -43846,7 +43846,7 @@
                       "suffix": "{A+18-len1}{U+4F62-gyu5}",
                       "descriptions": {
                         "zh": "轻掻他的皮肤使发痒",
-                        "en": "英文释义"
+                        "en": "Tickle him"
                       }
                     }
                   ]
@@ -43856,7 +43856,7 @@
             {
               "descriptions": {
                 "zh": "痒，发痒",
-                "en": "英文释义"
+                "en": "Itch"
               },
               "words": [
                 {
@@ -43872,7 +43872,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "喉咙发痒",
-                        "en": "英文释义"
+                        "en": "Have a tickle in one's throat"
                       }
                     }
                   ]
@@ -43896,7 +43896,7 @@
             {
               "descriptions": {
                 "zh": "用刀破开",
-                "en": "英文释义"
+                "en": "Break open with a knife"
               },
               "words": [
                 {
@@ -43912,7 +43912,7 @@
                       "suffix": "开鱼肚",
                       "descriptions": {
                         "zh": "用刀破开鱼肚",
-                        "en": "英文释义"
+                        "en": "Cut open the fish belly with a knife"
                       }
                     },
                     {
@@ -43920,7 +43920,7 @@
                       "suffix": "几刀再烤",
                       "descriptions": {
                         "zh": "热狗需用刀划几下再烤",
-                        "en": "英文释义"
+                        "en": "Hot dogs need to be scratched a few times with a knife before being grilled"
                       }
                     }
                   ]
@@ -43944,7 +43944,7 @@
             {
               "descriptions": {
                 "zh": "卷，卷曲，蜷缩",
-                "en": "英文释义"
+                "en": "Curl, roll"
               },
               "words": [
                 {
@@ -43960,7 +43960,7 @@
                       "suffix": "云吞皮",
                       "descriptions": {
                         "zh": "用筷子卷馄饨皮",
-                        "en": "英文释义"
+                        "en": "Roll Wonton skin with chopsticks"
                       }
                     }
                   ]
@@ -43984,7 +43984,7 @@
             {
               "descriptions": {
                 "zh": "模糊，朦胧，不清晰",
-                "en": "英文释义"
+                "en": "Blurred, hazy, unclear"
               },
               "words": [
                 {
@@ -44000,7 +44000,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "照片模糊不清",
-                        "en": "英文释义"
+                        "en": "The photo is blurry"
                       }
                     }
                   ]
@@ -44024,7 +44024,7 @@
             {
               "descriptions": {
                 "zh": "烂碎",
-                "en": "英文释义"
+                "en": "Smashed to pieces"
               },
               "words": [
                 {
@@ -44040,7 +44040,7 @@
                       "suffix": "{A+26-nan3}",
                       "descriptions": {
                         "zh": "这个核桃被你锤得稀巴烂",
-                        "en": "英文释义"
+                        "en": "This walnut has been hammered to pieces by you"
                       }
                     }
                   ]
@@ -44050,7 +44050,7 @@
             {
               "descriptions": {
                 "zh": "烂碎的东西",
-                "en": "英文释义"
+                "en": "Crushed things"
               },
               "words": [
                 {
@@ -44066,7 +44066,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "剁成肉泥",
-                        "en": "英文释义"
+                        "en": "Chop into meat paste"
                       }
                     }
                   ]
@@ -44076,7 +44076,7 @@
             {
               "descriptions": {
                 "zh": "粗口，或形容粗口很难听",
-                "en": "英文释义"
+                "en": "Using foul language or describing it as unpleasant to hear"
               },
               "words": [
                 {
@@ -44092,7 +44092,7 @@
                       "suffix": "话",
                       "descriptions": {
                         "zh": "骂脏话",
-                        "en": "英文释义"
+                        "en": "Swear, curse with foul language"
                       }
                     },
                     {
@@ -44100,7 +44100,7 @@
                       "suffix": "骂{U+51E0-gi2}{A+26-nan3}！",
                       "descriptions": {
                         "zh": "下次再让我碰到他，有多难听我就骂多难听！",
-                        "en": "英文释义"
+                        "en": "Next time I come across him, I'll curse him as hard as possible!"
                       }
                     }
                   ]
@@ -44124,7 +44124,7 @@
             {
               "descriptions": {
                 "zh": "差不多，将近",
-                "en": "英文释义"
+                "en": "Almost, nearly"
               },
               "words": [
                 {
@@ -44140,15 +44140,15 @@
                       "suffix": "十万{U+6587-man1}",
                       "descriptions": {
                         "zh": "一年工资将近十万元",
-                        "en": "英文释义"
+                        "en": "An annual salary of nearly 100 thousand yuan"
                       }
                     },
                     {
                       "prefix": "{U+4E2A-geo3}{A+tsu}{U+6A16-poe1}{U+6728-muk9}",
-                      "suffix": "有六层楼高",
+                      "suffix": "六层楼",
                       "descriptions": {
                         "zh": "这棵树差不多有六层楼高",
-                        "en": "英文释义"
+                        "en": "This tree is about six stories tall"
                       }
                     }
                   ]
@@ -44172,7 +44172,7 @@
             {
               "descriptions": {
                 "zh": "坡，小土坡",
-                "en": "英文释义"
+                "en": "Slope, small soil slope"
               },
               "words": [
                 {
@@ -44188,7 +44188,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "站在小土坡上",
-                        "en": "英文释义"
+                        "en": "Standing on a small soil slope"
                       }
                     }
                   ]
@@ -44212,7 +44212,7 @@
             {
               "descriptions": {
                 "zh": "用手掌使劲打",
-                "en": "英文释义"
+                "en": "Strike hard with the palm of one's hand"
               },
               "words": [
                 {
@@ -44228,7 +44228,7 @@
                       "suffix": "{U+5F97-ddak7}出",
                       "descriptions": {
                         "zh": "舀生米的筒形杯内底部粘附有米粒，用手掌拍打也出不来",
-                        "en": "英文释义"
+                        "en": "The bottom of the cylindrical cup for scooping raw rice is adhered with rice grains, which cannot fall off even by tapping with the palm of the hand"
                       }
                     }
                   ]
@@ -44252,7 +44252,7 @@
             {
               "descriptions": {
                 "zh": "沥下",
-                "en": "英文释义"
+                "en": "Let something wet drip"
               },
               "words": [
                 {
@@ -44268,7 +44268,7 @@
                       "suffix": "{U+587D-song3}水",
                       "descriptions": {
                         "zh": "等这件衣服慢慢把水沥干",
-                        "en": "英文释义"
+                        "en": "Wait for this garment to slowly drain the water"
                       }
                     }
                   ]
@@ -44292,7 +44292,7 @@
             {
               "descriptions": {
                 "zh": "蛰，啄",
-                "en": "英文释义"
+                "en": "Sting, peck"
               },
               "words": [
                 {
@@ -44308,7 +44308,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "被鸡啄",
-                        "en": "英文释义"
+                        "en": "Pecked by a chicken"
                       }
                     }
                   ]
@@ -44318,7 +44318,7 @@
             {
               "descriptions": {
                 "zh": "敲击（脑壳）",
-                "en": "英文释义"
+                "en": "Strike (skull)"
               },
               "words": [
                 {
@@ -44334,7 +44334,7 @@
                       "suffix": "两{U+22DD5-mau1}{U+96BB-zik7}额头",
                       "descriptions": {
                         "zh": "敲击两下额头",
-                        "en": "英文释义"
+                        "en": "Knock twice on the forehead"
                       }
                     }
                   ]
@@ -44366,7 +44366,7 @@
                   "suffix": "日",
                   "descriptions": {
                     "zh": "昨天",
-                    "en": "英文释义"
+                    "en": "Yesterday"
                   },
                   "sentences": []
                 }
@@ -44389,7 +44389,7 @@
             {
               "descriptions": {
                 "zh": "母方男性亲属，与母亲同辈而年长于母",
-                "en": "英文释义"
+                "en": "Male relatives of the mother, who are of the same generation as the mother but are older than the mother"
               },
               "words": [
                 {
@@ -44397,7 +44397,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "母之姐夫",
-                    "en": "英文释义"
+                    "en": "Mother's sister's husband"
                   },
                   "sentences": []
                 },
@@ -44406,7 +44406,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "母之兄",
-                    "en": "英文释义"
+                    "en": "Mother's elder brother"
                   },
                   "sentences": []
                 }
@@ -44429,7 +44429,7 @@
             {
               "descriptions": {
                 "zh": "量词，衡量动作的次数",
-                "en": "英文释义"
+                "en": "The measure unit of actions"
               },
               "words": [
                 {
@@ -44445,7 +44445,7 @@
                       "suffix": "北海",
                       "descriptions": {
                         "zh": "我去北海游玩过七回",
-                        "en": "英文释义"
+                        "en": "I have visited Beihai seven times"
                       }
                     }
                   ]
@@ -44469,7 +44469,7 @@
             {
               "descriptions": {
                 "zh": "每一",
-                "en": "英文释义"
+                "en": "Every, each"
               },
               "words": [
                 {
@@ -44485,7 +44485,7 @@
                       "suffix": "日",
                       "descriptions": {
                         "zh": "每天",
-                        "en": "英文释义"
+                        "en": "Everyday"
                       }
                     }
                   ]
@@ -44509,7 +44509,7 @@
             {
               "descriptions": {
                 "zh": "这样、那样",
-                "en": "英文释义"
+                "en": "This way, that way"
               },
               "words": [
                 {
@@ -44525,7 +44525,7 @@
                       "suffix": "{U+5605-geo4}写",
                       "descriptions": {
                         "zh": "像这样写",
-                        "en": "英文释义"
+                        "en": "Write like this"
                       }
                     }
                   ]
@@ -44535,7 +44535,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "怎么",
-                    "en": "英文释义"
+                    "en": "How"
                   },
                   "sentences": [
                     {
@@ -44543,7 +44543,7 @@
                       "suffix": "{U+4F5C-ddok8}",
                       "descriptions": {
                         "zh": "不懂怎么做",
-                        "en": "英文释义"
+                        "en": "Do not know how to do it"
                       }
                     }
                   ]
@@ -44553,7 +44553,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "怎样",
-                    "en": "英文释义"
+                    "en": "How"
                   },
                   "sentences": [
                     {
@@ -44561,7 +44561,7 @@
                       "suffix": "回事？",
                       "descriptions": {
                         "zh": "怎么回事？",
-                        "en": "英文释义"
+                        "en": "What's going on?"
                       }
                     }
                   ]
@@ -44571,15 +44571,15 @@
                   "suffix": "{A+er}{U+5187-mau5}{A+tsu}是",
                   "descriptions": {
                     "zh": "怪不得，活该",
-                    "en": "英文释义"
+                    "en": "No wonder"
                   },
                   "sentences": [
                     {
                       "prefix": "{U+5481-gam2}冷天穿两{U+67BC-jep10}{U+886B-som1}，",
                       "suffix": "发烧",
                       "descriptions": {
-                        "zh": "如此寒冷的天气只穿这么点儿衣物，怪不得着凉发烧",
-                        "en": "英文释义"
+                        "zh": "如此寒冷的天气只穿这么点儿单薄衣物，怪不得着凉发烧",
+                        "en": "Wearing only such thin clothes in such cold weather, no wonder you caught a cold and had a fever"
                       }
                     }
                   ]
@@ -44589,15 +44589,15 @@
                   "suffix": "{A+er}会",
                   "descriptions": {
                     "zh": "怎么会",
-                    "en": "英文释义"
+                    "en": "How could this be possible?"
                   },
                   "sentences": [
                     {
                       "prefix": "",
-                      "suffix": "{U+279A0-ngak7}你{U+5605-geo4}ne03？",
+                      "suffix": "{U+279A0-ngak7}你ne03？",
                       "descriptions": {
                         "zh": "怎么会骗你呢？",
-                        "en": "英文释义"
+                        "en": "How could I deceive you?"
                       }
                     }
                   ]
@@ -44621,7 +44621,7 @@
             {
               "descriptions": {
                 "zh": "蹲",
-                "en": "英文释义"
+                "en": "Squat, crouch"
               },
               "words": [
                 {
@@ -44637,7 +44637,7 @@
                       "suffix": "厕所",
                       "descriptions": {
                         "zh": "蹲厕所",
-                        "en": "英文释义"
+                        "en": "Squatting in the toilet to defecate"
                       }
                     },
                     {
@@ -44645,7 +44645,7 @@
                       "suffix": "麻{U+9F50-dai4}",
                       "descriptions": {
                         "zh": "蹲得腿都麻了",
-                        "en": "英文释义"
+                        "en": "Squatting so long time that my legs are numb"
                       }
                     }
                   ]
@@ -44655,7 +44655,7 @@
             {
               "descriptions": {
                 "zh": "(往往由于际遇不好而)停留某处",
-                "en": "英文释义"
+                "en": "Staying in a certain place (often due to bad luck)"
               },
               "words": [
                 {
@@ -44671,7 +44671,7 @@
                       "suffix": "{U+5C4B-uk7}己",
                       "descriptions": {
                         "zh": "没工作呆在家里",
-                        "en": "英文释义"
+                        "en": "No job, stay at home"
                       }
                     }
                   ]
@@ -44695,7 +44695,7 @@
             {
               "descriptions": {
                 "zh": "披上（衣物）",
-                "en": "英文释义"
+                "en": "To put on (clothing)"
               },
               "words": [
                 {
@@ -44711,7 +44711,7 @@
                       "suffix": "件{U+891B-lau1}",
                       "descriptions": {
                         "zh": "披一件外套",
-                        "en": "英文释义"
+                        "en": "Put on a coat"
                       }
                     }
                   ]
@@ -44735,7 +44735,7 @@
             {
               "descriptions": {
                 "zh": "更，更加",
-                "en": "英文释义"
+                "en": "Even more"
               },
               "words": [
                 {
@@ -44751,7 +44751,7 @@
                       "suffix": "{U+9459-kai1}过你",
                       "descriptions": {
                         "zh": "他比你还厉害",
-                        "en": "英文释义"
+                        "en": "He's even more powerful than you"
                       }
                     }
                   ]
@@ -44769,7 +44769,7 @@
                   "suffix": "有",
                   "descriptions": {
                     "zh": "还有",
-                    "en": "英文释义"
+                    "en": "Furthermore; In addition"
                   },
                   "sentences": []
                 }
@@ -44792,7 +44792,7 @@
             {
               "descriptions": {
                 "zh": "量词，衡量薄层",
-                "en": "英文释义"
+                "en": "The measure unit of thin layers"
               },
               "words": [
                 {
@@ -44808,7 +44808,7 @@
                       "suffix": "油",
                       "descriptions": {
                         "zh": "把油层（用勺子）拨开",
-                        "en": "英文释义"
+                        "en": "Remove the oil layer (with a spoon)"
                       }
                     }
                   ]
@@ -44832,7 +44832,7 @@
             {
               "descriptions": {
                 "zh": "盖上，罩上",
-                "en": "英文释义"
+                "en": "Cover up"
               },
               "words": [
                 {
@@ -44848,7 +44848,7 @@
                       "suffix": "好菜",
                       "descriptions": {
                         "zh": "吃完饭之后记得把剩菜罩好",
-                        "en": "英文释义"
+                        "en": "Remember to cover up the leftovers after finishing your meal"
                       }
                     }
                   ]
@@ -44872,7 +44872,7 @@
             {
               "descriptions": {
                 "zh": "靠近",
-                "en": "英文释义"
+                "en": "To come near to"
               },
               "words": [
                 {
@@ -44888,7 +44888,7 @@
                       "suffix": "近",
                       "descriptions": {
                         "zh": "凑近",
-                        "en": "英文释义"
+                        "en": "Approaching, getting close to"
                       }
                     }
                   ]
@@ -44898,7 +44898,7 @@
             {
               "descriptions": {
                 "zh": "用草药敷",
-                "en": "英文释义"
+                "en": "Apply herbal medicine on skin"
               },
               "words": []
             }
@@ -44919,7 +44919,7 @@
             {
               "descriptions": {
                 "zh": "摔倒，摔跤，跌倒",
-                "en": "英文释义"
+                "en": "Trip and fall, tumble"
               },
               "words": [
                 {
@@ -44935,7 +44935,7 @@
                       "suffix": "{U+8DCC-ddit7}",
                       "descriptions": {
                         "zh": "跌倒",
-                        "en": "英文释义"
+                        "en": "Trip and fall, tumble"
                       }
                     }
                   ]
@@ -44945,7 +44945,7 @@
             {
               "descriptions": {
                 "zh": "身体部位或物件被摔",
-                "en": "英文释义"
+                "en": "Body parts or objects falling, then are injured or damaged"
               },
               "words": [
                 {
@@ -44961,7 +44961,7 @@
                       "suffix": "{U+781E-mot8}",
                       "descriptions": {
                         "zh": "脸部被摔伤",
-                        "en": "英文释义"
+                        "en": "Face injured by falling"
                       }
                     },
                     {
@@ -44969,7 +44969,7 @@
                       "suffix": "{A+91-nai1}{U+96BB-zik7}手机",
                       "descriptions": {
                         "zh": "手机被摔坏",
-                        "en": "英文释义"
+                        "en": "Mobile phone damaged by falling"
                       }
                     }
                   ]
@@ -44993,7 +44993,7 @@
             {
               "descriptions": {
                 "zh": "蚊虫、爬虫蛰咬",
-                "en": "英文释义"
+                "en": "Stung, bitten by mosquitoes, spiders, centipedes, leeches, etc."
               },
               "words": [
                 {
@@ -45009,7 +45009,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "被蚊子叮咬",
-                        "en": "英文释义"
+                        "en": "Being bitten by mosquitoes"
                       }
                     }
                   ]
@@ -45033,7 +45033,7 @@
             {
               "descriptions": {
                 "zh": "按住",
-                "en": "英文释义"
+                "en": "Press and hold"
               },
               "words": [
                 {
@@ -45049,7 +45049,7 @@
                       "suffix": "{U+4F4F-zyu6}{U+4F62-gyu5}",
                       "descriptions": {
                         "zh": "帮我按住他",
-                        "en": "英文释义"
+                        "en": "Help me hold him down"
                       }
                     }
                   ]
@@ -45073,7 +45073,7 @@
             {
               "descriptions": {
                 "zh": "袭击",
-                "en": "英文释义"
+                "en": "Assault, make a surprise attack on"
               },
               "words": [
                 {
@@ -45089,7 +45089,7 @@
                       "suffix": "{U+96BB-zik7}",
                       "descriptions": {
                         "zh": "下雨天打功夫，出来一个消灭一个（出来一个淋湿一个）",
-                        "en": "英文释义"
+                        "en": "Practice martial arts on rainy days, eliminate enemies one by one (get wet when one comes out)"
                       }
                     }
                   ]
@@ -45113,7 +45113,7 @@
             {
               "descriptions": {
                 "zh": "突然窜出",
-                "en": "英文释义"
+                "en": "Suddenly burst out"
               },
               "words": [
                 {
@@ -45129,7 +45129,7 @@
                       "suffix": "{U+7740-zaa6}两发jaa3",
                       "descriptions": {
                         "zh": "这筒烟花射了两发而已",
-                        "en": "英文释义"
+                        "en": "This firework only fired two shots"
                       }
                     },
                     {
@@ -45137,7 +45137,7 @@
                       "suffix": "气",
                       "descriptions": {
                         "zh": "高压锅喷气",
-                        "en": "英文释义"
+                        "en": "Pressure cooker jetting"
                       }
                     }
                   ]
@@ -45161,7 +45161,7 @@
             {
               "descriptions": {
                 "zh": "（忽然）站起",
-                "en": "英文释义"
+                "en": "(Suddenly) Stand up"
               },
               "words": [
                 {
@@ -45177,7 +45177,7 @@
                       "suffix": "{U+8D77-hi2}身{U+5C59-eo1}尿",
                       "descriptions": {
                         "zh": "正睡着觉突然起身去厕所撒尿",
-                        "en": "英文释义"
+                        "en": "Suddenly getting up while sleeping and going to the bathroom to pee"
                       }
                     },
                     {
@@ -45185,7 +45185,7 @@
                       "suffix": "{U+5F97-ddak7}{U+8D77-hi2}",
                       "descriptions": {
                         "zh": "站不起来",
-                        "en": "英文释义"
+                        "en": "Can't stand up"
                       }
                     }
                   ]
@@ -45217,7 +45217,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "骂",
-                    "en": "英文释义"
+                    "en": "Scold, curse"
                   },
                   "sentences": [
                     {
@@ -45225,7 +45225,7 @@
                       "suffix": "{A+37-kat7}又{U+5F97-ddak7}一日",
                       "descriptions": {
                         "zh": "简简单单又得一餐，骂骂咧咧又过一天",
-                        "en": "英文释义"
+                        "en": "Simply finish another meal, curse and spend another day"
                       }
                     }
                   ]
@@ -45249,7 +45249,7 @@
             {
               "descriptions": {
                 "zh": "油烟味",
-                "en": "英文释义"
+                "en": "Oil smoke smell"
               },
               "words": [
                 {
@@ -45265,7 +45265,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "臭油烟味道",
-                        "en": "英文释义"
+                        "en": "Stinky oil smoke smell"
                       }
                     }
                   ]
@@ -45289,7 +45289,7 @@
             {
               "descriptions": {
                 "zh": "指当天的早上或晚上",
-                "en": "英文释义"
+                "en": "Refers to the morning or evening of the same day"
               },
               "words": [
                 {
@@ -45297,7 +45297,7 @@
                   "suffix": "{U+671D-ziu1}",
                   "descriptions": {
                     "zh": "今早",
-                    "en": "英文释义"
+                    "en": "Today's morning"
                   },
                   "sentences": []
                 },
@@ -45306,7 +45306,7 @@
                   "suffix": "夜",
                   "descriptions": {
                     "zh": "今晚",
-                    "en": "英文释义"
+                    "en": "Today's evening"
                   },
                   "sentences": []
                 }
@@ -45329,7 +45329,7 @@
             {
               "descriptions": {
                 "zh": "液体满溢貌",
-                "en": "英文释义"
+                "en": "The liquid is about to overflow"
               },
               "words": [
                 {
@@ -45345,7 +45345,7 @@
                       "suffix": "出{A+le5}",
                       "descriptions": {
                         "zh": "这桶水溢出来了",
-                        "en": "英文释义"
+                        "en": "This bucket of water is overflowing"
                       }
                     },
                     {
@@ -45353,7 +45353,7 @@
                       "suffix": "上到江{U+5EC9-lem4}{U+6B62-zi2}",
                       "descriptions": {
                         "zh": "江水水位上涨，淹没岸边",
-                        "en": "英文释义"
+                        "en": "The rising water level of the river submerged the shore"
                       }
                     }
                   ]
@@ -45385,7 +45385,7 @@
                   "suffix": "婊{A+er}",
                   "descriptions": {
                     "zh": "原意为嫖娼",
-                    "en": "英文释义"
+                    "en": "The original meaning was to visit prostitutes"
                   },
                   "sentences": []
                 }
@@ -45422,7 +45422,7 @@
             {
               "descriptions": {
                 "zh": "踢",
-                "en": "英文释义"
+                "en": "Kick"
               },
               "words": [
                 {
@@ -45438,7 +45438,7 @@
                       "suffix": "脚{U+6A16-poe1}{U+6728-muk9}",
                       "descriptions": {
                         "zh": "踢了这棵树一脚",
-                        "en": "英文释义"
+                        "en": "Kick this tree once"
                       }
                     }
                   ]
@@ -45462,7 +45462,7 @@
             {
               "descriptions": {
                 "zh": "甩，甩动，抡，摆动",
-                "en": "英文释义"
+                "en": "Flick, shake"
               },
               "words": [
                 {
@@ -45478,7 +45478,7 @@
                       "suffix": "{A+56-fik7}{U+652F-zi1}笔",
                       "descriptions": {
                         "zh": "把笔甩一甩",
-                        "en": "英文释义"
+                        "en": "Give the pen a flick"
                       }
                     }
                   ]
@@ -45502,7 +45502,7 @@
             {
               "descriptions": {
                 "zh": "重物压住轻飘之物",
-                "en": "英文释义"
+                "en": "Heavy objects press light objects"
               },
               "words": [
                 {
@@ -45518,7 +45518,7 @@
                       "suffix": "{U+4F4F-zyu6}沓纸{U+5187-mau5}{U+7540-bbi2}风吹飞",
                       "descriptions": {
                         "zh": "拿一块石头把这沓纸压住，以免被风吹走",
-                        "en": "英文释义"
+                        "en": "Hold down this stack of paper with a stone to prevent it from being blown away by the wind"
                       }
                     }
                   ]
@@ -45541,8 +45541,8 @@
           "meanings": [
             {
               "descriptions": {
-                "zh": "语意不详，可能是「抖动」的意思",
-                "en": "英文释义"
+                "zh": "语意不详，可能是「抖动」、「摆动」的意思",
+                "en": "The meaning is unclear, it may mean「shaking」、「swing」"
               },
               "words": [
                 {
@@ -45558,7 +45558,7 @@
                       "suffix": "{U+2CF82-lang3}{U+94F6-ngan4}{U+7EB8-zi2}",
                       "descriptions": {
                         "zh": "老是丢失钱",
-                        "en": "英文释义"
+                        "en": "Always leaving money behind"
                       }
                     }
                   ]
@@ -45576,7 +45576,7 @@
                   "suffix": "{A+59-jak9}",
                   "descriptions": {
                     "zh": "油污，油滑",
-                    "en": "英文释义"
+                    "en": "Greasy, oil slickness"
                   },
                   "sentences": []
                 }
@@ -45599,7 +45599,7 @@
             {
               "descriptions": {
                 "zh": "表示地点、处所",
-                "en": "英文释义"
+                "en": "Indicating locations"
               },
               "words": [
                 {
@@ -45615,7 +45615,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "到处",
-                        "en": "英文释义"
+                        "en": "Everywhere"
                       }
                     },
                     {
@@ -45623,7 +45623,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "哪里",
-                        "en": "英文释义"
+                        "en": "Where"
                       }
                     }
                   ]
@@ -45669,7 +45669,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "手肘",
-                    "en": "英文释义"
+                    "en": "The elbow"
                   },
                   "sentences": []
                 },
@@ -45678,7 +45678,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "膝关节；此处的「膝」念「slot8」",
-                    "en": "英文释义"
+                    "en": "Knee joint; The「膝」 here is pronounced as「slot8」"
                   },
                   "sentences": []
                 }
@@ -45701,7 +45701,7 @@
             {
               "descriptions": {
                 "zh": "（说假话来）捉弄人，戏弄",
-                "en": "英文释义"
+                "en": "To tell lies and play tricks on people"
               },
               "words": [
                 {
@@ -45741,7 +45741,7 @@
             {
               "descriptions": {
                 "zh": "挥，摆，晃动",
-                "en": "英文释义"
+                "en": "Swing, wave"
               },
               "words": [
                 {
@@ -45757,7 +45757,7 @@
                       "suffix": "{A+63-wak9}手",
                       "descriptions": {
                         "zh": "挥挥手",
-                        "en": "英文释义"
+                        "en": "Wave the hand"
                       }
                     },
                     {
@@ -45765,7 +45765,7 @@
                       "suffix": "停{U+67B6-go3}班车",
                       "descriptions": {
                         "zh": "（在路边）挥手示意让班车停下",
-                        "en": "英文释义"
+                        "en": "Wave to stop the shuttle bus (on the roadside)"
                       }
                     }
                   ]
@@ -45789,7 +45789,7 @@
             {
               "descriptions": {
                 "zh": "拔",
-                "en": "英文释义"
+                "en": "Pull out, pull off"
               },
               "words": []
             },
@@ -45804,7 +45804,7 @@
                   "suffix": "风",
                   "descriptions": {
                     "zh": "打开窗使空气流通以除闷热",
-                    "en": "英文释义"
+                    "en": "Open the window to allow air circulation to eliminate stuffiness and heat"
                   },
                   "sentences": []
                 }
@@ -45827,7 +45827,7 @@
             {
               "descriptions": {
                 "zh": "形容词后缀",
-                "en": "英文释义"
+                "en": "Adjective suffix"
               },
               "words": [
                 {
@@ -45835,7 +45835,7 @@
                   "suffix": "{A+65-baa4}",
                   "descriptions": {
                     "zh": "形容词后缀，常含贬义",
-                    "en": "英文释义"
+                    "en": "Adjective suffix, often containing negative connotations"
                   },
                   "sentences": [
                     {
@@ -45843,7 +45843,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "烟尘滚滚",
-                        "en": "英文释义"
+                        "en": "Smoke and dust billowing"
                       }
                     },
                     {
@@ -45851,7 +45851,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "臭烘烘",
-                        "en": "英文释义"
+                        "en": "Stinking"
                       }
                     },
                     {
@@ -45859,7 +45859,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "脏乱不堪",
-                        "en": "英文释义"
+                        "en": "Dirty and untidy"
                       }
                     }
                   ]
@@ -45883,7 +45883,7 @@
             {
               "descriptions": {
                 "zh": "副词，「那样」合音",
-                "en": "英文释义"
+                "en": "Adverb, the combination of「那样」"
               },
               "words": [
                 {
@@ -45899,7 +45899,7 @@
                       "suffix": "你{U+5187-mau5}快{U+5572-ni01}出发？",
                       "descriptions": {
                         "zh": "那样的话，为什么你不快点出发？",
-                        "en": "英文释义"
+                        "en": "In that case, why don't you leave immediately?"
                       }
                     }
                   ]
@@ -45931,7 +45931,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "贬义词的省略形式，同「{U+4E2A-geo3}{A+tsu}{U+4E2A-geo3}」",
-                    "en": "英文释义"
+                    "en": "The omitted form of derogatory words, same as「{U+4E2A-geo3}{A+tsu}{U+4E2A-geo3}」"
                   },
                   "sentences": [
                     {
@@ -45939,7 +45939,7 @@
                       "suffix": "{U+5605-geo4}",
                       "descriptions": {
                         "zh": "他很那样（贬义）的",
-                        "en": "英文释义"
+                        "en": "He is very (derogatory) like that"
                       }
                     }
                   ]
@@ -45971,7 +45971,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "固执己见，不听劝告",
-                    "en": "英文释义"
+                    "en": "Stubborn in one's own opinions and not listening to advice"
                   },
                   "sentences": [
                     {
@@ -45979,7 +45979,7 @@
                       "suffix": "！",
                       "descriptions": {
                         "zh": "劝又劝不动，非常倔！",
-                        "en": "英文释义"
+                        "en": "Persuade but not change, very stubborn!"
                       }
                     }
                   ]
@@ -46003,7 +46003,7 @@
             {
               "descriptions": {
                 "zh": "揍",
-                "en": "英文释义"
+                "en": "Hit, beat"
               },
               "words": [
                 {
@@ -46034,7 +46034,7 @@
             {
               "descriptions": {
                 "zh": "摆",
-                "en": "英文释义"
+                "en": "Turn, wave"
               },
               "words": [
                 {
@@ -46050,7 +46050,7 @@
                       "suffix": "回头",
                       "descriptions": {
                         "zh": "回过头",
-                        "en": "英文释义"
+                        "en": "Turning Back"
                       }
                     }
                   ]
@@ -46074,7 +46074,7 @@
             {
               "descriptions": {
                 "zh": "（饭）稀黏",
-                "en": "英文释义"
+                "en": "(Cooked rice) Watery and sticky"
               },
               "words": [
                 {
@@ -46091,7 +46091,7 @@
             {
               "descriptions": {
                 "zh": "(毛发)打结黏连",
-                "en": "英文释义"
+                "en": "(Hair) Knots and adhesions"
               },
               "words": [
                 {
@@ -46107,7 +46107,7 @@
                       "suffix": "成一{U+6A38-buk9}{U+6A38-buk9}",
                       "descriptions": {
                         "zh": "几天不洗头，导致头发打结成一坨坨",
-                        "en": "英文释义"
+                        "en": "Not washing hair for a few days resulted in hair getting tangled and clumped up"
                       }
                     }
                   ]
@@ -46117,7 +46117,7 @@
             {
               "descriptions": {
                 "zh": "沾染上（脏污）",
-                "en": "英文释义"
+                "en": "Stained (dirty)"
               },
               "words": [
                 {
@@ -46133,7 +46133,7 @@
                       "suffix": "{A+3-nam1}件{U+886B-som1}",
                       "descriptions": {
                         "zh": "衣服沾了脏东西",
-                        "en": "英文释义"
+                        "en": "Clothes stained with dirt"
                       }
                     }
                   ]
@@ -46157,7 +46157,7 @@
             {
               "descriptions": {
                 "zh": "搅拌混合",
-                "en": "英文释义"
+                "en": "Mixing"
               },
               "words": [
                 {
@@ -46173,7 +46173,7 @@
                       "suffix": "饭{U+5403-hik7}",
                       "descriptions": {
                         "zh": "菜汁拌饭食用",
-                        "en": "英文释义"
+                        "en": "Vegetable juice mixed with rice for consumption"
                       }
                     }
                   ]
@@ -46211,7 +46211,7 @@
             {
               "descriptions": {
                 "zh": "量词，衡量布状的水帘",
-                "en": "英文释义"
+                "en": "The measure unit of a cloth shaped water curtain"
               },
               "words": [
                 {
@@ -46227,7 +46227,7 @@
                       "suffix": "尿",
                       "descriptions": {
                         "zh": "每一片地的青菜需要泼洒十次尿液",
-                        "en": "英文释义"
+                        "en": "Each patch of vegetable field needs to be sprinkled with urine ten times"
                       }
                     }
                   ]
@@ -46251,7 +46251,7 @@
             {
               "descriptions": {
                 "zh": "用指头按压，挤",
-                "en": "英文释义"
+                "en": "Press, squeeze with one's fingers"
               },
               "words": [
                 {
@@ -46267,7 +46267,7 @@
                       "suffix": "手机",
                       "descriptions": {
                         "zh": "摁手机",
-                        "en": "英文释义"
+                        "en": "Press the mobile phone screen with fingers"
                       }
                     },
                     {
@@ -46275,7 +46275,7 @@
                       "suffix": "洗洁精",
                       "descriptions": {
                         "zh": "用指头把洗洁精按出来",
-                        "en": "英文释义"
+                        "en": "Press out the detergent with fingers"
                       }
                     },
                     {
@@ -46283,7 +46283,7 @@
                       "suffix": "{w+89-mai slui cong}",
                       "descriptions": {
                         "zh": "挤痘痘",
-                        "en": "英文释义"
+                        "en": "Pop pimples"
                       }
                     }
                   ]
@@ -46307,7 +46307,7 @@
             {
               "descriptions": {
                 "zh": "指代地点，处所",
-                "en": "英文释义"
+                "en": "Refers to a place"
               },
               "words": [
                 {
@@ -46322,8 +46322,8 @@
                       "prefix": "拉我回{U+96BB-zik7}群",
                       "suffix": "",
                       "descriptions": {
-                        "zh": "我把拉进群里",
-                        "en": "英文释义"
+                        "zh": "把我拉进群里",
+                        "en": "Please add me to the group"
                       }
                     }
                   ]
@@ -46346,8 +46346,8 @@
           "meanings": [
             {
               "descriptions": {
-                "zh": "破烂不堪，年久失修；（「旧」？，可是声调念阳上）",
-                "en": "英文释义"
+                "zh": "破烂不堪，年久失修（「旧」？可是声调念阳上）",
+                "en": "Worn down and in disrepair (「旧」? But the tone is「阳上」)"
               },
               "words": [
                 {
@@ -46363,7 +46363,7 @@
                       "suffix": "{A+le5}，充{U+7053-lan5}电{U+4E4D-co02}{U+4F7F-sai2}{U+5F97-ddak7}十分钟",
                       "descriptions": {
                         "zh": "电池折旧了，充满电只能用十分钟",
-                        "en": "英文释义"
+                        "en": "The battery is worn. After being fully charged, it can only be discharged for ten minutes"
                       }
                     }
                   ]
@@ -46387,7 +46387,7 @@
             {
               "descriptions": {
                 "zh": "划（斜线）",
-                "en": "英文释义"
+                "en": "Draw (diagonal line)"
               },
               "words": [
                 {
@@ -46403,7 +46403,7 @@
                       "suffix": "开{A+le5}",
                       "descriptions": {
                         "zh": "你这道题目写错了，已经被老师划了斜线",
-                        "en": "英文释义"
+                        "en": "You made a mistake in answering this question, and it has already been crossed by the teacher"
                       }
                     }
                   ]
@@ -46413,7 +46413,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "交叉",
-                    "en": "英文释义"
+                    "en": "A cross"
                   },
                   "sentences": []
                 }
@@ -46435,8 +46435,8 @@
           "meanings": [
             {
               "descriptions": {
-                "zh": "摁，按压",
-                "en": "英文释义"
+                "zh": "摁，按压 (用指头、杆状物体)",
+                "en": "Press with a rod like object"
               },
               "words": [
                 {
@@ -46452,7 +46452,7 @@
                       "suffix": "按键",
                       "descriptions": {
                         "zh": "摁下按键",
-                        "en": "英文释义"
+                        "en": "Press the button with fingertips"
                       }
                     },
                     {
@@ -46460,7 +46460,7 @@
                       "suffix": "融蛋黄",
                       "descriptions": {
                         "zh": "用勺子把熟蛋黄压成粉末",
-                        "en": "英文释义"
+                        "en": "Press cooked egg yolks into powder with a spoon"
                       }
                     }
                   ]
@@ -46484,7 +46484,7 @@
             {
               "descriptions": {
                 "zh": "一种用来收拢谷物的农具",
-                "en": "英文释义"
+                "en": "A farming tool used to gather grains"
               },
               "words": [
                 {
@@ -46492,7 +46492,7 @@
                   "suffix": "{U+22CC0-mo1}",
                   "descriptions": {
                     "zh": "一种用来收拢谷物的农具",
-                    "en": "英文释义"
+                    "en": "A farming tool used to gather grains"
                   },
                   "sentences": []
                 }
@@ -46501,7 +46501,7 @@
             {
               "descriptions": {
                 "zh": "用工具收拢",
-                "en": "英文释义"
+                "en": "Use a farming tool to gather grains"
               },
               "words": [
                 {
@@ -46517,7 +46517,7 @@
                       "suffix": "成一{U+58A9-ddyng1}",
                       "descriptions": {
                         "zh": "收拢成一堆",
-                        "en": "英文释义"
+                        "en": "Gather and pile up a pile of grains with a farming tool"
                       }
                     }
                   ]
@@ -46541,7 +46541,7 @@
             {
               "descriptions": {
                 "zh": "朝着，瞄准，靶向",
-                "en": "英文释义"
+                "en": "Aim at, target"
               },
               "words": [
                 {
@@ -46557,7 +46557,7 @@
                       "suffix": "人打",
                       "descriptions": {
                         "zh": "枪口不许对准人打",
-                        "en": "英文释义"
+                        "en": "Do not aim the gun at anyone"
                       }
                     },
                     {
@@ -46565,7 +46565,7 @@
                       "suffix": "准垃圾桶再{U+31363-kwaa3}",
                       "descriptions": {
                         "zh": "瞄准垃圾桶再扔",
-                        "en": "英文释义"
+                        "en": "Aim at the trash can and then throw it in"
                       }
                     }
                   ]
@@ -46578,7 +46578,12 @@
           "id": "A+81-koe1",
           "unicode": "",
           "character": "koe1",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "颗",
+              "bian_hao": "U+9897"
+            }
+          ],
           "pinyin": "",
           "jyut++": "koe1",
           "IPA": "",
@@ -46589,7 +46594,7 @@
             {
               "descriptions": {
                 "zh": "量词，衡量成颗成块的物体（泛粤典好像用「颗」）",
-                "en": "英文释义"
+                "en": "The measure unit of pieces or blocks of objects"
               },
               "words": [
                 {
@@ -46605,7 +46610,7 @@
                       "suffix": "猪肉",
                       "descriptions": {
                         "zh": "一块猪肉",
-                        "en": "英文释义"
+                        "en": "A piece of pork"
                       }
                     }
                   ]
@@ -46629,7 +46634,7 @@
             {
               "descriptions": {
                 "zh": "翻弄，乱翻",
-                "en": "英文释义"
+                "en": "Rummage, scrabble"
               },
               "words": [
                 {
@@ -46645,7 +46650,7 @@
                       "suffix": "饭菜",
                       "descriptions": {
                         "zh": "筷子乱翻菜",
-                        "en": "英文释义"
+                        "en": "Chopsticks flipping the dish haphazardly"
                       }
                     }
                   ]
@@ -46669,7 +46674,7 @@
             {
               "descriptions": {
                 "zh": "倒掉",
-                "en": "英文释义"
+                "en": "Dump, pour out"
               },
               "words": [
                 {
@@ -46685,7 +46690,7 @@
                       "suffix": "隔夜菜",
                       "descriptions": {
                         "zh": "把隔夜菜倒掉",
-                        "en": "英文释义"
+                        "en": "Pour out the overnight foods"
                       }
                     }
                   ]
@@ -46709,7 +46714,7 @@
             {
               "descriptions": {
                 "zh": "搅拌",
-                "en": "英文释义"
+                "en": "Stir, mix"
               },
               "words": [
                 {
@@ -46725,7 +46730,7 @@
                       "suffix": "水泥",
                       "descriptions": {
                         "zh": "搅拌水泥",
-                        "en": "英文释义"
+                        "en": "Mix cement"
                       }
                     }
                   ]
@@ -46763,7 +46768,7 @@
             {
               "descriptions": {
                 "zh": "身子酸胀不舒服，往往因为劳累",
-                "en": "英文释义"
+                "en": "The body is sore and uncomfortable, often due to fatigue"
               },
               "words": [
                 {
@@ -46779,7 +46784,7 @@
                       "suffix": "{U+9F50-dai4}",
                       "descriptions": {
                         "zh": "腰部酸胀",
-                        "en": "英文释义"
+                        "en": "Lumbar soreness and bloating"
                       }
                     }
                   ]
@@ -46803,7 +46808,7 @@
             {
               "descriptions": {
                 "zh": "搅拌固体或液体使之分布均匀",
-                "en": "英文释义"
+                "en": "Stir solid or liquid to distribute evenly"
               },
               "words": [
                 {
@@ -46819,7 +46824,7 @@
                       "suffix": "匀",
                       "descriptions": {
                         "zh": "一边冲奶粉，一边搅拌均匀",
-                        "en": "英文释义"
+                        "en": "Mix the milk powder evenly while brewing"
                       }
                     }
                   ]
@@ -46843,7 +46848,7 @@
             {
               "descriptions": {
                 "zh": "含糊不清的话语随便应付",
-                "en": "英文释义"
+                "en": "Dealing with vague words casually"
               },
               "words": []
             }
@@ -46864,7 +46869,7 @@
             {
               "descriptions": {
                 "zh": "（用袋子）装、兜起来",
-                "en": "英文释义"
+                "en": "Pack (in a bag or sack)"
               },
               "words": [
                 {
@@ -46880,7 +46885,7 @@
                       "suffix": "{U+4F4F-zyu6}{U+4E2A-geo3}{A+tsu}三{U+6A16-poe1}青菜",
                       "descriptions": {
                         "zh": "用蛇皮袋把这三株青菜装起来",
-                        "en": "英文释义"
+                        "en": "Pack these three vegetables in a plastic woven sack"
                       }
                     }
                   ]
@@ -46904,7 +46909,7 @@
             {
               "descriptions": {
                 "zh": "（插入棒状物回旋着）搅拌",
-                "en": "英文释义"
+                "en": "Stir by inserting rod like objects and swirling)"
               },
               "words": [
                 {
@@ -46920,7 +46925,7 @@
                       "suffix": "奶粉",
                       "descriptions": {
                         "zh": "回旋搅拌奶粉",
-                        "en": "英文释义"
+                        "en": "Whirl stir milk powder"
                       }
                     }
                   ]
@@ -46929,8 +46934,8 @@
             },
             {
               "descriptions": {
-                "zh": "摇动摇柄",
-                "en": "英文释义"
+                "zh": "转动摇柄",
+                "en": "Rotate the crank"
               },
               "words": [
                 {
@@ -46945,8 +46950,8 @@
                       "prefix": "",
                       "suffix": "吹谷机",
                       "descriptions": {
-                        "zh": "摇动吹谷机的摇柄",
-                        "en": "英文释义"
+                        "zh": "转动吹谷机的摇柄",
+                        "en": "Rotate the crank of the grain blower"
                       }
                     }
                   ]
@@ -46956,7 +46961,7 @@
             {
               "descriptions": {
                 "zh": "骑（自行车）",
-                "en": "英文释义"
+                "en": "Ride (manpower vehicle)"
               },
               "words": [
                 {
@@ -46972,7 +46977,7 @@
                       "suffix": "单车",
                       "descriptions": {
                         "zh": "骑自行车",
-                        "en": "英文释义"
+                        "en": "Ride a bicycle"
                       }
                     }
                   ]
@@ -46996,7 +47001,7 @@
             {
               "descriptions": {
                 "zh": "食物干瘪",
-                "en": "英文释义"
+                "en": "The food has shrunk"
               },
               "words": [
                 {
@@ -47012,7 +47017,7 @@
                       "suffix": "番薯",
                       "descriptions": {
                         "zh": "干瘪的红薯",
-                        "en": "英文释义"
+                        "en": "The sweet potatoes have shrunk"
                       }
                     }
                   ]
@@ -47036,7 +47041,7 @@
             {
               "descriptions": {
                 "zh": "坏，出故障",
-                "en": "英文释义"
+                "en": "Breaking down, malfunctioning"
               },
               "words": [
                 {
@@ -47052,7 +47057,7 @@
                       "suffix": "{A+le5}",
                       "descriptions": {
                         "zh": "冰箱出故障了",
-                        "en": "英文释义"
+                        "en": "The refrigerator is malfunctioning"
                       }
                     }
                   ]
@@ -47062,7 +47067,7 @@
             {
               "descriptions": {
                 "zh": "损害，破坏",
-                "en": "英文释义"
+                "en": "Damage"
               },
               "words": [
                 {
@@ -47078,7 +47083,7 @@
                       "suffix": "双眼",
                       "descriptions": {
                         "zh": "手机看久了会损害视力",
-                        "en": "英文释义"
+                        "en": "Long term use of mobile phones can damage vision"
                       }
                     }
                   ]
@@ -47102,7 +47107,7 @@
             {
               "descriptions": {
                 "zh": "慢吞吞，拖拉",
-                "en": "英文释义"
+                "en": "Slow down, procrastinate"
               },
               "words": [
                 {
@@ -47118,7 +47123,7 @@
                       "suffix": "！{U+4F5C-ddok8}一{U+96BB-zik7}钟作业{U+4EF2-zung6}{U+5187-mau5}{U+4F5C-ddok8}{U+9F50-dai4}",
                       "descriptions": {
                         "zh": "你太拖拉了吧！做了一个小时的作业还没完成",
-                        "en": "英文释义"
+                        "en": "How procrastinating you are! You have been doing homework for an hour but haven't finished it yet"
                       }
                     }
                   ]
@@ -47142,7 +47147,7 @@
             {
               "descriptions": {
                 "zh": "（幅度较大的）侧踢",
-                "en": "英文释义"
+                "en": "(Large amplitude) Side kick"
               },
               "words": [
                 {
@@ -47157,8 +47162,8 @@
                       "prefix": "",
                       "suffix": "脚电线杆",
                       "descriptions": {
-                        "zh": "横踢电线杆",
-                        "en": "英文释义"
+                        "zh": "侧踢电线杆",
+                        "en": "Side kick the electric pole"
                       }
                     }
                   ]
@@ -47182,7 +47187,7 @@
             {
               "descriptions": {
                 "zh": "质地松散，口感松软",
-                "en": "英文释义"
+                "en": "Loose texture, soft taste"
               },
               "words": [
                 {
@@ -47198,7 +47203,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "质地松散的砖头",
-                        "en": "英文释义"
+                        "en": "Loose textured bricks"
                       }
                     },
                     {
@@ -47206,7 +47211,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "红薯的口感很松软",
-                        "en": "英文释义"
+                        "en": "These sweet potatoes have a very soft taste"
                       }
                     }
                   ]
@@ -47230,7 +47235,7 @@
             {
               "descriptions": {
                 "zh": "推，挤",
-                "en": "英文释义"
+                "en": "Push"
               },
               "words": [
                 {
@@ -47246,7 +47251,7 @@
                       "suffix": "出边",
                       "descriptions": {
                         "zh": "把这盘菜推到一边",
-                        "en": "英文释义"
+                        "en": "Push this dish aside"
                       }
                     },
                     {
@@ -47254,7 +47259,7 @@
                       "suffix": "{U+7540-bbi2}我",
                       "descriptions": {
                         "zh": "硬生生推给我",
-                        "en": "英文释义"
+                        "en": "Forcefully push it to me"
                       }
                     }
                   ]
@@ -47278,7 +47283,7 @@
             {
               "descriptions": {
                 "zh": "「我{U+5C4B-uk7}」合音，意为「我家（的）」",
-                "en": "英文释义"
+                "en": "The combination of「我{U+5C4B-uk7}」, the meaning is「my home」"
               },
               "words": [
                 {
@@ -47294,7 +47299,7 @@
                       "suffix": "{A+74-gai2}",
                       "descriptions": {
                         "zh": "他留宿在我家里",
-                        "en": "英文释义"
+                        "en": "He stayed overnight at my house"
                       }
                     }
                   ]
@@ -47318,7 +47323,7 @@
             {
               "descriptions": {
                 "zh": "「你{U+5C4B-uk7}」合音，意为「你家（的）」",
-                "en": "英文释义"
+                "en": "The combination of「你{U+5C4B-uk7}」, the meaning is「your home」"
               },
               "words": [
                 {
@@ -47334,7 +47339,7 @@
                       "suffix": "{U+5FBC-geu2}",
                       "descriptions": {
                         "zh": "去你家玩",
-                        "en": "英文释义"
+                        "en": "Go play at your house"
                       }
                     }
                   ]
@@ -47358,7 +47363,7 @@
             {
               "descriptions": {
                 "zh": "「{U+4F62-gyu5}{U+5C4B-uk7}」合音，意为「他家（的）」、「她家（的）」",
-                "en": "英文释义"
+                "en": "The combination of「{U+4F62-gyu5}{U+5C4B-uk7}」, the meaning is「his home」、「her home」"
               },
               "words": [
                 {
@@ -47374,7 +47379,7 @@
                       "suffix": "人送{U+5605-geo4}",
                       "descriptions": {
                         "zh": "他家人送的",
-                        "en": "英文释义"
+                        "en": "It was sent by his family"
                       }
                     }
                   ]
@@ -47398,7 +47403,7 @@
             {
               "descriptions": {
                 "zh": "「{U+4EBA-njan4}{U+5C4B-uk7}」合音，意为「人家（的）」，有时弱读",
-                "en": "英文释义"
+                "en": "The combination of「{U+4EBA-njan4}{U+5C4B-uk7}」, the meaning is「others」; It is sometimes unstressed"
               },
               "words": [
                 {
@@ -47414,7 +47419,7 @@
                       "suffix": "{A+tsu}{U+5187-mau5}来{A+le5}",
                       "descriptions": {
                         "zh": "人家不来了",
-                        "en": "英文释义"
+                        "en": "He's not coming anymore"
                       }
                     }
                   ]
@@ -47438,7 +47443,7 @@
             {
               "descriptions": {
                 "zh": "摊贩",
-                "en": "英文释义"
+                "en": "Vendor"
               },
               "words": [
                 {
@@ -47454,7 +47459,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "菜贩子",
-                        "en": "英文释义"
+                        "en": "Vegetable vendors"
                       }
                     },
                     {
@@ -47462,7 +47467,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "水果摊贩",
-                        "en": "英文释义"
+                        "en": "Fruit vendors"
                       }
                     }
                   ]
@@ -47486,7 +47491,7 @@
             {
               "descriptions": {
                 "zh": "长物的一小段",
-                "en": "英文释义"
+                "en": "A small segment of a long object"
               },
               "words": [
                 {
@@ -47502,7 +47507,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "把（两广地区的长）粽子折断成两小段",
-                        "en": "英文释义"
+                        "en": "Bend and break Zongzi (a long rice dumpling in Guangdong and Guangxi) into two pieces"
                       }
                     }
                   ]
@@ -47526,7 +47531,7 @@
             {
               "descriptions": {
                 "zh": "用手轻轻洒水",
-                "en": "英文释义"
+                "en": "Gently sprinkle water with one's hand"
               },
               "words": [
                 {
@@ -47542,7 +47547,7 @@
                       "suffix": "湿{w+45-di ddai}",
                       "descriptions": {
                         "zh": "接一盆水洒水",
-                        "en": "英文释义"
+                        "en": "Take a basin of water and sprinkle it on the ground"
                       }
                     }
                   ]
@@ -47566,7 +47571,7 @@
             {
               "descriptions": {
                 "zh": "液体四溅",
-                "en": "英文释义"
+                "en": "Liquid splattering"
               },
               "words": [
                 {
@@ -47583,7 +47588,7 @@
             {
               "descriptions": {
                 "zh": "擤",
-                "en": "英文释义"
+                "en": "Blow one's nose"
               },
               "words": [
                 {
@@ -47599,7 +47604,7 @@
                       "suffix": "{U+6DBF-dduk7}鼻涕",
                       "descriptions": {
                         "zh": "擤鼻涕",
-                        "en": "英文释义"
+                        "en": "Blow one's nose to repel the nasal mucus"
                       }
                     }
                   ]
@@ -47623,7 +47628,7 @@
             {
               "descriptions": {
                 "zh": "踮高脚",
-                "en": "英文释义"
+                "en": "On tiptoe"
               },
               "words": [
                 {
@@ -47668,7 +47673,7 @@
             {
               "descriptions": {
                 "zh": "小称符号，表示前字念小称音",
-                "en": "英文释义"
+                "en": "Cute-tone symbol, indicating the preceding character being pronounced as cute-tone"
               },
               "words": [
                 {
@@ -47684,7 +47689,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "这条路好窄",
-                        "en": "英文释义"
+                        "en": "This road is so narrow"
                       }
                     }
                   ]
@@ -47708,7 +47713,7 @@
             {
               "descriptions": {
                 "zh": "弱读符号，表示前字弱读",
-                "en": "英文释义"
+                "en": "Unstressed symbol, indicating the preceding character being pronounced weakly, unstressed"
               },
               "words": [
                 {
@@ -47724,7 +47729,7 @@
                       "suffix": "是{U+6837-jaa6}{U+5605-geo4}",
                       "descriptions": {
                         "zh": "他就是这样的一个人",
-                        "en": "英文释义"
+                        "en": "He is such a person"
                       }
                     }
                   ]
@@ -47748,7 +47753,7 @@
             {
               "descriptions": {
                 "zh": "完成体标记，前字声调有变化",
-                "en": "英文释义"
+                "en": "Perfect tense symbol, there is a change at the tone of preceding character"
               },
               "words": [
                 {
@@ -47764,7 +47769,7 @@
                       "suffix": "{A+le5}",
                       "descriptions": {
                         "zh": "已经死了",
-                        "en": "英文释义"
+                        "en": "It's already dead"
                       }
                     }
                   ]
@@ -47782,7 +47787,7 @@
                   "suffix": "",
                   "descriptions": {
                     "zh": "更加，此处的「更」字声调有变化",
-                    "en": "英文释义"
+                    "en": "Even more. There is a change at the tone of「更」"
                   },
                   "sentences": [
                     {
@@ -47790,7 +47795,7 @@
                       "suffix": "{U+5A01-wai1}",
                       "descriptions": {
                         "zh": "变得更美",
-                        "en": "英文释义"
+                        "en": "Becoming more beautiful"
                       }
                     }
                   ]
@@ -47818,7 +47823,7 @@
             {
               "descriptions": {
                 "zh": "哭泣",
-                "en": "英文释义"
+                "en": "Cry into tears"
               },
               "words": []
             }
@@ -47839,7 +47844,7 @@
             {
               "descriptions": {
                 "zh": "新房入住",
-                "en": "英文释义"
+                "en": "New house check-in"
               },
               "words": []
             }
@@ -47860,7 +47865,7 @@
             {
               "descriptions": {
                 "zh": "形容人爱多管闲事",
-                "en": "英文释义"
+                "en": "Describing people as meddlesome"
               },
               "words": []
             }
@@ -47881,7 +47886,7 @@
             {
               "descriptions": {
                 "zh": "扫墓",
-                "en": "英文释义"
+                "en": "Sweep a grave"
               },
               "words": []
             }
@@ -47902,7 +47907,7 @@
             {
               "descriptions": {
                 "zh": "形容人运气好",
-                "en": "英文释义"
+                "en": "Describing a person as having good luck"
               },
               "words": [
                 {
@@ -47918,7 +47923,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "太幸运了吧！",
-                        "en": "英文释义"
+                        "en": "How lucky it is!"
                       }
                     }
                   ]
@@ -47942,7 +47947,7 @@
             {
               "descriptions": {
                 "zh": "差不多",
-                "en": "英文释义"
+                "en": "Almost, nearly"
               },
               "words": [
                 {
@@ -47958,7 +47963,7 @@
                       "suffix": "{A+er}就{U+8D77-hi2}{U+7761-soi6}{A+le5}",
                       "descriptions": {
                         "zh": "差不多就该起床了",
-                        "en": "英文释义"
+                        "en": "When it's almost time, it should be time to get up"
                       }
                     }
                   ]
@@ -47982,7 +47987,7 @@
             {
               "descriptions": {
                 "zh": "抽筋",
-                "en": "英文释义"
+                "en": "Cramp"
               },
               "words": []
             }
@@ -48003,7 +48008,7 @@
             {
               "descriptions": {
                 "zh": "油光发亮",
-                "en": "英文释义"
+                "en": "Oil Shining"
               },
               "words": []
             }
@@ -48024,7 +48029,7 @@
             {
               "descriptions": {
                 "zh": "脏乱",
-                "en": "英文释义"
+                "en": "Dirty and messy"
               },
               "words": [
                 {
@@ -48040,7 +48045,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "这个房间脏乱不堪",
-                        "en": "英文释义"
+                        "en": "This room is very dirty and messy"
                       }
                     }
                   ]
@@ -48064,7 +48069,7 @@
             {
               "descriptions": {
                 "zh": "械斗",
-                "en": "英文释义"
+                "en": "Fight with cold weapon"
               },
               "words": []
             }
@@ -48085,7 +48090,7 @@
             {
               "descriptions": {
                 "zh": "害羞",
-                "en": "英文释义"
+                "en": "Shy"
               },
               "words": []
             }
@@ -48106,7 +48111,7 @@
             {
               "descriptions": {
                 "zh": "拼命",
-                "en": "英文释义"
+                "en": "Desperately"
               },
               "words": [
                 {
@@ -48122,7 +48127,7 @@
                       "suffix": "{U+5406-eu1}{U+5481-gam2}大声",
                       "descriptions": {
                         "zh": "拼命大声喊",
-                        "en": "英文释义"
+                        "en": "Desperately shouting loudly"
                       }
                     }
                   ]
@@ -48146,7 +48151,7 @@
             {
               "descriptions": {
                 "zh": "惨",
-                "en": "英文释义"
+                "en": "Miserably; Tragically"
               },
               "words": []
             }
@@ -48167,7 +48172,7 @@
             {
               "descriptions": {
                 "zh": "迷路，迷失，失踪",
-                "en": "英文释义"
+                "en": "Lost, missing"
               },
               "words": [
                 {
@@ -48183,7 +48188,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "登山途中迷路了",
-                        "en": "英文释义"
+                        "en": "Get lost on the way up the mountain"
                       }
                     },
                     {
@@ -48191,7 +48196,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "去警察局汇报失踪",
-                        "en": "英文释义"
+                        "en": "Report missing persons to the police station"
                       }
                     }
                   ]
@@ -48215,7 +48220,7 @@
             {
               "descriptions": {
                 "zh": "花样繁多",
-                "en": "英文释义"
+                "en": "A lot of variety"
               },
               "words": []
             }
@@ -48236,7 +48241,7 @@
             {
               "descriptions": {
                 "zh": "形容人品行恶劣，卑鄙",
-                "en": "英文释义"
+                "en": "Describing a person's bad behavior and despicability"
               },
               "words": [
                 {
@@ -48252,7 +48257,7 @@
                       "suffix": "{U+5605-geo4}",
                       "descriptions": {
                         "zh": "他净干坏事",
-                        "en": "英文释义"
+                        "en": "He is always doing bad things"
                       }
                     }
                   ]
@@ -48276,7 +48281,7 @@
             {
               "descriptions": {
                 "zh": "干净，整洁",
-                "en": "英文释义"
+                "en": "Clean and tidy, neat"
               },
               "words": [
                 {
@@ -48316,7 +48321,7 @@
             {
               "descriptions": {
                 "zh": "认真，态度诚恳",
-                "en": "英文释义"
+                "en": "Serious and sincere attitude"
               },
               "words": [
                 {
@@ -48332,7 +48337,7 @@
                       "suffix": "写{U+9F50-dai4}作业",
                       "descriptions": {
                         "zh": "认真写完作业",
-                        "en": "英文释义"
+                        "en": "Seriously completing homework"
                       }
                     },
                     {
@@ -48340,7 +48345,7 @@
                       "suffix": "诚",
                       "descriptions": {
                         "zh": "认认真真",
-                        "en": "英文释义"
+                        "en": "Take it seriously"
                       }
                     }
                   ]
@@ -48364,7 +48369,7 @@
             {
               "descriptions": {
                 "zh": "嫖娼",
-                "en": "英文释义"
+                "en": "Visit prostitutes"
               },
               "words": []
             }
@@ -48385,7 +48390,7 @@
             {
               "descriptions": {
                 "zh": "正当...时候（后接要被阻止的坏行为）",
-                "en": "英文释义"
+                "en": "When (followed by bad behavior that needs to be stopped)"
               },
               "words": [
                 {
@@ -48401,7 +48406,7 @@
                       "suffix": "，{U+5187-mau5}{U+5F97-ddak7}讲{U+4E2A-geo3}{A+tsu}种话！",
                       "descriptions": {
                         "zh": "正值一年开始的喜庆时刻，不许说这种不吉利的话！",
-                        "en": "英文释义"
+                        "en": "It's a festive moment at the beginning of the new year, no such unlucky words are allowed!"
                       }
                     }
                   ]
@@ -48425,7 +48430,7 @@
             {
               "descriptions": {
                 "zh": "避讳语",
-                "en": "英文释义"
+                "en": "Taboo"
               },
               "words": []
             }
@@ -48446,7 +48451,7 @@
             {
               "descriptions": {
                 "zh": "背部",
-                "en": "英文释义"
+                "en": "The back of the body"
               },
               "words": []
             }
@@ -48467,7 +48472,7 @@
             {
               "descriptions": {
                 "zh": "发卡",
-                "en": "英文释义"
+                "en": "Hairpin"
               },
               "words": []
             }
@@ -48488,7 +48493,7 @@
             {
               "descriptions": {
                 "zh": "风筝",
-                "en": "英文释义"
+                "en": "Kites"
               },
               "words": []
             }
@@ -48509,7 +48514,7 @@
             {
               "descriptions": {
                 "zh": "眼屎",
-                "en": "英文释义"
+                "en": "The gum in the eyes"
               },
               "words": []
             }
@@ -48530,7 +48535,7 @@
             {
               "descriptions": {
                 "zh": "水田和水渠的连接口，用于控制进水和排水",
-                "en": "英文释义"
+                "en": "The connection between paddy fields and water channels, used to control water intake and drainage"
               },
               "words": []
             }
@@ -48551,7 +48556,7 @@
             {
               "descriptions": {
                 "zh": "灯管",
-                "en": "英文释义"
+                "en": "Electric lamp tube"
               },
               "words": []
             }
@@ -48572,7 +48577,7 @@
             {
               "descriptions": {
                 "zh": "自己",
-                "en": "英文释义"
+                "en": "Own, oneself"
               },
               "words": []
             }
@@ -48593,7 +48598,7 @@
             {
               "descriptions": {
                 "zh": "肚腩，腹部（第二字「臚」念「loe4」）",
-                "en": "英文释义"
+                "en": "Belly, abdomen (The second character「臚」is pronounced as「loe4」)"
               },
               "words": []
             }
@@ -48614,7 +48619,7 @@
             {
               "descriptions": {
                 "zh": "（脏话）",
-                "en": "英文释义"
+                "en": "(Swearing, cursing)"
               },
               "words": []
             }
@@ -48635,7 +48640,7 @@
             {
               "descriptions": {
                 "zh": "体表的污垢",
-                "en": "英文释义"
+                "en": "Dirt on the surface of the body"
               },
               "words": [
                 {
@@ -48651,7 +48656,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "洗澡时候搓身子，结果搓出许多污垢",
-                        "en": "英文释义"
+                        "en": "Rubbing off a lot of dirt on the body skin while taking a shower"
                       }
                     }
                   ]
@@ -48675,7 +48680,7 @@
             {
               "descriptions": {
                 "zh": "父亲的背称",
-                "en": "英文释义"
+                "en": "Father's narrative name"
               },
               "words": []
             }
@@ -48696,7 +48701,7 @@
             {
               "descriptions": {
                 "zh": "除夕",
-                "en": "英文释义"
+                "en": "The Spring Festival's Eve"
               },
               "words": []
             }
@@ -48717,7 +48722,7 @@
             {
               "descriptions": {
                 "zh": "建筑物周围的空旷平地",
-                "en": "英文释义"
+                "en": "The open and flat land around the building"
               },
               "words": [
                 {
@@ -48733,7 +48738,7 @@
                       "suffix": "放烟火",
                       "descriptions": {
                         "zh": "从屋子里走出到空旷地方放烟花",
-                        "en": "英文释义"
+                        "en": "Stepping out of the room and setting off fireworks in an open area"
                       }
                     }
                   ]
@@ -48756,8 +48761,8 @@
           "meanings": [
             {
               "descriptions": {
-                "zh": "中堂，旧式宅院供奉祖先和会客的地方，与今天「客厅」的作用类似。因为宗族祖先的「厅邸」常被后人立祠祭祀，因此「老厅邸」也常用于代指宗祠",
-                "en": "英文释义"
+                "zh": "中堂，旧式宅院供奉祖先和会客的地方，与今天「客厅」的作用类似。因为宗族祖先的「{w+44-ting ddai}」常被后人立祠祭祀，因此「老{w+44-ting ddai}」也常用于代指宗祠",
+                "en": "The place where worshipping ancestors or receiving guests in old style houses, its function is similar to today's 「living room」.「老{w+44-ting ddai}」also commonly used to refer to ancestral temples, because the ancestral「{w+44-ting ddai}」of the clan are often worshipped by later generations"
               },
               "words": []
             }
@@ -48778,7 +48783,7 @@
             {
               "descriptions": {
                 "zh": "地面，地上",
-                "en": "英文释义"
+                "en": "On the ground, floor"
               },
               "words": []
             }
@@ -48799,7 +48804,7 @@
             {
               "descriptions": {
                 "zh": "子母扣",
-                "en": "英文释义"
+                "en": "Snap fasteners"
               },
               "words": []
             }
@@ -48834,7 +48839,7 @@
             {
               "descriptions": {
                 "zh": "花招",
-                "en": "英文释义"
+                "en": "Tricks"
               },
               "words": []
             }
@@ -48855,7 +48860,7 @@
             {
               "descriptions": {
                 "zh": "耳朵",
-                "en": "英文释义"
+                "en": "Ears"
               },
               "words": []
             }
@@ -48876,7 +48881,7 @@
             {
               "descriptions": {
                 "zh": "刷牙杯，或形如刷牙杯的饮水杯",
-                "en": "英文释义"
+                "en": "A toothbrush cup, or a drinking cup shaped like it"
               },
               "words": []
             }
@@ -48897,7 +48902,7 @@
             {
               "descriptions": {
                 "zh": "双轮车，自行车",
-                "en": "英文释义"
+                "en": "Bicycle"
               },
               "words": []
             }
@@ -48918,7 +48923,7 @@
             {
               "descriptions": {
                 "zh": "生气",
-                "en": "英文释义"
+                "en": "Get angry"
               },
               "words": []
             }
@@ -48939,7 +48944,7 @@
             {
               "descriptions": {
                 "zh": "生气",
-                "en": "英文释义"
+                "en": "Get angry"
               },
               "words": []
             }
@@ -48960,7 +48965,7 @@
             {
               "descriptions": {
                 "zh": "连同...一起",
-                "en": "英文释义"
+                "en": "Along with together"
               },
               "words": [
                 {
@@ -48976,7 +48981,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "帮我买一杯奶茶，还有一瓶农药",
-                        "en": "英文释义"
+                        "en": "Help me buy a cup of milk tea and a bottle of pesticide"
                       }
                     }
                   ]
@@ -49000,7 +49005,7 @@
             {
               "descriptions": {
                 "zh": "连同...一起",
-                "en": "英文释义"
+                "en": "Along with together"
               },
               "words": [
                 {
@@ -49016,7 +49021,7 @@
                       "suffix": "上次，总共来{U+7740-zaa6}两{U+56E9-wan4}",
                       "descriptions": {
                         "zh": "这次连同上次，总共来过两回",
-                        "en": "英文释义"
+                        "en": "This time, along with the last time, I have come twice in total"
                       }
                     }
                   ]
@@ -49040,7 +49045,7 @@
             {
               "descriptions": {
                 "zh": "故意，刻意（第一字念「ging3」或「zing3」，第二字念「nang1」或「ddang1」且常常读小称声调「nang01」或「ddang01」）",
-                "en": "英文释义"
+                "en": "Intentionally, deliberately (The first character is pronounced as「ging3」or「zing3」.And the second character is pronounced as「nang01」or「ddang01」commonly)"
               },
               "words": [
                 {
@@ -49056,7 +49061,7 @@
                       "suffix": "{U+279A0-ngak7}你{U+5605-geo4}",
                       "descriptions": {
                         "zh": "他故意骗你的",
-                        "en": "英文释义"
+                        "en": "He deliberately deceived you"
                       }
                     }
                   ]
@@ -49122,7 +49127,7 @@
             {
               "descriptions": {
                 "zh": "故意，刻意(第二字念「nang1」或「ddang1」且常常读小称声调「nang01」或「ddang01」)",
-                "en": "英文释义"
+                "en": "Intentionally, deliberately (The second character is pronounced as「nang01」or「ddang01」commonly)"
               },
               "words": []
             }
@@ -49157,7 +49162,7 @@
             {
               "descriptions": {
                 "zh": "刚刚，刚才（第二字常念小称音「ji02」）",
-                "en": "英文释义"
+                "en": "A moment ago; A short while ago (The second character is pronounced as cute-tone「ji02」commonly)"
               },
               "words": [
                 {
@@ -49173,7 +49178,7 @@
                       "suffix": "{A+er}讲过{A+le5}",
                       "descriptions": {
                         "zh": "刚才说过了",
-                        "en": "英文释义"
+                        "en": "Have mentioned it a moment ago"
                       }
                     }
                   ]
@@ -49197,7 +49202,7 @@
             {
               "descriptions": {
                 "zh": "刚刚，刚才（第二字常念小称音「ji02」）",
-                "en": "英文释义"
+                "en": "A moment ago; A short while ago (The second character is pronounced as cute-tone「ji02」commonly)"
               },
               "words": []
             }
@@ -49218,7 +49223,7 @@
             {
               "descriptions": {
                 "zh": "时间段里的一点，时候（第二字念「ging3」）",
-                "en": "英文释义"
+                "en": "At a certain point in the time period (The second character is pronounced as「ging3」)"
               },
               "words": [
                 {
@@ -49234,7 +49239,7 @@
                       "suffix": "{U+5187-mau5}{U+5F97-ddak7}{U+5F04-lung6}手机",
                       "descriptions": {
                         "zh": "上课时候不许玩手机",
-                        "en": "英文释义"
+                        "en": "Do not play with mobile phones during class"
                       }
                     }
                   ]
@@ -49258,7 +49263,7 @@
             {
               "descriptions": {
                 "zh": "悄悄地,同「{w+62-tau jam}」（第二字常念小称音「jam01」）",
-                "en": "英文释义"
+                "en": "Quietly, secretly, same as「{w+62-tau jam}」(The second character is pronounced as cute-tone「jam01」)"
               },
               "words": [
                 {
@@ -49274,7 +49279,7 @@
                       "suffix": "{A+er}{U+884C-aa4}回教室",
                       "descriptions": {
                         "zh": "班主任悄悄走进教室",
-                        "en": "英文释义"
+                        "en": "The teacher in charge of the class quietly walked into the classroom"
                       }
                     }
                   ]
@@ -49312,7 +49317,7 @@
             {
               "descriptions": {
                 "zh": "千万",
-                "en": "英文释义"
+                "en": "Must"
               },
               "words": [
                 {
@@ -49328,7 +49333,7 @@
                       "suffix": "要记{U+7D27-gan2}密码",
                       "descriptions": {
                         "zh": "千万要把密码记牢固",
-                        "en": "英文释义"
+                        "en": "Be sure to remember the password firmly"
                       }
                     }
                   ]
@@ -49352,7 +49357,7 @@
             {
               "descriptions": {
                 "zh": "千万",
-                "en": "英文释义"
+                "en": "Must"
               },
               "words": [
                 {
@@ -49368,7 +49373,7 @@
                       "suffix": "{U+5452-maa5}{A+er}吸毒",
                       "descriptions": {
                         "zh": "千万别吸毒",
-                        "en": "英文释义"
+                        "en": "Drugs taking forbidden"
                       }
                     }
                   ]
@@ -49392,7 +49397,7 @@
             {
               "descriptions": {
                 "zh": "来回走动，绕圈",
-                "en": "英文释义"
+                "en": "Walk back and forth, in circles"
               },
               "words": []
             }
@@ -49413,7 +49418,7 @@
             {
               "descriptions": {
                 "zh": "团团转",
-                "en": "英文释义"
+                "en": "Round and round"
               },
               "words": []
             }
@@ -49448,7 +49453,7 @@
             {
               "descriptions": {
                 "zh": "团团转",
-                "en": "英文释义"
+                "en": "Round and round"
               },
               "words": []
             }
@@ -49469,7 +49474,7 @@
             {
               "descriptions": {
                 "zh": "头晕目眩",
-                "en": "英文释义"
+                "en": "Be dizzy"
               },
               "words": [
                 {
@@ -49485,7 +49490,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "眩晕",
-                        "en": "英文释义"
+                        "en": "Be dizzy"
                       }
                     }
                   ]
@@ -49509,7 +49514,7 @@
             {
               "descriptions": {
                 "zh": "乞丐",
-                "en": "英文释义"
+                "en": "Beggars"
               },
               "words": []
             }
@@ -49530,7 +49535,7 @@
             {
               "descriptions": {
                 "zh": "乞丐",
-                "en": "英文释义"
+                "en": "Beggars"
               },
               "words": []
             }
@@ -49551,7 +49556,7 @@
             {
               "descriptions": {
                 "zh": "橡胶圈",
-                "en": "英文释义"
+                "en": "Rubber rings"
               },
               "words": []
             }
@@ -49572,7 +49577,7 @@
             {
               "descriptions": {
                 "zh": "橡胶圈",
-                "en": "英文释义"
+                "en": "Rubber rings"
               },
               "words": []
             }
@@ -49593,7 +49598,7 @@
             {
               "descriptions": {
                 "zh": "男性生殖器的俗称",
-                "en": "英文释义"
+                "en": "Common term for male reproductive organs"
               },
               "words": []
             }
@@ -49614,7 +49619,7 @@
             {
               "descriptions": {
                 "zh": "男性生殖器的俗称，尤指小男孩的",
-                "en": "英文释义"
+                "en": "Common term for male reproductive organs, especially of boys"
               },
               "words": []
             }
@@ -49649,7 +49654,7 @@
             {
               "descriptions": {
                 "zh": "厨房",
-                "en": "英文释义"
+                "en": "The kitchen"
               },
               "words": []
             }
@@ -49670,7 +49675,7 @@
             {
               "descriptions": {
                 "zh": "灶神",
-                "en": "英文释义"
+                "en": "The kitchen god"
               },
               "words": []
             }
@@ -49691,7 +49696,7 @@
             {
               "descriptions": {
                 "zh": "家伙，含贬义",
-                "en": "英文释义"
+                "en": "Guy, with a derogatory connotation"
               },
               "words": []
             }
@@ -49712,7 +49717,7 @@
             {
               "descriptions": {
                 "zh": "家伙，含贬义",
-                "en": "英文释义"
+                "en": "Guy, with a derogatory connotation"
               },
               "words": []
             }
@@ -49733,7 +49738,7 @@
             {
               "descriptions": {
                 "zh": "彩虹",
-                "en": "英文释义"
+                "en": "Rainbow"
               },
               "words": []
             }
@@ -49754,7 +49759,7 @@
             {
               "descriptions": {
                 "zh": "彩虹",
-                "en": "英文释义"
+                "en": "Rainbow"
               },
               "words": []
             }
@@ -49775,7 +49780,7 @@
             {
               "descriptions": {
                 "zh": "小便（第二字常念小称音）",
-                "en": "英文释义"
+                "en": "Urinate, pee (The second character is pronounced as cute-tone commonly)"
               },
               "words": []
             }
@@ -49796,7 +49801,7 @@
             {
               "descriptions": {
                 "zh": "大便（第二字常念小称音）",
-                "en": "英文释义"
+                "en": "Defecate (The second character is pronounced as cute-tone commonly)"
               },
               "words": []
             }
@@ -49817,7 +49822,7 @@
             {
               "descriptions": {
                 "zh": "抽屉",
-                "en": "英文释义"
+                "en": "Drawers"
               },
               "words": []
             }
@@ -49838,7 +49843,7 @@
             {
               "descriptions": {
                 "zh": "抽屉",
-                "en": "英文释义"
+                "en": "Drawers"
               },
               "words": []
             }
@@ -49859,7 +49864,7 @@
             {
               "descriptions": {
                 "zh": "像米粒一样的痘痘",
-                "en": "英文释义"
+                "en": "Pimples like grains of rice"
               },
               "words": []
             }
@@ -49880,7 +49885,7 @@
             {
               "descriptions": {
                 "zh": "很大的痤疮",
-                "en": "英文释义"
+                "en": "Very large acne"
               },
               "words": []
             }
@@ -49901,7 +49906,7 @@
             {
               "descriptions": {
                 "zh": "一种皮肤病",
-                "en": "英文释义"
+                "en": "A skin disease"
               },
               "words": []
             }
@@ -49922,7 +49927,7 @@
             {
               "descriptions": {
                 "zh": "伤口愈合后留下的疤痕",
-                "en": "英文释义"
+                "en": "Scars left after wound healing"
               },
               "words": []
             }
@@ -49943,7 +49948,7 @@
             {
               "descriptions": {
                 "zh": "疤痕",
-                "en": "英文释义"
+                "en": "Scar"
               },
               "words": []
             }
@@ -49964,7 +49969,7 @@
             {
               "descriptions": {
                 "zh": "扑克牌里的方块；菱形",
-                "en": "英文释义"
+                "en": "Diamond in playing cards; Diamond"
               },
               "words": []
             }
@@ -49985,7 +49990,7 @@
             {
               "descriptions": {
                 "zh": "一种油炸小吃",
-                "en": "英文释义"
+                "en": "A type of fried snack"
               },
               "words": []
             }
@@ -50006,7 +50011,7 @@
             {
               "descriptions": {
                 "zh": "一种油炸米花大饼，玉林地区特色小吃",
-                "en": "英文释义"
+                "en": "A type of fried rice cake, a specialty snack in Yulin region"
               },
               "words": []
             }
@@ -50027,7 +50032,7 @@
             {
               "descriptions": {
                 "zh": "同「{U+9397-caa1}耳{U+5265-muk7}」，一种油炸小吃，有点像升级版的「莫比乌斯环」，又有点像丰田车标",
-                "en": "英文释义"
+                "en": "Same as「{U+9397-caa1}耳{U+5265-muk7}」; A fried snack that resembles an upgraded version of the Mobius Ring and also resembles the Toyota logo"
               },
               "words": []
             }
@@ -50048,7 +50053,7 @@
             {
               "descriptions": {
                 "zh": "一种油炸小吃",
-                "en": "英文释义"
+                "en": "A type of fried snack"
               },
               "words": []
             }
@@ -50069,7 +50074,7 @@
             {
               "descriptions": {
                 "zh": "一种糯米年糕，同「{w+101-doi lung di}」",
-                "en": "英文释义"
+                "en": "A type of glutinous rice cake, same as「{w+101-doi lung di}」"
               },
               "words": []
             }
@@ -50090,7 +50095,7 @@
             {
               "descriptions": {
                 "zh": "一种糯米年糕，同「{w+100-bbok caa beo}」",
-                "en": "英文释义"
+                "en": "A type of glutinous rice cake, same as「{w+100-bbok caa beo}」"
               },
               "words": []
             }
@@ -50111,7 +50116,7 @@
             {
               "descriptions": {
                 "zh": "用木薯淀粉制成的糕点",
-                "en": "英文释义"
+                "en": "Pastry made from cassava starch"
               },
               "words": []
             }
@@ -50132,7 +50137,7 @@
             {
               "descriptions": {
                 "zh": "汤圆",
-                "en": "英文释义"
+                "en": "Glutinous rice balls"
               },
               "words": []
             }
@@ -50153,7 +50158,7 @@
             {
               "descriptions": {
                 "zh": "一种用糯米粉制成的糕点",
-                "en": "英文释义"
+                "en": "A kind of cake made of glutinous rice flour"
               },
               "words": []
             }
@@ -50188,7 +50193,7 @@
             {
               "descriptions": {
                 "zh": "拉丁学名「Phrynium capitatum」，两广地区包粽子常用的叶子",
-                "en": "英文释义"
+                "en": "Latin scientific name「Phrynium capitatum」; Leaves commonly used for making Zongzi in Guangdong and Guangxi"
               },
               "words": []
             }
@@ -50209,7 +50214,7 @@
             {
               "descriptions": {
                 "zh": "柚子",
-                "en": "英文释义"
+                "en": "Pomelo"
               },
               "words": []
             }
@@ -50244,7 +50249,7 @@
             {
               "descriptions": {
                 "zh": "胡桃科黄杞属（拉丁学名「Juglandaceae Engelhardtia」）的某些植物的叶子，一种在玉林地区很常见的树叶茶，物美价廉，茶水甘甜可口",
-                "en": "英文释义"
+                "en": "The leaves of certain plants in「Juglandaceae Engelhardtia」, a common leaf tea in the Yulin region, are of good quality and affordable price, and the tea is sweet and delicious"
               },
               "words": []
             }
@@ -50265,7 +50270,7 @@
             {
               "descriptions": {
                 "zh": "旧式保温壶",
-                "en": "英文释义"
+                "en": "Old style insulated kettle"
               },
               "words": []
             }
@@ -50286,7 +50291,7 @@
             {
               "descriptions": {
                 "zh": "碗柜",
-                "en": "英文释义"
+                "en": "Bowl cabinet"
               },
               "words": []
             }
@@ -50307,7 +50312,7 @@
             {
               "descriptions": {
                 "zh": "米饭锅巴",
-                "en": "英文释义"
+                "en": "Rice crust"
               },
               "words": []
             }
@@ -50328,7 +50333,7 @@
             {
               "descriptions": {
                 "zh": "白豇豆",
-                "en": "英文释义"
+                "en": "White cowpea"
               },
               "words": []
             }
@@ -50349,7 +50354,7 @@
             {
               "descriptions": {
                 "zh": "胡椒",
-                "en": "英文释义"
+                "en": "Pepper"
               },
               "words": []
             }
@@ -50370,7 +50375,7 @@
             {
               "descriptions": {
                 "zh": "大蒜，亦可以写作「骨蒜」",
-                "en": "英文释义"
+                "en": "Garlic, can also be written as「骨蒜」"
               },
               "words": []
             }
@@ -50391,7 +50396,7 @@
             {
               "descriptions": {
                 "zh": "土豆",
-                "en": "英文释义"
+                "en": "Potato"
               },
               "words": []
             }
@@ -50412,7 +50417,7 @@
             {
               "descriptions": {
                 "zh": "土豆",
-                "en": "英文释义"
+                "en": "Potato"
               },
               "words": []
             }
@@ -50433,7 +50438,7 @@
             {
               "descriptions": {
                 "zh": "香菜",
-                "en": "英文释义"
+                "en": "Coriander"
               },
               "words": []
             }
@@ -50454,7 +50459,7 @@
             {
               "descriptions": {
                 "zh": "香菜",
-                "en": "英文释义"
+                "en": "Coriander"
               },
               "words": []
             }
@@ -50475,7 +50480,7 @@
             {
               "descriptions": {
                 "zh": "一种小吃，由芋头的叶柄腌制而成",
-                "en": "英文释义"
+                "en": "A snack made by marinating the petioles of taro"
               },
               "words": []
             }
@@ -50496,7 +50501,7 @@
             {
               "descriptions": {
                 "zh": "一种小吃，由芋头的叶柄腌制而成",
-                "en": "英文释义"
+                "en": "A snack made by marinating the petioles of taro"
               },
               "words": []
             }
@@ -50517,7 +50522,7 @@
             {
               "descriptions": {
                 "zh": "玉米",
-                "en": "英文释义"
+                "en": "Maize, corn"
               },
               "words": []
             }
@@ -50538,7 +50543,7 @@
             {
               "descriptions": {
                 "zh": "猪肺",
-                "en": "英文释义"
+                "en": "Pork lungs"
               },
               "words": []
             }
@@ -50559,7 +50564,7 @@
             {
               "descriptions": {
                 "zh": "食物变质发臭",
-                "en": "英文释义"
+                "en": "Food spoils and smells"
               },
               "words": [
                 {
@@ -50575,7 +50580,7 @@
                       "suffix": "{A+le5}",
                       "descriptions": {
                         "zh": "这盘菜变质发臭了",
-                        "en": "英文释义"
+                        "en": "This dish has gone bad and smells bad"
                       }
                     }
                   ]
@@ -50599,7 +50604,7 @@
             {
               "descriptions": {
                 "zh": "腐乳",
-                "en": "英文释义"
+                "en": "Fermented bean curd"
               },
               "words": []
             }
@@ -50634,7 +50639,7 @@
             {
               "descriptions": {
                 "zh": "酱油",
-                "en": "英文释义"
+                "en": "Soya sauce"
               },
               "words": []
             }
@@ -50655,7 +50660,7 @@
             {
               "descriptions": {
                 "zh": "黄豆酱",
-                "en": "英文释义"
+                "en": "Soybean paste"
               },
               "words": []
             }
@@ -50676,7 +50681,7 @@
             {
               "descriptions": {
                 "zh": "黑豆豉",
-                "en": "英文释义"
+                "en": "Black fermented soybeans"
               },
               "words": []
             }
@@ -50697,7 +50702,7 @@
             {
               "descriptions": {
                 "zh": "一种用黑橄榄腌制而成的咸菜",
-                "en": "英文释义"
+                "en": "A pickled vegetable made by marinating black olives"
               },
               "words": []
             }
@@ -50718,7 +50723,7 @@
             {
               "descriptions": {
                 "zh": "蜘蛛",
-                "en": "英文释义"
+                "en": "Spider"
               },
               "words": []
             }
@@ -50739,7 +50744,7 @@
             {
               "descriptions": {
                 "zh": "螳螂",
-                "en": "英文释义"
+                "en": "Mantis"
               },
               "words": []
             }
@@ -50774,7 +50779,7 @@
             {
               "descriptions": {
                 "zh": "蜥蜴",
-                "en": "英文释义"
+                "en": "Lizard"
               },
               "words": []
             }
@@ -50795,7 +50800,7 @@
             {
               "descriptions": {
                 "zh": "蜈蚣",
-                "en": "英文释义"
+                "en": "Centipede"
               },
               "words": []
             }
@@ -50816,7 +50821,7 @@
             {
               "descriptions": {
                 "zh": "苍蝇",
-                "en": "英文释义"
+                "en": "Housefly"
               },
               "words": []
             }
@@ -50865,7 +50870,7 @@
             {
               "descriptions": {
                 "zh": "蚯蚓",
-                "en": "英文释义"
+                "en": "Earthworm"
               },
               "words": []
             }
@@ -50886,7 +50891,7 @@
             {
               "descriptions": {
                 "zh": "蜻蜓",
-                "en": "英文释义"
+                "en": "Dragonfly"
               },
               "words": []
             }
@@ -50921,7 +50926,7 @@
             {
               "descriptions": {
                 "zh": "青蛙",
-                "en": "英文释义"
+                "en": "Frog"
               },
               "words": []
             }
@@ -50942,7 +50947,7 @@
             {
               "descriptions": {
                 "zh": "青蛙",
-                "en": "英文释义"
+                "en": "Frog"
               },
               "words": []
             }
@@ -50963,7 +50968,7 @@
             {
               "descriptions": {
                 "zh": "青蛙",
-                "en": "英文释义"
+                "en": "Frog"
               },
               "words": []
             }
@@ -50984,7 +50989,7 @@
             {
               "descriptions": {
                 "zh": "蛤蟆",
-                "en": "英文释义"
+                "en": "Toad"
               },
               "words": []
             }
@@ -51005,7 +51010,7 @@
             {
               "descriptions": {
                 "zh": "蚂蟥（第一字在某些地区念「miu」）",
-                "en": "英文释义"
+                "en": "Leech (The first character pronounced as「miu」in certain regions)"
               },
               "words": []
             }
@@ -51026,7 +51031,7 @@
             {
               "descriptions": {
                 "zh": "蚂蟥（第一字在某些地区念「miu」）",
-                "en": "英文释义"
+                "en": "Leech (The first character pronounced as「miu」in certain regions)"
               },
               "words": []
             }
@@ -51047,7 +51052,7 @@
             {
               "descriptions": {
                 "zh": "蚂蟥（第一字在某些地区念「miu」）",
-                "en": "英文释义"
+                "en": "Leech (The first character pronounced as「miu」in certain regions)"
               },
               "words": []
             }
@@ -51068,7 +51073,7 @@
             {
               "descriptions": {
                 "zh": "螃蟹",
-                "en": "英文释义"
+                "en": "Crab"
               },
               "words": []
             }
@@ -51089,7 +51094,7 @@
             {
               "descriptions": {
                 "zh": "螃蟹",
-                "en": "英文释义"
+                "en": "Crab"
               },
               "words": []
             }
@@ -51110,7 +51115,7 @@
             {
               "descriptions": {
                 "zh": "银环蛇",
-                "en": "英文释义"
+                "en": "Silver Ring Snake"
               },
               "words": []
             }
@@ -51131,7 +51136,7 @@
             {
               "descriptions": {
                 "zh": "眼镜蛇",
-                "en": "英文释义"
+                "en": "Cobra"
               },
               "words": []
             }
@@ -51152,7 +51157,7 @@
             {
               "descriptions": {
                 "zh": "蟒蛇",
-                "en": "英文释义"
+                "en": "Python (snake)"
               },
               "words": []
             }
@@ -51173,7 +51178,7 @@
             {
               "descriptions": {
                 "zh": "黑漆漆",
-                "en": "英文释义"
+                "en": "Pitch-dark"
               },
               "words": []
             }
@@ -51193,8 +51198,8 @@
           "meanings": [
             {
               "descriptions": {
-                "zh": "黑色的鸟，例如乌鸦、鹩哥",
-                "en": "英文释义"
+                "zh": "黑色的鸟，例如乌鸦",
+                "en": "Black birds, such as crows"
               },
               "words": []
             }
@@ -51215,7 +51220,7 @@
             {
               "descriptions": {
                 "zh": "一种鸟",
-                "en": "英文释义"
+                "en": "A type of birds"
               },
               "words": []
             }
@@ -51236,7 +51241,7 @@
             {
               "descriptions": {
                 "zh": "一种鸟",
-                "en": "英文释义"
+                "en": "A type of birds"
               },
               "words": []
             }
@@ -51257,7 +51262,7 @@
             {
               "descriptions": {
                 "zh": "猴子",
-                "en": "英文释义"
+                "en": "Monkey"
               },
               "words": []
             }
@@ -51278,7 +51283,7 @@
             {
               "descriptions": {
                 "zh": "鼻子；第一个「鼻」连读变调前念「bat9」，第二个「鼻」念「bi6」",
-                "en": "英文释义"
+                "en": "Nose; The first「鼻」is pronounced as「bat9」before the tone changing, and the second「鼻」is pronounced as「bi6」"
               },
               "words": []
             }
@@ -51303,7 +51308,7 @@
             {
               "descriptions": {
                 "zh": "形容人爱多管闲事",
-                "en": "英文释义"
+                "en": "Describing people as meddlesome"
               },
               "words": []
             }
@@ -51324,7 +51329,7 @@
             {
               "descriptions": {
                 "zh": "形容口疏，不能保守秘密，到处声张",
-                "en": "英文释义"
+                "en": "Unable to keep secrets, spreading rumors everywhere"
               },
               "words": []
             }
@@ -51345,7 +51350,7 @@
             {
               "descriptions": {
                 "zh": "反说句式，表示讥讽或斥责",
-                "en": "英文释义"
+                "en": "Irony sentence structure, expressing ridicule or reprimand"
               },
               "words": [
                 {
@@ -51361,7 +51366,7 @@
                       "suffix": "大学生，竟然{U+5187-mau5}{U+8BC6-syk7}认牛肉{U+5171-gung6}猪肉",
                       "descriptions": {
                         "zh": "亏你还是大学生，竟然分不清牛肉与猪肉",
-                        "en": "英文释义"
+                        "en": "Although you are still a college student, you cannot distinguish between beef and pork"
                       }
                     },
                     {
@@ -51369,7 +51374,7 @@
                       "suffix": "你{U+4F5C-ddok8}{U+5F97-ddak7}出",
                       "descriptions": {
                         "zh": "这么卑鄙的事情亏你能做得出来",
-                        "en": "英文释义"
+                        "en": "What a shame that you can do such a despicable thing"
                       }
                     }
                   ]
@@ -51393,7 +51398,7 @@
             {
               "descriptions": {
                 "zh": "丢三落四，吊儿郎当",
-                "en": "英文释义"
+                "en": "Forgetful, reckless, casual"
               },
               "words": []
             }
@@ -51414,7 +51419,7 @@
             {
               "descriptions": {
                 "zh": "不正经",
-                "en": "英文释义"
+                "en": "Not serious"
               },
               "words": []
             }
@@ -51435,7 +51440,7 @@
             {
               "descriptions": {
                 "zh": "不正经；胡说",
-                "en": "英文释义"
+                "en": "Not serious; Talk nonsense"
               },
               "words": []
             }
@@ -51456,7 +51461,7 @@
             {
               "descriptions": {
                 "zh": "全部",
-                "en": "英文释义"
+                "en": "Whole, in total"
               },
               "words": [
                 {
@@ -51472,7 +51477,7 @@
                       "suffix": "{U+5403-hik7}{U+9F50-dai4}",
                       "descriptions": {
                         "zh": "全部吃完",
-                        "en": "英文释义"
+                        "en": "Eat it all up"
                       }
                     }
                   ]
@@ -51496,7 +51501,7 @@
             {
               "descriptions": {
                 "zh": "一大堆",
-                "en": "英文释义"
+                "en": "Tons of"
               },
               "words": [
                 {
@@ -51512,7 +51517,7 @@
                       "suffix": "问题",
                       "descriptions": {
                         "zh": "跳出一大堆问题",
-                        "en": "英文释义"
+                        "en": "Jumping out of a bunch of questions"
                       }
                     }
                   ]
@@ -51536,7 +51541,7 @@
             {
               "descriptions": {
                 "zh": "比喻做事做到一半",
-                "en": "英文释义"
+                "en": "Metaphorically speaking, doing things halfway"
               },
               "words": [
                 {
@@ -51576,7 +51581,7 @@
             {
               "descriptions": {
                 "zh": "（语意不详）",
-                "en": "英文释义"
+                "en": "(Meaning unknown)"
               },
               "words": []
             }
@@ -51597,7 +51602,7 @@
             {
               "descriptions": {
                 "zh": "（语意不详）",
-                "en": "英文释义"
+                "en": "(Meaning unknown)"
               },
               "words": []
             }
@@ -51632,7 +51637,7 @@
             {
               "descriptions": {
                 "zh": "做事不稳重",
-                "en": "英文释义"
+                "en": "Unstable in doing things"
               },
               "words": []
             }
@@ -51653,7 +51658,7 @@
             {
               "descriptions": {
                 "zh": "快手快脚",
-                "en": "英文释义"
+                "en": "Nimble of hands and fast of feet"
               },
               "words": []
             }
@@ -51674,7 +51679,7 @@
             {
               "descriptions": {
                 "zh": "叽叽喳喳",
-                "en": "英文释义"
+                "en": "Chirp"
               },
               "words": []
             }
@@ -51695,7 +51700,7 @@
             {
               "descriptions": {
                 "zh": "麻烦事",
-                "en": "英文释义"
+                "en": "Nuisance"
               },
               "words": [
                 {
@@ -51735,7 +51740,7 @@
             {
               "descriptions": {
                 "zh": "琐碎之事物",
-                "en": "英文释义"
+                "en": "Trivial matters"
               },
               "words": [
                 {
@@ -51775,7 +51780,7 @@
             {
               "descriptions": {
                 "zh": "鼻子",
-                "en": "英文释义"
+                "en": "Nose"
               },
               "words": []
             }
@@ -51796,7 +51801,7 @@
             {
               "descriptions": {
                 "zh": "难道",
-                "en": "英文释义"
+                "en": "Used to strengthen the rhetorical tone"
               },
               "words": [
                 {
@@ -51812,7 +51817,7 @@
                       "suffix": "是{U+5728-doi5}{U+4F5C-ddok8}梦？",
                       "descriptions": {
                         "zh": "难不成是在做梦？",
-                        "en": "英文释义"
+                        "en": "Is it just a dream?"
                       }
                     }
                   ]
@@ -51836,7 +51841,7 @@
             {
               "descriptions": {
                 "zh": "形容皮肤皲裂",
-                "en": "英文释义"
+                "en": "Describing cracked skin"
               },
               "words": [
                 {
@@ -51876,7 +51881,7 @@
             {
               "descriptions": {
                 "zh": "吹嘘，炫耀，嘚瑟",
-                "en": "英文释义"
+                "en": "Show off, boast, brag"
               },
               "words": [
                 {
@@ -51916,7 +51921,7 @@
             {
               "descriptions": {
                 "zh": "吹嘘，炫耀，嘚瑟",
-                "en": "英文释义"
+                "en": "Show off, boast, brag"
               },
               "words": [
                 {
@@ -51956,7 +51961,7 @@
             {
               "descriptions": {
                 "zh": "丢三落四，吊儿郎当，做事马马虎虎，毛手毛脚",
-                "en": "英文释义"
+                "en": "Forgetful, reckless, casual"
               },
               "words": [
                 {
@@ -51996,7 +52001,7 @@
             {
               "descriptions": {
                 "zh": "气喘吁吁",
-                "en": "英文释义"
+                "en": "Be short of breath"
               },
               "words": []
             }
@@ -52017,7 +52022,7 @@
             {
               "descriptions": {
                 "zh": "对老年人的蔑称",
-                "en": "英文释义"
+                "en": "A derogatory term for the elderly"
               },
               "words": []
             }
@@ -52038,7 +52043,7 @@
             {
               "descriptions": {
                 "zh": "下雨天到处都湿漉漉的",
-                "en": "英文释义"
+                "en": "It's wet everywhere on rainy days"
               },
               "words": [
                 {
@@ -52078,7 +52083,7 @@
             {
               "descriptions": {
                 "zh": "小孩爱哭",
-                "en": "英文释义"
+                "en": "Children love to cry"
               },
               "words": []
             }
@@ -52099,7 +52104,7 @@
             {
               "descriptions": {
                 "zh": "说话结巴",
-                "en": "英文释义"
+                "en": "Stuttering, stammering"
               },
               "words": []
             }
@@ -52120,7 +52125,7 @@
             {
               "descriptions": {
                 "zh": "因为不牢固而摇晃；因为不专心而多动",
-                "en": "英文释义"
+                "en": "Shake due to lack of firmness; Being hyperactive due to lack of concentration"
               },
               "words": []
             }
@@ -52141,7 +52146,7 @@
             {
               "descriptions": {
                 "zh": "雪上加霜的语境，形容情况本来就已经够糟糕了，还要变得更加严重",
-                "en": "英文释义"
+                "en": "One disaster after another; Describing the situation as already bad enough and about to become even more serious"
               },
               "words": [
                 {
@@ -52157,7 +52162,7 @@
                       "suffix": "刹{U+63A3-zai3}{U+5187-mau5}{U+7075-ling4}，{U+4EF2-zung6}要开{U+5481-gam2}快",
                       "descriptions": {
                         "zh": "本来刹车都失灵了，你还（无视危险）开那么快",
-                        "en": "英文释义"
+                        "en": "The brake had malfunctioned already, but you still drove so fast (ignoring the danger)"
                       }
                     }
                   ]
@@ -52195,7 +52200,7 @@
             {
               "descriptions": {
                 "zh": "惊恐，极端害怕",
-                "en": "英文释义"
+                "en": "Scary, extreme fear"
               },
               "words": [
                 {
@@ -52211,7 +52216,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "越想越害怕",
-                        "en": "英文释义"
+                        "en": "The more I think, the more scared I become"
                       }
                     }
                   ]
@@ -52235,7 +52240,7 @@
             {
               "descriptions": {
                 "zh": "形容人傻",
-                "en": "英文释义"
+                "en": "Describing a person as foolish"
               },
               "words": []
             }
@@ -52256,7 +52261,7 @@
             {
               "descriptions": {
                 "zh": "形容鬼鬼祟祟",
-                "en": "英文释义"
+                "en": "Describing being sneaky"
               },
               "words": []
             }
@@ -52276,8 +52281,8 @@
           "meanings": [
             {
               "descriptions": {
-                "zh": "乱摆，乱挥舞",
-                "en": "英文释义"
+                "zh": "乱挥舞",
+                "en": "Waving wildly"
               },
               "words": [
                 {
@@ -52293,7 +52298,7 @@
                       "suffix": "{U+2081D-lik7}{U+7740-zaa6}人",
                       "descriptions": {
                         "zh": "手持一把刀乱挥舞不小心划伤别人",
-                        "en": "英文释义"
+                        "en": "Holding a knife and waving it recklessly, accidentally scratching someone else"
                       }
                     }
                   ]
@@ -52317,7 +52322,7 @@
             {
               "descriptions": {
                 "zh": "左撇子",
-                "en": "英文释义"
+                "en": "Left-handed person"
               },
               "words": []
             }
@@ -52338,7 +52343,7 @@
             {
               "descriptions": {
                 "zh": "鸡皮疙瘩",
-                "en": "英文释义"
+                "en": "Goose bumps"
               },
               "words": []
             }
@@ -52359,7 +52364,7 @@
             {
               "descriptions": {
                 "zh": "破烂玩意儿",
-                "en": "英文释义"
+                "en": "Old and torn stuff"
               },
               "words": []
             }
@@ -52380,7 +52385,7 @@
             {
               "descriptions": {
                 "zh": "（具体意思不确定，总之是一些不好的勾当，比如盗窃、抢劫）",
-                "en": "英文释义"
+                "en": "(The specific meaning is uncertain, in short, it is some bad activities, such as theft and robbery)"
               },
               "words": []
             }
@@ -52401,7 +52406,7 @@
             {
               "descriptions": {
                 "zh": "环绕的圈",
-                "en": "英文释义"
+                "en": "Surrounding Circle"
               },
               "words": [
                 {
@@ -52417,7 +52422,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "围了一圈",
-                        "en": "英文释义"
+                        "en": "Surrounded in a circle"
                       }
                     }
                   ]
@@ -52441,7 +52446,7 @@
             {
               "descriptions": {
                 "zh": "形容肉肥而不腻",
-                "en": "英文释义"
+                "en": "Describing fat but not greasy meat"
               },
               "words": []
             }
@@ -52462,7 +52467,7 @@
             {
               "descriptions": {
                 "zh": "蟋蟀",
-                "en": "英文释义"
+                "en": "Crickets"
               },
               "words": []
             }
@@ -52483,7 +52488,7 @@
             {
               "descriptions": {
                 "zh": "蝌蚪",
-                "en": "英文释义"
+                "en": "Tadpoles"
               },
               "words": []
             }
@@ -52518,7 +52523,7 @@
             {
               "descriptions": {
                 "zh": "翻跟斗",
-                "en": "英文释义"
+                "en": "Turn somersault"
               },
               "words": []
             }
@@ -52539,7 +52544,7 @@
             {
               "descriptions": {
                 "zh": "相反（所选字仅供参考）",
-                "en": "英文释义"
+                "en": "On the contrary, reversely (Selected characters are for reference only)"
               },
               "words": [
                 {
@@ -52555,7 +52560,7 @@
                       "suffix": "",
                       "descriptions": {
                         "zh": "鞋子穿反了",
-                        "en": "英文释义"
+                        "en": "Wearing the opposite shoes"
                       }
                     }
                   ]
