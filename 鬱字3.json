@@ -1967,11 +1967,11 @@
                   },
                   "sentences": [
                     {
-                      "prefix": "",
-                      "suffix": "{U+4F62-gyu5}心水{U+5605-geo4}{U+886B-som1}，{U+4F62-gyu5}{U+4E4D-co02}会买",
+                      "prefix": "你{U+5605-geo4}专业{U+5171-gung6}{U+4F62-gyu5}",
+                      "suffix": "{U+23A42-ddit7}{U+6B62-zi2}",
                       "descriptions": {
-                        "zh": "他只会买符合自己心意的衣服",
-                        "en": "He only buys clothes that suit his heart"
+                        "zh": "你的专业对于他来说再合适不过了",
+                        "en": "Your university major is perfect for him"
                       }
                     }
                   ]
@@ -7880,6 +7880,32 @@
                       "descriptions": {
                         "zh": "他一定能赢取第一名吗？",
                         "en": "Can he definitely win first place?"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "descriptions": {
+                "zh": "（状况、病情等）好转",
+                "en": "Improvement in condition; The situation is getting better"
+              },
+              "words": [
+                {
+                  "prefix": "",
+                  "suffix": "",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "sentences": [
+                    {
+                      "prefix": "感冒",
+                      "suffix": "{U+5572-ni01}{A+le5}",
+                      "descriptions": {
+                        "zh": "感冒好点了",
+                        "en": "The cold is getting better now"
                       }
                     }
                   ]
@@ -43123,6 +43149,46 @@
                     "en": "Baby, infant"
                   },
                   "sentences": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "U+22AD6-syut7",
+          "unicode": "U+22AD6",
+          "character": "𢫖",
+          "back_up_character": [],
+          "pinyin": "",
+          "jyut++": "syut7",
+          "IPA": "",
+          "stroke": "",
+          "head": "s",
+          "tail": "t",
+          "meanings": [
+            {
+              "descriptions": {
+                "zh": "投、掷 <英语：shot/shoot>",
+                "en": "Throw, shoot <From English: shot/shoot>"
+              },
+              "words": [
+                {
+                  "prefix": "",
+                  "suffix": "",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "sentences": [
+                    {
+                      "prefix": "",
+                      "suffix": "篮{A+er}",
+                      "descriptions": {
+                        "zh": "投篮",
+                        "en": "Shoot at the basket"
+                      }
+                    }
+                  ]
                 }
               ]
             }
