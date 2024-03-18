@@ -449,7 +449,7 @@
             {
               "descriptions": {
                 "zh": "闭合",
-                "en": "Shut;To make sth close;To become closed"
+                "en": "Shut;To make something close; To become closed"
               },
               "words": [
                 {
@@ -1232,6 +1232,14 @@
                       "descriptions": {
                         "zh": "摸索衣服口袋",
                         "en": "Explore clothing pockets"
+                      }
+                    },
+                    {
+                      "prefix": "",
+                      "suffix": "田螺",
+                      "descriptions": {
+                        "zh": "摸田螺",
+                        "en": "Pick up field snails"
                       }
                     }
                   ]
@@ -6577,7 +6585,12 @@
           "id": "U+3AF1-nyun2",
           "unicode": "U+3AF1",
           "character": "㫱",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "赧",
+              "bian_hao": "U+8D67"
+            }
+          ],
           "pinyin": "",
           "jyut++": "nyun2",
           "IPA": "",
@@ -18356,6 +18369,14 @@
                         "zh": "小溪里面有许多福寿螺",
                         "en": "There are many golden apple snails in the little stream"
                       }
+                    },
+                    {
+                      "prefix": "",
+                      "suffix": "{U+584D-syng4}",
+                      "descriptions": {
+                        "zh": "田间的水渠",
+                        "en": "Canal in the field"
+                      }
                     }
                   ]
                 }
@@ -20535,7 +20556,7 @@
             {
               "descriptions": {
                 "zh": "担，负",
-                "en": "To support the weight of sb/sth"
+                "en": "To support the weight of somebody or something"
               },
               "words": [
                 {
@@ -20552,6 +20573,14 @@
                       "descriptions": {
                         "zh": "人老了，就连一包米也担不起",
                         "en": "As I get older, I can't even support the weight of a bag of rice"
+                      }
+                    },
+                    {
+                      "prefix": "",
+                      "suffix": "锄头",
+                      "descriptions": {
+                        "zh": "肩扛锄头",
+                        "en": "Carrying a hoe on the shoulder"
                       }
                     }
                   ]
@@ -30487,6 +30516,13 @@
                   ]
                 }
               ]
+            },
+            {
+              "descriptions": {
+                "zh": "两手相合捧物",
+                "en": "Put one's own hands together to hold something"
+              },
+              "words": []
             }
           ]
         },
@@ -31925,7 +31961,7 @@
                   "suffix": "发",
                   "descriptions": {
                     "zh": "剪发",
-                    "en": "The act of sb cutting one's hair"
+                    "en": "The act of somebody cutting one's hair"
                   },
                   "sentences": []
                 }
@@ -32593,7 +32629,12 @@
           "id": "U+9416-gai1",
           "unicode": "U+9416",
           "character": "鐖",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "鸡",
+              "bian_hao": "U+9E21"
+            }
+          ],
           "pinyin": "",
           "jyut++": "gai1",
           "IPA": "",
@@ -43219,6 +43260,62 @@
               ]
             }
           ]
+        },
+        {
+          "id": "U+4C03-baa4",
+          "unicode": "U+4C03",
+          "character": "䰃",
+          "back_up_character": [],
+          "pinyin": "",
+          "jyut++": "baa4",
+          "IPA": "",
+          "stroke": "",
+          "head": "b-bb",
+          "tail": "丢ng",
+          "meanings": [
+            {
+              "descriptions": {
+                "zh": "形容词后缀，常含贬义",
+                "en": "Adjective suffix, often containing negative connotations"
+              },
+              "words": [
+                {
+                  "prefix": "",
+                  "suffix": "",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "sentences": [
+                    {
+                      "prefix": "{U+70DF-njin1}",
+                      "suffix": "{U+4C03-baa4}",
+                      "descriptions": {
+                        "zh": "烟尘滚滚",
+                        "en": "Smoke and dust billowing"
+                      }
+                    },
+                    {
+                      "prefix": "臭",
+                      "suffix": "{U+4C03-baa4}",
+                      "descriptions": {
+                        "zh": "臭烘烘",
+                        "en": "Stinking"
+                      }
+                    },
+                    {
+                      "prefix": "{U+8352-wong1}",
+                      "suffix": "haa1",
+                      "descriptions": {
+                        "zh": "脏乱不堪",
+                        "en": "Dirty and untidy"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -45905,62 +46002,6 @@
           ]
         },
         {
-          "id": "A+65-baa4",
-          "unicode": "",
-          "character": "baa4",
-          "back_up_character": [],
-          "pinyin": "",
-          "jyut++": "baa4",
-          "IPA": "",
-          "stroke": "",
-          "head": "b-bb",
-          "tail": "丢ng",
-          "meanings": [
-            {
-              "descriptions": {
-                "zh": "形容词后缀",
-                "en": "Adjective suffix"
-              },
-              "words": [
-                {
-                  "prefix": "",
-                  "suffix": "{A+65-baa4}",
-                  "descriptions": {
-                    "zh": "形容词后缀，常含贬义",
-                    "en": "Adjective suffix, often containing negative connotations"
-                  },
-                  "sentences": [
-                    {
-                      "prefix": "{U+70DF-njin1}",
-                      "suffix": "",
-                      "descriptions": {
-                        "zh": "烟尘滚滚",
-                        "en": "Smoke and dust billowing"
-                      }
-                    },
-                    {
-                      "prefix": "臭",
-                      "suffix": "",
-                      "descriptions": {
-                        "zh": "臭烘烘",
-                        "en": "Stinking"
-                      }
-                    },
-                    {
-                      "prefix": "{U+8352-wong1}",
-                      "suffix": "",
-                      "descriptions": {
-                        "zh": "脏乱不堪",
-                        "en": "Dirty and untidy"
-                      }
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "A+66-naa6",
           "unicode": "",
           "character": "naa6",
@@ -47600,6 +47641,32 @@
                       "descriptions": {
                         "zh": "把（两广地区的长）粽子折断成两小段",
                         "en": "Bend and break Zongzi (a long rice dumpling in Guangdong and Guangxi) into two pieces"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "descriptions": {
+                "zh": "衡量片状物体（例如「瓦片」）断开后的部分",
+                "en": "The measure unit of the separated parts of a sheet-like object (Such like tiles)"
+              },
+              "words": [
+                {
+                  "prefix": "",
+                  "suffix": "",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "sentences": [
+                    {
+                      "prefix": "一饼碟片{U+62D7-ngou2}{U+4F5C-ddok8}两",
+                      "suffix": "",
+                      "descriptions": {
+                        "zh": "一张碟片折断成两片",
+                        "en": "A disc breaks into two pieces"
                       }
                     }
                   ]
@@ -51428,12 +51495,12 @@
           ]
         },
         {
-          "id": "P+3-no wai",
+          "id": "P+3-non wai",
           "unicode": "",
-          "character": "no2 wai1",
+          "character": "难为",
           "back_up_character": [],
           "pinyin": "",
-          "jyut++": "no wai",
+          "jyut++": "non wai",
           "IPA": "",
           "stroke": "",
           "head": "",
@@ -51474,6 +51541,20 @@
               ]
             }
           ]
+        },
+        {
+          "id": "P+3-no wai",
+          "ref":"P+3-non wai",
+          "unicode": "",
+          "character": "难为",
+          "back_up_character": [],
+          "pinyin": "",
+          "jyut++": "no wai",
+          "IPA": "",
+          "stroke": "",
+          "head": "",
+          "tail": "",
+          "meanings": []
         },
         {
           "id": "P+4-lang slang",
@@ -52123,7 +52204,7 @@
         {
           "id": "P+26-lok jyu bak sap",
           "unicode": "",
-          "character": "落雨bak湿",
+          "character": "落雨湴湿",
           "back_up_character": [],
           "pinyin": "",
           "jyut++": "lok jyu bak sap",
@@ -52134,8 +52215,8 @@
           "meanings": [
             {
               "descriptions": {
-                "zh": "下雨天到处都湿漉漉的",
-                "en": "It's wet everywhere on rainy days"
+                "zh": "下雨天到处都湿漉漉的（ 第三字「湴」所选字仅供参考）",
+                "en": "It's wet everywhere on rainy days (The selection of the third character「湴」 is for reference only)"
               },
               "words": [
                 {
@@ -52317,6 +52398,14 @@
                       "descriptions": {
                         "zh": "越想越害怕",
                         "en": "The more I think, the more scared I become"
+                      }
+                    },
+                    {
+                      "prefix": "{P+19-m cung}脚眼{A+er}水你就",
+                      "suffix": "{A+le5}啊？",
+                      "descriptions": {
+                        "zh": "难不成这刚过脚踝的浅水能吓倒你？",
+                        "en": "Can this shallow water just above your ankle scare you?"
                       }
                     }
                   ]
