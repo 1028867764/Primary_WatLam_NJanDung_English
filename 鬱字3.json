@@ -22685,11 +22685,11 @@
                   },
                   "sentences": [
                     {
-                      "prefix": "{U+4E2A-geo3}{A+tsu}日{U+4EF2-zung6}",
-                      "suffix": "过{A+35-dung6}日",
+                      "prefix": "教室{U+5187-mau5}装{U+7740-zaa6}空调，好",
+                      "suffix": "{U+5576-de6}",
                       "descriptions": {
-                        "zh": "今天比昨天还要闷热",
-                        "en": "Today is even hotter than yesterday"
+                        "zh": "教室里没安装空调，很闷热",
+                        "en": "There is no air conditioning installed in the classroom, so it is very stuffy and hot"
                       }
                     }
                   ]
@@ -22725,11 +22725,11 @@
                   },
                   "sentences": [
                     {
-                      "prefix": "教室{U+5187-mau5}装{U+7740-zaa6}空调，好",
-                      "suffix": "{U+5576-de6}",
+                      "prefix": "{U+4E2A-geo3}{A+tsu}日{U+4EF2-zung6}",
+                      "suffix": "过{A+35-dung6}日",
                       "descriptions": {
-                        "zh": "教室里没安装空调，很闷热",
-                        "en": "There is no air conditioning installed in the classroom, so it is very stuffy and hot"
+                        "zh": "今天比昨天还要闷热",
+                        "en": "Today is even hotter than yesterday"
                       }
                     }
                   ]
@@ -23672,6 +23672,32 @@
                     "en": "The fruit of Syzygium jambos"
                   },
                   "sentences": []
+                }
+              ]
+            },
+            {
+              "descriptions": {
+                "zh": "石头撞击声",
+                "en": "The sound of stones colliding"
+              },
+              "words": [
+                {
+                  "prefix": "",
+                  "suffix": "",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "sentences": [
+                    {
+                      "prefix": "",
+                      "suffix": "{U+7833-lak7}响",
+                      "descriptions": {
+                        "zh": "石头撞击声",
+                        "en": "The sound of stones colliding"
+                      }
+                    }
+                  ]
                 }
               ]
             }
@@ -52230,6 +52256,14 @@
                         "zh": "本来刹车都失灵了，你还（无视危险）开那么快",
                         "en": "The brake had malfunctioned already, but you still drove so fast (ignoring the danger)"
                       }
+                    },
+                    {
+                      "prefix": "",
+                      "suffix": "{U+5187-mau5}{A+tsu}{P+30-ni nang},想晒谷又日日{U+843D-lok10}{U+6C34-sui2}",
+                      "descriptions": {
+                        "zh": "我太难了，本想着把谷子晒干，却不曾想天天下雨",
+                        "en": "I'm in trouble. I originally wanted to dry the grains by the sunlight, but I never thought it would rain every day"
+                      }
                     }
                   ]
                 }
@@ -52648,6 +52682,27 @@
           "head": "",
           "tail": "",
           "meanings": []
+        },
+        {
+          "id": "P+45-slaa gik",
+          "unicode": "",
+          "character": "slaa gik",
+          "back_up_character": [],
+          "pinyin": "",
+          "jyut++": "slaa gik",
+          "IPA": "",
+          "stroke": "",
+          "head": "",
+          "tail": "",
+          "meanings": [
+            {
+              "descriptions": {
+                "zh": "串门或出去玩",
+                "en": "Visiting or going out to play"
+              },
+              "words": []
+            }
+          ]
         }
       ]
     }
