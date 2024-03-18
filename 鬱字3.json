@@ -47890,6 +47890,14 @@
                         "zh": "他就是这样的一个人",
                         "en": "He is such a person"
                       }
+                    },
+                    {
+                      "prefix": "回{U+5C4B-uk7}罢",
+                      "suffix": "leo4",
+                      "descriptions": {
+                        "zh": "还是回家吧",
+                        "en": "I think we had better go home"
+                      }
                     }
                   ]
                 }
