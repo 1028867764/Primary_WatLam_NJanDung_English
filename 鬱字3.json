@@ -16207,11 +16207,11 @@
                   },
                   "sentences": [
                     {
-                      "prefix": "放DJ",
-                      "suffix": "",
+                      "prefix": "楼{A+er}上{U+786C-njaa6}是顿脚{U+8DB1-ddon2}{U+67B1-doi4}，{U+6B63-zing3}{U+5B97-ddung1}",
+                      "suffix": "！",
                       "descriptions": {
-                        "zh": "大声外放DJ，发出刺耳噪音",
-                        "en": "Loud DJ plays in public, producing harsh noise"
+                        "zh": "楼上的邻居总是发出跺脚挪桌的噪音，真是吵死人了！",
+                        "en": "The neighbors upstairs always make a noise of stomping their feet and moving the table, it's really annoying!"
                       }
                     }
                   ]
