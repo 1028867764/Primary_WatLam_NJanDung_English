@@ -16116,7 +16116,7 @@
           "jyut++": "njap7",
           "IPA": "",
           "stroke": "",
-          "head": "nj",
+          "head": "多声母",
           "tail": "p",
           "meanings": [
             {
@@ -16139,6 +16139,47 @@
                       "descriptions": {
                         "zh": "小气鬼",
                         "en": "Cheapskate, penny pincher, miser"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "U+22849-sap7",
+          "unicode": "U+22849",
+          "character": "𢡉",
+          "back_up_character": [],
+          "character_controversial_degree": "0",
+          "pinyin": "",
+          "jyut++": "sap7",
+          "IPA": "",
+          "stroke": "",
+          "head": "多声母",
+          "tail": "p",
+          "meanings": [
+            {
+              "descriptions": {
+                "zh": "悭，吝啬",
+                "en": "Stingy"
+              },
+              "words": [
+                {
+                  "prefix": "",
+                  "suffix": "",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "sentences": [
+                    {
+                      "prefix": "{U+60AD-hon1}",
+                      "suffix": "",
+                      "descriptions": {
+                        "zh": "吝啬",
+                        "en": "Stingy"
                       }
                     }
                   ]
@@ -23590,7 +23631,7 @@
               "bian_hao": "U+30E20"
             }
           ],
-          "character_controversial_degree": "0",
+          "character_controversial_degree": "1",
           "pinyin": "",
           "jyut++": "jik7",
           "IPA": "",
@@ -23647,8 +23688,13 @@
           "ref": "U+8E60-jik7",
           "unicode": "U+8E60",
           "character": "蹠",
-          "back_up_character": [],
-          "character_controversial_degree": "0",
+          "back_up_character": [
+            {
+              "han_zi": "⿰𧾷則",
+              "bian_hao": "U+30E20"
+            }
+          ],
+          "character_controversial_degree": "1",
           "pinyin": "",
           "jyut++": "jak7",
           "IPA": "",
