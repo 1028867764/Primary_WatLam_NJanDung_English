@@ -10038,55 +10038,6 @@
           ]
         },
         {
-          "id": "U+9ABE-gang5",
-          "unicode": "U+9ABE",
-          "character": "骾",
-          "back_up_character": [],
-          "character_controversial_degree": "2",
-          "pinyin": "",
-          "jyut++": "gang5",
-          "IPA": "",
-          "stroke": "",
-          "head": "g-gw",
-          "tail": "ng",
-          "meanings": [
-            {
-              "descriptions": {
-                "zh": "位于垫面的凸起使人不舒服或损伤，硌",
-                "en": "The protrusion on the cushion surface makes human body uncomfortable or damaged"
-              },
-              "words": [
-                {
-                  "prefix": "",
-                  "suffix": "",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  },
-                  "sentences": [
-                    {
-                      "prefix": "对鞋",
-                      "suffix": "脚",
-                      "descriptions": {
-                        "zh": "鞋垫下面有凸起使脚掌不舒服",
-                        "en": "There is a protrusion under the insole that makes the foot uncomfortable"
-                      }
-                    },
-                    {
-                      "prefix": "竹席下低好{U+51FA-cat7}有泥沙，",
-                      "suffix": "{U+7740-zaa6}{W+29-bui ddik}",
-                      "descriptions": {
-                        "zh": "竹席下面好像有泥沙似的，硌得我背部难受",
-                        "en": "There seems to be sands under the bamboo mat, which makes my back uncomfortable"
-                      }
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "id": "U+64CE-ging4",
           "unicode": "U+64CE",
           "character": "擎",
@@ -48837,6 +48788,55 @@
           "meanings": []
         },
         {
+          "id": "A+106-gang5",
+          "unicode": "",
+          "character": "gang5",
+          "back_up_character": [],
+          "character_controversial_degree": "0",
+          "pinyin": "",
+          "jyut++": "gang5",
+          "IPA": "",
+          "stroke": "",
+          "head": "g-gw",
+          "tail": "ng",
+          "meanings": [
+            {
+              "descriptions": {
+                "zh": "位于垫面的凸起使人不舒服或损伤，硌",
+                "en": "The protrusion on the cushion surface makes human body uncomfortable or damaged"
+              },
+              "words": [
+                {
+                  "prefix": "",
+                  "suffix": "",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "sentences": [
+                    {
+                      "prefix": "对鞋",
+                      "suffix": "脚",
+                      "descriptions": {
+                        "zh": "鞋垫下面有凸起使脚掌不舒服",
+                        "en": "There is a protrusion under the insole that makes the foot uncomfortable"
+                      }
+                    },
+                    {
+                      "prefix": "竹席下低好{U+51FA-cat7}有泥沙，",
+                      "suffix": "{U+7740-zaa6}{W+29-bui ddik}",
+                      "descriptions": {
+                        "zh": "竹席下面好像有泥沙似的，硌得我背部难受",
+                        "en": "There seems to be sands under the bamboo mat, which makes my back uncomfortable"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
           "id": "A+er",
           "unicode": "",
           "character": "ㇽ",
@@ -53367,11 +53367,11 @@
         {
           "id": "P+24-ham ho hi cyun",
           "unicode": "",
-          "character": "ham1 ho1气喘",
+          "character": "䶎齁气喘",
           "back_up_character": [],
-          "character_controversial_degree": "0",
+          "character_controversial_degree": "2",
           "pinyin": "",
-          "jyut++": "ham ho hi cyun",
+          "jyut++": "ham1 ho1 hi3 cyun2",
           "IPA": "",
           "stroke": "",
           "head": "",
@@ -53379,8 +53379,8 @@
           "meanings": [
             {
               "descriptions": {
-                "zh": "气喘吁吁",
-                "en": "Be short of breath"
+                "zh": "气喘吁吁（第二字「齁」不确定）",
+                "en": "Be short of breath (The second character「齁」is uncertain)"
               },
               "words": []
             }
