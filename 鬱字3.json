@@ -25055,6 +25055,14 @@
                         "zh": "掐大腿",
                         "en": "Pinch the thigh"
                       }
+                    },
+                    {
+                      "prefix": "",
+                      "suffix": "头出杈，{U+6423-mik7}杈出瓜",
+                      "descriptions": {
+                        "zh": "掐掉葫芦藤主蔓顶部促使侧藤长出，掐掉侧藤顶部促使葫芦花结果",
+                        "en": "Pinch off the top of the main vine of the gourd vine to promote the growth of the side vines, and pinch off the top of the side vines to promote the fruiting of the gourd flowers"
+                      }
                     }
                   ]
                 }
@@ -29713,8 +29721,8 @@
                   "prefix": "",
                   "suffix": "屎",
                   "descriptions": {
-                    "zh": "腹泻",
-                    "en": "Diarrhea"
+                    "zh": "腹泻；粪便溏稀",
+                    "en": "Diarrhea; Loose watery stool"
                   },
                   "sentences": []
                 },
@@ -29732,7 +29740,7 @@
                   "suffix": "{U+7529-lyut7}",
                   "descriptions": {
                     "zh": "一泻千里地窜稀",
-                    "en": "Diarrhea, watery bowel movement"
+                    "en": "Diarrhea; Loose watery stool"
                   },
                   "sentences": [
                     {
@@ -33437,8 +33445,13 @@
           "id": "U+4E2A-geo3",
           "unicode": "U+4E2A",
           "character": "个",
-          "back_up_character": [],
-          "character_controversial_degree": "0",
+          "back_up_character": [
+            {
+              "han_zi": "箇",
+              "bian_hao": "U+7B87"
+            }
+          ],
+          "character_controversial_degree": "2",
           "pinyin": "",
           "jyut++": "geo3",
           "IPA": "",
@@ -33449,7 +33462,7 @@
             {
               "descriptions": {
                 "zh": "指示代词「这」；弱读",
-                "en": "The demonstrative pronoun「这」(this), is sometimes unstressed"
+                "en": "The demonstrative pronoun「这」(this), is unstressed"
               },
               "words": [
                 {
