@@ -712,7 +712,12 @@
           "id": "U+5481-gam2",
           "unicode": "U+5481",
           "character": "咁",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "噉",
+              "bian_hao": "U+5649"
+            }
+          ],
           "character_controversial_degree": "0",
           "pinyin": "",
           "jyut++": "gam2",
@@ -754,7 +759,12 @@
           "ref": "U+5481-gam2",
           "unicode": "U+5481",
           "character": "咁",
-          "back_up_character": [],
+          "back_up_character": [
+            {
+              "han_zi": "噉",
+              "bian_hao": "U+5649"
+            }
+          ],
           "character_controversial_degree": "0",
           "pinyin": "",
           "jyut++": "gom2",
@@ -3902,11 +3912,16 @@
           ]
         },
         {
-          "id": "U+2C8EB-dyun4",
-          "unicode": "U+2C8EB",
-          "character": "𬣫",
-          "back_up_character": [],
-          "character_controversial_degree": "0",
+          "id": "U+5FD6-dyun4",
+          "unicode": "U+5FD6",
+          "character": "忖",
+          "back_up_character": [
+            {
+              "han_zi": "𬣫",
+              "bian_hao": "U+2C8EB"
+            }
+          ],
+          "character_controversial_degree": "1",
           "pinyin": "",
           "jyut++": "dyun4",
           "IPA": "",
@@ -10975,10 +10990,15 @@
           ]
         },
         {
-          "id": "U+204C7-long1",
-          "unicode": "U+204C7",
-          "character": "𠓇",
-          "back_up_character": [],
+          "id": "U+2439C-long1",
+          "unicode": "U+2439C",
+          "character": "𤎜",
+          "back_up_character": [
+            {
+              "han_zi": "𠓇",
+              "bian_hao": "U+204C7"
+            }
+          ],
           "character_controversial_degree": "1",
           "pinyin": "",
           "jyut++": "long1",
@@ -13478,6 +13498,14 @@
                       "descriptions": {
                         "zh": "把香蕉埋入米缸催熟",
                         "en": "Burying bananas in a large jar which storing rice to ripen bananas"
+                      }
+                    },
+                    {
+                      "prefix": "",
+                      "suffix": "番薯",
+                      "descriptions": {
+                        "zh": "先用柴火将泥土烤热，待泥土达到高温后用其包裹红薯，使红薯被烤熟",
+                        "en": "First, use firewood to heat up the soil, and after the soil reaches a high temperature, wrap sweet potatoes around with hot soil for baking"
                       }
                     }
                   ]
@@ -39732,6 +39760,32 @@
                       "descriptions": {
                         "zh": "再叫大声点，他没听见",
                         "en": "Shout louder, he didn't hear you"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "descriptions": {
+                "zh": "行为、情况、场面等严重、超出寻常",
+                "en": "Serious and extraordinary behavior, situation, scene, etc"
+              },
+              "words": [
+                {
+                  "prefix": "",
+                  "suffix": "",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "sentences": [
+                    {
+                      "prefix": "额头烧{U+5F97-ddak7}{U+6781-gik9}",
+                      "suffix": "",
+                      "descriptions": {
+                        "zh": "额头烧得很厉害",
+                        "en": "The forehead is burning very badly"
                       }
                     }
                   ]
