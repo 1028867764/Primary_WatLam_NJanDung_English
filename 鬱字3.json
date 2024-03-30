@@ -14373,6 +14373,32 @@
                   ]
                 }
               ]
+            },
+            {
+              "descriptions": {
+                "zh": "因肥料浓度过高使植物体枯萎或死亡",
+                "en": "Plants wither or die due to high fertilizer concentration"
+              },
+              "words": [
+                {
+                  "prefix": "",
+                  "suffix": "",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "sentences": [
+                    {
+                      "prefix": "菜苗{U+7740-zaa6}",
+                      "suffix": "死",
+                      "descriptions": {
+                        "zh": "菜苗因为肥料浓度过高而死亡",
+                        "en": "Vegetable seedlings die due to high fertilizer concentration"
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           ]
         },
@@ -52693,6 +52719,47 @@
                 "en": "Nose; The first「鼻」is pronounced as「bat9」before the tone changing, and the second「鼻」is pronounced as「bi6」"
               },
               "words": []
+            }
+          ]
+        },
+        {
+          "id": "w+153-luk si",
+          "unicode": "",
+          "character": "六时",
+          "back_up_character": [],
+          "character_controversial_degree": "0",
+          "pinyin": "",
+          "jyut++": "luk si",
+          "IPA": "",
+          "stroke": "",
+          "head": "",
+          "tail": "",
+          "meanings": [
+            {
+              "descriptions": {
+                "zh": "时时刻刻，随时",
+                "en": "Always"
+              },
+              "words": [
+                {
+                  "prefix": "",
+                  "suffix": "",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "sentences": [
+                    {
+                      "prefix": "",
+                      "suffix": "捧{U+7A33-wan2}{U+96BB-zik7}手机",
+                      "descriptions": {
+                        "zh": "整天抱着手机看",
+                        "en": "Hold one's phone and watch it all day long"
+                      }
+                    }
+                  ]
+                }
+              ]
             }
           ]
         }
