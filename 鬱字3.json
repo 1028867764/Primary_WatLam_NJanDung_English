@@ -9112,7 +9112,7 @@
           "unicode": "U+65C1",
           "character": "旁",
           "back_up_character": [],
-          "character_controversial_degree": "0",
+          "character_controversial_degree": "1",
           "pinyin": "",
           "jyut++": "bong5",
           "IPA": "",
@@ -23672,6 +23672,14 @@
                       "descriptions": {
                         "zh": "单脚跳过来",
                         "en": "Hop to here"
+                      }
+                    },
+                    {
+                      "prefix": "",
+                      "suffix": "脚{U+6435-wan2}另{U+51E0-gi2}{U+96BB-zik7}鞋",
+                      "descriptions": {
+                        "zh": "单脚跳找另外一个鞋子",
+                        "en": "Jumping on one foot to find another shoe"
                       }
                     },
                     {
