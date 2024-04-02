@@ -855,6 +855,10 @@
             {
               "related_han_zi": "㚊",
               "related_bian_hao": "U+368A-gai02"
+            },
+            {
+              "related_han_zi": "极",
+              "related_bian_hao": "U+6781-gik9"
             }
           ],
           "pinyin": "",
@@ -2084,6 +2088,10 @@
             {
               "related_han_zi": "𬺈",
               "related_bian_hao": "U+2CE88-ngi4"
+            },
+            {
+              "related_han_zi": "𠼔",
+              "related_bian_hao": "U+20F14-zong4"
             }
           ],
           "pinyin": "",
@@ -2186,6 +2194,10 @@
             {
               "related_han_zi": "摩",
               "related_bian_hao": "U+6469-meo1"
+            },
+            {
+              "related_han_zi": "𥹉",
+              "related_bian_hao": "U+25E49-nap7"
             }
           ],
           "pinyin": "",
@@ -2314,6 +2326,10 @@
             {
               "related_han_zi": "𬺈",
               "related_bian_hao": "U+2CE88-ngi4"
+            },
+            {
+              "related_han_zi": "𠼔",
+              "related_bian_hao": "U+20F14-zong4"
             }
           ],
           "pinyin": "",
@@ -2690,8 +2706,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "",
-              "related_bian_hao": ""
+              "related_han_zi": "𠯏",
+              "related_bian_hao": "U+20BCF-ket8"
             }
           ],
           "pinyin": "",
@@ -3031,6 +3047,14 @@
             {
               "related_han_zi": "lung4",
               "related_bian_hao": "A+38-lung4"
+            },
+            {
+              "related_han_zi": "姼",
+              "related_bian_hao": "U+59FC-ddoi3"
+            },
+            {
+              "related_han_zi": "毑",
+              "related_bian_hao": "U+6BD1-dde3"
             }
           ],
           "pinyin": "",
@@ -3694,6 +3718,10 @@
             {
               "related_han_zi": "偈",
               "related_bian_hao": "U+5048-gai03"
+            },
+            {
+              "related_han_zi": "𠲺",
+              "related_bian_hao": "U+20CBA-ngap7"
             }
           ],
           "pinyin": "",
@@ -3923,8 +3951,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "",
-              "related_bian_hao": ""
+              "related_han_zi": "恶",
+              "related_bian_hao": "U+6076-ok8"
             }
           ],
           "pinyin": "",
@@ -5094,6 +5122,10 @@
             {
               "related_han_zi": "炸牛",
               "related_bian_hao": "w+84-zo njau"
+            },
+            {
+              "related_han_zi": "屙",
+              "related_bian_hao": "U+5C59-eo1"
             }
           ],
           "pinyin": "",
@@ -5804,6 +5836,10 @@
             {
               "related_han_zi": "嘈",
               "related_bian_hao": "U+5608-zou4"
+            },
+            {
+              "related_han_zi": "煲",
+              "related_bian_hao": "U+7172-bbeou1"
             }
           ],
           "pinyin": "",
@@ -6101,8 +6137,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "",
-              "related_bian_hao": ""
+              "related_han_zi": "活",
+              "related_bian_hao": "U+6D3B-wot10"
             }
           ],
           "pinyin": "",
@@ -6286,8 +6322,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "",
-              "related_bian_hao": ""
+              "related_han_zi": "䑋",
+              "related_bian_hao": "U+444B-nging5"
             }
           ],
           "pinyin": "",
@@ -6599,6 +6635,10 @@
             {
               "related_han_zi": "嘥",
               "related_bian_hao": "U+5625-sloi1"
+            },
+            {
+              "related_han_zi": "亨",
+              "related_bian_hao": "U+4EA8-haa1"
             }
           ],
           "pinyin": "",
@@ -6763,6 +6803,10 @@
             {
               "related_han_zi": "𬺈",
               "related_bian_hao": "U+2CE88-ngi4"
+            },
+            {
+              "related_han_zi": "𠼔",
+              "related_bian_hao": "U+20F14-zong4"
             }
           ],
           "pinyin": "",
@@ -7751,8 +7795,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "",
-              "related_bian_hao": ""
+              "related_han_zi": "𥼕",
+              "related_bian_hao": "U+25F15-lep8"
+            },
+            {
+              "related_han_zi": "nan3",
+              "related_bian_hao": "A+26-nan3"
             }
           ],
           "pinyin": "",
@@ -8395,8 +8443,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "",
-              "related_bian_hao": ""
+              "related_han_zi": "侧",
+              "related_bian_hao": "U+4FA7-zak7"
             }
           ],
           "pinyin": "",
@@ -9554,6 +9602,14 @@
             {
               "related_han_zi": "劸",
               "related_bian_hao": "U+52B8-lyk9"
+            },
+            {
+              "related_han_zi": "口",
+              "related_bian_hao": "U+53E3-hau2"
+            },
+            {
+              "related_han_zi": "脚",
+              "related_bian_hao": "U+811A-zaa2"
             }
           ],
           "pinyin": "",
@@ -9703,8 +9759,13 @@
           "id": "U+7F20-zin4",
           "unicode": "U+7F20",
           "character": "缠",
-          "optional_character": [],
-          "character_controversial_degree": "0",
+          "optional_character": [
+            {
+              "han_zi": "齴",
+              "bian_hao": "U+9F74"
+              }
+          ],
+          "character_controversial_degree": "2",
           "related_search": [
             {
               "related_han_zi": "",
@@ -9824,6 +9885,10 @@
             {
               "related_han_zi": "𪘧",
               "related_bian_hao": "U+2A627-lat7"
+            },
+            {
+              "related_han_zi": "𤜯",
+              "related_bian_hao": "U+2472F-ngap10"
             }
           ],
           "pinyin": "",
@@ -12952,7 +13017,7 @@
             {
               "han_zi": "𭛇",
               "bian_hao": "U+2D6C7"
-              }
+            }
           ],
           "character_controversial_degree": "1",
           "related_search": [
@@ -13005,7 +13070,7 @@
             {
               "han_zi": "𭛇",
               "bian_hao": "U+2D6C7"
-              }
+            }
           ],
           "character_controversial_degree": "1",
           "related_search": [
@@ -13238,8 +13303,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -13301,8 +13366,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "抎失",
+              "related_bian_hao": "W+15-wan sat"
+            },
+            {
+              "related_han_zi": "甩",
+              "related_bian_hao": "U+7529-lat7"
+            },
+            {
+              "related_han_zi": "甩",
+              "related_bian_hao": "U+7529-lyut7"
             }
           ],
           "pinyin": "",
@@ -13392,8 +13465,28 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "揞",
+              "related_bian_hao": "U+63DE-am2"
+            },
+            {
+              "related_han_zi": "㔶",
+              "related_bian_hao": "U+3536-kam2"
+            },
+            {
+              "related_han_zi": "扱",
+              "related_bian_hao": "U+6271-kap7"
+            },
+            {
+              "related_han_zi": "篷",
+              "related_bian_hao": "U+7BF7-bung4"
+            },
+            {
+              "related_han_zi": "zam3",
+              "related_bian_hao": "A+7-zam3"
+            },
+            {
+              "related_han_zi": "tang1",
+              "related_bian_hao": "A+47-tang1"
             }
           ],
           "pinyin": "",
@@ -13439,8 +13532,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -13520,8 +13613,28 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "肾",
+              "related_bian_hao": "U+80BE-san5"
+            },
+            {
+              "related_han_zi": "颓",
+              "related_bian_hao": "U+9893-dui4"
+            },
+            {
+              "related_han_zi": "薯",
+              "related_bian_hao": "U+85AF-syu5"
+            },
+            {
+              "related_han_zi": "𠋧",
+              "related_bian_hao": "U+202E7-hoe2"
+            },
+            {
+              "related_han_zi": "灵",
+              "related_bian_hao": "U+7075-ling1"
+            },
+            {
+              "related_han_zi": "戇",
+              "related_bian_hao": "U+6207-ngong3"
             }
           ],
           "pinyin": "",
@@ -13585,8 +13698,16 @@
           "character_controversial_degree": "2",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "蔸",
+              "related_bian_hao": "U+8538-ddau1"
+            },
+            {
+              "related_han_zi": "桛",
+              "related_bian_hao": "U+685B-kak7"
+            },
+            {
+              "related_han_zi": "jim2",
+              "related_bian_hao": "A+102-jim2"
             }
           ],
           "pinyin": "",
@@ -13674,8 +13795,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -13721,8 +13842,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -13785,8 +13906,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "焫",
+              "related_bian_hao": "U+712B-not8"
             }
           ],
           "pinyin": "",
@@ -13848,8 +13969,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "尕",
+              "related_bian_hao": "U+5C15-nai3"
             }
           ],
           "pinyin": "",
@@ -13965,8 +14086,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𭥊",
+              "related_bian_hao": "U+2D94A-ge6"
             }
           ],
           "pinyin": "",
@@ -14012,8 +14133,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "瘾",
+              "related_bian_hao": "U+763E-jan5"
             }
           ],
           "pinyin": "",
@@ -14085,8 +14206,28 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "肾",
+              "related_bian_hao": "U+80BE-san5"
+            },
+            {
+              "related_han_zi": "懵",
+              "related_bian_hao": "U+61F5-mung2"
+            },
+            {
+              "related_han_zi": "颓",
+              "related_bian_hao": "U+9893-dui4"
+            },
+            {
+              "related_han_zi": "薯",
+              "related_bian_hao": "U+85AF-syu5"
+            },
+            {
+              "related_han_zi": "𠋧",
+              "related_bian_hao": "U+202E7-hoe2"
+            },
+            {
+              "related_han_zi": "灵",
+              "related_bian_hao": "U+7075-ling1"
             }
           ],
           "pinyin": "",
@@ -14132,8 +14273,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "腍",
+              "related_bian_hao": "U+814D-nam4"
             }
           ],
           "pinyin": "",
@@ -14179,8 +14320,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𦝷",
+              "related_bian_hao": "U+26777-bbaa3"
+            },
+            {
+              "related_han_zi": "餩",
+              "related_bian_hao": "U+9929-ak7"
+            },
+            {
+              "related_han_zi": "𩟊",
+              "related_bian_hao": "U+297CA-njaa3"
+            },
+            {
+              "related_han_zi": "漮",
+              "related_bian_hao": "U+6F2E-ung6"
             }
           ],
           "pinyin": "",
@@ -14226,8 +14379,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "脚",
+              "related_bian_hao": "U+811A-zaa2"
+            },
+            {
+              "related_han_zi": "口",
+              "related_bian_hao": "U+53E3-hau2"
             }
           ],
           "pinyin": "",
@@ -14281,8 +14438,24 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "冚",
+              "related_bian_hao": "U+519A-am6"
+            },
+            {
+              "related_han_zi": "长",
+              "related_bian_hao": "U+957F-zaa4"
+            },
+            {
+              "related_han_zi": "总",
+              "related_bian_hao": "U+603B-ddung2"
+            },
+            {
+              "related_han_zi": "齐",
+              "related_bian_hao": "U+9F50-dai4"
+            },
+            {
+              "related_han_zi": "冚BL",
+              "related_bian_hao": "P+7-am BL"
             }
           ],
           "pinyin": "",
@@ -14336,8 +14509,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "竭",
+              "related_bian_hao": "U+7AED-gat9"
+            },
+            {
+              "related_han_zi": "bbai1",
+              "related_bian_hao": "A+70-bbai1"
+            },
+            {
+              "related_han_zi": "𣲷",
+              "related_bian_hao": "U+23CB7-lop8"
+            },
+            {
+              "related_han_zi": "坺",
+              "related_bian_hao": "U+577A-bet10"
             }
           ],
           "pinyin": "",
@@ -14425,8 +14610,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "垌",
+              "related_bian_hao": "U+578C-dung6"
+            },
+            {
+              "related_han_zi": "坜",
+              "related_bian_hao": "U+575C-lik7"
+            },
+            {
+              "related_han_zi": "埒",
+              "related_bian_hao": "U+57D2-loet10"
+            },
+            {
+              "related_han_zi": "田控",
+              "related_bian_hao": "W+33-din hung"
             }
           ],
           "pinyin": "",
@@ -14472,8 +14669,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "忳",
+              "related_bian_hao": "U+5FF3-don4"
+            },
+            {
+              "related_han_zi": "擞",
+              "related_bian_hao": "U+64DE-slau2"
             }
           ],
           "pinyin": "",
@@ -14520,8 +14721,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -14541,8 +14742,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -14561,8 +14762,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "搛",
+              "related_bian_hao": "U+641B-gim1"
+            },
+            {
+              "related_han_zi": "箸",
+              "related_bian_hao": "U+7BB8-zyu5"
             }
           ],
           "pinyin": "",
@@ -14615,8 +14820,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -14705,8 +14910,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "破",
+              "related_bian_hao": "U+7834-peo3"
             }
           ],
           "pinyin": "",
@@ -14786,8 +14991,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "埿",
+              "related_bian_hao": "U+57FF-nai6"
             }
           ],
           "pinyin": "",
@@ -14824,8 +15029,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "齐",
+              "related_bian_hao": "U+9F50-dai4"
             }
           ],
           "pinyin": "",
@@ -14871,8 +15076,28 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "涴",
+              "related_bian_hao": "U+6DB4-weo3"
+            },
+            {
+              "related_han_zi": "nam1",
+              "related_bian_hao": "A+3-nam1"
+            },
+            {
+              "related_han_zi": "件成",
+              "related_bian_hao": "W+21-gin sing"
+            },
+            {
+              "related_han_zi": "𪞗",
+              "related_bian_hao": "U+2A797-noet8"
+            },
+            {
+              "related_han_zi": "溾",
+              "related_bian_hao": "U+6EBE-oi1"
+            },
+            {
+              "related_han_zi": "立",
+              "related_bian_hao": "U+7ACB-lap9"
             }
           ],
           "pinyin": "",
@@ -14918,8 +15143,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "撚",
+              "related_bian_hao": "U+649A-nan2"
+            },
+            {
+              "related_han_zi": "作",
+              "related_bian_hao": "U+4F5C-ddok8"
+            },
+            {
+              "related_han_zi": "ban5",
+              "related_bian_hao": "A+9-ban5"
             }
           ],
           "pinyin": "",
@@ -14999,8 +15232,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "至诚",
+              "related_bian_hao": "W+23-zi sing"
+            },
+            {
+              "related_han_zi": "威",
+              "related_bian_hao": "U+5A01-wai1"
+            },
+            {
+              "related_han_zi": "陋",
+              "related_bian_hao": "U+964B-lau6"
+            },
+            {
+              "related_han_zi": "裨",
+              "related_bian_hao": "U+88E8-bbai3"
             }
           ],
           "pinyin": "",
@@ -15150,8 +15395,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "喃",
+              "related_bian_hao": "U+5583-nom1"
+            },
+            {
+              "related_han_zi": "吟",
+              "related_bian_hao": "U+541F-ngam6"
+            },
+            {
+              "related_han_zi": "论",
+              "related_bian_hao": "U+8BBA-lan1"
+            },
+            {
+              "related_han_zi": "𬺈",
+              "related_bian_hao": "U+2CE88-ngi4"
             }
           ],
           "pinyin": "",
@@ -15197,8 +15454,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "撅",
+              "related_bian_hao": "U+6485-gyut7"
             }
           ],
           "pinyin": "",
@@ -15270,8 +15527,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "曾",
+              "related_bian_hao": "U+66FE-dang4"
+            },
+            {
+              "related_han_zi": "在",
+              "related_bian_hao": "U+5728-doi5"
+            },
+            {
+              "related_han_zi": "ぁ",
+              "related_bian_hao": "A+a"
+            },
+            {
+              "related_han_zi": "sing6",
+              "related_bian_hao": "A+45-sing6"
             }
           ],
           "pinyin": "",
@@ -15343,8 +15612,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𪐀",
+              "related_bian_hao": "U+2A400-no1"
+            },
+            {
+              "related_han_zi": "踦",
+              "related_bian_hao": "U+8E26-nge3"
+            },
+            {
+              "related_han_zi": "𢉥",
+              "related_bian_hao": "U+22265-et8"
             }
           ],
           "pinyin": "",
@@ -15424,8 +15701,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "鞠",
+              "related_bian_hao": "U+97A0-nguk7"
             }
           ],
           "pinyin": "",
@@ -15471,8 +15748,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -15509,8 +15786,16 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𫝎",
+              "related_bian_hao": "U+2B74E-gan3"
+            },
+            {
+              "related_han_zi": "凐",
+              "related_bian_hao": "U+51D0-jan1"
+            },
+            {
+              "related_han_zi": "晾",
+              "related_bian_hao": "U+667E-long6"
             }
           ],
           "pinyin": "",
@@ -15561,8 +15846,24 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "挒",
+              "related_bian_hao": "U+6312-let8"
+            },
+            {
+              "related_han_zi": "㔶",
+              "related_bian_hao": "U+3536-kam2"
+            },
+            {
+              "related_han_zi": "扱",
+              "related_bian_hao": "U+6271-kap7"
+            },
+            {
+              "related_han_zi": "篷",
+              "related_bian_hao": "U+7BF7-bung4"
+            },
+            {
+              "related_han_zi": "幎",
+              "related_bian_hao": "U+5E4E-ming1"
             }
           ],
           "pinyin": "",
@@ -15676,8 +15977,12 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "摏",
+              "related_bian_hao": "U+644F-zung1"
+            },
+            {
+              "related_han_zi": "gak9",
+              "related_bian_hao": "A+58-gak9"
             }
           ],
           "pinyin": "",
@@ -15749,8 +16054,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "执",
+              "related_bian_hao": "U+6267-zap7"
+            },
+            {
+              "related_han_zi": "擸",
+              "related_bian_hao": "U+64F8-lop8"
             }
           ],
           "pinyin": "",
@@ -15796,8 +16105,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "呷",
+              "related_bian_hao": "U+5477-hop8"
+            },
+            {
+              "related_han_zi": "欶",
+              "related_bian_hao": "U+6B36-sok8"
             }
           ],
           "pinyin": "",
@@ -15844,8 +16157,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -15864,8 +16177,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -15902,8 +16215,28 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "立",
+              "related_bian_hao": "U+7ACB-lap9"
+            },
+            {
+              "related_han_zi": "漝",
+              "related_bian_hao": "U+6F1D-slap7"
+            },
+            {
+              "related_han_zi": "ni ni nang nang",
+              "related_bian_hao": "P+17-ni ni nang nang"
+            },
+            {
+              "related_han_zi": "粉",
+              "related_bian_hao": "U+7C89-fan2"
+            },
+            {
+              "related_han_zi": "水",
+              "related_bian_hao": "U+6C34-sui2"
+            },
+            {
+              "related_han_zi": "湿",
+              "related_bian_hao": "U+6E7F-sap7"
             }
           ],
           "pinyin": "",
@@ -15983,8 +16316,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "徼",
+              "related_bian_hao": "U+5FBC-geu2"
+            },
+            {
+              "related_han_zi": "陪",
+              "related_bian_hao": "U+966A-bbui1"
             }
           ],
           "pinyin": "",
@@ -16056,8 +16393,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "阔",
+              "related_bian_hao": "U+9614-wut7"
             }
           ],
           "pinyin": "",
@@ -16103,8 +16440,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -16141,8 +16478,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -16196,8 +16533,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "䑜",
+              "related_bian_hao": "U+445C-ddip7"
+            },
+            {
+              "related_han_zi": "欶",
+              "related_bian_hao": "U+6B36-sok8"
             }
           ],
           "pinyin": "",
@@ -16243,8 +16584,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "摣",
+              "related_bian_hao": "U+6463-njo1"
+            },
+            {
+              "related_han_zi": "樸",
+              "related_bian_hao": "U+6A38-buk9"
             }
           ],
           "pinyin": "",
@@ -16290,8 +16635,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -16381,8 +16726,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "揩",
+              "related_bian_hao": "U+63E9-hoi1"
+            },
+            {
+              "related_han_zi": "盪",
+              "related_bian_hao": "U+76EA-long2"
             }
           ],
           "pinyin": "",
@@ -16436,8 +16785,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "粒",
+              "related_bian_hao": "U+7C92-nap7"
             }
           ],
           "pinyin": "",
@@ -16483,8 +16832,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -16608,8 +16957,28 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "揞",
+              "related_bian_hao": "U+63DE-am2"
+            },
+            {
+              "related_han_zi": "㔶",
+              "related_bian_hao": "U+3536-kam2"
+            },
+            {
+              "related_han_zi": "篷",
+              "related_bian_hao": "U+7BF7-bung4"
+            },
+            {
+              "related_han_zi": "幎",
+              "related_bian_hao": "U+5E4E-ming1"
+            },
+            {
+              "related_han_zi": "zam3",
+              "related_bian_hao": "A+7-zam3"
+            },
+            {
+              "related_han_zi": "tang1",
+              "related_bian_hao": "A+47-tang1"
             }
           ],
           "pinyin": "",
@@ -16742,8 +17111,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "逐",
+              "related_bian_hao": "U+9010-dduk7"
             }
           ],
           "pinyin": "",
@@ -16774,6 +17143,14 @@
                         "zh": "把这只鸡赶出去",
                         "en": "Drive this chicken out"
                       }
+                    },
+                    {
+                      "prefix": "",
+                      "suffix": "{U+4F62-gyu5}{U+8A83-ce2}",
+                      "descriptions": {
+                        "zh": "赶他走",
+                        "en": "Drive him away"
+                      }
                     }
                   ]
                 }
@@ -16789,8 +17166,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "佮",
+              "related_bian_hao": "U+4F6E-gop8"
+            },
+            {
+              "related_han_zi": "叠",
+              "related_bian_hao": "U+53E0-dep10"
+            },
+            {
+              "related_han_zi": "陪",
+              "related_bian_hao": "U+966A-bbui1"
             }
           ],
           "pinyin": "",
@@ -16836,8 +17221,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "荒",
+              "related_bian_hao": "U+8352-wong1"
             }
           ],
           "pinyin": "",
@@ -16901,8 +17286,24 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "䇭",
+              "related_bian_hao": "U+41ED-leou2"
+            },
+            {
+              "related_han_zi": "蔂",
+              "related_bian_hao": "U+8502-lui1"
+            },
+            {
+              "related_han_zi": "篱",
+              "related_bian_hao": "U+7BF1-lyu1"
+            },
+            {
+              "related_han_zi": "筴",
+              "related_bian_hao": "U+7B74-cak7"
+            },
+            {
+              "related_han_zi": "簕",
+              "related_bian_hao": "U+7C15-lak9"
             }
           ],
           "pinyin": "",
@@ -16948,8 +17349,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "垽",
+              "related_bian_hao": "U+57BD-nan1"
+            },
+            {
+              "related_han_zi": "nan3",
+              "related_bian_hao": "A+26-nan3"
             }
           ],
           "pinyin": "",
@@ -17012,8 +17417,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𠱃",
+              "related_bian_hao": "U+20C43-nap7"
+            },
+            {
+              "related_han_zi": "卧",
+              "related_bian_hao": "U+5367-meo3"
+            },
+            {
+              "related_han_zi": "mau3",
+              "related_bian_hao": "A+90-mau3"
+            },
+            {
+              "related_han_zi": "煛",
+              "related_bian_hao": "U+715B-gwing2"
             }
           ],
           "pinyin": "",
@@ -17073,8 +17490,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "车",
+              "related_bian_hao": "U+8F66-ce1"
             }
           ],
           "pinyin": "",
@@ -17128,8 +17545,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "凹",
+              "related_bian_hao": "U+51F9-map7"
+            },
+            {
+              "related_han_zi": "卧",
+              "related_bian_hao": "U+5367-meo3"
+            },
+            {
+              "related_han_zi": "mau3",
+              "related_bian_hao": "A+90-mau3"
+            },
+            {
+              "related_han_zi": "煛",
+              "related_bian_hao": "U+715B-gwing2"
             }
           ],
           "pinyin": "",
@@ -17175,8 +17604,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "啲",
+              "related_bian_hao": "U+5572-ni01"
             }
           ],
           "pinyin": "",
@@ -17249,8 +17678,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -17269,8 +17698,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "ngai5",
+              "related_bian_hao": "A+92-ngai5"
+            },
+            {
+              "related_han_zi": "糯",
+              "related_bian_hao": "U+7CEF-noe3"
+            },
+            {
+              "related_han_zi": "摩",
+              "related_bian_hao": "U+6469-meo1"
+            },
+            {
+              "related_han_zi": "⿰忄南",
+              "related_bian_hao": "U+30473-nam6"
             }
           ],
           "pinyin": "",
@@ -17307,8 +17748,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "啀",
+              "related_bian_hao": "U+5540-njoi3"
+            },
+            {
+              "related_han_zi": "齴",
+              "related_bian_hao": "U+9F74-njen2"
+            },
+            {
+              "related_han_zi": "𪘧",
+              "related_bian_hao": "U+2A627-lat7"
             }
           ],
           "pinyin": "",
@@ -17355,8 +17804,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -17375,8 +17824,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "搬",
+              "related_bian_hao": "U+642C-bbun1"
+            },
+            {
+              "related_han_zi": "倾",
+              "related_bian_hao": "U+503E-king1"
+            },
+            {
+              "related_han_zi": "哵",
+              "related_bian_hao": "U+54F5-bbet8"
             }
           ],
           "pinyin": "",
@@ -17422,8 +17879,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -17495,8 +17952,24 @@
           "character_controversial_degree": "2",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "搦",
+              "related_bian_hao": "U+6426-nik7"
+            },
+            {
+              "related_han_zi": "攞",
+              "related_bian_hao": "U+651E-leo2"
+            },
+            {
+              "related_han_zi": "挈",
+              "related_bian_hao": "U+6308-jit7"
+            },
+            {
+              "related_han_zi": "𢳀",
+              "related_bian_hao": "U+22CC0-mo1"
+            },
+            {
+              "related_han_zi": "𢺡",
+              "related_bian_hao": "U+22EA1-zuk9"
             }
           ],
           "pinyin": "",
@@ -17542,8 +18015,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "黐",
+              "related_bian_hao": "U+9ED0-ci3"
             }
           ],
           "pinyin": "",
@@ -17598,8 +18071,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "激",
+              "related_bian_hao": "U+6FC0-gik7"
             }
           ],
           "pinyin": "",
@@ -17645,8 +18118,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "熝",
+              "related_bian_hao": "U+719D-luk7"
+            },
+            {
+              "related_han_zi": "煲",
+              "related_bian_hao": "U+7172-bbeou1"
             }
           ],
           "pinyin": "",
@@ -17692,8 +18169,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "杂",
+              "related_bian_hao": "U+6742-dop10"
+            },
+            {
+              "related_han_zi": "水",
+              "related_bian_hao": "U+6C34-sui2"
+            },
+            {
+              "related_han_zi": "粉",
+              "related_bian_hao": "U+7C89-fan2"
             }
           ],
           "pinyin": "",
@@ -17730,8 +18215,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -17777,8 +18262,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "吱𠽻",
+              "related_bian_hao": "P+16-zi zet"
+            },
+            {
+              "related_han_zi": "ni ni nang nang",
+              "related_bian_hao": "P+17-ni ni nang nang"
             }
           ],
           "pinyin": "",
@@ -17824,8 +18313,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -17862,8 +18351,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "䌪",
+              "related_bian_hao": "U+432A-jam3"
             }
           ],
           "pinyin": "",
@@ -17943,8 +18432,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -17999,8 +18488,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "遮",
+              "related_bian_hao": "U+906E-ze1"
             }
           ],
           "pinyin": "",
@@ -18053,8 +18542,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "间",
+              "related_bian_hao": "U+95F4-gon3"
             }
           ],
           "pinyin": "",
@@ -18100,8 +18589,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "叠",
+              "related_bian_hao": "U+53E0-dep10"
+            },
+            {
+              "related_han_zi": "擸",
+              "related_bian_hao": "U+64F8-lop8"
             }
           ],
           "pinyin": "",
@@ -18207,8 +18700,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "挃",
+              "related_bian_hao": "U+6303-zat7"
             }
           ],
           "pinyin": "",
@@ -18262,8 +18755,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "塽",
+              "related_bian_hao": "U+587D-song3"
+            },
+            {
+              "related_han_zi": "竭",
+              "related_bian_hao": "U+7AED-gat9"
+            },
+            {
+              "related_han_zi": "bbai1",
+              "related_bian_hao": "A+70-bbai1"
+            },
+            {
+              "related_han_zi": "坺",
+              "related_bian_hao": "U+577A-bet10"
             }
           ],
           "pinyin": "",
@@ -18301,8 +18806,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -18321,8 +18826,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -18376,8 +18881,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -18423,8 +18928,16 @@
           "character_controversial_degree": "2",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "阵",
+              "related_bian_hao": "U+9635-zan6"
+            },
+            {
+              "related_han_zi": "口",
+              "related_bian_hao": "U+53E3-hau2"
+            },
+            {
+              "related_han_zi": "脚",
+              "related_bian_hao": "U+811A-zaa2"
             }
           ],
           "pinyin": "",
@@ -18470,8 +18983,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "䑋",
+              "related_bian_hao": "U+444B-nging5"
             }
           ],
           "pinyin": "",
@@ -18533,8 +19046,24 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𢡉",
+              "related_bian_hao": "U+22849-sap7"
+            },
+            {
+              "related_han_zi": "悭",
+              "related_bian_hao": "U+60AD-hon1"
+            },
+            {
+              "related_han_zi": "靳",
+              "related_bian_hao": "U+9773-kan3"
+            },
+            {
+              "related_han_zi": "亨",
+              "related_bian_hao": "U+4EA8-haa1"
+            },
+            {
+              "related_han_zi": "嘥",
+              "related_bian_hao": "U+5625-sloi1"
             }
           ],
           "pinyin": "",
@@ -18580,8 +19109,24 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𢡉",
+              "related_bian_hao": "U+22849-njap7"
+            },
+            {
+              "related_han_zi": "悭",
+              "related_bian_hao": "U+60AD-hon1"
+            },
+            {
+              "related_han_zi": "靳",
+              "related_bian_hao": "U+9773-kan3"
+            },
+            {
+              "related_han_zi": "亨",
+              "related_bian_hao": "U+4EA8-haa1"
+            },
+            {
+              "related_han_zi": "嘥",
+              "related_bian_hao": "U+5625-sloi1"
             }
           ],
           "pinyin": "",
@@ -18627,8 +19172,8 @@
           "character_controversial_degree": "2",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -18665,8 +19210,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -18712,8 +19257,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "樸",
+              "related_bian_hao": "U+6A38-buk9"
             }
           ],
           "pinyin": "",
@@ -18759,8 +19304,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "䰃",
+              "related_bian_hao": "U+4C03-baa4"
             }
           ],
           "pinyin": "",
@@ -18814,8 +19359,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -18903,8 +19448,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𦚝",
+              "related_bian_hao": "U+2669D-pyng2"
+            },
+            {
+              "related_han_zi": "滮",
+              "related_bian_hao": "U+6EEE-bbeu1"
             }
           ],
           "pinyin": "",
@@ -18941,8 +19490,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -18988,8 +19537,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "㖷",
+              "related_bian_hao": "U+35B7-si5"
+            },
+            {
+              "related_han_zi": "nung2",
+              "related_bian_hao": "A+42-nung2"
             }
           ],
           "pinyin": "",
@@ -19035,8 +19588,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -19090,8 +19643,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -19137,8 +19690,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -19210,8 +19763,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𭝞",
+              "related_bian_hao": "U+2D75E-gwoi5"
+            },
+            {
+              "related_han_zi": "tam2",
+              "related_bian_hao": "A+6-tam2"
+            },
+            {
+              "related_han_zi": "勶",
+              "related_bian_hao": "U+52F6-cit7"
             }
           ],
           "pinyin": "",
@@ -19283,8 +19844,8 @@
           "character_controversial_degree": "2",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "⿱狂丢",
+              "related_bian_hao": "U+31363-kwaa3"
             }
           ],
           "pinyin": "",
@@ -19330,8 +19891,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "蔸",
+              "related_bian_hao": "U+8538-ddau1"
             }
           ],
           "pinyin": "",
@@ -19385,8 +19946,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𡲢",
+              "related_bian_hao": "U+21CA2-ke1"
+            },
+            {
+              "related_han_zi": "放马",
+              "related_bian_hao": "w+83-fong mo"
+            },
+            {
+              "related_han_zi": "炸牛",
+              "related_bian_hao": "w+84-zo njau"
+            },
+            {
+              "related_han_zi": "屙",
+              "related_bian_hao": "U+5C59-eo1"
             }
           ],
           "pinyin": "",
@@ -19432,8 +20005,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "塽",
+              "related_bian_hao": "U+587D-song3"
+            },
+            {
+              "related_han_zi": "竭",
+              "related_bian_hao": "U+7AED-gat9"
+            },
+            {
+              "related_han_zi": "bbai1",
+              "related_bian_hao": "A+70-bbai1"
+            },
+            {
+              "related_han_zi": "𣲷",
+              "related_bian_hao": "U+23CB7-lop8"
             }
           ],
           "pinyin": "",
@@ -19470,8 +20055,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "敨",
+              "related_bian_hao": "U+6568-tau2"
+            },
+            {
+              "related_han_zi": "鬱",
+              "related_bian_hao": "U+9B31-wat7"
+            },
+            {
+              "related_han_zi": "噈",
+              "related_bian_hao": "U+5648-tuk7"
+            },
+            {
+              "related_han_zi": "欶",
+              "related_bian_hao": "U+6B36-sok8"
             }
           ],
           "pinyin": "",
@@ -19595,8 +20192,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -19633,8 +20230,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𠲺",
+              "related_bian_hao": "U+20CBA-ngap7"
             }
           ],
           "pinyin": "",
@@ -19680,8 +20277,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "屙",
+              "related_bian_hao": "U+5C59-eo1"
             }
           ],
           "pinyin": "",
@@ -19744,8 +20341,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -19783,8 +20380,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -19804,8 +20401,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -19842,8 +20439,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -19897,8 +20494,12 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𢳂",
+              "related_bian_hao": "U+22CC2-bbat7"
+            },
+            {
+              "related_han_zi": "撇",
+              "related_bian_hao": "U+6487-pit7"
             }
           ],
           "pinyin": "",
@@ -19952,8 +20553,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "窒",
+              "related_bian_hao": "U+7A92-zat7"
+            },
+            {
+              "related_han_zi": "挃",
+              "related_bian_hao": "U+6303-zat7"
             }
           ],
           "pinyin": "",
@@ -20016,8 +20621,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -20081,8 +20686,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -20152,8 +20757,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "dap9",
+              "related_bian_hao": "A+49-dap9"
             }
           ],
           "pinyin": "",
@@ -20217,8 +20822,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "殆",
+              "related_bian_hao": "U+6B86-ddai1"
             }
           ],
           "pinyin": "",
@@ -20309,6 +20914,14 @@
                         "zh": "这件衣服太贵了",
                         "en": "This garment is too expensive"
                       }
+                    },
+                    {
+                      "prefix": "我{U+96BB-zik7}脚痛",
+                      "suffix": "",
+                      "descriptions": {
+                        "zh": "我的脚疼死了",
+                        "en": "My foot hurts so much"
+                      }
                     }
                   ]
                 }
@@ -20324,8 +20937,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -20379,8 +20992,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -20426,8 +21039,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𧰵",
+              "related_bian_hao": "U+27C35-dduk7"
             }
           ],
           "pinyin": "",
@@ -20507,8 +21120,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "行",
+              "related_bian_hao": "U+884C-aa4"
             }
           ],
           "pinyin": "",
@@ -20545,8 +21158,32 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "摏",
+              "related_bian_hao": "U+644F-zung1"
+            },
+            {
+              "related_han_zi": "矺",
+              "related_bian_hao": "U+77FA-ddik7"
+            },
+            {
+              "related_han_zi": "搉",
+              "related_bian_hao": "U+6409-gwak7"
+            },
+            {
+              "related_han_zi": "㪏",
+              "related_bian_hao": "U+3A8F-bbai1"
+            },
+            {
+              "related_han_zi": "扻",
+              "related_bian_hao": "U+627B-kam2"
+            },
+            {
+              "related_han_zi": "箾",
+              "related_bian_hao": "U+7BBE-sak7"
+            },
+            {
+              "related_han_zi": "捎",
+              "related_bian_hao": "U+634E-so3"
             }
           ],
           "pinyin": "",
@@ -20592,8 +21229,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "塽",
+              "related_bian_hao": "U+587D-song3"
+            },
+            {
+              "related_han_zi": "bbai1",
+              "related_bian_hao": "A+70-bbai1"
+            },
+            {
+              "related_han_zi": "𣲷",
+              "related_bian_hao": "U+23CB7-lop8"
+            },
+            {
+              "related_han_zi": "坺",
+              "related_bian_hao": "U+577A-bet10"
             }
           ],
           "pinyin": "",
@@ -20652,8 +21301,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𫥶",
+              "related_bian_hao": "U+2B976-mun5"
+            },
+            {
+              "related_han_zi": "taa3",
+              "related_bian_hao": "A+67-taa3"
             }
           ],
           "pinyin": "",
@@ -20749,8 +21402,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -20787,8 +21440,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -20851,8 +21504,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "扖",
+              "related_bian_hao": "U+6256-njap7"
+            },
+            {
+              "related_han_zi": "搦",
+              "related_bian_hao": "U+6426-nik7"
+            },
+            {
+              "related_han_zi": "攞",
+              "related_bian_hao": "U+651E-leo2"
             }
           ],
           "pinyin": "",
@@ -20898,8 +21559,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "翳",
+              "related_bian_hao": "U+7FF3-ai3"
             }
           ],
           "pinyin": "",
@@ -20953,8 +21614,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "㹃",
+              "related_bian_hao": "U+3E43-pe3"
             }
           ],
           "pinyin": "",
@@ -21008,8 +21669,20 @@
           "character_controversial_degree": "2",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "蔸",
+              "related_bian_hao": "U+8538-ddau1"
+            },
+            {
+              "related_han_zi": "礞",
+              "related_bian_hao": "U+791E-mung3"
+            },
+            {
+              "related_han_zi": "坴",
+              "related_bian_hao": "U+5774-luk7"
+            },
+            {
+              "related_han_zi": "架",
+              "related_bian_hao": "U+67B6-go3"
             }
           ],
           "pinyin": "",
@@ -21089,8 +21762,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𠰃",
+              "related_bian_hao": "U+20C03-njam2"
             }
           ],
           "pinyin": "",
@@ -21127,8 +21800,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "硞",
+              "related_bian_hao": "U+785E-kak7"
             }
           ],
           "pinyin": "",
@@ -21174,8 +21847,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "齴",
+              "related_bian_hao": "U+9F74-njen2"
+            },
+            {
+              "related_han_zi": "啀",
+              "related_bian_hao": "U+5540-njoi3"
+            },
+            {
+              "related_han_zi": "𤜯",
+              "related_bian_hao": "U+2472F-ngap10"
             }
           ],
           "pinyin": "",
@@ -21237,8 +21918,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "擢",
+              "related_bian_hao": "U+64E2-tuk7"
             }
           ],
           "pinyin": "",
@@ -21318,8 +21999,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "㳌",
+              "related_bian_hao": "U+3CCC-ap7"
             }
           ],
           "pinyin": "",
@@ -21365,8 +22046,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𬾂",
+              "related_bian_hao": "U+2CF82-lang3"
             }
           ],
           "pinyin": "",
@@ -21412,8 +22093,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𬾂",
+              "related_bian_hao": "U+2CF82-lang3"
             }
           ],
           "pinyin": "",
@@ -21482,8 +22163,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "垌",
+              "related_bian_hao": "U+578C-dung6"
+            },
+            {
+              "related_han_zi": "坜",
+              "related_bian_hao": "U+575C-lik7"
+            },
+            {
+              "related_han_zi": "塍",
+              "related_bian_hao": "U+584D-syng4"
+            },
+            {
+              "related_han_zi": "田控",
+              "related_bian_hao": "W+33-din hung"
             }
           ],
           "pinyin": "",
@@ -21537,8 +22230,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -21584,8 +22277,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "绹",
+              "related_bian_hao": "U+7EF9-deou4"
+            },
+            {
+              "related_han_zi": "辮",
+              "related_bian_hao": "U+8FAE-bben2"
             }
           ],
           "pinyin": "",
@@ -21631,8 +22328,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "礐",
+              "related_bian_hao": "U+7910-lak7"
             }
           ],
           "pinyin": "",
@@ -21669,8 +22366,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -21716,8 +22413,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -21779,8 +22476,28 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "烃",
+              "related_bian_hao": "U+70C3-hang3"
+            },
+            {
+              "related_han_zi": "膉",
+              "related_bian_hao": "U+8189-ik7"
+            },
+            {
+              "related_han_zi": "衰",
+              "related_bian_hao": "U+8870-sui1"
+            },
+            {
+              "related_han_zi": "好彩",
+              "related_bian_hao": "W+6-heou toi"
+            },
+            {
+              "related_han_zi": "惜",
+              "related_bian_hao": "U+60DC-slik7"
+            },
+            {
+              "related_han_zi": "得",
+              "related_bian_hao": "U+5F97-ddak7"
             }
           ],
           "pinyin": "",
@@ -21831,7 +22548,7 @@
                   },
                   "sentences": [
                     {
-                      "prefix": "{U+6B63-zing3}{U+5B97-ddung1}够衰",
+                      "prefix": "{U+6B63-zing3}{U+5B97-ddung1}够{U+8870-sui1}",
                       "suffix": "！连住输十{U+94FA-pu1}",
                       "descriptions": {
                         "zh": "真是倒了血霉！连着输了十局",
@@ -21852,8 +22569,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "㖷",
+              "related_bian_hao": "U+35B7-si5"
+            },
+            {
+              "related_han_zi": "䮇",
+              "related_bian_hao": "U+4B87-lat9"
             }
           ],
           "pinyin": "",
@@ -21899,8 +22620,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -21982,8 +22703,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "长",
+              "related_bian_hao": "U+957F-zaa4"
             }
           ],
           "pinyin": "",
@@ -22038,8 +22759,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -22085,8 +22806,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "摣",
+              "related_bian_hao": "U+6463-njo1"
+            },
+            {
+              "related_han_zi": "dde1",
+              "related_bian_hao": "A+73-dde1"
             }
           ],
           "pinyin": "",
@@ -22244,8 +22969,28 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "熝",
+              "related_bian_hao": "U+719D-luk7"
+            },
+            {
+              "related_han_zi": "㶶",
+              "related_bian_hao": "U+3DB6-nung1"
+            },
+            {
+              "related_han_zi": "爁",
+              "related_bian_hao": "U+7201-lem1"
+            },
+            {
+              "related_han_zi": "𫝎",
+              "related_bian_hao": "U+2B74E-gan3"
+            },
+            {
+              "related_han_zi": "煏",
+              "related_bian_hao": "U+714F-bbik7"
+            },
+            {
+              "related_han_zi": "炙",
+              "related_bian_hao": "U+7099-zyk7"
             }
           ],
           "pinyin": "",
@@ -22325,8 +23070,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "惹",
+              "related_bian_hao": "U+60F9-nje5"
+            },
+            {
+              "related_han_zi": "抹",
+              "related_bian_hao": "U+62B9-mot10"
+            },
+            {
+              "related_han_zi": "扱",
+              "related_bian_hao": "U+6271-kap7"
+            },
+            {
+              "related_han_zi": "捼",
+              "related_bian_hao": "U+637C-noe1"
             }
           ],
           "pinyin": "",
@@ -22388,8 +23145,28 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "荒",
+              "related_bian_hao": "U+8352-wong1"
+            },
+            {
+              "related_han_zi": "涴",
+              "related_bian_hao": "U+6DB4-weo3"
+            },
+            {
+              "related_han_zi": "nam1",
+              "related_bian_hao": "A+3-nam1"
+            },
+            {
+              "related_han_zi": "件成",
+              "related_bian_hao": "W+21-gin sing"
+            },
+            {
+              "related_han_zi": "溾",
+              "related_bian_hao": "U+6EBE-oi1"
+            },
+            {
+              "related_han_zi": "立",
+              "related_bian_hao": "U+7ACB-lap9"
             }
           ],
           "pinyin": "",
@@ -22435,8 +23212,24 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "礐",
+              "related_bian_hao": "U+7910-lak7"
+            },
+            {
+              "related_han_zi": "硞",
+              "related_bian_hao": "U+785E-kak7"
+            },
+            {
+              "related_han_zi": "㪐",
+              "related_bian_hao": "U+3A90-lat7"
+            },
+            {
+              "related_han_zi": "㩿",
+              "related_bian_hao": "U+3A7F-kat7"
+            },
+            {
+              "related_han_zi": "ngak8 ngoe2",
+              "related_bian_hao": "P+28-ngak ngoe"
             }
           ],
           "pinyin": "",
@@ -22482,8 +23275,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𠵛",
+              "related_bian_hao": "U+20D5B-nguk9"
             }
           ],
           "pinyin": "",
@@ -22537,8 +23330,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -22592,8 +23385,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "凉",
+              "related_bian_hao": "U+51C9-laa4"
             }
           ],
           "pinyin": "",
@@ -22709,8 +23502,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𧨾",
+              "related_bian_hao": "U+27A3E-tam3"
+            },
+            {
+              "related_han_zi": "謴",
+              "related_bian_hao": "U+8B34-gwan3"
+            },
+            {
+              "related_han_zi": "𧦠",
+              "related_bian_hao": "U+279A0-ngak7"
+            },
+            {
+              "related_han_zi": "luk7",
+              "related_bian_hao": "A+62-luk7"
             }
           ],
           "pinyin": "",
@@ -22756,8 +23561,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "⿱狂丢",
+              "related_bian_hao": "U+31363-kwaa3"
+            },
+            {
+              "related_han_zi": "勶",
+              "related_bian_hao": "U+52F6-cit7"
             }
           ],
           "pinyin": "",
@@ -22871,8 +23680,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -22918,8 +23727,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "稳",
+              "related_bian_hao": "U+7A33-wan2"
             }
           ],
           "pinyin": "",
@@ -22974,8 +23783,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -22995,8 +23804,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -23015,8 +23824,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "甩",
+              "related_bian_hao": "U+7529-lyut7"
+            },
+            {
+              "related_han_zi": "甩",
+              "related_bian_hao": "U+7529-lat7"
             }
           ],
           "pinyin": "",
@@ -23086,8 +23899,24 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "閪",
+              "related_bian_hao": "U+95AA-hai1"
+            },
+            {
+              "related_han_zi": "屄",
+              "related_bian_hao": "U+5C44-bbe1"
+            },
+            {
+              "related_han_zi": "屄",
+              "related_bian_hao": "U+5C44-be5"
+            },
+            {
+              "related_han_zi": "核子",
+              "related_bian_hao": "w+75-aa ddi"
+            },
+            {
+              "related_han_zi": "核脧",
+              "related_bian_hao": "w+76-aa ge"
             }
           ],
           "pinyin": "",
@@ -23172,8 +24001,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "擢",
+              "related_bian_hao": "U+64E2-tuk7"
+            },
+            {
+              "related_han_zi": "焗",
+              "related_bian_hao": "U+7117-guk9"
             }
           ],
           "pinyin": "",
@@ -23227,8 +24060,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "看",
+              "related_bian_hao": "U+770B-hon1"
             }
           ],
           "pinyin": "",
@@ -23282,8 +24115,24 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "⿰米灭",
+              "related_bian_hao": "U+30AB3-bbat7"
+            },
+            {
+              "related_han_zi": "焗",
+              "related_bian_hao": "U+7117-guk9"
+            },
+            {
+              "related_han_zi": "焗",
+              "related_bian_hao": "U+7117-gyk9"
+            },
+            {
+              "related_han_zi": "緻",
+              "related_bian_hao": "U+7DFB-di6"
+            },
+            {
+              "related_han_zi": "㳌",
+              "related_bian_hao": "U+3CCC-ap7"
             }
           ],
           "pinyin": "",
@@ -23336,8 +24185,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "狭",
+              "related_bian_hao": "U+72ED-gep10"
             }
           ],
           "pinyin": "",
@@ -23383,8 +24232,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "㞘",
+              "related_bian_hao": "U+3798-dduk7"
+            },
+            {
+              "related_han_zi": "揙",
+              "related_bian_hao": "U+63D9-bban2"
             }
           ],
           "pinyin": "",
@@ -23421,8 +24274,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -23477,8 +24330,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -23497,8 +24350,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𤗈",
+              "related_bian_hao": "U+245C8-slep8"
             }
           ],
           "pinyin": "",
@@ -23552,8 +24405,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "椊",
+              "related_bian_hao": "U+690A-dat9"
+            },
+            {
+              "related_han_zi": "硞",
+              "related_bian_hao": "U+785E-kak7"
+            },
+            {
+              "related_han_zi": "㩿",
+              "related_bian_hao": "U+3A7F-kat7"
             }
           ],
           "pinyin": "",
@@ -23599,8 +24460,12 @@
           "character_controversial_degree": "2",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "㖷",
+              "related_bian_hao": "U+35B7-si5"
+            },
+            {
+              "related_han_zi": "乜",
+              "related_bian_hao": "U+4E5C-mat7"
             }
           ],
           "pinyin": "",
@@ -23647,8 +24512,8 @@
           "character_controversial_degree": "2",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -23667,8 +24532,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -23714,8 +24579,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "礊",
+              "related_bian_hao": "U+790A-fak7"
+            },
+            {
+              "related_han_zi": "礊",
+              "related_bian_hao": "U+790A-fak9"
+            },
+            {
+              "related_han_zi": "砳",
+              "related_bian_hao": "U+7833-lak7"
             }
           ],
           "pinyin": "",
@@ -23769,8 +24642,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "dde1",
+              "related_bian_hao": "A+73-dde1"
             }
           ],
           "pinyin": "",
@@ -23825,8 +24698,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -23845,8 +24718,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "擁",
+              "related_bian_hao": "U+64C1-ung2"
+            },
+            {
+              "related_han_zi": "zyu5",
+              "related_bian_hao": "A+96-zyu5"
+            },
+            {
+              "related_han_zi": "踦",
+              "related_bian_hao": "U+8E26-nge3"
             }
           ],
           "pinyin": "",
@@ -23935,8 +24816,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -23955,8 +24836,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "掬",
+              "related_bian_hao": "U+63AC-guk7"
             }
           ],
           "pinyin": "",
@@ -24002,8 +24883,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "担",
+              "related_bian_hao": "U+62C5-ddom1"
             }
           ],
           "pinyin": "",
@@ -24057,8 +24938,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "绹",
+              "related_bian_hao": "U+7EF9-deou4"
+            },
+            {
+              "related_han_zi": "辮",
+              "related_bian_hao": "U+8FAE-bben2"
             }
           ],
           "pinyin": "",
@@ -24096,8 +24981,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -24116,8 +25001,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "諯",
+              "related_bian_hao": "U+8AEF-cyun3"
             }
           ],
           "pinyin": "",
@@ -24215,8 +25100,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "雀",
+              "related_bian_hao": "U+96C0-ddaa2"
             }
           ],
           "pinyin": "",
@@ -24262,8 +25147,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "誃",
+              "related_bian_hao": "U+8A83-ce2"
+            },
+            {
+              "related_han_zi": "停",
+              "related_bian_hao": "U+505C-ding4"
             }
           ],
           "pinyin": "",
@@ -24309,8 +25198,12 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𦚝",
+              "related_bian_hao": "U+2669D-pyng2"
+            },
+            {
+              "related_han_zi": "呕",
+              "related_bian_hao": "U+5455-au2"
             }
           ],
           "pinyin": "",
@@ -24356,8 +25249,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -24403,8 +25296,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𭿰",
+              "related_bian_hao": "U+2DFF0-mat7"
             }
           ],
           "pinyin": "",
@@ -24450,8 +25343,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -24488,8 +25381,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -24526,8 +25419,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "焫",
+              "related_bian_hao": "U+712B-not8"
+            },
+            {
+              "related_han_zi": "炙",
+              "related_bian_hao": "U+7099-zyk7"
+            },
+            {
+              "related_han_zi": "焗",
+              "related_bian_hao": "U+7117-guk9"
+            },
+            {
+              "related_han_zi": "焗",
+              "related_bian_hao": "U+7117-gyk9"
             }
           ],
           "pinyin": "",
@@ -24599,8 +25504,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -24646,8 +25551,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -24702,8 +25607,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "行",
+              "related_bian_hao": "U+884C-aa4"
             }
           ],
           "pinyin": "",
@@ -24730,8 +25635,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -24793,8 +25698,32 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𡲢",
+              "related_bian_hao": "U+21CA2-ke1"
+            },
+            {
+              "related_han_zi": "坺",
+              "related_bian_hao": "U+577A-bet10"
+            },
+            {
+              "related_han_zi": "朏",
+              "related_bian_hao": "U+670F-wat7"
+            },
+            {
+              "related_han_zi": "揙",
+              "related_bian_hao": "U+63D9-bban2"
+            },
+            {
+              "related_han_zi": "放马",
+              "related_bian_hao": "w+83-fong mo"
+            },
+            {
+              "related_han_zi": "炸牛",
+              "related_bian_hao": "w+84-zo njau"
+            },
+            {
+              "related_han_zi": "屙",
+              "related_bian_hao": "U+5C59-eo1"
             }
           ],
           "pinyin": "",
@@ -24840,8 +25769,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -24896,8 +25825,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "篱",
+              "related_bian_hao": "U+7BF1-lyu1"
             }
           ],
           "pinyin": "",
@@ -24950,8 +25879,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "dap9",
+              "related_bian_hao": "A+49-dap9"
+            },
+            {
+              "related_han_zi": "摏",
+              "related_bian_hao": "U+644F-zung1"
             }
           ],
           "pinyin": "",
@@ -25031,8 +25964,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -25078,8 +26011,32 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𠠎",
+              "related_bian_hao": "U+2080E-kak7"
+            },
+            {
+              "related_han_zi": "𠠝",
+              "related_bian_hao": "U+2081D-lik7"
+            },
+            {
+              "related_han_zi": "㓯",
+              "related_bian_hao": "U+34EF-lai3"
+            },
+            {
+              "related_han_zi": "刏",
+              "related_bian_hao": "U+520F-goi3"
+            },
+            {
+              "related_han_zi": "len3",
+              "related_bian_hao": "A+19-len3"
+            },
+            {
+              "related_han_zi": "破",
+              "related_bian_hao": "U+7834-peo3"
+            },
+            {
+              "related_han_zi": "锯",
+              "related_bian_hao": "U+952F-goe3"
             }
           ],
           "pinyin": "",
@@ -25125,8 +26082,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "撚",
+              "related_bian_hao": "U+649A-nan2"
+            },
+            {
+              "related_han_zi": "整",
+              "related_bian_hao": "U+6574-zing4"
             }
           ],
           "pinyin": "",
@@ -25292,8 +26253,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -25767,8 +26728,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "猎",
+              "related_bian_hao": "U+730E-lep10"
             }
           ],
           "pinyin": "",
@@ -25814,8 +26775,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "狂",
+              "related_bian_hao": "U+72C2-gwong4"
             }
           ],
           "pinyin": "",
@@ -25861,8 +26822,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -25935,8 +26896,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "㓤",
+              "related_bian_hao": "U+34E4-gat7"
             }
           ],
           "pinyin": "",
@@ -25990,8 +26951,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -26055,8 +27016,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𡲢",
+              "related_bian_hao": "U+21CA2-ke1"
+            },
+            {
+              "related_han_zi": "漦",
+              "related_bian_hao": "U+6F26-son4"
             }
           ],
           "pinyin": "",
@@ -26110,8 +27075,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "咮",
+              "related_bian_hao": "U+54AE-ddiu3"
+            },
+            {
+              "related_han_zi": "𢷕",
+              "related_bian_hao": "U+22DD5-mau1"
             }
           ],
           "pinyin": "",
@@ -26173,8 +27142,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "唼",
+              "related_bian_hao": "U+553C-sop8"
             }
           ],
           "pinyin": "",
@@ -26220,8 +27189,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "揭",
+              "related_bian_hao": "U+63ED-get10"
+            },
+            {
+              "related_han_zi": "蒝",
+              "related_bian_hao": "U+849D-tyun3"
             }
           ],
           "pinyin": "",
@@ -26301,8 +27274,28 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "焗",
+              "related_bian_hao": "U+7117-gyk9"
+            },
+            {
+              "related_han_zi": "炙",
+              "related_bian_hao": "U+7099-zyk7"
+            },
+            {
+              "related_han_zi": "煏",
+              "related_bian_hao": "U+714F-bbik7"
+            },
+            {
+              "related_han_zi": "座",
+              "related_bian_hao": "U+5EA7-doe6"
+            },
+            {
+              "related_han_zi": "煀",
+              "related_bian_hao": "U+7140-wat7"
+            },
+            {
+              "related_han_zi": "煠",
+              "related_bian_hao": "U+7160-sop10"
             }
           ],
           "pinyin": "",
@@ -26426,8 +27419,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "焗",
+              "related_bian_hao": "U+7117-guk9"
+            },
+            {
+              "related_han_zi": "炙",
+              "related_bian_hao": "U+7099-zyk7"
+            },
+            {
+              "related_han_zi": "煏",
+              "related_bian_hao": "U+714F-bbik7"
             }
           ],
           "pinyin": "",
@@ -26473,8 +27474,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𢷕",
+              "related_bian_hao": "U+22DD5-mau1"
+            },
+            {
+              "related_han_zi": "矺",
+              "related_bian_hao": "U+77FA-ddik7"
+            },
+            {
+              "related_han_zi": "摏",
+              "related_bian_hao": "U+644F-zung1"
             }
           ],
           "pinyin": "",
@@ -26562,8 +27571,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "咁",
+              "related_bian_hao": "U+5481-gam2"
+            },
+            {
+              "related_han_zi": "㚊",
+              "related_bian_hao": "U+368A-gai02"
             }
           ],
           "pinyin": "",
@@ -26661,8 +27674,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "凹",
+              "related_bian_hao": "U+51F9-map7"
             }
           ],
           "pinyin": "",
@@ -26751,8 +27764,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "燃",
+              "related_bian_hao": "U+71C3-njin4"
             }
           ],
           "pinyin": "",
@@ -26823,8 +27836,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -26875,8 +27888,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "跛",
+              "related_bian_hao": "U+8DDB-bbai1"
             }
           ],
           "pinyin": "",
@@ -26952,8 +27965,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -26972,8 +27985,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -27054,8 +28067,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -27143,8 +28156,32 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "斲",
+              "related_bian_hao": "U+65B2-ddik7"
+            },
+            {
+              "related_han_zi": "𠠝",
+              "related_bian_hao": "U+2081D-lik7"
+            },
+            {
+              "related_han_zi": "㓯",
+              "related_bian_hao": "U+34EF-lai3"
+            },
+            {
+              "related_han_zi": "刏",
+              "related_bian_hao": "U+520F-goi3"
+            },
+            {
+              "related_han_zi": "len3",
+              "related_bian_hao": "A+19-len3"
+            },
+            {
+              "related_han_zi": "破",
+              "related_bian_hao": "U+7834-peo3"
+            },
+            {
+              "related_han_zi": "锯",
+              "related_bian_hao": "U+952F-goe3"
             }
           ],
           "pinyin": "",
@@ -27198,8 +28235,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -27245,8 +28282,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "绹",
+              "related_bian_hao": "U+7EF9-deou4"
+            },
+            {
+              "related_han_zi": "辮",
+              "related_bian_hao": "U+8FAE-bben2"
             }
           ],
           "pinyin": "",
@@ -27327,8 +28368,8 @@
           "character_controversial_degree": "2",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -27347,8 +28388,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "㩿",
+              "related_bian_hao": "U+3A7F-kat7"
             }
           ],
           "pinyin": "",
@@ -27402,8 +28443,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "㪐",
+              "related_bian_hao": "U+3A90-lat7"
             }
           ],
           "pinyin": "",
@@ -27457,8 +28498,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -27564,8 +28605,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -27584,8 +28625,32 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "斲",
+              "related_bian_hao": "U+65B2-ddik7"
+            },
+            {
+              "related_han_zi": "㓯",
+              "related_bian_hao": "U+34EF-lai3"
+            },
+            {
+              "related_han_zi": "刏",
+              "related_bian_hao": "U+520F-goi3"
+            },
+            {
+              "related_han_zi": "len3",
+              "related_bian_hao": "A+19-len3"
+            },
+            {
+              "related_han_zi": "破",
+              "related_bian_hao": "U+7834-peo3"
+            },
+            {
+              "related_han_zi": "锯",
+              "related_bian_hao": "U+952F-goe3"
+            },
+            {
+              "related_han_zi": "𠠎",
+              "related_bian_hao": "U+2080E-kak7"
             }
           ],
           "pinyin": "",
@@ -27665,8 +28730,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𬾂",
+              "related_bian_hao": "U+2CF82-lang3"
             }
           ],
           "pinyin": "",
@@ -27868,8 +28933,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "躀",
+              "related_bian_hao": "U+8E80-gwon5"
             }
           ],
           "pinyin": "",
@@ -27958,8 +29023,32 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "焫",
+              "related_bian_hao": "U+712B-not8"
+            },
+            {
+              "related_han_zi": "煠",
+              "related_bian_hao": "U+7160-sop10"
+            },
+            {
+              "related_han_zi": "炙",
+              "related_bian_hao": "U+7099-zyk7"
+            },
+            {
+              "related_han_zi": "煏",
+              "related_bian_hao": "U+714F-bbik7"
+            },
+            {
+              "related_han_zi": "𫝎",
+              "related_bian_hao": "U+2B74E-gan3"
+            },
+            {
+              "related_han_zi": "凐",
+              "related_bian_hao": "U+51D0-jan1"
+            },
+            {
+              "related_han_zi": "焗",
+              "related_bian_hao": "U+7117-guk9"
             }
           ],
           "pinyin": "",
@@ -28044,8 +29133,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "蔸",
+              "related_bian_hao": "U+8538-ddau1"
+            },
+            {
+              "related_han_zi": "礞",
+              "related_bian_hao": "U+791E-mung3"
+            },
+            {
+              "related_han_zi": "䊆",
+              "related_bian_hao": "U+4286-gau4"
+            },
+            {
+              "related_han_zi": "koe1",
+              "related_bian_hao": "A+81-koe1"
             }
           ],
           "pinyin": "",
@@ -28108,8 +29209,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "㓤",
+              "related_bian_hao": "U+34E4-gat7"
+            },
+            {
+              "related_han_zi": "𧰵",
+              "related_bian_hao": "U+27C35-dduk7"
             }
           ],
           "pinyin": "",
@@ -28188,8 +29293,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "垌",
+              "related_bian_hao": "U+578C-dung6"
+            },
+            {
+              "related_han_zi": "塍",
+              "related_bian_hao": "U+584D-syng4"
+            },
+            {
+              "related_han_zi": "埒",
+              "related_bian_hao": "U+57D2-loet10"
+            },
+            {
+              "related_han_zi": "田控",
+              "related_bian_hao": "W+33-din hung"
             }
           ],
           "pinyin": "",
@@ -28269,8 +29386,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "辚",
+              "related_bian_hao": "U+8F9A-lin2"
+            },
+            {
+              "related_han_zi": "轥",
+              "related_bian_hao": "U+8F65-lin3"
+            },
+            {
+              "related_han_zi": "軨",
+              "related_bian_hao": "U+8EE8-ling1"
+            },
+            {
+              "related_han_zi": "泵",
+              "related_bian_hao": "U+6CF5-ddam1"
             }
           ],
           "pinyin": "",
@@ -28316,8 +29445,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𤺎",
+              "related_bian_hao": "U+24E8E-se4"
             }
           ],
           "pinyin": "",
@@ -28354,8 +29483,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "⿺走片",
+              "related_bian_hao": "U+30DF2-bon4"
             }
           ],
           "pinyin": "",
@@ -28417,8 +29546,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "剺",
+              "related_bian_hao": "U+527A-li1"
             }
           ],
           "pinyin": "",
@@ -28514,8 +29643,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "剺",
+              "related_bian_hao": "U+527A-li1"
             }
           ],
           "pinyin": "",
@@ -28561,8 +29690,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "掹",
+              "related_bian_hao": "U+63B9-maa1"
             }
           ],
           "pinyin": "",
@@ -28617,8 +29746,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "蔸",
+              "related_bian_hao": "U+8538-ddau1"
+            },
+            {
+              "related_han_zi": "樖",
+              "related_bian_hao": "U+6A16-poe1"
+            },
+            {
+              "related_han_zi": "薯",
+              "related_bian_hao": "U+85AF-syu5"
             }
           ],
           "pinyin": "",
@@ -28708,8 +29845,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -28789,8 +29926,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𥀬",
+              "related_bian_hao": "U+2502C-jim2"
+            },
+            {
+              "related_han_zi": "𤹍膎",
+              "related_bian_hao": "w+92-nang gai"
+            },
+            {
+              "related_han_zi": "疤𤸻",
+              "related_bian_hao": "w+93-bbo no"
             }
           ],
           "pinyin": "",
@@ -28836,8 +29981,28 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "晏",
+              "related_bian_hao": "U+664F-on3"
+            },
+            {
+              "related_han_zi": "朝",
+              "related_bian_hao": "U+671D-ziu1"
+            },
+            {
+              "related_han_zi": "夜",
+              "related_bian_hao": "U+591C-je6"
+            },
+            {
+              "related_han_zi": "𣋟",
+              "related_bian_hao": "U+232DF-mo1"
+            },
+            {
+              "related_han_zi": "光",
+              "related_bian_hao": "U+5149-gwong1"
+            },
+            {
+              "related_han_zi": "𠓇",
+              "related_bian_hao": "U+204C7-long1"
             }
           ],
           "pinyin": "",
@@ -28891,8 +30056,24 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "扖",
+              "related_bian_hao": "U+6256-njap7"
+            },
+            {
+              "related_han_zi": "攞",
+              "related_bian_hao": "U+651E-leo2"
+            },
+            {
+              "related_han_zi": "挈",
+              "related_bian_hao": "U+6308-jit7"
+            },
+            {
+              "related_han_zi": "𢳀",
+              "related_bian_hao": "U+22CC0-mo1"
+            },
+            {
+              "related_han_zi": "𢺡",
+              "related_bian_hao": "U+22EA1-zuk9"
             }
           ],
           "pinyin": "",
@@ -28946,8 +30127,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -28993,8 +30174,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𧨾",
+              "related_bian_hao": "U+27A3E-tam3"
+            },
+            {
+              "related_han_zi": "謴",
+              "related_bian_hao": "U+8B34-gwan3"
+            },
+            {
+              "related_han_zi": "㗶",
+              "related_bian_hao": "U+35F6-pat7"
+            },
+            {
+              "related_han_zi": "luk7",
+              "related_bian_hao": "A+62-luk7"
             }
           ],
           "pinyin": "",
@@ -29066,8 +30259,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "嶅",
+              "related_bian_hao": "U+5D85-ngeou4"
+            },
+            {
+              "related_han_zi": "扤",
+              "related_bian_hao": "U+6264-nget8"
             }
           ],
           "pinyin": "",
@@ -29136,8 +30333,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "拱",
+              "related_bian_hao": "U+62F1-kung2"
             }
           ],
           "pinyin": "",
@@ -29209,8 +30406,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "踩",
+              "related_bian_hao": "U+8E29-njoi2"
             }
           ],
           "pinyin": "",
@@ -29264,8 +30461,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -29311,8 +30508,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -29358,8 +30555,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -29423,8 +30620,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "捎",
+              "related_bian_hao": "U+634E-so3"
+            },
+            {
+              "related_han_zi": "撅",
+              "related_bian_hao": "U+6485-gyut7"
             }
           ],
           "pinyin": "",
@@ -29470,8 +30671,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -29551,8 +30752,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "吃",
+              "related_bian_hao": "U+5403-hik7"
             }
           ],
           "pinyin": "",
@@ -29598,8 +30799,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "食",
+              "related_bian_hao": "U+98DF-sik9"
             }
           ],
           "pinyin": "",
@@ -29652,8 +30853,24 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "⿰米灭",
+              "related_bian_hao": "U+30AB3-bbat7"
+            },
+            {
+              "related_han_zi": "敨",
+              "related_bian_hao": "U+6568-tau2"
+            },
+            {
+              "related_han_zi": "呷",
+              "related_bian_hao": "U+5477-hop8"
+            },
+            {
+              "related_han_zi": "噈",
+              "related_bian_hao": "U+5648-tuk7"
+            },
+            {
+              "related_han_zi": "嗅",
+              "related_bian_hao": "U+55C5-nju3"
             }
           ],
           "pinyin": "",
@@ -29733,8 +30950,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "杂",
+              "related_bian_hao": "U+6742-dop10"
             }
           ],
           "pinyin": "",
@@ -29780,8 +30997,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𭿰",
+              "related_bian_hao": "U+2DFF0-mat7"
+            },
+            {
+              "related_han_zi": "衰",
+              "related_bian_hao": "U+8870-sui1"
+            },
+            {
+              "related_han_zi": "好彩",
+              "related_bian_hao": "W+6-heou toi"
+            },
+            {
+              "related_han_zi": "得",
+              "related_bian_hao": "U+5F97-ddak7"
             }
           ],
           "pinyin": "",
@@ -29827,8 +31056,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -29883,8 +31112,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -29903,8 +31132,24 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "紇",
+              "related_bian_hao": "U+7D07-kwat7"
+            },
+            {
+              "related_han_zi": "綟",
+              "related_bian_hao": "U+7D9F-lat7"
+            },
+            {
+              "related_han_zi": "绹",
+              "related_bian_hao": "U+7EF9-deou4"
+            },
+            {
+              "related_han_zi": "辮",
+              "related_bian_hao": "U+8FAE-bben2"
+            },
+            {
+              "related_han_zi": "雀",
+              "related_bian_hao": "U+96C0-taa2"
             }
           ],
           "pinyin": "",
@@ -29957,8 +31202,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -30004,8 +31249,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "扽",
+              "related_bian_hao": "U+627D-ddan3"
+            },
+            {
+              "related_han_zi": "掹",
+              "related_bian_hao": "U+63B9-maa1"
+            },
+            {
+              "related_han_zi": "bbaa1",
+              "related_bian_hao": "A+64-bbaa1"
             }
           ],
           "pinyin": "",
@@ -30067,8 +31320,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "鎗",
+              "related_bian_hao": "U+9397-caa1"
+            },
+            {
+              "related_han_zi": "煲",
+              "related_bian_hao": "U+7172-bbeou1"
             }
           ],
           "pinyin": "",
@@ -30114,8 +31371,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "dding3",
+              "related_bian_hao": "A+33-dding3"
             }
           ],
           "pinyin": "",
@@ -30169,8 +31426,28 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "焫",
+              "related_bian_hao": "U+712B-not8"
+            },
+            {
+              "related_han_zi": "煏",
+              "related_bian_hao": "U+714F-bbik7"
+            },
+            {
+              "related_han_zi": "𫝎",
+              "related_bian_hao": "U+2B74E-gan3"
+            },
+            {
+              "related_han_zi": "凐",
+              "related_bian_hao": "U+51D0-jan1"
+            },
+            {
+              "related_han_zi": "焗",
+              "related_bian_hao": "U+7117-guk9"
+            },
+            {
+              "related_han_zi": "焗",
+              "related_bian_hao": "U+7117-gyk9"
             }
           ],
           "pinyin": "",
@@ -30216,8 +31493,24 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "扖",
+              "related_bian_hao": "U+6256-njap7"
+            },
+            {
+              "related_han_zi": "搦",
+              "related_bian_hao": "U+6426-nik7"
+            },
+            {
+              "related_han_zi": "攞",
+              "related_bian_hao": "U+651E-leo2"
+            },
+            {
+              "related_han_zi": "挈",
+              "related_bian_hao": "U+6308-jit7"
+            },
+            {
+              "related_han_zi": "𢳀",
+              "related_bian_hao": "U+22CC0-mo1"
             }
           ],
           "pinyin": "",
@@ -30271,8 +31564,24 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "煀",
+              "related_bian_hao": "U+7140-wat7"
+            },
+            {
+              "related_han_zi": "⿰米灭",
+              "related_bian_hao": "U+30AB3-bbat7"
+            },
+            {
+              "related_han_zi": "敨",
+              "related_bian_hao": "U+6568-tau2"
+            },
+            {
+              "related_han_zi": "呷",
+              "related_bian_hao": "U+5477-hop8"
+            },
+            {
+              "related_han_zi": "欶",
+              "related_bian_hao": "U+6B36-sok8"
             }
           ],
           "pinyin": "",
@@ -30327,8 +31636,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -30347,8 +31656,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "啲",
+              "related_bian_hao": "U+5572-ni01"
+            },
+            {
+              "related_han_zi": "粒",
+              "related_bian_hao": "U+7C92-nap7"
             }
           ],
           "pinyin": "",
@@ -30447,8 +31760,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -30467,8 +31780,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "偏",
+              "related_bian_hao": "U+504F-pin1"
             }
           ],
           "pinyin": "",
@@ -30557,8 +31870,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "bang5",
+              "related_bian_hao": "A+31-bang5"
             }
           ],
           "pinyin": "",
@@ -30604,8 +31917,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -30651,8 +31964,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -30706,8 +32019,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "灓",
+              "related_bian_hao": "U+7053-lan5"
+            },
+            {
+              "related_han_zi": "煛",
+              "related_bian_hao": "U+715B-gwing2"
+            },
+            {
+              "related_han_zi": "𦚝",
+              "related_bian_hao": "U+2669D-pyng2"
+            },
+            {
+              "related_han_zi": "mau3",
+              "related_bian_hao": "A+90-mau3"
             }
           ],
           "pinyin": "",
@@ -30786,8 +32111,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "鑊",
+              "related_bian_hao": "U+944A-wok10"
+            },
+            {
+              "related_han_zi": "煲",
+              "related_bian_hao": "U+7172-bbeou1"
             }
           ],
           "pinyin": "",
@@ -30883,8 +32212,24 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "劲",
+              "related_bian_hao": "U+52B2-ging6"
+            },
+            {
+              "related_han_zi": "鑙",
+              "related_bian_hao": "U+9459-kai1"
+            },
+            {
+              "related_han_zi": "叻",
+              "related_bian_hao": "U+53FB-lik7"
+            },
+            {
+              "related_han_zi": "nam6",
+              "related_bian_hao": "A+4-nam6"
+            },
+            {
+              "related_han_zi": "勚",
+              "related_bian_hao": "U+52DA-jai4"
             }
           ],
           "pinyin": "",
@@ -30930,8 +32275,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "嘅",
+              "related_bian_hao": "U+5605-geo4"
             }
           ],
           "pinyin": "",
@@ -30978,8 +32323,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -30998,8 +32343,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𭝞",
+              "related_bian_hao": "U+2D75E-gwoi5"
             }
           ],
           "pinyin": "",
@@ -31071,8 +32416,12 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "箾",
+              "related_bian_hao": "U+7BBE-sak7"
+            },
+            {
+              "related_han_zi": "lou2",
+              "related_bian_hao": "A+89-lou2"
             }
           ],
           "pinyin": "",
@@ -31152,8 +32501,24 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "悭",
+              "related_bian_hao": "U+60AD-hon1"
+            },
+            {
+              "related_han_zi": "𢡉",
+              "related_bian_hao": "U+22849-sap7"
+            },
+            {
+              "related_han_zi": "𢡉",
+              "related_bian_hao": "U+22849-njap7"
+            },
+            {
+              "related_han_zi": "靳",
+              "related_bian_hao": "U+9773-kan3"
+            },
+            {
+              "related_han_zi": "嘥",
+              "related_bian_hao": "U+5625-sloi1"
             }
           ],
           "pinyin": "",
@@ -31199,8 +32564,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -31246,8 +32611,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "喏",
+              "related_bian_hao": "U+558F-jo5"
+            },
+            {
+              "related_han_zi": "供",
+              "related_bian_hao": "U+4F9B-gung3"
             }
           ],
           "pinyin": "",
@@ -31284,8 +32653,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "诈",
+              "related_bian_hao": "U+8BC8-co3"
             }
           ],
           "pinyin": "",
@@ -31365,8 +32734,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "热",
+              "related_bian_hao": "U+70ED-njet10"
             }
           ],
           "pinyin": "",
@@ -31412,8 +32781,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "bbaa1",
+              "related_bian_hao": "A+64-bbaa1"
+            },
+            {
+              "related_han_zi": "擢",
+              "related_bian_hao": "U+64E2-tuk7"
+            },
+            {
+              "related_han_zi": "剥",
+              "related_bian_hao": "U+5265-muk7"
             }
           ],
           "pinyin": "",
@@ -31467,8 +32844,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -31514,8 +32891,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "挃",
+              "related_bian_hao": "U+6303-zat7"
             }
           ],
           "pinyin": "",
@@ -31577,8 +32954,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𦚝",
+              "related_bian_hao": "U+2669D-pyng2"
+            },
+            {
+              "related_han_zi": "挃",
+              "related_bian_hao": "U+6303-zat7"
             }
           ],
           "pinyin": "",
@@ -31624,8 +33005,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "湆",
+              "related_bian_hao": "U+6E46-njom3"
+            },
+            {
+              "related_han_zi": "漦",
+              "related_bian_hao": "U+6F26-son4"
             }
           ],
           "pinyin": "",
@@ -31671,8 +33056,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "趖",
+              "related_bian_hao": "U+8D96-sloe1"
+            },
+            {
+              "related_han_zi": "愔",
+              "related_bian_hao": "U+6114-jam4"
             }
           ],
           "pinyin": "",
@@ -31718,8 +33107,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "熟",
+              "related_bian_hao": "U+719F-suk9"
+            },
+            {
+              "related_han_zi": "杂",
+              "related_bian_hao": "U+6742-dop10"
             }
           ],
           "pinyin": "",
@@ -31799,8 +33192,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "矺",
+              "related_bian_hao": "U+77FA-ddik7"
+            },
+            {
+              "related_han_zi": "咮",
+              "related_bian_hao": "U+54AE-ddiu3"
             }
           ],
           "pinyin": "",
@@ -31880,8 +33277,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "成",
+              "related_bian_hao": "U+6210-sing4"
             }
           ],
           "pinyin": "",
@@ -31936,8 +33333,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -32009,8 +33406,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "発",
+              "related_bian_hao": "U+767A-bbot8"
             }
           ],
           "pinyin": "",
@@ -32065,8 +33462,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -32085,8 +33482,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "密",
+              "related_bian_hao": "U+5BC6-mat9"
+            },
+            {
+              "related_han_zi": "长",
+              "related_bian_hao": "U+957F-zaa4"
+            },
+            {
+              "related_han_zi": "特登",
+              "related_bian_hao": "w+57-dak ddang"
+            },
+            {
+              "related_han_zi": "正登",
+              "related_bian_hao": "w+56-ging nang"
             }
           ],
           "pinyin": "",
@@ -32166,8 +33575,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -32222,8 +33631,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -32269,8 +33678,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -32332,8 +33741,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -32370,8 +33779,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "廉",
+              "related_bian_hao": "U+5EC9-lem4"
+            },
+            {
+              "related_han_zi": "泌",
+              "related_bian_hao": "U+6CCC-bbi2"
             }
           ],
           "pinyin": "",
@@ -32451,8 +33864,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -32498,8 +33911,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "擘",
+              "related_bian_hao": "U+64D8-maa2"
             }
           ],
           "pinyin": "",
@@ -32545,8 +33958,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "快",
+              "related_bian_hao": "U+5FEB-woi3"
             }
           ],
           "pinyin": "",
@@ -32600,8 +34013,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "㔏",
+              "related_bian_hao": "U+350F-laa2"
+            },
+            {
+              "related_han_zi": "䠋",
+              "related_bian_hao": "U+480B-pe1"
+            },
+            {
+              "related_han_zi": "睸",
+              "related_bian_hao": "U+7778-mai3"
+            },
+            {
+              "related_han_zi": "噤",
+              "related_bian_hao": "U+5664-gam3"
             }
           ],
           "pinyin": "",
@@ -32656,8 +34081,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -32676,8 +34101,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "撅",
+              "related_bian_hao": "U+6485-gyut7"
+            },
+            {
+              "related_han_zi": "bi4",
+              "related_bian_hao": "A+68-bi4"
             }
           ],
           "pinyin": "",
@@ -32723,8 +34152,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -33053,8 +34482,32 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "窇",
+              "related_bian_hao": "U+7A87-bak9"
+            },
+            {
+              "related_han_zi": "𡲢",
+              "related_bian_hao": "U+21CA2-ke1"
+            },
+            {
+              "related_han_zi": "坺",
+              "related_bian_hao": "U+577A-bet10"
+            },
+            {
+              "related_han_zi": "朏",
+              "related_bian_hao": "U+670F-wat7"
+            },
+            {
+              "related_han_zi": "揙",
+              "related_bian_hao": "U+63D9-bban2"
+            },
+            {
+              "related_han_zi": "放马",
+              "related_bian_hao": "w+83-fong mo"
+            },
+            {
+              "related_han_zi": "炸牛",
+              "related_bian_hao": "w+84-zo njau"
             }
           ],
           "pinyin": "",
@@ -33108,8 +34561,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -33207,8 +34660,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "哹",
+              "related_bian_hao": "U+54F9-poe1"
+            },
+            {
+              "related_han_zi": "䑋",
+              "related_bian_hao": "U+444B-nging5"
             }
           ],
           "pinyin": "",
@@ -33288,8 +34745,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "喊",
+              "related_bian_hao": "U+558A-hom3"
+            },
+            {
+              "related_han_zi": "㰽",
+              "related_bian_hao": "U+3C3D-en3"
             }
           ],
           "pinyin": "",
@@ -33361,8 +34822,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -33415,8 +34876,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "个",
+              "related_bian_hao": "U+4E2A-geo3"
+            },
+            {
+              "related_han_zi": "𪤆",
+              "related_bian_hao": "U+2A906-seot7"
             }
           ],
           "pinyin": "",
@@ -33462,8 +34927,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "逸",
+              "related_bian_hao": "U+9038-jat9"
             }
           ],
           "pinyin": "",
@@ -33509,8 +34974,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "隔",
+              "related_bian_hao": "U+9694-gaa2"
+            },
+            {
+              "related_han_zi": "涓",
+              "related_bian_hao": "U+6D93-gyun1"
+            },
+            {
+              "related_han_zi": "倾",
+              "related_bian_hao": "U+503E-king3"
             }
           ],
           "pinyin": "",
@@ -33556,8 +35029,12 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "分",
+              "related_bian_hao": "U+5206-fan1"
+            },
+            {
+              "related_han_zi": "han1",
+              "related_bian_hao": "A+15-han1"
             }
           ],
           "pinyin": "",
@@ -33611,8 +35088,20 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "扻",
+              "related_bian_hao": "U+627B-kam2"
+            },
+            {
+              "related_han_zi": "疻",
+              "related_bian_hao": "U+75BB-sai1"
+            },
+            {
+              "related_han_zi": "撅",
+              "related_bian_hao": "U+6485-gyut7"
+            },
+            {
+              "related_han_zi": "撴",
+              "related_bian_hao": "U+64B4-ddan1"
             }
           ],
           "pinyin": "",
@@ -33658,8 +35147,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "漮",
+              "related_bian_hao": "U+6F2E-ung6"
             }
           ],
           "pinyin": "",
@@ -33723,8 +35212,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "灒",
+              "related_bian_hao": "U+7052-don6"
             }
           ],
           "pinyin": "",
@@ -33751,8 +35240,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "正",
+              "related_bian_hao": "U+6B63-zing3"
             }
           ],
           "pinyin": "",
@@ -33798,8 +35287,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "蹠",
+              "related_bian_hao": "U+8E60-jik7"
             }
           ],
           "pinyin": "",
@@ -33845,8 +35334,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -33892,8 +35381,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "里",
+              "related_bian_hao": "U+91CC-lyu5"
             }
           ],
           "pinyin": "",
@@ -33947,8 +35436,24 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𨳍",
+              "related_bian_hao": "U+28CCD-toet10"
+            },
+            {
+              "related_han_zi": "閪",
+              "related_bian_hao": "U+95AA-hai1"
+            },
+            {
+              "related_han_zi": "屄",
+              "related_bian_hao": "U+5C44-be5"
+            },
+            {
+              "related_han_zi": "核子",
+              "related_bian_hao": "w+75-aa ddi"
+            },
+            {
+              "related_han_zi": "核脧",
+              "related_bian_hao": "w+76-aa ge"
             }
           ],
           "pinyin": "",
@@ -33976,8 +35481,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -33996,8 +35501,24 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𨳍",
+              "related_bian_hao": "U+28CCD-toet10"
+            },
+            {
+              "related_han_zi": "閪",
+              "related_bian_hao": "U+95AA-hai1"
+            },
+            {
+              "related_han_zi": "屄",
+              "related_bian_hao": "U+5C44-bbe1"
+            },
+            {
+              "related_han_zi": "核子",
+              "related_bian_hao": "w+75-aa ddi"
+            },
+            {
+              "related_han_zi": "核脧",
+              "related_bian_hao": "w+76-aa ge"
             }
           ],
           "pinyin": "",
@@ -34024,8 +35545,28 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "佮",
+              "related_bian_hao": "U+4F6E-gop8"
+            },
+            {
+              "related_han_zi": "擸",
+              "related_bian_hao": "U+64F8-lop8"
+            },
+            {
+              "related_han_zi": "共",
+              "related_bian_hao": "U+5171-gung6"
+            },
+            {
+              "related_han_zi": "同",
+              "related_bian_hao": "U+540C-dung4"
+            },
+            {
+              "related_han_zi": "凑队",
+              "related_bian_hao": "w+54-tau dui"
+            },
+            {
+              "related_han_zi": "凑共",
+              "related_bian_hao": "w+55-tau gung"
             }
           ],
           "pinyin": "",
@@ -34071,8 +35612,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𢆡",
+              "related_bian_hao": "U+221A1-nen6"
             }
           ],
           "pinyin": "",
@@ -34125,8 +35666,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -34172,8 +35713,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -34245,8 +35786,8 @@
           "character_controversial_degree": "1",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "嘥",
+              "related_bian_hao": "U+5625-sloi1"
             }
           ],
           "pinyin": "",
@@ -34292,8 +35833,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "衲",
+              "related_bian_hao": "U+8872-nap7"
             }
           ],
           "pinyin": "",
@@ -34365,8 +35906,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -34420,8 +35961,16 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "𪐀",
+              "related_bian_hao": "U+2A400-no1"
+            },
+            {
+              "related_han_zi": "bbai1",
+              "related_bian_hao": "A+70-bbai1"
+            },
+            {
+              "related_han_zi": "缠",
+              "related_bian_hao": "U+7F20-zin1"
             }
           ],
           "pinyin": "",
@@ -34477,8 +36026,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -34497,8 +36046,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "剺",
+              "related_bian_hao": "U+527A-li1"
             }
           ],
           "pinyin": "",
@@ -34544,8 +36093,8 @@
           "character_controversial_degree": "0",
           "related_search": [
             {
-              "related_han_zi": "相关词",
-              "related_bian_hao": "相关词条编号"
+              "related_han_zi": "撳",
+              "related_bian_hao": "U+64B3-gam6"
             }
           ],
           "pinyin": "",
@@ -46100,7 +47649,7 @@
             {
               "han_zi": "唞",
               "bian_hao": "U+551E"
-              }
+            }
           ],
           "character_controversial_degree": "0",
           "related_search": [
@@ -47349,7 +48898,7 @@
         },
         {
           "id": "U+7BB8-zyu6",
-          "ref":"U+7BB8-zyu5",
+          "ref": "U+7BB8-zyu5",
           "unicode": "U+7BB8",
           "character": "箸",
           "optional_character": [],
@@ -57771,7 +59320,7 @@
           ]
         },
         {
-          "id": "w+76-aa ge5",
+          "id": "w+76-aa ge",
           "unicode": "{U+6838}{U+8127}",
           "character": "核脧",
           "optional_character": [],
@@ -57783,7 +59332,7 @@
             }
           ],
           "pinyin": "",
-          "jyut++": "aa ge5",
+          "jyut++": "aa ge",
           "IPA": "",
           "stroke": "",
           "head": "",
@@ -57799,8 +59348,8 @@
           ]
         },
         {
-          "id": "w+76-aa gai5",
-          "ref": "w+76-aa ge5",
+          "id": "w+76-aa gai",
+          "ref": "w+76-aa ge",
           "unicode": "{U+6838}{U+8127}",
           "character": "核脧",
           "optional_character": [],
@@ -57812,7 +59361,7 @@
             }
           ],
           "pinyin": "",
-          "jyut++": "aa gai5",
+          "jyut++": "aa gai",
           "IPA": "",
           "stroke": "",
           "head": "",
