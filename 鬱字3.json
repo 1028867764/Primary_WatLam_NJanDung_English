@@ -1012,13 +1012,13 @@
                     },
                     {
                       "@prefix": "例句前缀",
-                      "prefix": "帮我",
+                      "prefix": "",
                       "@suffix": "例句后缀",
-                      "suffix": "住{U+4E2A-geo3}{A+tsu}张广告纸se3，我去{U+651E-leo2}{U+7F02-kwik7}黏胶{U+2A400-no1}{U+5B9E-sat9}{U+4F62-gyu5}",
+                      "suffix": "住塑料布",
                       "@descriptions": "例句释义",
                       "descriptions": {
-                        "zh": "请先帮我按住这张广告纸，我要去拿一卷透明胶带来把它粘牢",
-                        "en": "Please help me secure this advertising paper with your hands first. I need to go get a roll of transparent tape to stick it firmly"
+                        "zh": "按住塑料布",
+                        "en": "Press and hold the plastic cloth"
                       }
                     }
                   ]
@@ -2077,9 +2077,21 @@
           "related_search": [
             {
               "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "",
+              "related_han_zi": "威",
               "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": ""
+              "related_bian_hao": "U+5A01-wai1"
+            },
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "陋",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": "U+964B-lau6"
+            },
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "gau5",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": "A+75-gau5"
             }
           ],
           "pinyin": "",
@@ -2115,13 +2127,13 @@
                   "sentences": [
                     {
                       "@prefix": "例句前缀",
-                      "prefix": "{U+96BB-zik7}诺基亚",
+                      "prefix": "",
                       "@suffix": "例句后缀",
-                      "suffix": "{A+49-dap9}weo5！{U+6253-ddo2}三楼{A+er}{U+8DCC-ddit7}{U+2CF82-lang3}{U+4EF2-zung6}{A+tsu}{U+5187-mau5}{U+22FED-cuk7}{U+7740-zaa6}{A+26-nan3}{U+5728-deo5}",
+                      "suffix": "{A+49-dap9}",
                       "@descriptions": "例句释义",
                       "descriptions": {
-                        "zh": "这部诺基亚手机真是禁得起摔！从三楼掉下竟未摔成稀巴烂",
-                        "en": "This Nokia phone really can withstand falling! It fell from the third floor and didn't be smashed into pieces"
+                        "zh": "禁得起摔",
+                        "en": "Can resist damage from falling"
                       }
                     },
                     {
@@ -8144,33 +8156,7 @@
                 "en": "Separate, divide"
               },
               "@words": "词条组词",
-              "words": [
-                {
-                  "@prefix": "词语前缀",
-                  "prefix": "",
-                  "@suffix": "词语后缀",
-                  "suffix": "",
-                  "@descriptions": "词语释义",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  },
-                  "@sentences": "词条例句",
-                  "sentences": [
-                    {
-                      "@prefix": "例句前缀",
-                      "prefix": "{U+4E2A-geo3}{A+tsu}{U+773C-njon5}{U+5C4B-uk7}{U+9614-wut7}{U+591A-ddeo1}，我想{U+8D77-hi2}多{U+791E-mung3}墙",
-                      "@suffix": "例句后缀",
-                      "suffix": "成两{U+773C-njon5}",
-                      "@descriptions": "例句释义",
-                      "descriptions": {
-                        "zh": "这间房子太宽了，我想多建一堵墙把它分隔成两间",
-                        "en": "This house is too wide. I want to build an additional wall to divide it into two rooms"
-                      }
-                    }
-                  ]
-                }
-              ]
+              "words": []
             },
             {
               "@descriptions": "词条释义",
@@ -8873,11 +8859,11 @@
                       "@prefix": "例句前缀",
                       "prefix": "",
                       "@suffix": "例句后缀",
-                      "suffix": "{U+5572-ni01}醋{U+843D-lok10}{w+109-zo dung}{U+76EA-long2}{U+76EA-long2}{U+6EF4-nik7}{U+57BD-nan1}",
+                      "suffix": "杯酒{U+7540-bbi2}我",
                       "@descriptions": "例句释义",
                       "descriptions": {
-                        "zh": "往保温壶里面倒点醋清洗一下水垢",
-                        "en": "Pour some vinegar into the thermos to clean the scale"
+                        "zh": "请给我倒一杯酒",
+                        "en": "Please pour me a glass of alcohol"
                       }
                     }
                   ]
@@ -9465,13 +9451,13 @@
                   "sentences": [
                     {
                       "@prefix": "例句前缀",
-                      "prefix": "{A+35-dung6}日{U+6452-bbing3}{U+5C4B-uk7}，{U+4E2A-geo3}{A+tsu}日{U+8D77-hi2}睡{U+89C1-gin3}{U+818A-bbok8}肩",
+                      "prefix": "{U+818A-bbok8}肩",
                       "@suffix": "例句后缀",
                       "suffix": "{U+3F93-jyun1}{U+5576-de6}",
                       "@descriptions": "例句释义",
                       "descriptions": {
-                        "zh": "昨天搬家，今天起床觉得肩膀酸胀难受",
-                        "en": "I moved house yesterday and woke up today feeling sore and uncomfortable in my shoulders"
+                        "zh": "觉得肩膀酸胀难受",
+                        "en": "I feel sore and uncomfortable in my shoulders"
                       }
                     }
                   ]
@@ -46831,11 +46817,11 @@
                       "@prefix": "例句前缀",
                       "prefix": "",
                       "@suffix": "例句后缀",
-                      "suffix": "{U+632D-gwaa2}{U+6EF4-nik7}粥，{U+5187-mau5}{U+5206-fan1}{U+4F62-gyu5}{U+2A400-no1}{U+7172-bbeou1}{U+3798-dduk7}",
+                      "suffix": "粥水",
                       "@descriptions": "例句释义",
                       "descriptions": {
-                        "zh": "搅一下粥，以免粘锅",
-                        "en": "Stir the Congee to avoid sticking to the bottom of pot"
+                        "zh": "搅动米粥",
+                        "en": "Stir the Congee"
                       }
                     }
                   ]
@@ -48984,6 +48970,17 @@
                         "zh": "手机屏幕被摔裂",
                         "en": "The phone screen has been smashed"
                       }
+                    },
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "",
+                      "@suffix": "例句后缀",
+                      "suffix": "通水{U+57D2-loet10}",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "疏通水渠",
+                        "en": "Dredging water channels"
+                      }
                     }
                   ]
                 }
@@ -50771,6 +50768,19 @@
                       }
                     }
                   ]
+                },
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "清",
+                  "@suffix": "词语后缀",
+                  "suffix": "粥",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "稀粥",
+                    "en": "Thin congee"
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": []
                 }
               ]
             }
@@ -62806,19 +62816,7 @@
                     "en": ""
                   },
                   "@sentences": "词条例句",
-                  "sentences": [
-                    {
-                      "@prefix": "例句前缀",
-                      "prefix": "你手",
-                      "@suffix": "例句后缀",
-                      "suffix": "到{U+4E5C-mat7}{U+5622-nje5}？{U+6574-zing2}{U+5F97-ddak7}{A+3-nam1}{U+2A797-noet8}{U+2A797-noet8}",
-                      "@descriptions": "例句释义",
-                      "descriptions": {
-                        "zh": "你的手碰了啥东西？搞得脏兮兮的",
-                        "en": "What did your hand touch? Make it so dirty"
-                      }
-                    }
-                  ]
+                  "sentences": []
                 }
               ]
             },
@@ -84066,7 +84064,7 @@
                       "suffix": "水筒烟",
                       "@descriptions": "例句释义",
                       "descriptions": {
-                        "zh": "抽水烟筒",
+                        "zh": "抽水筒烟",
                         "en": "Smoke a bamboo water pipe; Smoke hookah"
                       }
                     }
@@ -92426,8 +92424,8 @@
             {
               "@descriptions": "词条释义",
               "descriptions": {
-                "zh": "丢三落四，吊儿郎当，做事马马虎虎，毛手毛脚",
-                "en": "Forgetful, reckless, casual"
+                "zh": "丢三落四，吊儿郎当，做事马马虎虎，毛手毛脚；穿搭不搭调",
+                "en": "Forgetful, reckless, casual; Mismatch in dressing"
               },
               "@words": "词条组词",
               "words": [
