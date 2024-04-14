@@ -4185,7 +4185,7 @@
                       "@prefix": "例句前缀",
                       "prefix": "",
                       "@suffix": "例句后缀",
-                      "suffix": "{U+5572-ni01}盐{U+843D-lok10}{U+96BB-zik7}{U+9397-caa1}",
+                      "suffix": "{U+5572-ni01}盐{U+843D-lok10}{U+96BB-zik7}{U+7F49-caa1}",
                       "@descriptions": "例句释义",
                       "descriptions": {
                         "zh": "往锅里撒点盐",
@@ -8166,6 +8166,41 @@
                       "descriptions": {
                         "zh": "这间房子太宽了，我想多建一堵墙把它分隔成两间",
                         "en": "This house is too wide. I want to build an additional wall to divide it into two rooms"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@descriptions": "词条释义",
+              "descriptions": {
+                "zh": "界线",
+                "en": "Boundary line"
+              },
+              "@words": "词条组词",
+              "words": [
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "",
+                  "@suffix": "词语后缀",
+                  "suffix": "",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": [
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "{U+884C-aa4}过",
+                      "@suffix": "例句后缀",
+                      "suffix": "",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "越界",
+                        "en": "Cross the border"
                       }
                     }
                   ]
@@ -14876,7 +14911,7 @@
                       "@prefix": "例句前缀",
                       "prefix": "先{U+503E-king3}{U+5572-ni01}油{U+843D-lok10}炒",
                       "@suffix": "例句后缀",
-                      "suffix": "{U+96BB-zik7}{U+9397-caa1}",
+                      "suffix": "{U+96BB-zik7}{U+7F49-caa1}",
                       "@descriptions": "例句释义",
                       "descriptions": {
                         "zh": "先倒一点油下去，把锅炒热",
@@ -16251,7 +16286,7 @@
           ],
           "pinyin": "",
           "@jyut++": "鬱拼",
-          "jyut++": "dding",
+          "jyut++": "dding1",
           "IPA": "",
           "stroke": "",
           "@head": "音节の头，或者特殊分类",
@@ -16296,6 +16331,45 @@
               ]
             }
           ]
+        },
+        {
+          "@id": "词条身份证号码",
+          "id": "U+51CA-dding3",
+          "ref":"U+51CA-dding1",
+          "@unicode": "主字万国统一码",
+          "unicode": "U+51CA",
+          "@character": "主字字符",
+          "character": "凊",
+          "@optional_character": "备选字",
+          "optional_character": [],
+          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
+          "character_controversial_degree": "0",
+          "@related_search": "相关搜索",
+          "related_search": [
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": ""
+            },
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": ""
+            }
+          ],
+          "pinyin": "",
+          "@jyut++": "鬱拼",
+          "jyut++": "dding3",
+          "IPA": "",
+          "stroke": "",
+          "@head": "音节の头，或者特殊分类",
+          "head": "d-dd",
+          "@tail": "音节の尾，或者特殊分类",
+          "tail": "ng",
+          "@meanings": "词条释义，组词，例句",
+          "meanings": []
         },
         {
           "@id": "词条身份证号码",
@@ -24475,7 +24549,7 @@
                       "@prefix": "例句前缀",
                       "prefix": "",
                       "@suffix": "例句后缀",
-                      "suffix": "{U+9397-caa1}盖",
+                      "suffix": "{U+7F49-caa1}盖",
                       "@descriptions": "例句释义",
                       "descriptions": {
                         "zh": "盖上锅盖",
@@ -30265,15 +30339,15 @@
         },
         {
           "@id": "词条身份证号码",
-          "id": "U+5772-fat9",
+          "id": "U+6B3B-fat9",
           "@unicode": "主字万国统一码",
-          "unicode": "U+5772",
+          "unicode": "U+6B3B",
           "@character": "主字字符",
-          "character": "坲",
+          "character": "欻",
           "@optional_character": "备选字",
           "optional_character": [],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "1",
+          "character_controversial_degree": "0",
           "@related_search": "相关搜索",
           "related_search": [
             {
@@ -30306,7 +30380,7 @@
                   "@prefix": "词语前缀",
                   "prefix": "飞",
                   "@suffix": "词语后缀",
-                  "suffix": "{U+5772-fat9}",
+                  "suffix": "{U+6B3B-fat9}",
                   "@descriptions": "词语释义",
                   "descriptions": {
                     "zh": "形容行驶速度很快",
@@ -31426,74 +31500,6 @@
         },
         {
           "@id": "词条身份证号码",
-          "id": "U+3A7F-kat7",
-          "@unicode": "主字万国统一码",
-          "unicode": "U+3A7F",
-          "@character": "主字字符",
-          "character": "㩿",
-          "@optional_character": "备选字",
-          "optional_character": [],
-          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "0",
-          "@related_search": "相关搜索",
-          "related_search": [
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "硞",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+785E-kak7"
-            }
-          ],
-          "pinyin": "",
-          "@jyut++": "鬱拼",
-          "jyut++": "kat7",
-          "IPA": "",
-          "stroke": "",
-          "@head": "音节の头，或者特殊分类",
-          "head": "k-kw",
-          "@tail": "音节の尾，或者特殊分类",
-          "tail": "t",
-          "@meanings": "词条释义，组词，例句",
-          "meanings": [
-            {
-              "@descriptions": "词条释义",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "@words": "词条组词",
-              "words": [
-                {
-                  "@prefix": "词语前缀",
-                  "prefix": "{U+3A90-lat7}",
-                  "@suffix": "词语后缀",
-                  "suffix": "",
-                  "@descriptions": "词语释义",
-                  "descriptions": {
-                    "zh": "不稳，不流利；同「{U+7910-lak7}{U+785E-kak7}」",
-                    "en": "(Road) Bumpy and not smooth; Unstable, not fluent; Same as「{U+7910-lak7}{U+785E-kak7}」"
-                  },
-                  "@sentences": "词条例句",
-                  "sentences": [
-                    {
-                      "@prefix": "例句前缀",
-                      "prefix": "讲话",
-                      "@suffix": "例句后缀",
-                      "suffix": "",
-                      "@descriptions": "例句释义",
-                      "descriptions": {
-                        "zh": "说话吞吞吐吐",
-                        "en": "Stuttering, stammering"
-                      }
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "@id": "词条身份证号码",
           "id": "U+2A627-lat7",
           "@unicode": "主字万国统一码",
           "unicode": "U+2A627",
@@ -32179,62 +32185,6 @@
                       }
                     }
                   ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "@id": "词条身份证号码",
-          "id": "U+3A90-lat7",
-          "@unicode": "主字万国统一码",
-          "unicode": "U+3A90",
-          "@character": "主字字符",
-          "character": "㪐",
-          "@optional_character": "备选字",
-          "optional_character": [],
-          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "0",
-          "@related_search": "相关搜索",
-          "related_search": [
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "礐",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+7910-lak7"
-            }
-          ],
-          "pinyin": "",
-          "@jyut++": "鬱拼",
-          "jyut++": "lat7",
-          "IPA": "",
-          "stroke": "",
-          "@head": "音节の头，或者特殊分类",
-          "head": "l",
-          "@tail": "音节の尾，或者特殊分类",
-          "tail": "t",
-          "@meanings": "词条释义，组词，例句",
-          "meanings": [
-            {
-              "@descriptions": "词条释义",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "@words": "词条组词",
-              "words": [
-                {
-                  "@prefix": "词语前缀",
-                  "prefix": "",
-                  "@suffix": "词语后缀",
-                  "suffix": "{U+3A7F-kat7}",
-                  "@descriptions": "词语释义",
-                  "descriptions": {
-                    "zh": "（路）坎坷不平，不顺畅；同「{U+7910-lak7}{U+785E-kak7}」",
-                    "en": "(Road) Bumpy and not smooth; Unstable, not fluent; Same as「{U+7910-lak7}{U+785E-kak7}」"
-                  },
-                  "@sentences": "词条例句",
-                  "sentences": []
                 }
               ]
             }
@@ -32980,7 +32930,7 @@
                       "@prefix": "例句前缀",
                       "prefix": "",
                       "@suffix": "例句后缀",
-                      "suffix": "{w+89-mai slui cong}",
+                      "suffix": "米碎疮",
                       "@descriptions": "例句释义",
                       "descriptions": {
                         "zh": "挤痘痘",
@@ -33472,18 +33422,6 @@
               "related_han_zi": "硞",
               "@related_bian_hao": "相关搜索的词条身份证号码",
               "related_bian_hao": "U+785E-kak7"
-            },
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "㪐",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+3A90-lat7"
-            },
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "㩿",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+3A7F-kat7"
             },
             {
               "@related_han_zi": "相关搜索的词条字符",
@@ -35195,12 +35133,6 @@
               "related_han_zi": "硞",
               "@related_bian_hao": "相关搜索的词条身份证号码",
               "related_bian_hao": "U+785E-kak7"
-            },
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "㩿",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+3A7F-kat7"
             }
           ],
           "pinyin": "",
@@ -40982,16 +40914,21 @@
           "@character": "主字字符",
           "character": "硞",
           "@optional_character": "备选字",
-          "optional_character": [],
+          "optional_character": [
+            {
+              "han_zi": "㩿",
+              "bian_hao": "U+3A7F"
+              }
+          ],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
           "character_controversial_degree": "0",
           "@related_search": "相关搜索",
           "related_search": [
             {
               "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "㩿",
+              "related_han_zi": "",
               "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+3A7F-kat7"
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -41000,16 +40937,16 @@
           "IPA": "",
           "stroke": "",
           "@head": "音节の头，或者特殊分类",
-          "head": "k-kw",
+          "head": "特殊",
           "@tail": "音节の尾，或者特殊分类",
-          "tail": "k",
+          "tail": "特殊",
           "@meanings": "词条释义，组词，例句",
           "meanings": [
             {
               "@descriptions": "词条释义",
               "descriptions": {
-                "zh": "不平，不顺畅；（因受阻而）卡顿；同「{U+3A7F-kat7}」",
-                "en": "Unstable, not fluent; Stuck due to obstruction; Same as「{U+3A7F-kat7}」"
+                "zh": "不平，不顺畅；（因受阻而）卡顿",
+                "en": "Unstable, not fluent; Stuck due to obstruction"
               },
               "@words": "词条组词",
               "words": [
@@ -41020,8 +40957,8 @@
                   "suffix": "",
                   "@descriptions": "词语释义",
                   "descriptions": {
-                    "zh": "不平，不流畅；同「{U+3A90-lat7}{U+3A7F-kat7}」",
-                    "en": "Unstable, not fluent; Same as「{U+3A90-lat7}{U+3A7F-kat7}」"
+                    "zh": "不平，不流畅",
+                    "en": "Unstable, not fluent"
                   },
                   "@sentences": "词条例句",
                   "sentences": [
@@ -41056,8 +40993,8 @@
                   "suffix": "",
                   "@descriptions": "词语释义",
                   "descriptions": {
-                    "zh": "一瘸一拐（此处的「{U+8E60-jak7}」字只念「jak7」音）",
-                    "en": "Limp (The character「{U+8E60-jak7}」here only be pronounced as「jak7」instead of「jik7」)"
+                    "zh": "一瘸一拐（此处的「{U+8E60-jak7}」字只念「jak7」音，「{U+785E-kak7}」字只念「kak7」音）",
+                    "en": "Limp (The character「{U+8E60-jak7}」here only be pronounced as「jak7」instead of「jik7」; And the character「{U+785E-kak7}」here only be pronounced as「kak7」instead of「kat7」)"
                   },
                   "@sentences": "词条例句",
                   "sentences": []
@@ -41068,11 +41005,12 @@
         },
         {
           "@id": "词条身份证号码",
-          "id": "U+7910-lak7",
+          "id": "U+785E-kat7",
+          "ref":"U+785E-kak7",
           "@unicode": "主字万国统一码",
-          "unicode": "U+7910",
+          "unicode": "U+785E",
           "@character": "主字字符",
-          "character": "礐",
+          "character": "硞",
           "@optional_character": "备选字",
           "optional_character": [],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
@@ -41081,9 +41019,46 @@
           "related_search": [
             {
               "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "㪐",
+              "related_han_zi": "",
               "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+3A90-lat7"
+              "related_bian_hao": ""
+            }
+          ],
+          "pinyin": "",
+          "@jyut++": "鬱拼",
+          "jyut++": "kat7",
+          "IPA": "",
+          "stroke": "",
+          "@head": "音节の头，或者特殊分类",
+          "head": "特殊",
+          "@tail": "音节の尾，或者特殊分类",
+          "tail": "特殊",
+          "@meanings": "词条释义，组词，例句",
+          "meanings": []
+        },
+        {
+          "@id": "词条身份证号码",
+          "id": "U+7910-lak7",
+          "@unicode": "主字万国统一码",
+          "unicode": "U+7910",
+          "@character": "主字字符",
+          "character": "礐",
+          "@optional_character": "备选字",
+          "optional_character": [
+            {
+              "han_zi": "㪐",
+              "bian_hao": "U+3A90"
+              }
+          ],
+          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
+          "character_controversial_degree": "0",
+          "@related_search": "相关搜索",
+          "related_search": [
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": ""
             }
           ],
           "pinyin": "",
@@ -41092,16 +41067,16 @@
           "IPA": "",
           "stroke": "",
           "@head": "音节の头，或者特殊分类",
-          "head": "l",
+          "head": "特殊",
           "@tail": "音节の尾，或者特殊分类",
-          "tail": "k",
+          "tail": "特殊",
           "@meanings": "词条释义，组词，例句",
           "meanings": [
             {
               "@descriptions": "词条释义",
               "descriptions": {
-                "zh": "不稳，不流利；同「{U+3A90-lat7}」",
-                "en": "Unstable, not fluent; Same as「{U+3A90-lat7}」"
+                "zh": "不稳，不流利",
+                "en": "Unstable, not fluent"
               },
               "@words": "词条组词",
               "words": [
@@ -41112,8 +41087,8 @@
                   "suffix": "{U+785E-kak7}",
                   "@descriptions": "词语释义",
                   "descriptions": {
-                    "zh": "不平，不流畅；同「{U+3A90-lat7}{U+3A7F-kat7}」",
-                    "en": "Not smooth, not fluent; Same as「{U+3A90-lat7}{U+3A7F-kat7}」"
+                    "zh": "不平，不流畅",
+                    "en": "Not smooth, not fluent"
                   },
                   "@sentences": "词条例句",
                   "sentences": [
@@ -41144,6 +41119,39 @@
               ]
             }
           ]
+        },
+        {
+          "@id": "词条身份证号码",
+          "id": "U+7910-lat7",
+          "ref":"U+7910-lak7",
+          "@unicode": "主字万国统一码",
+          "unicode": "U+7910",
+          "@character": "主字字符",
+          "character": "礐",
+          "@optional_character": "备选字",
+          "optional_character": [],
+          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
+          "character_controversial_degree": "0",
+          "@related_search": "相关搜索",
+          "related_search": [
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": ""
+            }
+          ],
+          "pinyin": "",
+          "@jyut++": "鬱拼",
+          "jyut++": "lat7",
+          "IPA": "",
+          "stroke": "",
+          "@head": "音节の头，或者特殊分类",
+          "head": "特殊",
+          "@tail": "音节の尾，或者特殊分类",
+          "tail": "特殊",
+          "@meanings": "词条释义，组词，例句",
+          "meanings": []
         },
         {
           "@id": "词条身份证号码",
@@ -42900,7 +42908,7 @@
                 },
                 {
                   "@prefix": "词语前缀",
-                  "prefix": "{U+9397-caa1}耳",
+                  "prefix": "{U+7F49-caa1}耳",
                   "@suffix": "词语后缀",
                   "suffix": "",
                   "@descriptions": "词语释义",
@@ -45195,9 +45203,9 @@
           "related_search": [
             {
               "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "鎗",
+              "related_han_zi": "罉",
               "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+9397-caa1"
+              "related_bian_hao": "U+7F49-caa1"
             },
             {
               "@related_han_zi": "相关搜索的词条字符",
@@ -46320,15 +46328,20 @@
         },
         {
           "@id": "词条身份证号码",
-          "id": "U+9397-caa1",
+          "id": "U+7F49-caa1",
           "@unicode": "主字万国统一码",
-          "unicode": "U+9397",
+          "unicode": "U+7F49",
           "@character": "主字字符",
-          "character": "鎗",
+          "character": "罉",
           "@optional_character": "备选字",
-          "optional_character": [],
+          "optional_character": [
+            {
+              "han_zi": "鎗",
+              "bian_hao": "U+9397"
+              }
+          ],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "0",
+          "character_controversial_degree": "1",
           "@related_search": "相关搜索",
           "related_search": [
             {
@@ -54157,7 +54170,7 @@
                       "@prefix": "例句前缀",
                       "prefix": "",
                       "@suffix": "例句后缀",
-                      "suffix": "{U+96BB-zik7}{U+9397-caa1}上去",
+                      "suffix": "{U+96BB-zik7}{U+7F49-caa1}上去",
                       "@descriptions": "例句释义",
                       "descriptions": {
                         "zh": "将炒菜的锅垂直放置",
@@ -58866,6 +58879,17 @@
                         "zh": "如此多事",
                         "en": "Very meddlesome"
                       }
+                    },
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "牛",
+                      "@suffix": "例句后缀",
+                      "suffix": "疮",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "很大的痤疮",
+                        "en": "Very large acne"
+                      }
                     }
                   ]
                 }
@@ -59295,9 +59319,9 @@
           "related_search": [
             {
               "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "䐈",
+              "related_han_zi": "浳",
               "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+4408-jak9"
+              "related_bian_hao": "U+6D73-jak9"
             }
           ],
           "pinyin": "",
@@ -59359,7 +59383,7 @@
                   "@prefix": "词语前缀",
                   "prefix": "",
                   "@suffix": "词语后缀",
-                  "suffix": "{U+4408-jak9}{U+4408-jak9}",
+                  "suffix": "{U+6D73-jak9}{U+6D73-jak9}",
                   "@descriptions": "词语释义",
                   "descriptions": {
                     "zh": "形容物体油污",
@@ -74811,9 +74835,9 @@
             },
             {
               "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "鎗",
+              "related_han_zi": "罉",
               "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+9397-caa1"
+              "related_bian_hao": "U+7F49-caa1"
             },
             {
               "@related_han_zi": "相关搜索的词条字符",
@@ -75701,11 +75725,11 @@
         },
         {
           "@id": "词条身份证号码",
-          "id": "U+4408-jak9",
+          "id": "U+6D73-jak9",
           "@unicode": "主字万国统一码",
-          "unicode": "U+4408",
+          "unicode": "U+6D73",
           "@character": "主字字符",
-          "character": "䐈",
+          "character": "浳",
           "@optional_character": "备选字",
           "optional_character": [],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
@@ -75742,7 +75766,7 @@
                   "@prefix": "词语前缀",
                   "prefix": "{U+7022-jui6}",
                   "@suffix": "词语后缀",
-                  "suffix": "{U+4408-jak9}",
+                  "suffix": "{U+6D73-jak9}",
                   "@descriptions": "词语释义",
                   "descriptions": {
                     "zh": "油腻，油污，油滑",
@@ -81321,7 +81345,7 @@
                       "@prefix": "例句前缀",
                       "prefix": "",
                       "@suffix": "例句后缀",
-                      "suffix": "{w+89-mai slui cong}",
+                      "suffix": "米碎疮",
                       "@descriptions": "例句释义",
                       "descriptions": {
                         "zh": "挤痘痘",
@@ -83954,9 +83978,9 @@
           "IPA": "",
           "stroke": "",
           "@head": "音节の头，或者特殊分类",
-          "head": "",
+          "head": "l",
           "@tail": "音节の尾，或者特殊分类",
-          "tail": "",
+          "tail": "t",
           "@meanings": "词条释义，组词，例句",
           "meanings": [
             {
@@ -83979,6 +84003,74 @@
                   },
                   "@sentences": "词条例句",
                   "sentences": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "词条身份证号码",
+          "id": "A+108-bbak7",
+          "@unicode": "主字万国统一码",
+          "unicode": "",
+          "@character": "主字字符",
+          "character": "bbak7",
+          "@optional_character": "备选字",
+          "optional_character": [],
+          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
+          "character_controversial_degree": "0",
+          "@related_search": "相关搜索",
+          "related_search": [
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": ""
+            }
+          ],
+          "pinyin": "",
+          "@jyut++": "鬱拼",
+          "jyut++": "bbak7",
+          "IPA": "",
+          "stroke": "",
+          "@head": "音节の头，或者特殊分类",
+          "head": "b-bb",
+          "@tail": "音节の尾，或者特殊分类",
+          "tail": "k",
+          "@meanings": "词条释义，组词，例句",
+          "meanings": [
+            {
+              "@descriptions": "词条释义",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "@words": "词条组词",
+              "words": [
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "",
+                  "@suffix": "词语后缀",
+                  "suffix": "",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": [
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "",
+                      "@suffix": "例句后缀",
+                      "suffix": "水筒烟",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "抽水烟筒",
+                        "en": "Smoke a bamboo water pipe; Smoke hookah"
+                      }
+                    }
+                  ]
                 }
               ]
             }
@@ -88317,90 +88409,6 @@
         },
         {
           "@id": "词条身份证号码",
-          "id": "w+89-mai slui cong",
-          "@unicode": "主字万国统一码",
-          "unicode": "{U+7C73}{U+788E}{U+75AE}",
-          "@character": "主字字符",
-          "character": "米碎疮",
-          "@optional_character": "备选字",
-          "optional_character": [],
-          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "0",
-          "@related_search": "相关搜索",
-          "related_search": [
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": ""
-            }
-          ],
-          "pinyin": "",
-          "@jyut++": "鬱拼",
-          "jyut++": "mai slui cong",
-          "IPA": "",
-          "stroke": "",
-          "@head": "音节の头，或者特殊分类",
-          "head": "",
-          "@tail": "音节の尾，或者特殊分类",
-          "tail": "",
-          "@meanings": "词条释义，组词，例句",
-          "meanings": [
-            {
-              "@descriptions": "词条释义",
-              "descriptions": {
-                "zh": "像米粒一样的痘痘",
-                "en": "Pimples like grains of rice"
-              },
-              "@words": "词条组词",
-              "words": []
-            }
-          ]
-        },
-        {
-          "@id": "词条身份证号码",
-          "id": "w+90-njau hai cong",
-          "@unicode": "主字万国统一码",
-          "unicode": "{U+725B}{U+95AA}{U+75AE}",
-          "@character": "主字字符",
-          "character": "牛閪疮",
-          "@optional_character": "备选字",
-          "optional_character": [],
-          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "0",
-          "@related_search": "相关搜索",
-          "related_search": [
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": ""
-            }
-          ],
-          "pinyin": "",
-          "@jyut++": "鬱拼",
-          "jyut++": "njau hai cong",
-          "IPA": "",
-          "stroke": "",
-          "@head": "音节の头，或者特殊分类",
-          "head": "",
-          "@tail": "音节の尾，或者特殊分类",
-          "tail": "",
-          "@meanings": "词条释义，组词，例句",
-          "meanings": [
-            {
-              "@descriptions": "词条释义",
-              "descriptions": {
-                "zh": "很大的痤疮",
-                "en": "Very large acne"
-              },
-              "@words": "词条组词",
-              "words": []
-            }
-          ]
-        },
-        {
-          "@id": "词条身份证号码",
           "id": "w+91-bi ti",
           "@unicode": "主字万国统一码",
           "unicode": "{U+76AE}{U+523A}",
@@ -88685,8 +88693,8 @@
             {
               "@descriptions": "词条释义",
               "descriptions": {
-                "zh": "同「{U+9397-caa1}耳{U+5265-muk7}」，一种油炸小吃，有点像升级版的「莫比乌斯环」，又有点像丰田车标",
-                "en": "Same as「{U+9397-caa1}耳{U+5265-muk7}」; A fried snack that resembles an upgraded version of the Mobius Ring and also resembles the Toyota logo"
+                "zh": "同「{U+7F49-caa1}耳{U+5265-muk7}」，一种油炸小吃，有点像升级版的「莫比乌斯环」，又有点像丰田车标",
+                "en": "Same as「{U+7F49-caa1}耳{U+5265-muk7}」; A fried snack that resembles an upgraded version of the Mobius Ring and also resembles the Toyota logo"
               },
               "@words": "词条组词",
               "words": []
@@ -88739,9 +88747,9 @@
           "@id": "词条身份证号码",
           "id": "w+100-bbok caa beo",
           "@unicode": "主字万国统一码",
-          "unicode": "{U+993A}{U+9397}{U+997D}",
+          "unicode": "{U+993A}{U+7F49}{U+997D}",
           "@character": "主字字符",
-          "character": "餺鎗饽",
+          "character": "餺罉饽",
           "@optional_character": "备选字",
           "optional_character": [],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
@@ -90461,132 +90469,6 @@
           "tail": "",
           "@meanings": "词条释义，组词，例句",
           "meanings": []
-        },
-        {
-          "@id": "词条身份证号码",
-          "id": "w+138-gop gwe",
-          "@unicode": "主字万国统一码",
-          "unicode": "{U+86E4}{U+27285}",
-          "@character": "主字字符",
-          "character": "蛤𧊅",
-          "@optional_character": "备选字",
-          "optional_character": [],
-          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "0",
-          "@related_search": "相关搜索",
-          "related_search": [
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": ""
-            }
-          ],
-          "pinyin": "",
-          "@jyut++": "鬱拼",
-          "jyut++": "gop gwe",
-          "IPA": "",
-          "stroke": "",
-          "@head": "音节の头，或者特殊分类",
-          "head": "动物",
-          "@tail": "音节の尾，或者特殊分类",
-          "tail": "",
-          "@meanings": "词条释义，组词，例句",
-          "meanings": [
-            {
-              "@descriptions": "词条释义",
-              "descriptions": {
-                "zh": "青蛙",
-                "en": "Frog"
-              },
-              "@words": "词条组词",
-              "words": []
-            }
-          ]
-        },
-        {
-          "@id": "词条身份证号码",
-          "id": "w+139-gwok gwe",
-          "@unicode": "主字万国统一码",
-          "unicode": "{U+87C8}{U+27285}",
-          "@character": "主字字符",
-          "character": "蟈𧊅",
-          "@optional_character": "备选字",
-          "optional_character": [],
-          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "0",
-          "@related_search": "相关搜索",
-          "related_search": [
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": ""
-            }
-          ],
-          "pinyin": "",
-          "@jyut++": "鬱拼",
-          "jyut++": "gwok gwe",
-          "IPA": "",
-          "stroke": "",
-          "@head": "音节の头，或者特殊分类",
-          "head": "动物",
-          "@tail": "音节の尾，或者特殊分类",
-          "tail": "",
-          "@meanings": "词条释义，组词，例句",
-          "meanings": [
-            {
-              "@descriptions": "词条释义",
-              "descriptions": {
-                "zh": "青蛙",
-                "en": "Frog"
-              },
-              "@words": "词条组词",
-              "words": []
-            }
-          ]
-        },
-        {
-          "@id": "词条身份证号码",
-          "id": "w+140-gop no",
-          "@unicode": "主字万国统一码",
-          "unicode": "{U+86E4}{U+4E78}",
-          "@character": "主字字符",
-          "character": "蛤乸",
-          "@optional_character": "备选字",
-          "optional_character": [],
-          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "0",
-          "@related_search": "相关搜索",
-          "related_search": [
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": ""
-            }
-          ],
-          "pinyin": "",
-          "@jyut++": "鬱拼",
-          "jyut++": "gop no",
-          "IPA": "",
-          "stroke": "",
-          "@head": "音节の头，或者特殊分类",
-          "head": "动物",
-          "@tail": "音节の尾，或者特殊分类",
-          "tail": "",
-          "@meanings": "词条释义，组词，例句",
-          "meanings": [
-            {
-              "@descriptions": "词条释义",
-              "descriptions": {
-                "zh": "青蛙",
-                "en": "Frog"
-              },
-              "@words": "词条组词",
-              "words": []
-            }
-          ]
         },
         {
           "@id": "词条身份证号码",
@@ -92802,18 +92684,6 @@
               "related_han_zi": "硞",
               "@related_bian_hao": "相关搜索的词条身份证号码",
               "related_bian_hao": "U+785E-kak7"
-            },
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "㪐",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+3A90-lat7"
-            },
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "㩿",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+3A7F-kat7"
             }
           ],
           "pinyin": "",
