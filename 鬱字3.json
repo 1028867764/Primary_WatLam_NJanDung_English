@@ -682,13 +682,13 @@
                     },
                     {
                       "@prefix": "例句前缀",
-                      "prefix": "上{U+56E9-wan4}{A+er}{U+651E-leo2}{U+5605-geo4}药{U+7075-ling4}{A+ma5}？{U+5187-mau5}",
+                      "prefix": "{U+3FA4-kung3}{U+7615-ho1}药{U+5187-mau5}",
                       "@suffix": "例句后缀",
-                      "suffix": "{U+5605-geo4}再换种药试试{U+7747-tai2}",
+                      "suffix": "",
                       "@descriptions": "例句释义",
                       "descriptions": {
-                        "zh": "上次拿的药有效果吗？如果效果不佳的话，再另外换种药试试看",
-                        "en": "Did the medicine you took last time have any effect? If the effect is not good,please try another medication"
+                        "zh": "咳嗽药没效果",
+                        "en": "This cough medicine has no therapeutic effect"
                       }
                     }
                   ]
@@ -867,11 +867,11 @@
                       "@prefix": "例句前缀",
                       "prefix": "伤口{U+5187-mau5}{A+tsu}{U+66FE-dang4}{A+tsu}",
                       "@suffix": "例句后缀",
-                      "suffix": "{U+5187-mau5}{U+5F97-ddak7}{U+5403-hik7}海鲜，{U+5187-mau5}{U+5605-geo4}会{A+18-len1}",
+                      "suffix": "",
                       "@descriptions": "例句释义",
                       "descriptions": {
-                        "zh": "伤口尚未愈合时不能吃海鲜，不然会发痒",
-                        "en": "Do not eat seafood when the wound is not yet healed, otherwise the wound will itch"
+                        "zh": "伤口尚未愈合",
+                        "en": "The wound is not yet healed"
                       }
                     }
                   ]
@@ -9527,11 +9527,11 @@
                       "@prefix": "例句前缀",
                       "prefix": "粉笔写",
                       "@suffix": "例句后缀",
-                      "suffix": "{U+5572-ni01}，{U+5187-mau5}{U+5605-geo4}坐远黑板{U+7784-miu4}{U+5187-mau5}{U+771F-zan1}",
+                      "suffix": "{U+5572-ni01}",
                       "@descriptions": "例句释义",
                       "descriptions": {
-                        "zh": "请让粉笔写得清晰一些，以免远离黑板的同学看不清楚",
-                        "en": "Please make the chalk write clearer in case students who are far away from the blackboard cannot see clearly"
+                        "zh": "请用粉笔写得清晰一些",
+                        "en": "Please make the chalk write more clearer"
                       }
                     }
                   ]
