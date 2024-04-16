@@ -13052,7 +13052,12 @@
           "@character": "主字字符",
           "character": "搵",
           "@optional_character": "备选字",
-          "optional_character": [],
+          "optional_character": [
+            {
+              "han_zi": "揾",
+              "bian_hao": "U+63FE"
+              }
+          ],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
           "character_controversial_degree": "0",
           "@related_search": "相关搜索",
@@ -19295,12 +19300,6 @@
               "related_han_zi": "甩",
               "@related_bian_hao": "相关搜索的词条身份证号码",
               "related_bian_hao": "U+7529-lat7"
-            },
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "甩",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+7529-lyut7"
             }
           ],
           "pinyin": "",
@@ -31604,6 +31603,12 @@
               "related_han_zi": "擢",
               "@related_bian_hao": "相关搜索的词条身份证号码",
               "related_bian_hao": "U+64E2-tuk7"
+            },
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "捋",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": "U+634B-lot8"
             }
           ],
           "pinyin": "",
@@ -31692,6 +31697,135 @@
                       "descriptions": {
                         "zh": "地面滑溜溜",
                         "en": "The ground is slippery"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@descriptions": "词条释义",
+              "descriptions": {
+                "zh": "滑动，滑落",
+                "en": "Slide, slip"
+              },
+              "@words": "词条组词",
+              "words": [
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "锄头{U+3C0D-lung1}{A+le5}，一{U+62C2-fat7}就",
+                  "@suffix": "词语后缀",
+                  "suffix": "出",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "锄头松动了，一甩就脱落出来",
+                    "en": "The hoe loosened and fell off with just a flick"
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": []
+                },
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "{U+6EEE-bbeu1}",
+                  "@suffix": "词语后缀",
+                  "suffix": "",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "一泻千里地窜稀",
+                    "en": "Diarrhea, watery bowel movement"
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": [
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "{U+5C59-eo1}",
+                      "@suffix": "例句后缀",
+                      "suffix": "屎",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "窜稀",
+                        "en": "Diarrhea"
+                      }
+                    }
+                  ]
+                },
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "{U+5455-au2}",
+                  "@suffix": "词语后缀",
+                  "suffix": "",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "畅通无阻地呕吐，形容极度令人反胃",
+                    "en": "To be sick and vomit"
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "词条身份证号码",
+          "id": "U+634B-lot8",
+          "@unicode": "主字万国统一码",
+          "unicode": "U+634B",
+          "@character": "主字字符",
+          "character": "捋",
+          "@optional_character": "备选字",
+          "optional_character": [],
+          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
+          "character_controversial_degree": "1",
+          "@related_search": "相关搜索",
+          "related_search": [
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "捋",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": "U+634B-lyut7"
+            }
+          ],
+          "pinyin": "",
+          "@jyut++": "鬱拼",
+          "jyut++": "lot8",
+          "IPA": "",
+          "stroke": "",
+          "@head": "音节の头，或者特殊分类",
+          "head": "l",
+          "@tail": "音节の尾，或者特殊分类",
+          "tail": "t",
+          "@meanings": "词条释义，组词，例句",
+          "meanings": [
+            {
+              "@descriptions": "词条释义",
+              "descriptions": {
+                "zh": "滑动，滑落",
+                "en": "Slide, slip"
+              },
+              "@words": "词条组词",
+              "words": [
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "",
+                  "@suffix": "词语后缀",
+                  "suffix": "",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": [
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "拖鞋",
+                      "@suffix": "例句后缀",
+                      "suffix": "上脚眼",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "拖鞋滑到脚脖子上",
+                        "en": "Slippers slipping backward onto the ankle"
                       }
                     }
                   ]
@@ -31831,100 +31965,6 @@
                       }
                     }
                   ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "@id": "词条身份证号码",
-          "id": "U+7529-lyut7",
-          "@unicode": "主字万国统一码",
-          "unicode": "U+7529",
-          "@character": "主字字符",
-          "character": "甩",
-          "@optional_character": "备选字",
-          "optional_character": [],
-          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "0",
-          "@related_search": "相关搜索",
-          "related_search": [
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "𬾂",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+2CF82-lang3"
-            }
-          ],
-          "pinyin": "",
-          "@jyut++": "鬱拼",
-          "jyut++": "lyut7",
-          "IPA": "",
-          "stroke": "",
-          "@head": "音节の头，或者特殊分类",
-          "head": "l",
-          "@tail": "音节の尾，或者特殊分类",
-          "tail": "t",
-          "@meanings": "词条释义，组词，例句",
-          "meanings": [
-            {
-              "@descriptions": "词条释义",
-              "descriptions": {
-                "zh": "脱落，掉落",
-                "en": "Falling off"
-              },
-              "@words": "词条组词",
-              "words": [
-                {
-                  "@prefix": "词语前缀",
-                  "prefix": "锄头{U+3C0D-lung1}{A+le5}，一{U+62C2-fat7}就",
-                  "@suffix": "词语后缀",
-                  "suffix": "出",
-                  "@descriptions": "词语释义",
-                  "descriptions": {
-                    "zh": "锄头松动了，一甩就脱落出来",
-                    "en": "The hoe loosened and fell off with just a flick"
-                  },
-                  "@sentences": "词条例句",
-                  "sentences": []
-                },
-                {
-                  "@prefix": "词语前缀",
-                  "prefix": "{U+6EEE-bbeu1}",
-                  "@suffix": "词语后缀",
-                  "suffix": "",
-                  "@descriptions": "词语释义",
-                  "descriptions": {
-                    "zh": "一泻千里地窜稀",
-                    "en": "Diarrhea, watery bowel movement"
-                  },
-                  "@sentences": "词条例句",
-                  "sentences": [
-                    {
-                      "@prefix": "例句前缀",
-                      "prefix": "{U+5C59-eo1}",
-                      "@suffix": "例句后缀",
-                      "suffix": "屎",
-                      "@descriptions": "例句释义",
-                      "descriptions": {
-                        "zh": "窜稀",
-                        "en": "Diarrhea"
-                      }
-                    }
-                  ]
-                },
-                {
-                  "@prefix": "词语前缀",
-                  "prefix": "{U+5455-au2}",
-                  "@suffix": "词语后缀",
-                  "suffix": "",
-                  "@descriptions": "词语释义",
-                  "descriptions": {
-                    "zh": "畅通无阻地呕吐，形容极度令人反胃",
-                    "en": "To be sick and vomit"
-                  },
-                  "@sentences": "词条例句",
-                  "sentences": []
                 }
               ]
             }
@@ -34264,12 +34304,6 @@
           "character_controversial_degree": "0",
           "@related_search": "相关搜索",
           "related_search": [
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "甩",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+7529-lyut7"
-            },
             {
               "@related_han_zi": "相关搜索的词条字符",
               "related_han_zi": "甩",
