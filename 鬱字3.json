@@ -18832,7 +18832,7 @@
                       "@prefix": "例句前缀",
                       "prefix": "{U+8538-ddau1}大裤",
                       "@suffix": "例句后缀",
-                      "suffix": "{A+le5}，{U+640A-cau1}{U+8D77-hi2}身又{U+7529-lyut7}{U+843D-lok10}",
+                      "suffix": "{A+le5}，{U+640A-cau1}{U+8D77-hi2}身又{U+634B-lyut7}{U+843D-lok10}",
                       "@descriptions": "例句释义",
                       "descriptions": {
                         "zh": "这条裤子松了，提起来又掉下去",
@@ -50782,7 +50782,7 @@
                   "@prefix": "词语前缀",
                   "prefix": "",
                   "@suffix": "词语后缀",
-                  "suffix": "{U+7529-lyut7}",
+                  "suffix": "{U+634B-lyut7}",
                   "@descriptions": "词语释义",
                   "descriptions": {
                     "zh": "一泻千里地窜稀",
