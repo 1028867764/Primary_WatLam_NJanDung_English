@@ -20558,6 +20558,17 @@
                         "zh": "傻子",
                         "en": "A fool"
                       }
+                    },
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "精{U+5605-geo4}{U+5187-mau5}",
+                      "@suffix": "例句后缀",
+                      "suffix": "，{U+6207-ngong3}{U+5605-geo4}{U+5187-mau5}精",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "聪明人不会被愚弄，傻瓜不会摆脱愚蠢",
+                        "en": "Smart people cannot be fooled, fools cannot be clever"
+                      }
                     }
                   ]
                 }
@@ -42182,7 +42193,14 @@
           "@character": "主字字符",
           "character": "簕",
           "@optional_character": "备选字",
-          "optional_character": [],
+          "optional_character": [
+            {
+              "@han_zi": "备选字字符",
+              "han_zi": "竻",
+              "@bian_hao": "备选字万国统一码",
+              "bian_hao": "U+7AFB"
+            }
+          ],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
           "character_controversial_degree": "0",
           "@related_search": "相关搜索",
@@ -90389,9 +90407,9 @@
           "@id": "词条身份证号码",
           "id": "w+136-tyu don",
           "@unicode": "主字万国统一码",
-          "unicode": "{U+86C6}{U+5F39}",
+          "unicode": "{U+86C6}{U+87FA}",
           "@character": "主字字符",
-          "character": "蛆弹",
+          "character": "蛆蟺",
           "@optional_character": "备选字",
           "optional_character": [],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
