@@ -90407,13 +90407,13 @@
           "@id": "词条身份证号码",
           "id": "w+136-tyu don",
           "@unicode": "主字万国统一码",
-          "unicode": "{U+86C6}{U+87FA}",
+          "unicode": "{U+86C6}{U+5F39}",
           "@character": "主字字符",
-          "character": "蛆蟺",
+          "character": "蛆弹",
           "@optional_character": "备选字",
           "optional_character": [],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "0",
+          "character_controversial_degree": "2",
           "@related_search": "相关搜索",
           "related_search": [
             {
