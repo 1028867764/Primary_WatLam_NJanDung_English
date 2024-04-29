@@ -12951,9 +12951,14 @@
           "@character": "主字字符",
           "character": "蒝",
           "@optional_character": "备选字",
-          "optional_character": [],
+          "optional_character": [
+            {
+              "han_zi": "芚",
+              "bian_hao": "U+829A"
+              }
+          ],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "0",
+          "character_controversial_degree": "1",
           "@related_search": "相关搜索",
           "related_search": [
             {
@@ -93747,6 +93752,48 @@
               "descriptions": {
                 "zh": "串门或出去玩",
                 "en": "Visiting or going out to play"
+              },
+              "@words": "词条组词",
+              "words": []
+            }
+          ]
+        },
+        {
+          "@id": "词条身份证号码",
+          "id": "P+46-teou meou ing",
+          "@unicode": "主字万国统一码",
+          "unicode": "",
+          "@character": "主字字符",
+          "character": "草毛ing1",
+          "@optional_character": "备选字",
+          "optional_character": [],
+          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
+          "character_controversial_degree": "0",
+          "@related_search": "相关搜索",
+          "related_search": [
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": ""
+            }
+          ],
+          "pinyin": "",
+          "@jyut++": "鬱拼",
+          "jyut++": "teou meou ing",
+          "IPA": "",
+          "stroke": "",
+          "@head": "音节の头，或者特殊分类",
+          "head": "",
+          "@tail": "音节の尾，或者特殊分类",
+          "tail": "",
+          "@meanings": "词条释义，组词，例句",
+          "meanings": [
+            {
+              "@descriptions": "词条释义",
+              "descriptions": {
+                "zh": "毛毛虫",
+                "en": "Caterpillar"
               },
               "@words": "词条组词",
               "words": []
