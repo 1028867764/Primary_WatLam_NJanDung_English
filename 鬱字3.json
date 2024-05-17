@@ -723,7 +723,7 @@
           "IPA": "",
           "stroke": "",
           "@head": "音节の头，或者特殊分类",
-          "head": "g-gw",
+          "head": "多声母",
           "@tail": "音节の尾，或者特殊分类",
           "tail": "m",
           "@meanings": "词条释义，组词，例句",
@@ -732,7 +732,7 @@
               "@descriptions": "词条释义",
               "descriptions": {
                 "zh": "扑倒",
-                "en": ""
+                "en": "Jump up and press down"
               },
               "@words": "词条组词",
               "words": [
@@ -764,6 +764,107 @@
               ]
             }
           ]
+        },
+        {
+          "@id": "词条身份证号码",
+          "id": "U+64D2-gem6",
+          "@unicode": "主字万国统一码",
+          "unicode": "U+64D2",
+          "@character": "主字字符",
+          "character": "擒",
+          "@optional_character": "备选字",
+          "optional_character": [],
+          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
+          "character_controversial_degree": "0",
+          "@related_search": "相关搜索",
+          "related_search": [
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "𬦰",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": "U+2C9B0-mak7"
+            }
+          ],
+          "pinyin": "",
+          "@jyut++": "鬱拼",
+          "jyut++": "gem6",
+          "IPA": "",
+          "stroke": "",
+          "@head": "音节の头，或者特殊分类",
+          "head": "多声母",
+          "@tail": "音节の尾，或者特殊分类",
+          "tail": "m",
+          "@meanings": "词条释义，组词，例句",
+          "meanings": [
+            {
+              "@descriptions": "词条释义",
+              "descriptions": {
+                "zh": "攀爬",
+                "en": "To climb"
+              },
+              "@words": "词条组词",
+              "words": [
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "",
+                  "@suffix": "词语后缀",
+                  "suffix": "",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": [
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "",
+                      "@suffix": "例句后缀",
+                      "suffix": "{U+6728-muk9}",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "攀爬树木",
+                        "en": "Climbing Trees"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "词条身份证号码",
+          "id": "U+64D2-kem3",
+          "ref":"U+64D2-gem6",
+          "@unicode": "主字万国统一码",
+          "unicode": "U+64D2",
+          "@character": "主字字符",
+          "character": "擒",
+          "@optional_character": "备选字",
+          "optional_character": [],
+          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
+          "character_controversial_degree": "0",
+          "@related_search": "相关搜索",
+          "related_search": [
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "𬦰",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": "U+2C9B0-mak7"
+            }
+          ],
+          "pinyin": "",
+          "@jyut++": "鬱拼",
+          "jyut++": "kem3",
+          "IPA": "",
+          "stroke": "",
+          "@head": "音节の头，或者特殊分类",
+          "head": "多声母",
+          "@tail": "音节の尾，或者特殊分类",
+          "tail": "m",
+          "@meanings": "词条释义，组词，例句",
+          "meanings": []
         },
         {
           "@id": "词条身份证号码",
@@ -18955,6 +19056,29 @@
                   ]
                 }
               ]
+            },
+            {
+              "@descriptions": "词条释义",
+              "descriptions": {
+                "zh": "地方",
+                "en": "Indicate the location of a place"
+              },
+              "@words": "词条组词",
+              "words": [
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "",
+                  "@suffix": "词语后缀",
+                  "suffix": "",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": []
+                }
+              ]
             }
           ]
         },
@@ -25270,6 +25394,29 @@
                   ]
                 }
               ]
+            },
+            {
+              "@descriptions": "词条释义",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "@words": "词条组词",
+              "words": [
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "",
+                  "@suffix": "词语后缀",
+                  "suffix": "扣",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "子母扣",
+                    "en": "Snap fasteners"
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": []
+                }
+              ]
             }
           ]
         },
@@ -27184,11 +27331,11 @@
         },
         {
           "@id": "词条身份证号码",
-          "id": "U+6DA9-njop8",
+          "id": "U+70A0-njop8",
           "@unicode": "主字万国统一码",
-          "unicode": "U+6DA9",
+          "unicode": "U+70A0",
           "@character": "主字字符",
-          "character": "涩",
+          "character": "炠",
           "@optional_character": "备选字",
           "optional_character": [],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
@@ -27253,6 +27400,41 @@
                       "descriptions": {
                         "zh": "冬天脸部皮肤干燥粗糙",
                         "en": "Dry and rough facial skin in winter"
+                      }
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "@descriptions": "词条释义",
+              "descriptions": {
+                "zh": "刺痒",
+                "en": "Scratchy"
+              },
+              "@words": "词条组词",
+              "words": [
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "",
+                  "@suffix": "词语后缀",
+                  "suffix": "",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": [
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "身",
+                      "@suffix": "例句后缀",
+                      "suffix": "",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "身体刺痒",
+                        "en": "Body itching and scratchy"
                       }
                     }
                   ]
@@ -30528,7 +30710,16 @@
           "@character": "主字字符",
           "character": "䞘",
           "@optional_character": "备选字",
-          "optional_character": [],
+          "optional_character": [
+            {
+              "han_zi": "趌",
+              "bian_hao": "U+8D8C"
+              },
+              {
+                "han_zi": "趷",
+                "bian_hao": "U+8DB7"
+                }
+          ],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
           "character_controversial_degree": "0",
           "@related_search": "相关搜索",
@@ -30879,7 +31070,7 @@
                       "@prefix": "例句前缀",
                       "prefix": "手甲{U+7740-zaa6}剪",
                       "@suffix": "例句后缀",
-                      "suffix": "{U+8DDB-bbai1}",
+                      "suffix": "痹",
                       "@descriptions": "例句释义",
                       "descriptions": {
                         "zh": "手指甲剪太短",
@@ -37216,6 +37407,29 @@
                   "sentences": []
                 }
               ]
+            },
+            {
+              "@descriptions": "词条释义",
+              "descriptions": {
+                "zh": "陡峭",
+                "en": "Steep"
+              },
+              "@words": "词条组词",
+              "words": [
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "",
+                  "@suffix": "词语后缀",
+                  "suffix": "",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": []
+                }
+              ]
             }
           ]
         },
@@ -42609,6 +42823,12 @@
               "related_han_zi": "⿺走片",
               "@related_bian_hao": "相关搜索的词条身份证号码",
               "related_bian_hao": "U+30DF2-bon4"
+            },
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "擒",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": "U+64D2-kem3"
             }
           ],
           "pinyin": "",
@@ -44121,6 +44341,17 @@
                         "zh": "（蛆虫）蠕动",
                         "en": "(Maggot) Wriggling"
                       }
+                    },
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "怩怩",
+                      "@suffix": "例句后缀",
+                      "suffix": "{U+9033-njuk7}",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "因为不牢固而摇晃；因为不专心而多动",
+                        "en": "Shake due to lack of firmness; Being hyperactive due to lack of concentration"
+                      }
                     }
                   ]
                 }
@@ -44563,7 +44794,12 @@
           "@character": "主字字符",
           "character": "欶",
           "@optional_character": "备选字",
-          "optional_character": [],
+          "optional_character": [
+            {
+              "han_zi": "嗍",
+              "bian_hao": "U+55CD"
+              }
+          ],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
           "character_controversial_degree": "0",
           "@related_search": "相关搜索",
@@ -64706,6 +64942,12 @@
               "related_han_zi": "搋",
               "@related_bian_hao": "相关搜索的词条身份证号码",
               "related_bian_hao": "U+640B-njoi1"
+            },
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "搙",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": "U+6419-nuk7"
             }
           ],
           "pinyin": "",
@@ -65657,7 +65899,7 @@
               "@related_han_zi": "相关搜索的词条字符",
               "related_han_zi": "𠵛",
               "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": "U+20D5B-nguk9"
+              "U+20D5B-nguk9"
             },
             {
               "@related_han_zi": "相关搜索的词条字符",
@@ -66174,6 +66416,12 @@
               "related_han_zi": "扠",
               "@related_bian_hao": "相关搜索的词条身份证号码",
               "related_bian_hao": "U+6260-co1"
+            },
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "搙",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": "U+6419-nuk7"
             }
           ],
           "pinyin": "",
@@ -75916,6 +76164,238 @@
                       "descriptions": {
                         "zh": "脏乱不堪",
                         "en": "Dirty and untidy"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "词条身份证号码",
+          "id": "U+7A81-dat9",
+          "@unicode": "主字万国统一码",
+          "unicode": "U+7A81",
+          "@character": "主字字符",
+          "character": "突",
+          "@optional_character": "备选字",
+          "optional_character": [],
+          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
+          "character_controversial_degree": "0",
+          "@related_search": "相关搜索",
+          "related_search": [
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "𤗈",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": "U+245C8-slep8"
+            }
+          ],
+          "pinyin": "",
+          "@jyut++": "鬱拼",
+          "jyut++": "dat9",
+          "IPA": "",
+          "stroke": "",
+          "@head": "音节の头，或者特殊分类",
+          "head": "d-dd",
+          "@tail": "音节の尾，或者特殊分类",
+          "tail": "t",
+          "@meanings": "词条释义，组词，例句",
+          "meanings": [
+            {
+              "@descriptions": "词条释义",
+              "descriptions": {
+                "zh": "锲入，扎入",
+                "en": "Wedge in"
+              },
+              "@words": "词条组词",
+              "words": [
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "",
+                  "@suffix": "词语后缀",
+                  "suffix": "",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": [
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "你",
+                      "@suffix": "例句后缀",
+                      "suffix": "在路中间{U+4F5C-ddok8}{U+4E5C-mat7}{U+5622-nje5}？",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "你扎在路中间干什么？",
+                        "en": "What are you doing stuck in the middle of the road?"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "词条身份证号码",
+          "id": "U+6419-nuk7",
+          "@unicode": "主字万国统一码",
+          "unicode": "U+6419",
+          "@character": "主字字符",
+          "character": "搙",
+          "@optional_character": "备选字",
+          "optional_character": [],
+          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
+          "character_controversial_degree": "0",
+          "@related_search": "相关搜索",
+          "related_search": [
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "搋",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": "U+640B-njoi1"
+            },
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "捼",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": "U+637C-noe1"
+            }
+          ],
+          "pinyin": "",
+          "@jyut++": "鬱拼",
+          "jyut++": "nuk7",
+          "IPA": "",
+          "stroke": "",
+          "@head": "音节の头，或者特殊分类",
+          "head": "n",
+          "@tail": "音节の尾，或者特殊分类",
+          "tail": "k",
+          "@meanings": "词条释义，组词，例句",
+          "meanings": [
+            {
+              "@descriptions": "词条释义",
+              "descriptions": {
+                "zh": "来回搓揉",
+                "en": "Rubbing back and forth (often when cleaning stains)"
+              },
+              "@words": "词条组词",
+              "words": [
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "",
+                  "@suffix": "词语后缀",
+                  "suffix": "",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": [
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "",
+                      "@suffix": "例句后缀",
+                      "suffix": "手巾",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "来回揉搓毛巾",
+                        "en": "Rubbing the towel back and forth"
+                      }
+                    },
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "",
+                      "@suffix": "例句后缀",
+                      "suffix": "身",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "搓澡",
+                        "en": "Rubbing a bath"
+                      }
+                    },
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "",
+                      "@suffix": "例句后缀",
+                      "suffix": "{U+886B-som1}裤",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "来回揉搓衣物",
+                        "en": "Rubbing clothes back and forth"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "@id": "词条身份证号码",
+          "id": "U+7CF4-dik9",
+          "@unicode": "主字万国统一码",
+          "unicode": "U+7CF4",
+          "@character": "主字字符",
+          "character": "糴",
+          "@optional_character": "备选字",
+          "optional_character": [],
+          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
+          "character_controversial_degree": "0",
+          "@related_search": "相关搜索",
+          "related_search": [
+            {
+              "@related_han_zi": "相关搜索的词条字符",
+              "related_han_zi": "",
+              "@related_bian_hao": "相关搜索的词条身份证号码",
+              "related_bian_hao": ""
+            }
+          ],
+          "pinyin": "",
+          "@jyut++": "鬱拼",
+          "jyut++": "dik9",
+          "IPA": "",
+          "stroke": "",
+          "@head": "音节の头，或者特殊分类",
+          "head": "d-dd",
+          "@tail": "音节の尾，或者特殊分类",
+          "tail": "k",
+          "@meanings": "词条释义，组词，例句",
+          "meanings": [
+            {
+              "@descriptions": "词条释义",
+              "descriptions": {
+                "zh": "买进粮食",
+                "en": "Buy grain"
+              },
+              "@words": "词条组词",
+              "words": [
+                {
+                  "@prefix": "词语前缀",
+                  "prefix": "",
+                  "@suffix": "词语后缀",
+                  "suffix": "",
+                  "@descriptions": "词语释义",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  },
+                  "@sentences": "词条例句",
+                  "sentences": [
+                    {
+                      "@prefix": "例句前缀",
+                      "prefix": "",
+                      "@suffix": "例句后缀",
+                      "suffix": "米",
+                      "@descriptions": "例句释义",
+                      "descriptions": {
+                        "zh": "买米",
+                        "en": "Buy raw rice"
                       }
                     }
                   ]
@@ -86322,81 +86802,6 @@
         },
         {
           "@id": "词条身份证号码",
-          "id": "w+46-nap kau",
-          "@unicode": "主字万国统一码",
-          "unicode": "{U+8872}{U+6263}",
-          "@character": "主字字符",
-          "character": "衲扣",
-          "@optional_character": "备选字",
-          "optional_character": [],
-          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "0",
-          "@related_search": "相关搜索",
-          "related_search": [
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": ""
-            }
-          ],
-          "pinyin": "",
-          "@jyut++": "鬱拼",
-          "jyut++": "nap kau",
-          "IPA": "",
-          "stroke": "",
-          "@head": "音节の头，或者特殊分类",
-          "head": "",
-          "@tail": "音节の尾，或者特殊分类",
-          "tail": "",
-          "@meanings": "词条释义，组词，例句",
-          "meanings": [
-            {
-              "@descriptions": "词条释义",
-              "descriptions": {
-                "zh": "子母扣",
-                "en": "Snap fasteners"
-              },
-              "@words": "词条组词",
-              "words": []
-            }
-          ]
-        },
-        {
-          "@id": "词条身份证号码",
-          "id": "w+46-ddap kau",
-          "ref": "w+46-nap kau",
-          "@unicode": "主字万国统一码",
-          "unicode": "{U+8872}{U+6263}",
-          "@character": "主字字符",
-          "character": "衲扣",
-          "@optional_character": "备选字",
-          "optional_character": [],
-          "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
-          "character_controversial_degree": "0",
-          "@related_search": "相关搜索",
-          "related_search": [
-            {
-              "@related_han_zi": "相关搜索的词条字符",
-              "related_han_zi": "",
-              "@related_bian_hao": "相关搜索的词条身份证号码",
-              "related_bian_hao": ""
-            }
-          ],
-          "pinyin": "",
-          "@jyut++": "鬱拼",
-          "jyut++": "ddap kau",
-          "IPA": "",
-          "stroke": "",
-          "@head": "音节の头，或者特殊分类",
-          "head": "",
-          "@tail": "音节の尾，或者特殊分类",
-          "tail": "",
-          "@meanings": "词条释义，组词，例句",
-          "meanings": []
-        },
-        {
-          "@id": "词条身份证号码",
           "id": "w+48-fuk fat",
           "@unicode": "主字万国统一码",
           "unicode": "{U+7B26}{U+6CD5}",
@@ -89624,9 +90029,9 @@
           "@id": "词条身份证号码",
           "id": "w+120-wu hop",
           "@unicode": "主字万国统一码",
-          "unicode": "{U+828B}{U+835A}",
+          "unicode": "{U+828B}{U+6070}",
           "@character": "主字字符",
-          "character": "芋荚",
+          "character": "芋恰",
           "@optional_character": "备选字",
           "optional_character": [],
           "@character_controversial_degree": "选字争议程度，有三个选项「0，1，2」，其中0最小，2最大",
