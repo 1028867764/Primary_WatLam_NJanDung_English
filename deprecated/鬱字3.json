@@ -6,10 +6,8 @@
   "creators": [
     "?"
   ],
-  "data": [
-    {
-      "@Uword": "有音有字",
-      "Uword": [
+  "data": {
+    "Uword": [
         {
           "@id": "词条身份证号码",
           "id": "U+63DE-am2",
@@ -173,7 +171,8 @@
                   "descriptions": {
                     "zh": "哑巴",
                     "en": "The dumb"
-                  }
+                  },
+                  "sentences": []
                 }
               ]
             }
@@ -3756,7 +3755,7 @@
               "@descriptions": "词条释义",
               "descriptions": {
                 "zh": "刚好，仅仅",
-                "en": "Just , just right"
+                "en": "Just, just right"
               },
               "@words": "词条组词",
               "words": [
@@ -65899,7 +65898,7 @@
               "@related_han_zi": "相关搜索的词条字符",
               "related_han_zi": "𠵛",
               "@related_bian_hao": "相关搜索的词条身份证号码",
-              "U+20D5B-nguk9"
+              "related_bian_hao": "U+20D5B-nguk9"
             },
             {
               "@related_han_zi": "相关搜索的词条字符",
@@ -76404,11 +76403,8 @@
             }
           ]
         }
-      ]
-    },
-    {
-      "@Aword": "有音无字",
-      "Aword": [
+      ],
+    "Aword": [
         {
           "@id": "词条身份证号码",
           "id": "A+maa5",
@@ -83838,7 +83834,7 @@
           "IPA": "",
           "stroke": "",
           "@head": "音节の头，或者特殊分类",
-          "head": "k",
+          "head": "k-kw",
           "@tail": "音节の尾，或者特殊分类",
           "tail": "k",
           "@meanings": "词条释义，组词，例句",
@@ -84861,11 +84857,8 @@
             }
           ]
         }
-      ]
-    },
-    {
-      "@Wword": "有音有字的词语",
-      "Wword": [
+      ],
+    "Wword": [
         {
           "@id": "词条身份证号码",
           "id": "W+1-dai huk",
@@ -91628,11 +91621,8 @@
             }
           ]
         }
-      ]
-    },
-    {
-      "@Pend": "有音无字的词语或者待定的词语",
-      "Pend": [
+      ],
+    "Pend": [
         {
           "@id": "词条身份证号码",
           "id": "P+1-bbaa caa",
@@ -94206,6 +94196,5 @@
           ]
         }
       ]
-    }
-  ]
+  }
 }

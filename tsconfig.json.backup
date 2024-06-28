@@ -1,0 +1,14 @@
+{
+  "extends": ["@tsconfig/node22/tsconfig.json"],
+  "include": ["scripts/*", "types/*.d.ts"],
+  "compilerOptions": {
+    "typeRoots": ["types"],
+    "moduleResolution": "Node16",
+    "esModuleInterop": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "allowJs": true,
+    // "strict": true,
+    "baseUrl": "."
+  }
+}

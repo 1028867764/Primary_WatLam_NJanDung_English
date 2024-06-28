@@ -1,0 +1,3538 @@
+{
+  "version": "0.0.2",
+  "createTime": "2023-12-30",
+  "updateTime": "2024-06-27T12:35:32.663Z",
+  "creators": [
+    {
+      "name": "jiaojiaodubai",
+      "email": "jiaojiaodubai23@gmial.coom"
+    }
+  ],
+  "data": [
+    {
+      "id": "W+1-dai huk",
+      "unicode": "U+557CU+54ED",
+      "characters": ["啼哭"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "ti2ku1",
+      "jyutping": "dai huk",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "哭泣",
+            "en": "Cry into tears"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+2-ddan njan",
+      "unicode": "U+8FDBU+4EBA",
+      "characters": ["进人"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "jin4ren2",
+      "jyutping": "ddan njan",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "新房入住",
+            "en": "New house check-in"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+3-sui jaa jau fan",
+      "unicode": "U+6C34U+54CDU+6709U+4EFD",
+      "characters": ["水响有份"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "shui3xiang3you3fen4",
+      "jyutping": "sui jaa jau fan",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "形容人爱多管闲事",
+            "en": "Describing people as meddlesome"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+5-gwo zi",
+      "unicode": "U+6302U+7EB8",
+      "characters": ["挂纸"],
+      "controversial": 0,
+      "related": ["U+4F9B-gung3", "U+990A-jaa3", "U+558F-jo5"],
+      "pinyin": "gua4zhi3",
+      "jyutping": "gwo zi",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "扫墓",
+            "en": "Sweep a grave"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+6-heou toi",
+      "unicode": "U+597DU+5F69",
+      "characters": ["好彩"],
+      "controversial": 0,
+      "related": [
+        "U+60DC-slik7",
+        "U+2DFF0-mat7",
+        "U+8870-sui1",
+        "U+5F97-ddak7"
+      ],
+      "pinyin": "hao3cai3",
+      "jyutping": "heou toi",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "形容人运气好",
+            "en": "Describing a person as having good luck"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+5F97-ddak7}{U+5481-gam2}{A+er}__self__",
+                  "descriptions": {
+                    "zh": "太幸运了吧！",
+                    "en": "How lucky it is!"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W+7-jaa mok",
+      "unicode": "U+7EA6U+6478",
+      "characters": ["约摸"],
+      "controversial": 0,
+      "related": ["A+29-son03"],
+      "pinyin": "yue1mo1",
+      "jyutping": "jaa mok",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "差不多",
+            "en": "Almost, nearly"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{A+er}就{U+8D77-hi2}{U+7761-soi6}{A+le5}",
+                  "descriptions": {
+                    "zh": "差不多就该起床了",
+                    "en": "When it's almost time, it should be time to get up"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W+8-jin zan",
+      "unicode": "U+7275U+7B4B",
+      "characters": ["牵筋"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "qian1jin1",
+      "jyutping": "jin zan",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "抽筋",
+            "en": "Cramp"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+9-lop laa",
+      "unicode": "U+8721U+9753",
+      "characters": ["蜡靓"],
+      "controversial": 0,
+      "related": ["U+71A0-jop10"],
+      "pinyin": "la4liang4",
+      "jyutping": "lop laa",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "油光发亮",
+            "en": "Oil Shining"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+10-lo zo",
+      "unicode": "U+85DEU+4562",
+      "characters": ["藞䕢"],
+      "controversial": 0,
+      "related": [
+        "U+8352-wong1",
+        "U+6DB4-weo3",
+        "A+3-nam1",
+        "W+21-gin sing",
+        "U+2A797-noet8",
+        "U+6EBE-oi1",
+        "U+7ACB-lap9"
+      ],
+      "pinyin": "la3䕢",
+      "jyutping": "lo zo",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "脏乱",
+            "en": "Dirty and messy"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+773C-njon5}{U+5C4B-uk7}{U+6781-gik9}__self__",
+                  "descriptions": {
+                    "zh": "这个房间脏乱不堪",
+                    "en": "This room is very dirty and messy"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W+11-pik sot",
+      "unicode": "U+5288U+6740",
+      "characters": ["劈杀"],
+      "controversial": 0,
+      "related": ["U+4EA4-gou1"],
+      "pinyin": "pi1sha1",
+      "jyutping": "pik sot",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "械斗",
+            "en": "Fight with cold weapon"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+12-po cau",
+      "unicode": "U+6015U+4E11",
+      "characters": ["怕丑"],
+      "controversial": 0,
+      "related": ["U+67B6-go6"],
+      "pinyin": "pa4chou3",
+      "jyutping": "po cau",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "害羞",
+            "en": "Shy"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+13-pun sli",
+      "unicode": "U+62DAU+6B7B",
+      "characters": ["拚死"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "pin1si3",
+      "jyutping": "pun sli",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "拼命",
+            "en": "Desperately"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{U+5406-eu1}{U+5481-gam2}大声",
+                  "descriptions": {
+                    "zh": "拼命大声喊",
+                    "en": "Desperately shouting loudly"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W+14-tai laa",
+      "unicode": "U+51C4U+51C9",
+      "characters": ["凄凉"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "qi1liang2",
+      "jyutping": "tai laa",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "惨",
+            "en": "Miserably; Tragically"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+15-wan sat",
+      "unicode": "U+628EU+5931",
+      "characters": ["抎失"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "yun3shi1",
+      "jyutping": "wan sat",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "迷路，迷失，失踪",
+            "en": "Lost, missing"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+2C9B0-mak7}山{U+884C-aa4}__self__",
+                  "descriptions": {
+                    "zh": "登山途中迷路了",
+                    "en": "Get lost on the way up the mountain"
+                  }
+                },
+                {
+                  "format": "去公安局报__self__",
+                  "descriptions": {
+                    "zh": "去警察局汇报失踪",
+                    "en": "Report missing persons to the police station"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W+16-wo lang lang",
+      "unicode": "U+82B1U+7EEBU+7EEB",
+      "characters": ["花绫绫"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "hua1ling2ling2",
+      "jyutping": "wo lang lang",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "花样繁多",
+            "en": "A lot of variety"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+17-woi zung",
+      "unicode": "U+574FU+79CD",
+      "characters": ["坏种"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "huai4zhong3",
+      "jyutping": "woi zung",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "形容人品行恶劣，卑鄙",
+            "en": "Describing a person's bad behavior and despicability"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+4F62-gyu5}{U+6781-gik9}__self__{U+5605-geo4}",
+                  "descriptions": {
+                    "zh": "他净干坏事",
+                    "en": "He is always doing bad things"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W+21-gin sing",
+      "unicode": "U+4EF6U+6210",
+      "characters": ["件成"],
+      "controversial": 1,
+      "related": [
+        "U+8352-wong1",
+        "U+6DB4-weo3",
+        "A+3-nam1",
+        "U+2A797-noet8",
+        "U+6EBE-oi1",
+        "U+7ACB-lap9"
+      ],
+      "pinyin": "jian4cheng2",
+      "jyutping": "gin sing",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "干净，整洁",
+            "en": "Clean and tidy, neat"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W+23-zi sing",
+      "unicode": "U+81F3U+8BDA",
+      "characters": ["至诚"],
+      "controversial": 0,
+      "related": ["U+6B63-zing3"],
+      "pinyin": "zhi4cheng2",
+      "jyutping": "zi sing",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "认真，态度诚恳",
+            "en": "Serious and sincere attitude"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__写{U+9F50-dai4}作业",
+                  "descriptions": {
+                    "zh": "认真写完作业",
+                    "en": "Seriously completing homework"
+                  }
+                },
+                {
+                  "format": "至__self__诚",
+                  "descriptions": {
+                    "zh": "认认真真",
+                    "en": "Take it seriously"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W+25-biu se",
+      "unicode": "U+5AD6U+9A07",
+      "characters": ["嫖騇"],
+      "controversial": 0,
+      "related": ["A+53-put7"],
+      "pinyin": "piao2she4",
+      "jyutping": "biu se",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "嫖娼",
+            "en": "Visit prostitutes"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+27-lau dau",
+      "unicode": "U+6D41U+5934",
+      "characters": ["流头"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "liu2tou2",
+      "jyutping": "lau dau",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "正当...时候（后接要被阻止的坏行为）",
+            "en": "When (followed by bad behavior that needs to be stopped)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "新年__self__，{U+5187-mau5}{U+5F97-ddak7}讲{U+4E2A-geo3}{A+tsu}种话！",
+                  "descriptions": {
+                    "zh": "正值一年开始的喜庆时刻，不许说这种不吉利的话！",
+                    "en": "It's a festive moment at the beginning of the new year, no such unlucky words are allowed!"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "W+28-bet cyu tyun",
+      "unicode": "U+522BU+5904U+6751",
+      "characters": ["别处村"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "bie2chu4cun1",
+      "jyutping": "bet cyu tyun",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "避讳语",
+            "en": "Taboo"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+29-bui ddik",
+      "unicode": "U+80CCU+810A",
+      "characters": ["背脊"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "bei4ji3",
+      "jyutping": "bui ddik",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "背部",
+            "en": "The back of the body"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+30-dau nep",
+      "unicode": "U+5934U+954A",
+      "characters": ["头镊"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "tou2nie4",
+      "jyutping": "dau nep",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "发卡",
+            "en": "Hairpin"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+31-zi jiu",
+      "unicode": "U+7EB8U+9E5E",
+      "characters": ["纸鹞"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "zhi3yao4",
+      "jyutping": "zi jiu",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "风筝",
+            "en": "Kites"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+32-njon ci",
+      "unicode": "U+773CU+7735",
+      "characters": ["眼眵"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "yan3chi1",
+      "jyutping": "njon ci",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "眼屎",
+            "en": "The gum in the eyes"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+33-din hung",
+      "unicode": "U+7530U+63A7",
+      "characters": ["田控"],
+      "controversial": 0,
+      "related": [
+        "U+578C-dung6",
+        "U+575C-lik7",
+        "U+584D-syng4",
+        "U+57D2-loet10"
+      ],
+      "pinyin": "tian2kong4",
+      "jyutping": "din hung",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "水田和水渠的连接口，用于控制进水和排水",
+            "en": "The connection between paddy fields and water channels, used to control water intake and drainage"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+34-din zuk",
+      "unicode": "U+7535U+70DB",
+      "characters": ["电烛"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "dian4zhu2",
+      "jyutping": "din zuk",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "灯管",
+            "en": "Electric lamp tube"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+35-duk gi",
+      "unicode": "U+72ECU+5DF1",
+      "characters": ["独己"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "du2ji3",
+      "jyutping": "duk gi",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "自己",
+            "en": "Own, oneself"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+36-du loe",
+      "unicode": "U+809AU+81DA",
+      "characters": ["肚臚"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "du4lu2",
+      "jyutping": "du loe",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "肚腩，腹部（第二字「臚」念「loe4」）",
+            "en": "Belly, abdomen (The second character「臚」is pronounced as「loe4」)"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "W+37-fot wan",
+      "unicode": "U+53D1U+761F",
+      "characters": ["发瘟"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "fa1wen1",
+      "jyutping": "fot wan",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "（脏话）",
+            "en": "(Swearing, cursing)"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+39-gou git",
+      "unicode": "U+57A2U+573F",
+      "characters": ["垢圿"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "gou4jia2",
+      "jyutping": "gou git",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "体表的污垢",
+            "en": "Dirt on the surface of the body"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+63E9-hoi1}身{U+637C-noe1}出{U+6781-gik9}多__self__",
+                  "descriptions": {
+                    "zh": "洗澡时候搓身子，结果搓出许多污垢",
+                    "en": "Rubbing off a lot of dirt on the body skin while taking a shower"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w+40-leou dau",
+      "unicode": "U+8001U+8C46",
+      "characters": ["老豆"],
+      "controversial": 0,
+      "related": ["U+3737-me4"],
+      "pinyin": "lao3dou4",
+      "jyutping": "leou dau",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "父亲的背称",
+            "en": "Father's narrative name"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+42-slom njat je",
+      "unicode": "U+5345U+65E5U+591C",
+      "characters": ["卅日夜"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "sa4ri4ye4",
+      "jyutping": "slom njat je",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "除夕",
+            "en": "The Spring Festival's Eve"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+43-tin din",
+      "unicode": "U+5929U+7530",
+      "characters": ["天田"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "tian1tian2",
+      "jyutping": "tin din",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "建筑物周围的空旷平地",
+            "en": "The open and flat land around the building"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+884C-aa4}出__self__放烟火",
+                  "descriptions": {
+                    "zh": "从屋子里走出到空旷地方放烟花",
+                    "en": "Stepping out of the room and setting off fireworks in an open area"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w+44-ting ddai",
+      "unicode": "U+5385U+90B8",
+      "characters": ["厅邸"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "ting1di3",
+      "jyutping": "ting ddai",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "中堂，旧式宅院供奉祖先和会客的地方，与今天「客厅」的作用类似。因为宗族祖先的「{w+44-ting ddai}」常被后人立祠祭祀，因此「老{w+44-ting ddai}」也常用于代指宗祠",
+            "en": "The place where worshipping ancestors or receiving guests in old style houses, its function is similar to today's 「living room」.「老{w+44-ting ddai}」also commonly used to refer to ancestral temples, because the ancestral「{w+44-ting ddai}」of the clan are often worshipped by later generations"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+45-di ddai",
+      "unicode": "U+5730U+5E95",
+      "characters": ["地底"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "di4di3",
+      "jyutping": "di ddai",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "地面，地上",
+            "en": "On the ground, floor"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+48-fuk fat",
+      "unicode": "U+7B26U+6CD5",
+      "characters": ["符法"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "fu2fa3",
+      "jyutping": "fuk fat",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "花招",
+            "en": "Tricks"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+49-nji gwai",
+      "unicode": "U+8033U+9B3C",
+      "characters": ["耳鬼"],
+      "controversial": 1,
+      "related": [""],
+      "pinyin": "er3gui3",
+      "jyutping": "nji gwai",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "耳朵",
+            "en": "Ears"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+50-hau zung",
+      "unicode": "U+53E3U+76C5",
+      "characters": ["口盅"],
+      "controversial": 0,
+      "related": ["U+551B-mak7"],
+      "pinyin": "kou3zhong1",
+      "jyutping": "hau zung",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "刷牙杯，或形如刷牙杯的饮水杯",
+            "en": "A toothbrush cup, or a drinking cup shaped like it"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+51-mo ling",
+      "unicode": "U+5B56U+8EE8",
+      "characters": ["孖軨"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "ma1ling2",
+      "jyutping": "mo ling",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "双轮车，自行车",
+            "en": "Bicycle"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+52-fot hi",
+      "unicode": "U+53D1U+6C14",
+      "characters": ["发气"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "fa1qi4",
+      "jyutping": "fot hi",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "生气",
+            "en": "Get angry"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+53-fot sling",
+      "unicode": "U+53D1U+6027",
+      "characters": ["发性"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "fa1xing4",
+      "jyutping": "fot sling",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "生气",
+            "en": "Get angry"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+54-tau dui",
+      "unicode": "U+51D1U+961F",
+      "characters": ["凑队"],
+      "controversial": 0,
+      "related": ["w+55-tau gung"],
+      "pinyin": "cou4dui4",
+      "jyutping": "tau dui",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "连同...一起",
+            "en": "Along with together"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "帮我买杯奶茶，买瓶农药__self__",
+                  "descriptions": {
+                    "zh": "帮我买一杯奶茶，还有一瓶农药",
+                    "en": "Help me buy a cup of milk tea and a bottle of pesticide"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w+55-tau gung",
+      "unicode": "U+51D1U+5171",
+      "characters": ["凑共"],
+      "controversial": 0,
+      "related": ["w+54-tau dui"],
+      "pinyin": "cou4gong4",
+      "jyutping": "tau gung",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "连同...一起",
+            "en": "Along with together"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+4E2A-geo3}{A+tsu}次__self__上次，总共来{U+7740-zaa6}两{U+56E9-wan4}",
+                  "descriptions": {
+                    "zh": "这次连同上次，总共来过两回",
+                    "en": "This time, along with the last time, I have come twice in total"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w+56-ging nang",
+      "unicode": "U+6B63U+767B",
+      "characters": ["正登"],
+      "controversial": 0,
+      "related": ["w+57-dak ddang"],
+      "pinyin": "zheng4deng1",
+      "jyutping": "ging nang",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "故意，刻意（第一字念「ging3」或「zing3」，第二字念「nang1」或「ddang1」且常常读小称声调「nang01」或「ddang01」）",
+            "en": "Intentionally, deliberately (The first character is pronounced as「ging3」or「zing3」.And the second character is pronounced as「nang01」or「ddang01」commonly)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+4F62-gyu5}__self__{U+279A0-ngak7}你{U+5605-geo4}",
+                  "descriptions": {
+                    "zh": "他故意骗你的",
+                    "en": "He deliberately deceived you"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w+56-ging ddang",
+      "unicode": "U+6B63U+767B",
+      "characters": ["正登"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+56-ging nang",
+      "pinyin": "zheng4deng1",
+      "jyutping": "ging ddang",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+56-zing nang",
+      "unicode": "U+6B63U+767B",
+      "characters": ["正登"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+56-ging nang",
+      "pinyin": "zheng4deng1",
+      "jyutping": "zing nang",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+56-zing ddang",
+      "unicode": "U+6B63U+767B",
+      "characters": ["正登"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+56-ging nang",
+      "pinyin": "zheng4deng1",
+      "jyutping": "zing ddang",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+57-dak ddang",
+      "unicode": "U+7279U+767B",
+      "characters": ["特登"],
+      "controversial": 0,
+      "related": ["w+56-ging nang"],
+      "pinyin": "te4deng1",
+      "jyutping": "dak ddang",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "故意，刻意(第二字念「nang1」或「ddang1」且常常读小称声调「nang01」或「ddang01」)",
+            "en": "Intentionally, deliberately (The second character is pronounced as「nang01」or「ddang01」commonly)"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+57-dak nang",
+      "unicode": "U+7279U+767B",
+      "characters": ["特登"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+57-dak ddang",
+      "pinyin": "te4deng1",
+      "jyutping": "dak nang",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+58-ddeou ji",
+      "unicode": "U+65E9U+4EE5",
+      "characters": ["早以"],
+      "controversial": 0,
+      "related": ["w+59-zau ji"],
+      "pinyin": "zao3yi3",
+      "jyutping": "ddeou ji",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "刚刚，刚才（第二字常念小称音「ji02」）",
+            "en": "A moment ago; A short while ago (The second character is pronounced as cute-tone「ji02」commonly)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{A+er}讲过{A+le5}",
+                  "descriptions": {
+                    "zh": "刚才说过了",
+                    "en": "Have mentioned it a moment ago"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w+59-zau ji",
+      "unicode": "U+65E7U+4EE5",
+      "characters": ["旧以"],
+      "controversial": 0,
+      "related": ["w+58-ddeou ji"],
+      "pinyin": "jiu4yi3",
+      "jyutping": "zau ji",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "刚刚，刚才（第二字常念小称音「ji02」）",
+            "en": "A moment ago; A short while ago (The second character is pronounced as cute-tone「ji02」commonly)"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+60-si ging",
+      "unicode": "U+65F6U+5883",
+      "characters": ["时境"],
+      "controversial": 1,
+      "related": [""],
+      "pinyin": "shi2jing4",
+      "jyutping": "si ging",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "时间段里的一点，时候（第二字念「ging3」）",
+            "en": "At a certain point in the time period (The second character is pronounced as「ging3」)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "上课__self__{U+5187-mau5}{U+5F97-ddak7}{U+5F04-lung6}手机",
+                  "descriptions": {
+                    "zh": "上课时候不许玩手机",
+                    "en": "Do not play with mobile phones during class"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w+61-tau jam",
+      "unicode": "U+5077U+9634",
+      "characters": ["偷阴"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "tou1yin1",
+      "jyutping": "tau jam",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "悄悄地,同「{w+62-tau jam}」（第二字常念小称音「jam01」）",
+            "en": "Quietly, secretly, same as「{w+62-tau jam}」(The second character is pronounced as cute-tone「jam01」)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "班主任__self__{A+er}{U+884C-aa4}回教室",
+                  "descriptions": {
+                    "zh": "班主任悄悄走进教室",
+                    "en": "The teacher in charge of the class quietly walked into the classroom"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w+62-tau jam",
+      "unicode": "U+5077U+97F3",
+      "characters": ["偷音"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+61-tau jam",
+      "pinyin": "tou1yin1",
+      "jyutping": "tau jam",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+65-tin gi",
+      "unicode": "U+5343U+7948",
+      "characters": ["千祈"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "qian1qi2",
+      "jyutping": "tin gi",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "千万",
+            "en": "Must"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__要记{U+7D27-gan2}密码",
+                  "descriptions": {
+                    "zh": "千万要把密码记牢固",
+                    "en": "Be sure to remember the password firmly"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w+66-tin gi tin",
+      "unicode": "U+5343U+7948U+5343",
+      "characters": ["千祈千"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "qian1qi2qian1",
+      "jyutping": "tin gi tin",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "千万",
+            "en": "Must"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{U+5452-maa5}{A+er}吸毒",
+                  "descriptions": {
+                    "zh": "千万别吸毒",
+                    "en": "Drugs taking forbidden"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w+67-tam tam zyun",
+      "unicode": "U+27F7CU+27F7CU+8F6C",
+      "characters": ["𧽼𧽼转"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "𧽼𧽼zhuan3",
+      "jyutping": "tam tam zyun",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "来回走动，绕圈",
+            "en": "Walk back and forth, in circles"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+68-kwang kwang zyun",
+      "unicode": "U+3622U+3622U+8F6C",
+      "characters": ["㘢㘢转"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "㘢㘢zhuan3",
+      "jyutping": "kwang kwang zyun",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "团团转",
+            "en": "Round and round"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+68-gwang gwang zyun",
+      "unicode": "U+3622U+3622U+8F6C",
+      "characters": ["㘢㘢转"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+68-kwang kwang zyun",
+      "pinyin": "㘢㘢zhuan3",
+      "jyutping": "gwang gwang zyun",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+69-wing wang zyun",
+      "unicode": "U+8367U+60D1U+8F6C",
+      "characters": ["荧惑转"],
+      "controversial": 1,
+      "related": [""],
+      "pinyin": "ying2huo4zhuan3",
+      "jyutping": "wing wang zyun",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "团团转",
+            "en": "Round and round"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+70-wing wang wang",
+      "unicode": "U+8367U+60D1U+60D1",
+      "characters": ["荧惑惑"],
+      "controversial": 1,
+      "related": ["U+6172-mun6"],
+      "pinyin": "ying2huo4huo4",
+      "jyutping": "wing wang wang",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "头晕目眩",
+            "en": "Be dizzy"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "头脑__self__",
+                  "descriptions": {
+                    "zh": "眩晕",
+                    "en": "Be dizzy"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w+71-hat nji",
+      "unicode": "U+4E5EU+513F",
+      "characters": ["乞儿"],
+      "controversial": 0,
+      "related": ["w+72-mik hik"],
+      "pinyin": "qi3er2",
+      "jyutping": "hat nji",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "乞丐",
+            "en": "Beggars"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+72-mik hik",
+      "unicode": "U+89C5U+5403",
+      "characters": ["觅吃"],
+      "controversial": 0,
+      "related": ["w+71-hat nji"],
+      "pinyin": "mi4chi1",
+      "jyutping": "mik hik",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "乞丐",
+            "en": "Beggars"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+73-lak gou",
+      "unicode": "U+52D2U+80F6",
+      "characters": ["勒胶"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "le4jiao1",
+      "jyutping": "lak gou",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "橡胶圈",
+            "en": "Rubber rings"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+74-san suk gou",
+      "unicode": "U+4F38U+7F29U+80F6",
+      "characters": ["伸缩胶"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "shen1suo1jiao1",
+      "jyutping": "san suk gou",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "橡胶圈",
+            "en": "Rubber rings"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+75-aa ddi",
+      "unicode": "U+6838U+5B50",
+      "characters": ["核子"],
+      "controversial": 0,
+      "related": [
+        "U+28CCD-toet10",
+        "U+95AA-hai1",
+        "U+5C44-bbe1",
+        "U+5C44-be5",
+        "w+76-aa ge"
+      ],
+      "pinyin": "he2zi3",
+      "jyutping": "aa ddi",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "男性生殖器的俗称",
+            "en": "Common term for male reproductive organs"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+76-aa ge",
+      "unicode": "U+6838U+8127",
+      "characters": ["核脧"],
+      "controversial": 0,
+      "related": [
+        "U+28CCD-toet10",
+        "U+95AA-hai1",
+        "U+5C44-bbe1",
+        "U+5C44-be5",
+        "w+75-aa ddi"
+      ],
+      "pinyin": "he2zui1",
+      "jyutping": "aa ge",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "男性生殖器的俗称，尤指小男孩的",
+            "en": "Common term for male reproductive organs, especially of boys"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+76-aa gai",
+      "unicode": "U+6838U+8127",
+      "characters": ["核脧"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+76-aa ge",
+      "pinyin": "he2zui1",
+      "jyutping": "aa gai",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+77-ddeou mun",
+      "unicode": "U+7076U+95E8",
+      "characters": ["灶门"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "zao4men2",
+      "jyutping": "ddeou mun",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "厨房",
+            "en": "The kitchen"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+78-ddeou me",
+      "unicode": "U+7076U+3737",
+      "characters": ["灶㜷"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "zao4㜷",
+      "jyutping": "ddeou me",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "灶神",
+            "en": "The kitchen god"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+79-wui leou",
+      "unicode": "U+7070U+4F6C",
+      "characters": ["灰佬"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "hui1lao3",
+      "jyutping": "wui leou",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "家伙，含贬义",
+            "en": "Guy, with a derogatory connotation"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+80-wui leou syu",
+      "unicode": "U+7070U+8001U+9F20",
+      "characters": ["灰老鼠"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "hui1lao3shu3",
+      "jyutping": "wui leou syu",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "家伙，含贬义",
+            "en": "Guy, with a derogatory connotation"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+81-bang gang",
+      "unicode": "U+5E9EU+8679",
+      "characters": ["庞虹"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "pang2hong2",
+      "jyutping": "bang gang",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "彩虹",
+            "en": "Rainbow"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+82-bang gang",
+      "unicode": "U+5E9EU+7D73",
+      "characters": ["庞絳"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "pang2jiang4",
+      "jyutping": "bang gang",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "彩虹",
+            "en": "Rainbow"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+83-fong mo",
+      "unicode": "U+653EU+9A6C",
+      "characters": ["放马"],
+      "controversial": 0,
+      "related": ["U+5C59-eo1", "w+84-zo njau", "U+6FD1-loi6"],
+      "pinyin": "fang4ma3",
+      "jyutping": "fong mo",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "小便（第二字常念小称音）",
+            "en": "Urinate, pee (The second character is pronounced as cute-tone commonly)"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+84-zo njau",
+      "unicode": "U+70B8U+725B",
+      "characters": ["炸牛"],
+      "controversial": 0,
+      "related": [
+        "U+6FD1-loi6",
+        "U+5C59-eo1",
+        "U+577A-bet10",
+        "U+670F-wat7",
+        "U+63D9-bban2",
+        "w+83-fong mo"
+      ],
+      "pinyin": "zha4niu2",
+      "jyutping": "zo njau",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "大便（第二字常念小称音）",
+            "en": "Defecate (The second character is pronounced as cute-tone commonly)"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+87-teo tung",
+      "unicode": "U+62D6U+6876",
+      "characters": ["拖桶"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "tuo1tong3",
+      "jyutping": "teo tung",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "抽屉",
+            "en": "Drawers"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+88-gwai tung",
+      "unicode": "U+67DCU+6876",
+      "characters": ["柜桶"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "gui4tong3",
+      "jyutping": "gwai tung",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "抽屉",
+            "en": "Drawers"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+91-bi ti",
+      "unicode": "U+76AEU+523A",
+      "characters": ["皮刺"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "pi2ci4",
+      "jyutping": "bi ti",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "一种皮肤病",
+            "en": "A skin disease"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+92-nang gai",
+      "unicode": "U+24E4DU+818E",
+      "characters": ["𤹍膎"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "𤹍xie2",
+      "jyutping": "nang gai",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "伤口愈合后留下的疤痕",
+            "en": "Scars left after wound healing"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+93-bbo no",
+      "unicode": "U+75A4U+24E3B",
+      "characters": ["疤𤸻"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "ba1𤸻",
+      "jyutping": "bbo no",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "疤痕",
+            "en": "Scar"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+94-lom gai",
+      "unicode": "U+6984U+9E21",
+      "characters": ["榄鸡"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "lan3ji1",
+      "jyutping": "lom gai",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "扑克牌里的方块；菱形",
+            "en": "Diamond in playing cards; Diamond"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+95-bok tui",
+      "unicode": "U+8584U+8106",
+      "characters": ["薄脆"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "bao2cui4",
+      "jyutping": "bok tui",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "一种油炸小吃",
+            "en": "A type of fried snack"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+96-baa slon",
+      "unicode": "U+767DU+7CE4",
+      "characters": ["白糤"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "bai2san3",
+      "jyutping": "baa slon",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "一种油炸米花大饼，玉林地区特色小吃",
+            "en": "A type of fried rice cake, a specialty snack in Yulin region"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+97-keu lin",
+      "unicode": "U+7FD8U+8FDE",
+      "characters": ["翘连"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "qiao4lian2",
+      "jyutping": "keu lin",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "同「{U+7F49-caa1}耳{U+5265-muk7}」，一种油炸小吃，有点像升级版的「莫比乌斯环」，又有点像丰田车标",
+            "en": "Same as「{U+7F49-caa1}耳{U+5265-muk7}」; A fried snack that resembles an upgraded version of the Mobius Ring and also resembles the Toyota logo"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+99-tui ddi",
+      "unicode": "U+8106U+5B50",
+      "characters": ["脆子"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "cui4zi3",
+      "jyutping": "tui ddi",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "一种油炸小吃",
+            "en": "A type of fried snack"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+100-bbok caa beo",
+      "unicode": "U+993AU+7F49U+997D",
+      "characters": ["餺罉饽"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "bo2cheng1bo1",
+      "jyutping": "bbok caa beo",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "一种糯米年糕，同「{w+101-doi lung di}」",
+            "en": "A type of glutinous rice cake, same as「{w+101-doi lung di}」"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+101-doi lung di",
+      "unicode": "U+5927U+7B3CU+7CCD",
+      "characters": ["大笼糍"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "da4long2ci2",
+      "jyutping": "doi lung di",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "一种糯米年糕，同「{w+100-bbok caa beo}」",
+            "en": "A type of glutinous rice cake, same as「{w+100-bbok caa beo}」"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+102-muk syu beo",
+      "unicode": "U+6728U+85AFU+997D",
+      "characters": ["木薯饽"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "mu4shu3bo1",
+      "jyutping": "muk syu beo",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "用木薯淀粉制成的糕点",
+            "en": "Pastry made from cassava starch"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+103-lin ddi beo",
+      "unicode": "U+83B2U+5B50U+997D",
+      "characters": ["莲子饽"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "lian2zi3bo1",
+      "jyutping": "lin ddi beo",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "汤圆",
+            "en": "Glutinous rice balls"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+104-et ddi beo",
+      "unicode": "U+42A6U+5B50U+997D",
+      "characters": ["䊦子饽"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "䊦zi3bo1",
+      "jyutping": "et ddi beo",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "一种用糯米粉制成的糕点",
+            "en": "A kind of cake made of glutinous rice flour"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+104-jat ddi beo",
+      "unicode": "U+42A6U+5B50U+997D",
+      "characters": ["䊦子饽"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+104-et ddi beo",
+      "pinyin": "䊦zi3bo1",
+      "jyutping": "jat ddi beo",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+105-ddung jep",
+      "unicode": "U+67CAU+53F6",
+      "characters": ["柊叶"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "zhong1ye4",
+      "jyutping": "ddung jep",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "拉丁学名「Phrynium capitatum」，两广地区包粽子常用的叶子",
+            "en": "Latin scientific name「Phrynium capitatum」; Leaves commonly used for making Zongzi in Guangdong and Guangxi"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+106-luk buk",
+      "unicode": "U+2D4B9U+6A38",
+      "characters": ["𭒹樸"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "𭒹pu3",
+      "jyutping": "luk buk",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "柚子",
+            "en": "Pomelo"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+106-luk guk",
+      "unicode": "U+2D4B9U+6A38",
+      "characters": ["𭒹樸"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+106-luk buk",
+      "pinyin": "𭒹pu3",
+      "jyutping": "luk guk",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+108-doi jep zo",
+      "unicode": "U+5927U+53F6U+8336",
+      "characters": ["大叶茶"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "da4ye4cha2",
+      "jyutping": "doi jep zo",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "胡桃科黄杞属（拉丁学名「Juglandaceae Engelhardtia」）的某些植物的叶子，一种在玉林地区很常见的树叶茶，物美价廉，茶水甘甜可口",
+            "en": "The leaves of certain plants in「Juglandaceae Engelhardtia」, a common leaf tea in the Yulin region, are of good quality and affordable price, and the tea is sweet and delicious"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+109-zo dung",
+      "unicode": "U+8336U+7B52",
+      "characters": ["茶筒"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "cha2tong3",
+      "jyutping": "zo dung",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "旧式保温壶",
+            "en": "Old style insulated kettle"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+110-wun son",
+      "unicode": "U+7897U+6808",
+      "characters": ["碗栈"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "wan3zhan4",
+      "jyutping": "wun son",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "碗柜",
+            "en": "Bowl cabinet"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+111-fon bi",
+      "unicode": "U+996DU+76AE",
+      "characters": ["饭皮"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "fan4pi2",
+      "jyutping": "fon bi",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "米饭锅巴",
+            "en": "Rice crust"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+112-fon dau",
+      "unicode": "U+996DU+8C46",
+      "characters": ["饭豆"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "fan4dou4",
+      "jyutping": "fon dau",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "白豇豆",
+            "en": "White cowpea"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+114-gu njoet",
+      "unicode": "U+53E4U+6708",
+      "characters": ["古月"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "gu3yue4",
+      "jyutping": "gu njoet",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "胡椒",
+            "en": "Pepper"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+115-gwat slyun",
+      "unicode": "U+53E4U+6708U+849C",
+      "characters": ["古月蒜"],
+      "controversial": 1,
+      "related": [""],
+      "pinyin": "gu3yue4suan4",
+      "jyutping": "gwat slyun",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "大蒜，亦可以写作「骨蒜」",
+            "en": "Garlic, can also be written as「骨蒜」"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+116-syu gu",
+      "unicode": "U+85AFU+83F0",
+      "characters": ["薯菰"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "shu3gu1",
+      "jyutping": "syu gu",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "土豆",
+            "en": "Potato"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+117-di gu",
+      "unicode": "U+5730U+83F0",
+      "characters": ["地菰"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "di4gu1",
+      "jyutping": "di gu",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "土豆",
+            "en": "Potato"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+118-jim slai",
+      "unicode": "U+76D0U+837D",
+      "characters": ["盐荽"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "yan2sui1",
+      "jyutping": "jim slai",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "香菜",
+            "en": "Coriander"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+119-jyun slai",
+      "unicode": "U+82ABU+837D",
+      "characters": ["芫荽"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "yuan2sui1",
+      "jyutping": "jyun slai",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "香菜",
+            "en": "Coriander"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+120-wu hop",
+      "unicode": "U+828BU+6070",
+      "characters": ["芋恰"],
+      "controversial": 1,
+      "related": [""],
+      "pinyin": "yu4qia4",
+      "jyutping": "wu hop",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "一种小吃，由芋头的叶柄腌制而成",
+            "en": "A snack made by marinating the petioles of taro"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+121-wu mung",
+      "unicode": "U+828BU+791E",
+      "characters": ["芋礞"],
+      "controversial": 1,
+      "related": [""],
+      "pinyin": "yu4meng2",
+      "jyutping": "wu mung",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "一种小吃，由芋头的叶柄腌制而成",
+            "en": "A snack made by marinating the petioles of taro"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+122-bbou sluk",
+      "unicode": "U+82DEU+7C9F",
+      "characters": ["苞粟"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "bao1su4",
+      "jyutping": "bbou sluk",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "玉米",
+            "en": "Maize, corn"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+123-zyu fot",
+      "unicode": "U+732AU+53D1",
+      "characters": ["猪发"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "zhu1fa1",
+      "jyutping": "zyu fot",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "猪肺",
+            "en": "Pork lungs"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+125-cau sau",
+      "unicode": "U+81EDU+998A",
+      "characters": ["臭馊"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "chou4sou1",
+      "jyutping": "cau sau",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "食物变质发臭",
+            "en": "Food spoils and smells"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "盘菜__self__{A+le5}",
+                  "descriptions": {
+                    "zh": "这盘菜变质发臭了",
+                    "en": "This dish has gone bad and smells bad"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "w+126-sik njyu",
+      "unicode": "U+8272U+4E73",
+      "characters": ["色乳"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "se4ru3",
+      "jyutping": "sik njyu",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "腐乳",
+            "en": "Fermented bean curd"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+126-sik njyui",
+      "unicode": "U+8272U+4E73",
+      "characters": ["色乳"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+126-sik njyu",
+      "pinyin": "se4ru3",
+      "jyutping": "sik njyui",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+127-soi jau",
+      "unicode": "U+6652U+6CB9",
+      "characters": ["晒油"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "shai4you2",
+      "jyutping": "soi jau",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "酱油",
+            "en": "Soya sauce"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+128-soi si",
+      "unicode": "U+6652U+8C49",
+      "characters": ["晒豉"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "shai4chi3",
+      "jyutping": "soi si",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "黄豆酱",
+            "en": "Soybean paste"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+129-dau si",
+      "unicode": "U+8C46U+8C49",
+      "characters": ["豆豉"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "dou4chi3",
+      "jyutping": "dau si",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "黑豆豉",
+            "en": "Black fermented soybeans"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+130-lom si",
+      "unicode": "U+6984U+8C49",
+      "characters": ["榄豉"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "lan3chi3",
+      "jyutping": "lom si",
+      "IPA": "",
+      "strokes": "",
+      "head": "饮食",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "一种用黑橄榄腌制而成的咸菜",
+            "en": "A pickled vegetable made by marinating black olives"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+131-lou zou",
+      "unicode": "U+87E7U+8775",
+      "characters": ["蟧蝵"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "lao2qiu1",
+      "jyutping": "lou zou",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "蜘蛛",
+            "en": "Spider"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+132-mo lung gung",
+      "unicode": "U+8682U+8782U+86A2",
+      "characters": ["蚂螂蚢"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "ma3lang2hang2",
+      "jyutping": "mo lung gung",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "螳螂",
+            "en": "Mantis"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+132-mo long gong",
+      "unicode": "U+8682U+8782U+86A2",
+      "characters": ["蚂螂蚢"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+132-mo lung gung",
+      "pinyin": "ma3lang2hang2",
+      "jyutping": "mo long gong",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+133-sap nji se slai",
+      "unicode": "U+5341U+4E8CU+86C7U+8794",
+      "characters": ["十二蛇螔"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "shi2er4she2yi2",
+      "jyutping": "sap nji se slai",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "蜥蜴",
+            "en": "Lizard"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+134-bbaa dduk",
+      "unicode": "U+767EU+8DB3",
+      "characters": ["百足"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "bai3zu2",
+      "jyutping": "bbaa dduk",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "蜈蚣",
+            "en": "Centipede"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+135-man nyng",
+      "unicode": "U+868AU+8747",
+      "characters": ["蚊蝇"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "wen2ying2",
+      "jyutping": "man nyng",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "苍蝇",
+            "en": "Housefly"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+135-man ning",
+      "unicode": "U+868AU+8747",
+      "characters": ["蚊蝇"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+135-man nyng",
+      "pinyin": "wen2ying2",
+      "jyutping": "man ning",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+135-man ling",
+      "unicode": "U+868AU+8747",
+      "characters": ["蚊蝇"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+135-man nyng",
+      "pinyin": "wen2ying2",
+      "jyutping": "man ling",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+136-tyu don",
+      "unicode": "U+86C6U+5F39",
+      "characters": ["蛆弹"],
+      "controversial": 2,
+      "related": [""],
+      "pinyin": "qu1tan2",
+      "jyutping": "tyu don",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "蚯蚓",
+            "en": "Earthworm"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+137-dong ni",
+      "unicode": "U+5858U+875E",
+      "characters": ["塘蝞"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "tang2mei4",
+      "jyutping": "dong ni",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "蜻蜓",
+            "en": "Dragonfly"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+137-dong nji",
+      "unicode": "U+5858U+875E",
+      "characters": ["塘蝞"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "w+137-dong ni",
+      "pinyin": "tang2mei4",
+      "jyutping": "dong nji",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": []
+    },
+    {
+      "id": "w+141-gam syu",
+      "unicode": "U+8804U+870D",
+      "characters": ["蠄蜍"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "qin2chu2",
+      "jyutping": "gam syu",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "蛤蟆",
+            "en": "Toad"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+142-meu wong",
+      "unicode": "U+875AU+87E5",
+      "characters": ["蝚蟥"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "rou2huang2",
+      "jyutping": "meu wong",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "蚂蟥（第一字在某些地区念「miu」）",
+            "en": "Leech (The first character pronounced as「miu」in certain regions)"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+143-meu nang",
+      "unicode": "U+875AU+56D4",
+      "characters": ["蝚囔"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "rou2nang1",
+      "jyutping": "meu nang",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "蚂蟥（第一字在某些地区念「miu」）",
+            "en": "Leech (The first character pronounced as「miu」in certain regions)"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+143-meu nong",
+      "unicode": "U+875AU+56D4",
+      "characters": ["蝚囔"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "rou2nang1",
+      "jyutping": "meu nong",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "蚂蟥（第一字在某些地区念「miu」）",
+            "en": "Leech (The first character pronounced as「miu」in certain regions)"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+144-bang gem",
+      "unicode": "U+8783U+94B3",
+      "characters": ["螃钳"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "pang2qian2",
+      "jyutping": "bang gem",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "螃蟹",
+            "en": "Crab"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+145-gem gem",
+      "unicode": "U+94B3U+94B3",
+      "characters": ["钳钳"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "qian2qian2",
+      "jyutping": "gem gem",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "螃蟹",
+            "en": "Crab"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+146-bbeo gi op",
+      "unicode": "U+7C38U+7B95U+4FA0",
+      "characters": ["簸箕侠"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "bo4ji1xia2",
+      "jyutping": "bbeo gi op",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "银环蛇",
+            "en": "Silver Ring Snake"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+147-se pan",
+      "unicode": "U+86C7U+55B7",
+      "characters": ["蛇喷"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "she2pen1",
+      "jyutping": "se pan",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "眼镜蛇",
+            "en": "Cobra"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+148-nom se",
+      "unicode": "U+86BAU+86C7",
+      "characters": ["蚺蛇"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "ran2she2",
+      "jyutping": "nom se",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "蟒蛇",
+            "en": "Python (snake)"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+149-hak mak sak",
+      "unicode": "U+9ED1U+58A8U+8272",
+      "characters": ["黑墨色"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "hei1mo4se4",
+      "jyutping": "hak mak sak",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "黑漆漆",
+            "en": "Pitch-dark"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+150-hak sak ddaa",
+      "unicode": "U+9ED1U+8272U+96C0",
+      "characters": ["黑色雀"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "hei1se4que4",
+      "jyutping": "hak sak ddaa",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "黑色的鸟，例如乌鸦",
+            "en": "Black birds, such as crows"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+151-gi meou",
+      "unicode": "U+4F01U+6BDB",
+      "characters": ["企毛"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "qi3mao2",
+      "jyutping": "gi meou",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "一种鸟",
+            "en": "A type of birds"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+152-wu wok ddaa",
+      "unicode": "U+82E6U+9E0CU+96C0",
+      "characters": ["苦鸌雀"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "ku3hu4que4",
+      "jyutping": "wu wok ddaa",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "一种鸟",
+            "en": "A type of birds"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+153-mo lau",
+      "unicode": "U+9A6CU+9A9D",
+      "characters": ["马骝"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "ma3liu2",
+      "jyutping": "mo lau",
+      "IPA": "",
+      "strokes": "",
+      "head": "动物",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "猴子",
+            "en": "Monkey"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+154-bat bi",
+      "unicode": "U+9F3BU+9F3B",
+      "characters": ["鼻鼻"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "bi2bi2",
+      "jyutping": "bat bi",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "鼻子；第一个「鼻」连读变调前念「bat9」，第二个「鼻」念「bi6」",
+            "en": "Nose; The first「鼻」is pronounced as「bat9」before the tone changing, and the second「鼻」is pronounced as「bi6」"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "w+153-luk si",
+      "unicode": "",
+      "characters": ["六时"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "liu4shi2",
+      "jyutping": "luk si",
+      "IPA": "",
+      "strokes": "",
+      "head": "",
+      "tail": "",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "时时刻刻，随时",
+            "en": "Always"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__捧{U+7A33-wan2}{U+96BB-zik7}手机",
+                  "descriptions": {
+                    "zh": "整天抱着手机看",
+                    "en": "Hold one's phone and watch it all day long"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "name": "WriteableWords"
+}

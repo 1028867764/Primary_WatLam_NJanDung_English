@@ -1,0 +1,26 @@
+{
+  "name": "primary_watlam_njandung_english",
+  "version": "1.0.0",
+  "description": "A sets of databases for WatLam.",
+  "author": "jiaojiaodubai",
+  "license": "LGPL-3.0",
+  "mian": "./scripts/index.ts",
+  "type":"module",
+  "scripts": {
+    "lint:json": "pnpm exec prettier data/*.json --write",
+    "lint:script": "pnpm eslint --fix",
+    "runMain": "tsx scripts/index.ts"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.5.0",
+    "@tsconfig/node22": "^22.0.0",
+    "@types/node": "^20.14.9",
+    "eslint": "^9.5.0",
+    "globals": "^15.6.0",
+    "prettier": "^3.3.2",
+    "typescript-eslint": "^7.14.1"
+  },
+  "dependencies": {
+    "pinyin-pro": "^3.22.2"
+  }
+}
