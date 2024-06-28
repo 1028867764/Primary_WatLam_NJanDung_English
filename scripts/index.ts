@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from 'path';
-import { DB } from "./utilities.js";
+import { DB, mergeDB } from "./utilities.js";
 
 const dataDir = './data';
 const dbNames: string[] = [];
@@ -34,3 +34,5 @@ console.log('类型声明文件生成完毕。');
 
 const db = new DB('Pended');
 db.listEntryProps(['head', 'tail']);
+
+mergeDB();
