@@ -1,0 +1,4675 @@
+{
+  "version": "0.0.2",
+  "createTime": "2023-12-30",
+  "updateTime": "2024-06-27T12:35:32.644Z",
+  "creators": [
+    {
+      "name": "jiaojiaodubai",
+      "email": "jiaojiaodubai23@gmial.coom"
+    }
+  ],
+  "data": [
+    {
+      "id": "A+maa5",
+      "unicode": "U+561B",
+      "characters": ["嘛"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "ma0",
+      "jyutping": "maa5",
+      "IPA": "",
+      "strokes": "",
+      "head": "m",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "疑问语气词",
+            "en": "An interrogative particle"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "A+le5",
+      "unicode": "U+4E86",
+      "characters": ["了"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "liao3",
+      "jyutping": "le5",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "相当于普通话的轻声助词「了」",
+            "en": "Equivalent to the unstressed auxiliary word「了」in Mandarin"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "A+2-nem2",
+      "unicode": "",
+      "characters": ["nem2"],
+      "controversial": 0,
+      "related": ["U+8995-men3"],
+      "pinyin": "nem2",
+      "jyutping": "nem2",
+      "IPA": "",
+      "strokes": "",
+      "head": "n",
+      "tail": "m",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "躲藏",
+            "en": "Hide oneself"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__回{U+886B-som1}柜",
+                  "descriptions": {
+                    "zh": "躲进衣柜",
+                    "en": "Hide in the wardrobe"
+                  }
+                }
+              ]
+            },
+            {
+              "format": "__self__{A+2-nem2}{U+9E21-gai1}",
+              "descriptions": {
+                "zh": "捉迷藏",
+                "en": "Hide-and-seek"
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+3-nam1",
+      "unicode": "",
+      "characters": ["nam1"],
+      "controversial": 0,
+      "related": [
+        "U+8352-wong1",
+        "U+6DB4-weo3",
+        "W+21-gin sing",
+        "U+2A797-noet8",
+        "U+6EBE-oi1",
+        "U+7ACB-lap9"
+      ],
+      "pinyin": "nam1",
+      "jyutping": "nam1",
+      "IPA": "",
+      "strokes": "",
+      "head": "n",
+      "tail": "m",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "脏, 不讲卫生",
+            "en": "Dirty, unhygienic"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "件{U+886B-som1}__self__{A+le5}",
+                  "descriptions": {
+                    "zh": "衣服脏了",
+                    "en": "The clothes are dirty"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "令人恶心，丑陋的",
+            "en": "Disgusting, ugly"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__叔",
+                  "descriptions": {
+                    "zh": "令人恶心的人",
+                    "en": "A disgusting person"
+                  }
+                },
+                {
+                  "format": "__self__相",
+                  "descriptions": {
+                    "zh": "丑陋的模样",
+                    "en": "Ugly appearance"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+4-nam6",
+      "unicode": "",
+      "characters": ["nam6"],
+      "controversial": 0,
+      "related": [
+        "U+52B2-ging6",
+        "U+5320-daa5",
+        "U+9459-kai1",
+        "U+53FB-lik7",
+        "U+52DA-jai4"
+      ],
+      "pinyin": "nam6",
+      "jyutping": "nam6",
+      "IPA": "",
+      "strokes": "",
+      "head": "n",
+      "tail": "m",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "无能，差劲",
+            "en": "Impotent, incompetent, poor"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "成绩__self__",
+                  "descriptions": {
+                    "zh": "成绩差",
+                    "en": "Poor grades"
+                  }
+                },
+                {
+                  "format": "__self__{U+997D-beo6}",
+                  "descriptions": {
+                    "zh": "无能的人",
+                    "en": "An incompetent person"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+5-cam2",
+      "unicode": "",
+      "characters": ["cam2"],
+      "controversial": 0,
+      "related": ["U+2C186-meu2"],
+      "pinyin": "cam2",
+      "jyutping": "cam2",
+      "IPA": "",
+      "strokes": "",
+      "head": "c",
+      "tail": "m",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "__self__{U+46A6-ce2}",
+              "descriptions": {
+                "zh": "倾斜",
+                "en": "Tilted, inclined"
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+6-tam2",
+      "unicode": "",
+      "characters": ["tam2"],
+      "controversial": 0,
+      "related": ["U+2D75E-gwoi5", "U+22CC2-bbat7", "U+7FB9-gaa1"],
+      "pinyin": "tam2",
+      "jyutping": "tam2",
+      "IPA": "",
+      "strokes": "",
+      "head": "t",
+      "tail": "m",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "舀",
+            "en": "Ladle, scoop"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__半碗粥{U+5206-fan1}我",
+                  "descriptions": {
+                    "zh": "请给我舀半碗粥",
+                    "en": "Please ladle me half a bowl of Congee"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+7-zam3",
+      "unicode": "",
+      "characters": ["zam3"],
+      "controversial": 0,
+      "related": [
+        "U+63DE-am2",
+        "U+3536-kam2",
+        "U+6271-kap7",
+        "U+7BF7-bung4",
+        "U+5E4E-ming1",
+        "A+47-tang1"
+      ],
+      "pinyin": "zam3",
+      "jyutping": "zam3",
+      "IPA": "",
+      "strokes": "",
+      "head": "z",
+      "tail": "m",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "扣上，把器物广口朝下放或用来罩东西",
+            "en": "Place objects with wide mouths facing downwards or use them to cover things"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+96BB-zik7}碗__self__{U+5728-doi5}{U+67B1-doi4}面",
+                  "descriptions": {
+                    "zh": "把碗倒扣在桌面上",
+                    "en": "Flip the bowl upside down on the table"
+                  }
+                },
+                {
+                  "format": "戴头盔__self__{U+4F4F-zyu6}头",
+                  "descriptions": {
+                    "zh": "戴头盔把头给罩住",
+                    "en": "Wear a helmet to cover your head"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+8-an2",
+      "unicode": "",
+      "characters": ["an2"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "an2",
+      "jyutping": "an2",
+      "IPA": "",
+      "strokes": "",
+      "head": "0",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "痕迹",
+            "en": "Trace"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+3A8F-bbai1}巴{U+7247-pin3}{U+9762-min6}{U+5F97-ddak7}{U+96BB-zik7}__self__",
+                  "descriptions": {
+                    "zh": "扇一巴掌脸蛋，留下一个手印",
+                    "en": "Slap one's face and leave a handprint"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+9-ban5",
+      "unicode": "",
+      "characters": ["ban5"],
+      "controversial": 0,
+      "related": ["U+6574-zing2", "U+5F04-lung6"],
+      "pinyin": "ban5",
+      "jyutping": "ban5",
+      "IPA": "",
+      "strokes": "",
+      "head": "b-bb",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "摆弄、玩弄（物件）",
+            "en": "Play with (an object)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{U+5622-nje5}",
+                  "descriptions": {
+                    "zh": "玩弄物件",
+                    "en": "Playing with objects"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+10-ddan1",
+      "unicode": "",
+      "characters": ["ddan1"],
+      "controversial": 0,
+      "related": ["U+3C3D-en3", "U+642C-bbun1", "U+35E7-ddet8"],
+      "pinyin": "ddan1",
+      "jyutping": "ddan1",
+      "IPA": "",
+      "strokes": "",
+      "head": "d-dd",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__屁",
+                  "descriptions": {
+                    "zh": "放响屁",
+                    "en": "Fart loudly"
+                  }
+                },
+                {
+                  "format": "__self__牛{U+95AA-hai1}",
+                  "descriptions": {
+                    "zh": "吹牛",
+                    "en": "Brag, boast"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+11-dyun5",
+      "unicode": "",
+      "characters": ["dyun5"],
+      "controversial": 0,
+      "related": ["U+7F67-lam6", "U+8D77-hi2"],
+      "pinyin": "dyun5",
+      "jyutping": "dyun5",
+      "IPA": "",
+      "strokes": "",
+      "head": "d-dd",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "摞成一栋",
+            "en": "Stack"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{U+8D77-hi2}{U+5572-ni01}碗",
+                  "descriptions": {
+                    "zh": "把这些碗摞起来",
+                    "en": "Stack these bowls up"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "量词，用于码成一栋的物体",
+            "en": "A stack of"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "一__self__碗",
+                  "descriptions": {
+                    "zh": "一摞碗",
+                    "en": "A stack of bowls"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+14-fen2",
+      "unicode": "",
+      "characters": ["fen2"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "fen2",
+      "jyutping": "fen2",
+      "IPA": "",
+      "strokes": "",
+      "head": "f",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "外翻",
+            "en": "The act of turning inside out"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__猪嘴",
+                  "descriptions": {
+                    "zh": "（像）外翻的猪嘴",
+                    "en": "(Like) A Pig mouth eversion"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+15-han1",
+      "unicode": "",
+      "characters": ["han1"],
+      "controversial": 0,
+      "related": ["U+5206-fan1", "U+7540-bbi2"],
+      "pinyin": "han1",
+      "jyutping": "han1",
+      "IPA": "",
+      "strokes": "",
+      "head": "h",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "给",
+            "en": "Give"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "A+16-lan2",
+      "unicode": "",
+      "characters": ["lan2"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "lan2",
+      "jyutping": "lan2",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "使软、硬物相揩擦，并使软物沾上液体或糊状物、粉状物",
+            "en": "Wipe soft and hard objects together, and make the soft object contaminated with liquid, paste, or powder"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+651E-leo2}棉签__self__{w+49-nji gwai}",
+                  "descriptions": {
+                    "zh": "用棉签掏耳洞",
+                    "en": "Digging ear wax with a cotton swab"
+                  }
+                },
+                {
+                  "format": "夹{U+5572-ni01}菜__self__净{U+4E2A-geo3}{A+tsu}{U+96BB-zik7}碗{U+5605-geo4}饭米",
+                  "descriptions": {
+                    "zh": "夹一点菜把碗里残剩的米饭粒擦干净",
+                    "en": "Take some vegetables by chopsticks and wipe off the remaining rice grains in the bowl"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+17-lan3",
+      "unicode": "",
+      "characters": ["lan3"],
+      "controversial": 0,
+      "related": ["U+634B-lyut7"],
+      "pinyin": "lan3",
+      "jyutping": "lan3",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "物体往低处滑动",
+            "en": "The object slides downwards"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__滑梯",
+                  "descriptions": {
+                    "zh": "滑滑梯",
+                    "en": "Play on a slide"
+                  }
+                },
+                {
+                  "format": "瓦片__self__{U+843D-lok10}",
+                  "descriptions": {
+                    "zh": "瓦片向下滑",
+                    "en": "Tiles sliding downwards"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+18-len1",
+      "unicode": "",
+      "characters": ["len1"],
+      "controversial": 0,
+      "related": ["U+24E8E-se4", "U+75D5-an4"],
+      "pinyin": "len1",
+      "jyutping": "len1",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "发痒，使发痒",
+            "en": "Itch"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{A+18-len1}{U+4F62-gyu5}",
+                  "descriptions": {
+                    "zh": "轻掻他的皮肤使发痒",
+                    "en": "Tickle him"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "痒，发痒",
+            "en": "Itch"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "喉咙__self__",
+                  "descriptions": {
+                    "zh": "喉咙发痒",
+                    "en": "Have a tickle in one's throat"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+19-len3",
+      "unicode": "",
+      "characters": ["len3"],
+      "controversial": 0,
+      "related": [
+        "U+65B2-ddik7",
+        "U+2080E-kak7",
+        "U+2081D-lik7",
+        "U+34EF-lai3",
+        "U+520F-goi3",
+        "U+7834-peo3",
+        "U+952F-goe3"
+      ],
+      "pinyin": "len3",
+      "jyutping": "len3",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "用刀破开",
+            "en": "Break open with a knife"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__开鱼肚",
+                  "descriptions": {
+                    "zh": "用刀破开鱼肚",
+                    "en": "Cut open the fish belly with a knife"
+                  }
+                },
+                {
+                  "format": "热狗要__self__几刀再烤",
+                  "descriptions": {
+                    "zh": "热狗需用刀划几下再烤",
+                    "en": "Hot dogs need to be scratched a few times with a knife before being grilled"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+20-lyun2",
+      "unicode": "",
+      "characters": ["lyun2"],
+      "controversial": 0,
+      "related": ["U+631B-lyun1"],
+      "pinyin": "lyun2",
+      "jyutping": "lyun2",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "卷，卷曲，蜷缩",
+            "en": "Curl, roll"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+4F7F-sai2}筷子__self__云吞皮",
+                  "descriptions": {
+                    "zh": "用筷子卷馄饨皮",
+                    "en": "Roll Wonton skin with chopsticks"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+25-mun1",
+      "unicode": "",
+      "characters": ["mun1"],
+      "controversial": 0,
+      "related": ["U+251F2-pyu2", "U+771F-zan1", "U+73B0-jin6"],
+      "pinyin": "mun1",
+      "jyutping": "mun1",
+      "IPA": "",
+      "strokes": "",
+      "head": "m",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "模糊，朦胧，不清晰",
+            "en": "Blurred, hazy, unclear"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "相片__self__",
+                  "descriptions": {
+                    "zh": "照片模糊不清",
+                    "en": "The photo is blurry"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+26-nan3",
+      "unicode": "",
+      "characters": ["nan3"],
+      "controversial": 0,
+      "related": ["U+25F15-lep8", "U+57BD-nan1"],
+      "pinyin": "nan3",
+      "jyutping": "nan3",
+      "IPA": "",
+      "strokes": "",
+      "head": "n",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "烂碎",
+            "en": "Smashed to pieces"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+96BB-zik7}核桃{U+7740-zaa6}你锤到融融__self__{A+26-nan3}",
+                  "descriptions": {
+                    "zh": "这个核桃被你锤得稀巴烂",
+                    "en": "This walnut has been hammered to pieces by you"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "烂碎的东西",
+            "en": "Crushed things"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "剁肉__self__",
+                  "descriptions": {
+                    "zh": "剁成肉泥",
+                    "en": "Chop into meat paste"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "粗口，或形容粗口很难听",
+            "en": "Using foul language or describing it as unpleasant to hear"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "骂__self__话",
+                  "descriptions": {
+                    "zh": "骂脏话",
+                    "en": "Swear, curse with foul language"
+                  }
+                },
+                {
+                  "format": "第{U+56E9-wan4}我见到{U+4F62-gyu5}有{U+51E0-gi2}__self__骂{U+51E0-gi2}{A+26-nan3}！",
+                  "descriptions": {
+                    "zh": "下次再让我碰到他，有多难听我就骂多难听！",
+                    "en": "Next time I come across him, I'll curse him as hard as possible!"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+29-son03",
+      "unicode": "",
+      "characters": ["son03"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "son03",
+      "jyutping": "son03",
+      "IPA": "",
+      "strokes": "",
+      "head": "s",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "差不多，将近",
+            "en": "Almost, nearly"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "一年工资__self__十万{U+6587-man1}",
+                  "descriptions": {
+                    "zh": "一年工资将近十万元",
+                    "en": "An annual salary of nearly 100 thousand yuan"
+                  }
+                },
+                {
+                  "format": "{U+4E2A-geo3}{A+tsu}{U+6A16-poe1}{U+6728-muk9}__self__六层楼",
+                  "descriptions": {
+                    "zh": "这棵树差不多有六层楼高",
+                    "en": "This tree is about six stories tall"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+30-slan3",
+      "unicode": "",
+      "characters": ["slan3"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "slan3",
+      "jyutping": "slan3",
+      "IPA": "",
+      "strokes": "",
+      "head": "sl",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "坡，小土坡",
+            "en": "Slope, small soil slope"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+4F01-gi5}上{U+96BB-zik7}__self__",
+                  "descriptions": {
+                    "zh": "站在小土坡上",
+                    "en": "Standing on a small soil slope"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+31-bang5",
+      "unicode": "",
+      "characters": ["bang5"],
+      "controversial": 0,
+      "related": ["U+3A67-puk7"],
+      "pinyin": "bang5",
+      "jyutping": "bang5",
+      "IPA": "",
+      "strokes": "",
+      "head": "b-bb",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "用手掌使劲打",
+            "en": "Strike hard with the palm of one's hand"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "米{U+551B-mak7}{U+3798-dduk7}{U+2A400-no1}有米{U+5187-mau5}__self__{U+5F97-ddak7}出",
+                  "descriptions": {
+                    "zh": "舀生米的筒形杯内底部粘附有米粒，用手掌拍打也出不来",
+                    "en": "The bottom of the cylindrical cup for scooping raw rice is adhered with rice grains, which cannot fall off even by tapping with the palm of the hand"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+33-dding3",
+      "unicode": "",
+      "characters": ["dding3"],
+      "controversial": 0,
+      "related": ["U+24077-zik9"],
+      "pinyin": "dding3",
+      "jyutping": "dding3",
+      "IPA": "",
+      "strokes": "",
+      "head": "d-dd",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "沥下",
+            "en": "Let something wet drip"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+542C-ting3}件{U+886B-som1}慢慢{A+er}__self__{U+587D-song3}水",
+                  "descriptions": {
+                    "zh": "等这件衣服慢慢把水沥干",
+                    "en": "Wait for this garment to slowly drain the water"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+34-dding1",
+      "unicode": "",
+      "characters": ["dding1"],
+      "controversial": 0,
+      "related": ["U+7C64-tem1", "U+86C0-ddyu3", "U+9525-njui1"],
+      "pinyin": "dding1",
+      "jyutping": "dding1",
+      "IPA": "",
+      "strokes": "",
+      "head": "d-dd",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "蛰，啄",
+            "en": "Sting, peck"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+7740-zaa6}{U+9E21-gai1}__self__",
+                  "descriptions": {
+                    "zh": "被鸡啄",
+                    "en": "Pecked by a chicken"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "敲击（脑壳）",
+            "en": "Strike (skull)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__两{U+22DD5-mau1}{U+96BB-zik7}额头",
+                  "descriptions": {
+                    "zh": "敲击两下额头",
+                    "en": "Knock twice on the forehead"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+35-dung6",
+      "unicode": "",
+      "characters": ["dung6"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "dung6",
+      "jyutping": "dung6",
+      "IPA": "",
+      "strokes": "",
+      "head": "d-dd",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "__self__日",
+              "descriptions": {
+                "zh": "昨天",
+                "en": "Yesterday"
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+38-lung4",
+      "unicode": "",
+      "characters": ["lung4"],
+      "controversial": 0,
+      "related": ["U+5997-zam5", "U+59FC-ddoi3", "U+6BD1-dde3"],
+      "pinyin": "lung4",
+      "jyutping": "lung4",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "母方男性亲属，与母亲同辈而年长于母",
+            "en": "Male relatives of the mother, who are of the same generation as the mother but are older than the mother"
+          },
+          "words": [
+            {
+              "format": "姨__self__",
+              "descriptions": {
+                "zh": "母之姐夫",
+                "en": "Mother's sister's husband"
+              },
+              "sentences": []
+            },
+            {
+              "format": "舅__self__",
+              "descriptions": {
+                "zh": "母之兄",
+                "en": "Mother's elder brother"
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+39-long1",
+      "unicode": "",
+      "characters": ["long1"],
+      "controversial": 0,
+      "related": ["U+56E9-wan4"],
+      "pinyin": "long1",
+      "jyutping": "long1",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "量词，衡量动作的次数",
+            "en": "The measure unit of actions"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "我{U+5FBC-geu2}过七__self__北海",
+                  "descriptions": {
+                    "zh": "我去北海游玩过七回",
+                    "en": "I have visited Beihai seven times"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+41-ming4",
+      "unicode": "",
+      "characters": ["ming4"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "ming4",
+      "jyutping": "ming4",
+      "IPA": "",
+      "strokes": "",
+      "head": "m",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "每一",
+            "en": "Every, each"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__日",
+                  "descriptions": {
+                    "zh": "每天",
+                    "en": "Everyday"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+42-nung2",
+      "unicode": "",
+      "characters": ["nung2"],
+      "controversial": 0,
+      "related": ["A+66-naa6", "A+66-naa3"],
+      "pinyin": "nung2",
+      "jyutping": "nung2",
+      "IPA": "",
+      "strokes": "",
+      "head": "n",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "这样、那样",
+            "en": "This way, that way"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+51FA-cat7}__self__{U+5605-geo4}写",
+                  "descriptions": {
+                    "zh": "像这样写",
+                    "en": "Write like this"
+                  }
+                }
+              ]
+            },
+            {
+              "format": "{U+35B7-si5}__self__",
+              "descriptions": {
+                "zh": "怎么",
+                "en": "How"
+              },
+              "sentences": [
+                {
+                  "format": "{U+5187-mau5}{U+8BC6-syk7}__self__{U+4F5C-ddok8}",
+                  "descriptions": {
+                    "zh": "不懂怎么做",
+                    "en": "Do not know how to do it"
+                  }
+                }
+              ]
+            },
+            {
+              "format": "{U+2A906-seot7}__self__",
+              "descriptions": {
+                "zh": "怎样",
+                "en": "How"
+              },
+              "sentences": [
+                {
+                  "format": "__self__回事？",
+                  "descriptions": {
+                    "zh": "怎么回事？",
+                    "en": "What's going on?"
+                  }
+                }
+              ]
+            },
+            {
+              "format": "__self__{A+er}{U+5187-mau5}{A+tsu}是",
+              "descriptions": {
+                "zh": "怪不得，活该",
+                "en": "No wonder"
+              },
+              "sentences": [
+                {
+                  "format": "{U+5481-gam2}冷天穿两{U+67BC-jep10}{U+886B-som1}，__self__发烧",
+                  "descriptions": {
+                    "zh": "如此寒冷的天气只穿这么点儿单薄衣物，怪不得着凉发烧",
+                    "en": "Wearing only such thin clothes in such cold weather, no wonder you caught a cold and had a fever"
+                  }
+                }
+              ]
+            },
+            {
+              "format": "__self__{A+er}会",
+              "descriptions": {
+                "zh": "怎么会",
+                "en": "How could this be possible?"
+              },
+              "sentences": [
+                {
+                  "format": "__self__{U+279A0-ngak7}你ne03？",
+                  "descriptions": {
+                    "zh": "怎么会骗你呢？",
+                    "en": "How could I deceive you?"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+43-njung1",
+      "unicode": "",
+      "characters": ["njung1"],
+      "controversial": 0,
+      "related": ["U+4F01-gi5", "A+32-ddyut7", "U+8E0E-mau1"],
+      "pinyin": "njung1",
+      "jyutping": "njung1",
+      "IPA": "",
+      "strokes": "",
+      "head": "nj",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "蹲",
+            "en": "Squat, crouch"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__厕所",
+                  "descriptions": {
+                    "zh": "蹲厕所",
+                    "en": "Squatting in the toilet to defecate"
+                  }
+                },
+                {
+                  "format": "脚{U+603B-ddung2}__self__麻{U+9F50-dai4}",
+                  "descriptions": {
+                    "zh": "蹲得腿都麻了",
+                    "en": "Squatting so long time that my legs are numb"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "(往往由于际遇不好而)停留某处",
+            "en": "Staying in a certain place (often due to bad luck)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+5452-maa5}工作__self__{U+5C4B-uk7}己",
+                  "descriptions": {
+                    "zh": "没工作呆在家里",
+                    "en": "No job, stay at home"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+44-pang1",
+      "unicode": "",
+      "characters": ["pang1"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "pang1",
+      "jyutping": "pang1",
+      "IPA": "",
+      "strokes": "",
+      "head": "p",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "披上（衣物）",
+            "en": "To put on (clothing)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__件{U+891B-lau1}",
+                  "descriptions": {
+                    "zh": "披一件外套",
+                    "en": "Put on a coat"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+45-sing6",
+      "unicode": "",
+      "characters": ["sing6"],
+      "controversial": 0,
+      "related": ["U+4EF2-zung6"],
+      "pinyin": "sing6",
+      "jyutping": "sing6",
+      "IPA": "",
+      "strokes": "",
+      "head": "s",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "更，更加",
+            "en": "Even more"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+4F62-gyu5}__self__{U+9459-kai1}过你",
+                  "descriptions": {
+                    "zh": "他比你还厉害",
+                    "en": "He's even more powerful than you"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "__self__有",
+              "descriptions": {
+                "zh": "还有",
+                "en": "Furthermore; In addition"
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+46-tang2",
+      "unicode": "",
+      "characters": ["tang2"],
+      "controversial": 0,
+      "related": ["U+2DDCA-ling3"],
+      "pinyin": "tang2",
+      "jyutping": "tang2",
+      "IPA": "",
+      "strokes": "",
+      "head": "t",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "量词，衡量薄层",
+            "en": "The measure unit of thin layers"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+6487-pit7}开__self__油",
+                  "descriptions": {
+                    "zh": "把油层（用勺子）拨开",
+                    "en": "Remove the oil layer (with a spoon)"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+47-tang1",
+      "unicode": "",
+      "characters": ["tang1"],
+      "controversial": 0,
+      "related": [
+        "U+3536-kam2",
+        "U+6271-kap7",
+        "U+7BF7-bung4",
+        "U+5E4E-ming1",
+        "A+7-zam3"
+      ],
+      "pinyin": "tang1",
+      "jyutping": "tang1",
+      "IPA": "",
+      "strokes": "",
+      "head": "t",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "盖上，罩上",
+            "en": "Cover up"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+5403-hik7}{U+9F50-dai4}饭记{U+5F97-ddak7}__self__好菜",
+                  "descriptions": {
+                    "zh": "吃完饭之后记得把剩菜罩好",
+                    "en": "Remember to cover up the leftovers after finishing your meal"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+48-ddap7",
+      "unicode": "",
+      "characters": ["ddap7"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "ddap7",
+      "jyutping": "ddap7",
+      "IPA": "",
+      "strokes": "",
+      "head": "d-dd",
+      "tail": "p",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "靠近",
+            "en": "To come near to"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__近",
+                  "descriptions": {
+                    "zh": "凑近",
+                    "en": "Approaching, getting close to"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "用草药敷",
+            "en": "Apply herbal medicine on skin"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "A+49-dap9",
+      "unicode": "",
+      "characters": ["dap9"],
+      "controversial": 0,
+      "related": [
+        "U+22FED-cuk7",
+        "U+3199D-con2",
+        "U+8E80-gwon5",
+        "U+7EDC-lok8"
+      ],
+      "pinyin": "dap9",
+      "jyutping": "dap9",
+      "IPA": "",
+      "strokes": "",
+      "head": "d-dd",
+      "tail": "p",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "摔倒，摔跤，跌倒",
+            "en": "Trip and fall, tumble"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{U+8DCC-ddit7}",
+                  "descriptions": {
+                    "zh": "跌倒",
+                    "en": "Trip and fall, tumble"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "身体部位或物件被摔",
+            "en": "Body parts or objects falling, then are injured or damaged"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+7247-pin3}{U+9762-min6}{U+7740-zaa6}__self__{U+781E-mot8}",
+                  "descriptions": {
+                    "zh": "脸部被摔伤",
+                    "en": "Face injured by falling"
+                  }
+                },
+                {
+                  "format": "__self__{A+91-nai1}{U+96BB-zik7}手机",
+                  "descriptions": {
+                    "zh": "手机被摔坏",
+                    "en": "Mobile phone damaged by falling"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+51-nep8",
+      "unicode": "",
+      "characters": ["nep8"],
+      "controversial": 0,
+      "related": ["U+54AE-ddiu3", "U+86C0-ddyu3", "U+9525-njui1"],
+      "pinyin": "nep8",
+      "jyutping": "nep8",
+      "IPA": "",
+      "strokes": "",
+      "head": "n",
+      "tail": "p",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "蚊虫、爬虫蛰咬",
+            "en": "Stung, bitten by mosquitoes, spiders, centipedes, leeches, etc."
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+7740-zaa6}蚊子__self__",
+                  "descriptions": {
+                    "zh": "被蚊子叮咬",
+                    "en": "Being bitten by mosquitoes"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+52-zap9",
+      "unicode": "",
+      "characters": ["zap9"],
+      "controversial": 0,
+      "related": ["U+64D2-gam4"],
+      "pinyin": "zap9",
+      "jyutping": "zap9",
+      "IPA": "",
+      "strokes": "",
+      "head": "z",
+      "tail": "p",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "按住",
+            "en": "Press and hold"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "帮我__self__{U+4F4F-zyu6}{U+4F62-gyu5}",
+                  "descriptions": {
+                    "zh": "帮我按住他",
+                    "en": "Help me hold him down"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+27-sap7",
+      "unicode": "",
+      "characters": ["sap7"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "sap7",
+      "jyutping": "sap7",
+      "IPA": "",
+      "strokes": "",
+      "head": "s",
+      "tail": "p",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "袭击",
+            "en": "Assault, make a surprise attack on"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+843D-lok10}雨天打功夫，出{U+96BB-zik7}__self__{U+96BB-zik7}",
+                  "descriptions": {
+                    "zh": "下雨天打功夫，出来一个消灭一个（出来一个淋湿一个）",
+                    "en": "Practice martial arts on rainy days, eliminate enemies one by one (get wet when one comes out)"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+28-cyut7",
+      "unicode": "",
+      "characters": ["cyut7"],
+      "controversial": 0,
+      "related": ["U+3D52-fe6"],
+      "pinyin": "cyut7",
+      "jyutping": "cyut7",
+      "IPA": "",
+      "strokes": "",
+      "head": "c",
+      "tail": "t",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "突然窜出",
+            "en": "Suddenly burst out"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "筒烟花__self__{U+7740-zaa6}两发jaa3",
+                  "descriptions": {
+                    "zh": "这筒烟花射了两发而已",
+                    "en": "This firework only fired two shots"
+                  }
+                },
+                {
+                  "format": "高{U+538B-ot8}锅__self__气",
+                  "descriptions": {
+                    "zh": "高压锅喷气",
+                    "en": "Pressure cooker jetting"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+32-ddyut7",
+      "unicode": "",
+      "characters": ["ddyut7"],
+      "controversial": 0,
+      "related": ["U+4F01-gi5", "A+43-njung1", "U+8E0E-mau1"],
+      "pinyin": "ddyut7",
+      "jyutping": "ddyut7",
+      "IPA": "",
+      "strokes": "",
+      "head": "d-dd",
+      "tail": "t",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "（忽然）站起",
+            "en": "(Suddenly) Stand up"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "睡睡觉又__self__{U+8D77-hi2}身{U+5C59-eo1}尿",
+                  "descriptions": {
+                    "zh": "正睡着觉突然起身去厕所撒尿",
+                    "en": "Suddenly getting up while sleeping and going to the bathroom to pee"
+                  }
+                },
+                {
+                  "format": "{U+5187-mau5}__self__{U+5F97-ddak7}{U+8D77-hi2}",
+                  "descriptions": {
+                    "zh": "站不起来",
+                    "en": "Can't stand up"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+37-kat7",
+      "unicode": "",
+      "characters": ["kat7"],
+      "controversial": 0,
+      "related": ["U+541F-ngam6"],
+      "pinyin": "kat7",
+      "jyutping": "kat7",
+      "IPA": "",
+      "strokes": "",
+      "head": "k",
+      "tail": "t",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "屌__self__",
+              "descriptions": {
+                "zh": "骂",
+                "en": "Scold, curse"
+              },
+              "sentences": [
+                {
+                  "format": "简简单单又一餐，屌__self__{A+37-kat7}又一日",
+                  "descriptions": {
+                    "zh": "简简单单又得一餐，骂骂咧咧又过一天",
+                    "en": "Simply finish another meal, curse and spend another day"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+40-let8",
+      "unicode": "",
+      "characters": ["let8"],
+      "controversial": 0,
+      "related": ["U+8189-ik7"],
+      "pinyin": "let8",
+      "jyutping": "let8",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "t",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "油烟味",
+            "en": "Oil smoke smell"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "臭__self__",
+                  "descriptions": {
+                    "zh": "臭油烟味道",
+                    "en": "Stinky oil smoke smell"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+50-mat9",
+      "unicode": "",
+      "characters": ["mat9"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "mat9",
+      "jyutping": "mat9",
+      "IPA": "",
+      "strokes": "",
+      "head": "m",
+      "tail": "t",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "指当天的早上或晚上",
+            "en": "Refers to the morning or evening of the same day"
+          },
+          "words": [
+            {
+              "format": "__self__{U+671D-ziu1}",
+              "descriptions": {
+                "zh": "今早",
+                "en": "Today's morning"
+              },
+              "sentences": []
+            },
+            {
+              "format": "__self__夜",
+              "descriptions": {
+                "zh": "今晚",
+                "en": "Today's evening"
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+54-put7",
+      "unicode": "",
+      "characters": ["put7"],
+      "controversial": 0,
+      "related": ["U+7053-lan5"],
+      "pinyin": "put7",
+      "jyutping": "put7",
+      "IPA": "",
+      "strokes": "",
+      "head": "p",
+      "tail": "t",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "液体满溢貌",
+            "en": "The liquid is about to overflow"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "桶水__self__出{A+le5}",
+                  "descriptions": {
+                    "zh": "这桶水溢出来了",
+                    "en": "This bucket of water is overflowing"
+                  }
+                },
+                {
+                  "format": "条江__self__上到江{U+5EC9-lem4}{U+6B62-zi2}",
+                  "descriptions": {
+                    "zh": "江水水位上涨，淹没岸边",
+                    "en": "The rising water level of the river submerged the shore"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+53-put7",
+      "unicode": "",
+      "characters": ["put7"],
+      "controversial": 0,
+      "related": ["U+5ABE-kau1"],
+      "pinyin": "put7",
+      "jyutping": "put7",
+      "IPA": "",
+      "strokes": "",
+      "head": "p",
+      "tail": "t",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "__self__婊{A+er}",
+              "descriptions": {
+                "zh": "原意为嫖娼",
+                "en": "The original meaning was to visit prostitutes"
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+54-mut7",
+      "unicode": "",
+      "characters": ["mut7"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "A+54-put7",
+      "pinyin": "mut7",
+      "jyutping": "mut7",
+      "IPA": "",
+      "strokes": "",
+      "head": "m",
+      "tail": "t",
+      "meanings": []
+    },
+    {
+      "id": "A+55-dak9",
+      "unicode": "",
+      "characters": ["dak9"],
+      "controversial": 0,
+      "related": ["A+93-peu1"],
+      "pinyin": "dak9",
+      "jyutping": "dak9",
+      "IPA": "",
+      "strokes": "",
+      "head": "d-dd",
+      "tail": "k",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "踢",
+            "en": "Kick"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__脚{U+6A16-poe1}{U+6728-muk9}",
+                  "descriptions": {
+                    "zh": "踢了这棵树一脚",
+                    "en": "Kick this tree once"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+56-fik7",
+      "unicode": "",
+      "characters": ["fik7"],
+      "controversial": 0,
+      "related": ["U+62C2-fat7"],
+      "pinyin": "fik7",
+      "jyutping": "fik7",
+      "IPA": "",
+      "strokes": "",
+      "head": "f",
+      "tail": "k",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "甩，甩动，抡，摆动",
+            "en": "Flick, shake"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{A+56-fik7}{U+652F-zi1}笔",
+                  "descriptions": {
+                    "zh": "把笔甩一甩",
+                    "en": "Give the pen a flick"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+58-gak9",
+      "unicode": "",
+      "characters": ["gak9"],
+      "controversial": 0,
+      "related": ["U+6FCC-dap9"],
+      "pinyin": "gak9",
+      "jyutping": "gak9",
+      "IPA": "",
+      "strokes": "",
+      "head": "g",
+      "tail": "k",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "重物压住轻飘之物",
+            "en": "Heavy objects press light objects"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+651E-leo2}{U+4286-gau4}石__self__{U+4F4F-zyu6}沓纸{U+5187-mau5}{U+7540-bbi2}风吹飞",
+                  "descriptions": {
+                    "zh": "拿一块石头把这沓纸压住，以免被风吹走",
+                    "en": "Hold down this stack of paper with a stone to prevent it from being blown away by the wind"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+59-jak9",
+      "unicode": "",
+      "characters": ["jak9"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "jak9",
+      "jyutping": "jak9",
+      "IPA": "",
+      "strokes": "",
+      "head": "j",
+      "tail": "k",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "语意不详，可能是「抖动」、「摆动」的意思",
+            "en": "The meaning is unclear, it may mean「shaking」、「swing」"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+957F-zaa4}日__self__{U+2CF82-lang3}{U+94F6-ngan4}{U+7EB8-zi2}",
+                  "descriptions": {
+                    "zh": "老是丢失钱",
+                    "en": "Always leaving money behind"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+60-lyk9",
+      "unicode": "",
+      "characters": ["lyk9"],
+      "controversial": 0,
+      "related": ["U+65C1-bong5"],
+      "pinyin": "lyk9",
+      "jyutping": "lyk9",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "k",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "表示地点、处所",
+            "en": "Indicating locations"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "到__self__",
+                  "descriptions": {
+                    "zh": "到处",
+                    "en": "Everywhere"
+                  }
+                },
+                {
+                  "format": "{U+54EA-lu6}__self__",
+                  "descriptions": {
+                    "zh": "哪里",
+                    "en": "Where"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+60-lik9",
+      "unicode": "",
+      "characters": ["lik9"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "A+60-lyk9",
+      "pinyin": "lik9",
+      "jyutping": "lik9",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "k",
+      "meanings": []
+    },
+    {
+      "id": "A+61-luk7",
+      "unicode": "",
+      "characters": ["luk7"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "luk7",
+      "jyutping": "luk7",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "k",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "手__self__",
+              "descriptions": {
+                "zh": "手肘",
+                "en": "The elbow"
+              },
+              "sentences": []
+            },
+            {
+              "format": "膝__self__",
+              "descriptions": {
+                "zh": "膝关节；此处的「膝」念「slot8」",
+                "en": "Knee joint; The「膝」 here is pronounced as「slot8」"
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+62-luk7",
+      "unicode": "",
+      "characters": ["luk7"],
+      "controversial": 0,
+      "related": [
+        "U+27A3E-tam3",
+        "U+8B34-gwan3",
+        "U+279A0-ngak7",
+        "U+35F6-pat7"
+      ],
+      "pinyin": "luk7",
+      "jyutping": "luk7",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "k",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "（说假话来）捉弄人，戏弄",
+            "en": "To tell lies and play tricks on people"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+63-wak9",
+      "unicode": "",
+      "characters": ["wak9"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "wak9",
+      "jyutping": "wak9",
+      "IPA": "",
+      "strokes": "",
+      "head": "w",
+      "tail": "k",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "挥，摆，晃动",
+            "en": "Swing, wave"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{A+63-wak9}手",
+                  "descriptions": {
+                    "zh": "挥挥手",
+                    "en": "Wave the hand"
+                  }
+                },
+                {
+                  "format": "__self__停{U+67B6-go3}班车",
+                  "descriptions": {
+                    "zh": "（在路边）挥手示意让班车停下",
+                    "en": "Wave to stop the shuttle bus (on the roadside)"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+64-bbaa1",
+      "unicode": "",
+      "characters": ["bbaa1"],
+      "controversial": 0,
+      "related": ["U+63B9-maa1"],
+      "pinyin": "bbaa1",
+      "jyutping": "bbaa1",
+      "IPA": "",
+      "strokes": "",
+      "head": "b-bb",
+      "tail": "丢ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "拔",
+            "en": "Pull out, pull off"
+          },
+          "words": []
+        },
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "__self__风",
+              "descriptions": {
+                "zh": "打开窗使空气流通以除闷热",
+                "en": "Open the window to allow air circulation to eliminate stuffiness and heat"
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+66-naa6",
+      "unicode": "",
+      "characters": ["naa6"],
+      "controversial": 0,
+      "related": ["A+66-naa3", "A+42-nung2"],
+      "pinyin": "naa6",
+      "jyutping": "naa6",
+      "IPA": "",
+      "strokes": "",
+      "head": "n",
+      "tail": "丢ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "副词，「那样」合音",
+            "en": "Adverb, the combination of「那样」"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__你{U+5187-mau5}快{U+5572-ni01}出发？",
+                  "descriptions": {
+                    "zh": "那样的话，为什么你不快点出发？",
+                    "en": "In that case, why don't you leave immediately?"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+66-naa3",
+      "unicode": "",
+      "characters": ["naa3"],
+      "controversial": 0,
+      "related": ["A+66-naa6", "A+42-nung2"],
+      "pinyin": "naa3",
+      "jyutping": "naa3",
+      "IPA": "",
+      "strokes": "",
+      "head": "n",
+      "tail": "丢ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "{U+4E2A-geo3}{A+tsu}__self__",
+              "descriptions": {
+                "zh": "贬义词的省略形式，同「{U+4E2A-geo3}{A+tsu}{U+4E2A-geo3}」",
+                "en": "The omitted form of derogatory words, same as「{U+4E2A-geo3}{A+tsu}{U+4E2A-geo3}」"
+              },
+              "sentences": [
+                {
+                  "format": "{U+4F62-gyu5}好__self__{U+5605-geo4}",
+                  "descriptions": {
+                    "zh": "他很那样（贬义）的",
+                    "en": "He is very (derogatory) like that"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+67-taa3",
+      "unicode": "",
+      "characters": ["taa3"],
+      "controversial": 0,
+      "related": ["U+6076-ok8", "U+8AEF-cyun3"],
+      "pinyin": "taa3",
+      "jyutping": "taa3",
+      "IPA": "",
+      "strokes": "",
+      "head": "t",
+      "tail": "丢ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "硬__self__",
+              "descriptions": {
+                "zh": "固执己见，不听劝告",
+                "en": "Stubborn in one's own opinions and not listening to advice"
+              },
+              "sentences": [
+                {
+                  "format": "讲{U+5187-mau5}讲{U+5F97-ddak7}{U+542C-ting3}，{U+6781-gik9}{U+28CCD-toet10}__self__！",
+                  "descriptions": {
+                    "zh": "劝又劝不动，非常倔！",
+                    "en": "Persuade but not change, very stubborn!"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+68-bi4",
+      "unicode": "",
+      "characters": ["bi4"],
+      "controversial": 0,
+      "related": ["U+6485-gyut7"],
+      "pinyin": "bi4",
+      "jyutping": "bi4",
+      "IPA": "",
+      "strokes": "",
+      "head": "b-bb",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "揍",
+            "en": "Hit, beat"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+69-bai5",
+      "unicode": "",
+      "characters": ["bai5"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "bai5",
+      "jyutping": "bai5",
+      "IPA": "",
+      "strokes": "",
+      "head": "b-bb",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "摆",
+            "en": "Turn, wave"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__回头",
+                  "descriptions": {
+                    "zh": "回过头",
+                    "en": "Turning Back"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+70-bbai1",
+      "unicode": "",
+      "characters": ["bbai1"],
+      "controversial": 0,
+      "related": ["U+9ED0-ci3", "U+2A400-no1", "U+60F9-nje5"],
+      "pinyin": "bbai1",
+      "jyutping": "bbai1",
+      "IPA": "",
+      "strokes": "",
+      "head": "b-bb",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "（饭）稀黏",
+            "en": "(Cooked rice) Watery and sticky"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "(毛发)打结黏连",
+            "en": "(Hair) Knots and adhesions"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "几日{U+5187-mau5}{U+63E9-hoi1}头，头毛__self__成一{U+6A38-buk9}{U+6A38-buk9}",
+                  "descriptions": {
+                    "zh": "几天不洗头，导致头发打结成一坨坨",
+                    "en": "Not washing hair for a few days resulted in hair getting tangled and clumped up"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "沾染上（脏污）",
+            "en": "Stained (dirty)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{A+3-nam1}件{U+886B-som1}",
+                  "descriptions": {
+                    "zh": "衣服沾了脏东西",
+                    "en": "Clothes stained with dirt"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+71-bou4",
+      "unicode": "",
+      "characters": ["bou4"],
+      "controversial": 0,
+      "related": ["U+7FBC-cong3"],
+      "pinyin": "bou4",
+      "jyutping": "bou4",
+      "IPA": "",
+      "strokes": "",
+      "head": "b-bb",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "搅拌混合",
+            "en": "Mixing"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "菜汁__self__饭{U+5403-hik7}",
+                  "descriptions": {
+                    "zh": "菜汁拌饭食用",
+                    "en": "Vegetable juice mixed with rice for consumption"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+71-bau4",
+      "unicode": "",
+      "characters": ["bau4"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "A+71-bou4",
+      "pinyin": "bau4",
+      "jyutping": "bau4",
+      "IPA": "",
+      "strokes": "",
+      "head": "b-bb",
+      "tail": "元音韵尾",
+      "meanings": []
+    },
+    {
+      "id": "A+72-bu4",
+      "unicode": "",
+      "characters": ["bu4"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "bu4",
+      "jyutping": "bu4",
+      "IPA": "",
+      "strokes": "",
+      "head": "b-bb",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "量词，衡量布状的水帘",
+            "en": "The measure unit of a cloth shaped water curtain"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "一{U+575C-lik7}青菜淋十__self__尿",
+                  "descriptions": {
+                    "zh": "每一片地的青菜需要泼洒十次尿液",
+                    "en": "Each patch of vegetable field needs to be sprinkled with urine ten times"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+73-dde1",
+      "unicode": "",
+      "characters": ["dde1"],
+      "controversial": 0,
+      "related": ["U+6358-ddat7"],
+      "pinyin": "dde1",
+      "jyutping": "dde1",
+      "IPA": "",
+      "strokes": "",
+      "head": "d-dd",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "用指头按压，挤",
+            "en": "Press, squeeze with one's fingers"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__手机",
+                  "descriptions": {
+                    "zh": "摁手机",
+                    "en": "Press the mobile phone screen with fingers"
+                  }
+                },
+                {
+                  "format": "__self__洗洁精",
+                  "descriptions": {
+                    "zh": "用指头把洗洁精按出来",
+                    "en": "Press out the detergent with fingers"
+                  }
+                },
+                {
+                  "format": "__self__米碎疮",
+                  "descriptions": {
+                    "zh": "挤痘痘",
+                    "en": "Pop pimples"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+74-gai2",
+      "unicode": "",
+      "characters": ["gai2"],
+      "controversial": 0,
+      "related": ["U+65C1-bong5", "U+5934-daa4", "U+5572-ni01", "U+6EF4-nik7"],
+      "pinyin": "gai2",
+      "jyutping": "gai2",
+      "IPA": "",
+      "strokes": "",
+      "head": "g",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "指代地点，处所",
+            "en": "Refers to a place"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "拉我回{U+96BB-zik7}群__self__",
+                  "descriptions": {
+                    "zh": "把我拉进群里",
+                    "en": "Please add me to the group"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+75-gau5",
+      "unicode": "",
+      "characters": ["gau5"],
+      "controversial": 0,
+      "related": ["U+5A01-wai1", "U+964B-lau6", "U+7981-kam1", "U+6B63-zing3"],
+      "pinyin": "gau5",
+      "jyutping": "gau5",
+      "IPA": "",
+      "strokes": "",
+      "head": "g",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "破烂不堪，年久失修（「旧」？可是声调念阳上）",
+            "en": "Worn down and in disrepair (「旧」? But the tone is「阳上」)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "电池__self__{A+le5}，充{U+7053-lan5}电{U+4E4D-co02}{U+4F7F-sai2}{U+5F97-ddak7}十分钟",
+                  "descriptions": {
+                    "zh": "电池折旧了，充满电只能用十分钟",
+                    "en": "The battery is worn. After being fully charged, it can only be discharged for ten minutes"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+76-ge1",
+      "unicode": "",
+      "characters": ["ge1"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "ge1",
+      "jyutping": "ge1",
+      "IPA": "",
+      "strokes": "",
+      "head": "g",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "划（斜线）",
+            "en": "Draw (diagonal line)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "你条题写错，{U+7740-zaa6}老师__self__开{A+le5}",
+                  "descriptions": {
+                    "zh": "你这道题目写错了，已经被老师划了斜线",
+                    "en": "You made a mistake in answering this question, and it has already been crossed by the teacher"
+                  }
+                }
+              ]
+            },
+            {
+              "format": "{U+4EA4-geu1}__self__",
+              "descriptions": {
+                "zh": "交叉",
+                "en": "A cross"
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+77-ge1",
+      "unicode": "",
+      "characters": ["ge1"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "ge1",
+      "jyutping": "ge1",
+      "IPA": "",
+      "strokes": "",
+      "head": "g",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "摁，按压 (用指头、杆状物体)",
+            "en": "Press with a rod like object"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__按键",
+                  "descriptions": {
+                    "zh": "摁下按键",
+                    "en": "Press the button with fingertips"
+                  }
+                },
+                {
+                  "format": "{U+4F7F-sai2}匙{U+7FB9-gaa1}__self__融蛋黄",
+                  "descriptions": {
+                    "zh": "用勺子把熟蛋黄压成粉末",
+                    "en": "Press cooked egg yolks into powder with a spoon"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+78-gwo4",
+      "unicode": "",
+      "characters": ["gwo4"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "gwo4",
+      "jyutping": "gwo4",
+      "IPA": "",
+      "strokes": "",
+      "head": "g",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "一种用来收拢谷物的农具",
+            "en": "A farming tool used to gather grains"
+          },
+          "words": [
+            {
+              "format": "__self__{U+22CC0-mo1}",
+              "descriptions": {
+                "zh": "一种用来收拢谷物的农具",
+                "en": "A farming tool used to gather grains"
+              },
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "用工具收拢",
+            "en": "Use a farming tool to gather grains"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__成一{U+58A9-ddyng1}",
+                  "descriptions": {
+                    "zh": "收拢成一堆",
+                    "en": "Gather and pile up a pile of grains with a farming tool"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+80-jai3",
+      "unicode": "",
+      "characters": ["jai3"],
+      "controversial": 0,
+      "related": ["U+22AD6-syut7"],
+      "pinyin": "jai3",
+      "jyutping": "jai3",
+      "IPA": "",
+      "strokes": "",
+      "head": "j",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "朝着，瞄准，靶向",
+            "en": "Aim at, target"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "支枪{U+5187-mau5}准__self__人打",
+                  "descriptions": {
+                    "zh": "枪口不许对准人打",
+                    "en": "Do not aim the gun at anyone"
+                  }
+                },
+                {
+                  "format": "__self__准垃圾桶再{U+31363-kwaa3}",
+                  "descriptions": {
+                    "zh": "瞄准垃圾桶再扔",
+                    "en": "Aim at the trash can and then throw it in"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+81-koe1",
+      "unicode": "",
+      "characters": [
+        "koe1",
+        {
+          "@han_zi": "备选字字符",
+          "han_zi": "颗",
+          "@bian_hao": "备选字万国统一码",
+          "bian_hao": "U+9897"
+        }
+      ],
+      "controversial": 0,
+      "related": ["U+4286-gau4", "U+5774-luk7"],
+      "pinyin": "koe1",
+      "jyutping": "koe1",
+      "IPA": "",
+      "strokes": "",
+      "head": "k",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "量词，衡量成颗成块的物体（泛粤典好像用「颗」）",
+            "en": "The measure unit of pieces or blocks of objects"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "一__self__猪肉",
+                  "descriptions": {
+                    "zh": "一块猪肉",
+                    "en": "A piece of pork"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+82-keu3",
+      "unicode": "",
+      "characters": ["keu3"],
+      "controversial": 0,
+      "related": ["U+3E43-pe3", "A+9-ban5"],
+      "pinyin": "keu3",
+      "jyutping": "keu3",
+      "IPA": "",
+      "strokes": "",
+      "head": "k",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "翻弄，乱翻",
+            "en": "Rummage, scrabble"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "筷子__self__饭菜",
+                  "descriptions": {
+                    "zh": "筷子乱翻菜",
+                    "en": "Chopsticks flipping the dish haphazardly"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+83-keu2",
+      "unicode": "",
+      "characters": ["keu2"],
+      "controversial": 0,
+      "related": ["U+503E-king3"],
+      "pinyin": "keu2",
+      "jyutping": "keu2",
+      "IPA": "",
+      "strokes": "",
+      "head": "k",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "倒掉",
+            "en": "Dump, pour out"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__隔夜菜",
+                  "descriptions": {
+                    "zh": "把隔夜菜倒掉",
+                    "en": "Pour out the overnight foods"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+84-kou3",
+      "unicode": "",
+      "characters": ["kou3"],
+      "controversial": 0,
+      "related": ["A+89-lou2"],
+      "pinyin": "kou3",
+      "jyutping": "kou3",
+      "IPA": "",
+      "strokes": "",
+      "head": "k",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "搅拌",
+            "en": "Stir, mix"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__水泥",
+                  "descriptions": {
+                    "zh": "搅拌水泥",
+                    "en": "Mix cement"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+84-kou2",
+      "unicode": "",
+      "characters": ["kou2"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "A+84-kou3",
+      "pinyin": "kou2",
+      "jyutping": "kou2",
+      "IPA": "",
+      "strokes": "",
+      "head": "k",
+      "tail": "元音韵尾",
+      "meanings": []
+    },
+    {
+      "id": "A+85-le2",
+      "unicode": "",
+      "characters": ["le2"],
+      "controversial": 0,
+      "related": ["U+3F93-jyun1"],
+      "pinyin": "le2",
+      "jyutping": "le2",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "身子酸胀不舒服，往往因为劳累",
+            "en": "The body is sore and uncomfortable, often due to fatigue"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "条腰__self__{U+9F50-dai4}",
+                  "descriptions": {
+                    "zh": "腰部酸胀",
+                    "en": "Lumbar soreness and bloating"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+86-le1",
+      "unicode": "",
+      "characters": ["le1"],
+      "controversial": 0,
+      "related": ["U+635E-leou1"],
+      "pinyin": "le1",
+      "jyutping": "le1",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "搅拌固体或液体使之分布均匀",
+            "en": "Stir solid or liquid to distribute evenly"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "边冲奶粉边__self__匀",
+                  "descriptions": {
+                    "zh": "一边冲奶粉，一边搅拌均匀",
+                    "en": "Mix the milk powder evenly while brewing"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+87-leo1",
+      "unicode": "",
+      "characters": ["leo1"],
+      "controversial": 0,
+      "related": ["U+20CBA-ngap7"],
+      "pinyin": "leo1",
+      "jyutping": "leo1",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "含糊不清的话语随便应付",
+            "en": "Dealing with vague words casually"
+          },
+          "words": []
+        }
+      ]
+    },
+    {
+      "id": "A+88-lui1",
+      "unicode": "",
+      "characters": ["lui1"],
+      "controversial": 0,
+      "related": ["U+515C-ddau1"],
+      "pinyin": "lui1",
+      "jyutping": "lui1",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "（用袋子）装、兜起来",
+            "en": "Pack (in a bag or sack)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+4F7F-sai2}蛇皮袋__self__{U+4F4F-zyu6}{U+4E2A-geo3}{A+tsu}三{U+6A16-poe1}青菜",
+                  "descriptions": {
+                    "zh": "用蛇皮袋把这三株青菜装起来",
+                    "en": "Pack these three vegetables in a plastic woven sack"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+89-lou2",
+      "unicode": "",
+      "characters": ["lou2"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "lou2",
+      "jyutping": "lou2",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "（插入棒状物回旋着）搅拌",
+            "en": "Stir by inserting rod like objects and swirling)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__奶粉",
+                  "descriptions": {
+                    "zh": "回旋搅拌奶粉",
+                    "en": "Whirl stir milk powder"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "转动摇柄",
+            "en": "Rotate the crank"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__吹谷机",
+                  "descriptions": {
+                    "zh": "转动吹谷机的摇柄",
+                    "en": "Rotate the crank of the grain blower"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "骑（自行车）",
+            "en": "Ride (manpower vehicle)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__单车",
+                  "descriptions": {
+                    "zh": "骑自行车",
+                    "en": "Ride a bicycle"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+90-mau3",
+      "unicode": "",
+      "characters": ["mau3"],
+      "controversial": 0,
+      "related": [
+        "U+20C43-nap7",
+        "U+51F9-map7",
+        "U+5367-meo3",
+        "U+715B-gwing2"
+      ],
+      "pinyin": "mau3",
+      "jyutping": "mau3",
+      "IPA": "",
+      "strokes": "",
+      "head": "m",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "食物干瘪",
+            "en": "The food has shrunk"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__番薯",
+                  "descriptions": {
+                    "zh": "干瘪的红薯",
+                    "en": "The sweet potatoes have shrunk"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+91-nai1",
+      "unicode": "",
+      "characters": ["nai1"],
+      "controversial": 0,
+      "related": ["A+26-nan3"],
+      "pinyin": "nai1",
+      "jyutping": "nai1",
+      "IPA": "",
+      "strokes": "",
+      "head": "n",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "坏，出故障",
+            "en": "Breaking down, malfunctioning"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "冰箱__self__{A+le5}",
+                  "descriptions": {
+                    "zh": "冰箱出故障了",
+                    "en": "The refrigerator is malfunctioning"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "损害，破坏",
+            "en": "Damage"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+7747-tai2}久手机__self__双眼",
+                  "descriptions": {
+                    "zh": "手机看久了会损害视力",
+                    "en": "Long term use of mobile phones can damage vision"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+92-ngai5",
+      "unicode": "",
+      "characters": ["ngai5"],
+      "controversial": 0,
+      "related": ["U+6469-meo1", "U+30473-nam6", "U+7CEF-noe3", "U+25E49-nap7"],
+      "pinyin": "ngai5",
+      "jyutping": "ngai5",
+      "IPA": "",
+      "strokes": "",
+      "head": "ng",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "慢吞吞，拖拉",
+            "en": "Slow down, procrastinate"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "你{U+5481-gam2}__self__！{U+4F5C-ddok8}一{U+96BB-zik7}钟作业{U+4EF2-zung6}{U+5187-mau5}{U+4F5C-ddok8}{U+9F50-dai4}",
+                  "descriptions": {
+                    "zh": "你太拖拉了吧！做了一个小时的作业还没完成",
+                    "en": "How procrastinating you are! You have been doing homework for an hour but haven't finished it yet"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+93-peu1",
+      "unicode": "",
+      "characters": ["peu1"],
+      "controversial": 0,
+      "related": ["A+55-dak9"],
+      "pinyin": "peu1",
+      "jyutping": "peu1",
+      "IPA": "",
+      "strokes": "",
+      "head": "p",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "（幅度较大的）侧踢",
+            "en": "(Large amplitude) Side kick"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__脚电线杆",
+                  "descriptions": {
+                    "zh": "侧踢电线杆",
+                    "en": "Side kick the electric pole"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+95-sleo2",
+      "unicode": "",
+      "characters": ["sleo2"],
+      "controversial": 0,
+      "related": ["U+7D74-njong3"],
+      "pinyin": "sleo2",
+      "jyutping": "sleo2",
+      "IPA": "",
+      "strokes": "",
+      "head": "sl",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "质地松散，口感松软",
+            "en": "Loose texture, soft taste"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "砖__self__",
+                  "descriptions": {
+                    "zh": "质地松散的砖头",
+                    "en": "Loose textured bricks"
+                  }
+                },
+                {
+                  "format": "番薯{U+6781-gik9}__self__",
+                  "descriptions": {
+                    "zh": "红薯的口感很松软",
+                    "en": "These sweet potatoes have a very soft taste"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+96-zyu5",
+      "unicode": "",
+      "characters": ["zyu5"],
+      "controversial": 0,
+      "related": ["U+64C1-ung2", "U+22265-et8", "U+8DB1-ddon2"],
+      "pinyin": "zyu5",
+      "jyutping": "zyu5",
+      "IPA": "",
+      "strokes": "",
+      "head": "z",
+      "tail": "元音韵尾",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "推，挤",
+            "en": "Push"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "将盘菜__self__出边",
+                  "descriptions": {
+                    "zh": "把这盘菜推到一边",
+                    "en": "Push this dish aside"
+                  }
+                },
+                {
+                  "format": "{U+786C-njaa6}{U+786C-njaa6}__self__{U+7540-bbi2}我",
+                  "descriptions": {
+                    "zh": "硬生生推给我",
+                    "en": "Forcefully push it to me"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+97-nguk7",
+      "unicode": "",
+      "characters": ["nguk7"],
+      "controversial": 0,
+      "related": ["U+5C4B-uk7", "A+98-nuk7", "A+99-kuk7", "A+100-njuk7"],
+      "pinyin": "nguk7",
+      "jyutping": "nguk7",
+      "IPA": "",
+      "strokes": "",
+      "head": "ng",
+      "tail": "k",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "「我{U+5C4B-uk7}」合音，意为「我家（的）」",
+            "en": "The combination of「我{U+5C4B-uk7}」, the meaning is「my home」"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+4F62-gyu5}{U+505C-ding4}{U+5728-doi5}__self__{A+74-gai2}",
+                  "descriptions": {
+                    "zh": "他留宿在我家里",
+                    "en": "He stayed overnight at my house"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+98-nuk7",
+      "unicode": "",
+      "characters": ["nuk7"],
+      "controversial": 0,
+      "related": ["U+5C4B-uk7", "A+97-nguk7", "A+99-kuk7", "A+100-njuk7"],
+      "pinyin": "nuk7",
+      "jyutping": "nuk7",
+      "IPA": "",
+      "strokes": "",
+      "head": "n",
+      "tail": "k",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "「你{U+5C4B-uk7}」合音，意为「你家（的）」",
+            "en": "The combination of「你{U+5C4B-uk7}」, the meaning is「your home」"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "去__self__{U+5FBC-geu2}",
+                  "descriptions": {
+                    "zh": "去你家玩",
+                    "en": "Go play at your house"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+99-kuk7",
+      "unicode": "",
+      "characters": ["kuk7"],
+      "controversial": 0,
+      "related": [
+        "U+4F62-gyu5",
+        "U+5C4B-uk7",
+        "A+97-nguk7",
+        "A+98-nuk7",
+        "A+100-njuk7"
+      ],
+      "pinyin": "kuk7",
+      "jyutping": "kuk7",
+      "IPA": "",
+      "strokes": "",
+      "head": "k",
+      "tail": "k",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "「{U+4F62-gyu5}{U+5C4B-uk7}」合音，意为「他家（的）」、「她家（的）」",
+            "en": "The combination of「{U+4F62-gyu5}{U+5C4B-uk7}」, the meaning is「his home」、「her home」"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__人送{U+5605-geo4}",
+                  "descriptions": {
+                    "zh": "他家人送的",
+                    "en": "It was sent by his family"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+100-njuk7",
+      "unicode": "",
+      "characters": ["njuk7"],
+      "controversial": 0,
+      "related": ["U+5C4B-uk7", "A+97-nguk7", "A+98-nuk7", "A+99-kuk7"],
+      "pinyin": "njuk7",
+      "jyutping": "njuk7",
+      "IPA": "",
+      "strokes": "",
+      "head": "nj",
+      "tail": "k",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "「{U+4EBA-njan4}{U+5C4B-uk7}」合音，意为「人家（的）」，有时弱读",
+            "en": "The combination of「{U+4EBA-njan4}{U+5C4B-uk7}」, the meaning is「others」; It is sometimes unstressed"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{A+tsu}{U+5187-mau5}来{A+le5}",
+                  "descriptions": {
+                    "zh": "人家不来了",
+                    "en": "He's not coming anymore"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+101-men1",
+      "unicode": "",
+      "characters": ["men1"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "men1",
+      "jyutping": "men1",
+      "IPA": "",
+      "strokes": "",
+      "head": "m",
+      "tail": "n",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "摊贩",
+            "en": "Vendor"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "菜__self__",
+                  "descriptions": {
+                    "zh": "菜贩子",
+                    "en": "Vegetable vendors"
+                  }
+                },
+                {
+                  "format": "{U+6A58-gwat7}{U+5B50-ddi2}__self__",
+                  "descriptions": {
+                    "zh": "水果摊贩",
+                    "en": "Fruit vendors"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+102-jim2",
+      "unicode": "",
+      "characters": ["jim2"],
+      "controversial": 0,
+      "related": ["U+791E-mung3"],
+      "pinyin": "jim2",
+      "jyutping": "jim2",
+      "IPA": "",
+      "strokes": "",
+      "head": "j",
+      "tail": "m",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "长物的一小段",
+            "en": "A small segment of a long object"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "米粽{U+62D7-ngou2}{U+4F5C-ddok8}两__self__",
+                  "descriptions": {
+                    "zh": "把（两广地区的长）粽子折断成两小段",
+                    "en": "Bend and break Zongzi (a long rice dumpling in Guangdong and Guangxi) into two pieces"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "衡量片状物体（例如「瓦片」）断开后的部分",
+            "en": "The measure unit of the separated parts of a sheet-like object (Such like tiles)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "一饼碟片{U+62D7-ngou2}{U+4F5C-ddok8}两__self__",
+                  "descriptions": {
+                    "zh": "一张碟片折断成两片",
+                    "en": "A disc breaks into two pieces"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+103-fat7",
+      "unicode": "",
+      "characters": ["fat7"],
+      "controversial": 0,
+      "related": ["U+7CC1-slam2"],
+      "pinyin": "fat7",
+      "jyutping": "fat7",
+      "IPA": "",
+      "strokes": "",
+      "head": "f",
+      "tail": "t",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "用手轻轻洒水",
+            "en": "Gently sprinkle water with one's hand"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+7B49-ddang2}盆水__self__湿{w+45-di ddai}",
+                  "descriptions": {
+                    "zh": "接一盆水洒水",
+                    "en": "Take a basin of water and sprinkle it on the ground"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+104-fet10",
+      "unicode": "",
+      "characters": ["fet10"],
+      "controversial": 0,
+      "related": ["U+7052-don6", "U+64E4-slan3", "U+719B-bbiu1"],
+      "pinyin": "fet10",
+      "jyutping": "fet10",
+      "IPA": "",
+      "strokes": "",
+      "head": "f",
+      "tail": "t",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "液体四溅",
+            "en": "Liquid splattering"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": []
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "擤",
+            "en": "Blow one's nose"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{U+6DBF-dduk7}鼻涕",
+                  "descriptions": {
+                    "zh": "擤鼻涕",
+                    "en": "Blow one's nose to repel the nasal mucus"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+105-jing2",
+      "unicode": "",
+      "characters": ["jing2"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "jing2",
+      "jyutping": "jing2",
+      "IPA": "",
+      "strokes": "",
+      "head": "j",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "踮高脚",
+            "en": "On tiptoe"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+105-jang2",
+      "unicode": "",
+      "characters": ["jang2"],
+      "controversial": 0,
+      "related": [""],
+      "ref": "A+105-jing2",
+      "pinyin": "jang2",
+      "jyutping": "jang2",
+      "IPA": "",
+      "strokes": "",
+      "head": "j",
+      "tail": "ng",
+      "meanings": []
+    },
+    {
+      "id": "A+106-gang5",
+      "unicode": "",
+      "characters": ["gang5"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "gang5",
+      "jyutping": "gang5",
+      "IPA": "",
+      "strokes": "",
+      "head": "g",
+      "tail": "ng",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "位于垫面的凸起使人不舒服或损伤，硌",
+            "en": "The protrusion on the cushion surface makes human body uncomfortable or damaged"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "对鞋__self__脚",
+                  "descriptions": {
+                    "zh": "鞋垫下面有凸起使脚掌不舒服",
+                    "en": "There is a protrusion under the insole that makes the foot uncomfortable"
+                  }
+                },
+                {
+                  "format": "竹席下低好{U+51FA-cat7}有泥沙，__self__{U+7740-zaa6}{W+29-bui ddik}",
+                  "descriptions": {
+                    "zh": "竹席下面好像有泥沙似的，硌得我背部难受",
+                    "en": "There seems to be sands under the bamboo mat, which makes my back uncomfortable"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+107-lyut7",
+      "unicode": "",
+      "characters": ["lyut7"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "lyut7",
+      "jyutping": "lyut7",
+      "IPA": "",
+      "strokes": "",
+      "head": "l",
+      "tail": "t",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "黑__self__{A+107-lyut7}",
+              "descriptions": {
+                "zh": "黑貌",
+                "en": "Black, darkness"
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+108-bbak7",
+      "unicode": "",
+      "characters": ["bbak7"],
+      "controversial": 0,
+      "related": [""],
+      "pinyin": "bbak7",
+      "jyutping": "bbak7",
+      "IPA": "",
+      "strokes": "",
+      "head": "b-bb",
+      "tail": "k",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__水筒烟",
+                  "descriptions": {
+                    "zh": "抽水筒烟",
+                    "en": "Smoke a bamboo water pipe; Smoke hookah"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+er",
+      "unicode": "",
+      "characters": ["ㇽ"],
+      "controversial": 2,
+      "related": [""],
+      "pinyin": "ㇽ",
+      "jyutping": "",
+      "IPA": "",
+      "strokes": "",
+      "head": "特殊",
+      "tail": "特殊",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "小称符号，表示前字念小称音",
+            "en": "Cute-tone symbol, indicating the preceding character being pronounced as cute-tone"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "条路好{U+72ED-gep10}__self__",
+                  "descriptions": {
+                    "zh": "这条路好窄",
+                    "en": "This road is so narrow"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+tsu",
+      "unicode": "",
+      "characters": ["っ"],
+      "controversial": 2,
+      "related": [""],
+      "pinyin": "っ",
+      "jyutping": "",
+      "IPA": "",
+      "strokes": "",
+      "head": "特殊",
+      "tail": "特殊",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "弱读符号，表示前字弱读",
+            "en": "Unstressed symbol, indicating the preceding character being pronounced weakly, unstressed"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+4F62-gyu5}就__self__是{U+6837-jaa6}{U+5605-geo4}",
+                  "descriptions": {
+                    "zh": "他就是这样的一个人",
+                    "en": "He is such a person"
+                  }
+                },
+                {
+                  "format": "回{U+5C4B-uk7}罢__self__leo4",
+                  "descriptions": {
+                    "zh": "还是回家吧",
+                    "en": "I think we had better go home"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A+a",
+      "unicode": "",
+      "characters": ["ぁ"],
+      "controversial": 2,
+      "related": [""],
+      "pinyin": "ぁ",
+      "jyutping": "",
+      "IPA": "",
+      "strokes": "",
+      "head": "特殊",
+      "tail": "特殊",
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "完成体标记，前字声调有变化",
+            "en": "Perfect tense symbol, there is a change at the tone of preceding character"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "死__self__{A+le5}",
+                  "descriptions": {
+                    "zh": "已经死了",
+                    "en": "It's already dead"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "更__self__",
+              "descriptions": {
+                "zh": "更加，此处的「更」字声调有变化",
+                "en": "Even more. There is a change at the tone of「更」"
+              },
+              "sentences": [
+                {
+                  "format": "变{U+5F97-ddak7}__self__{U+5A01-wai1}",
+                  "descriptions": {
+                    "zh": "变得更美",
+                    "en": "Becoming more beautiful"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "name": "UnwriteableChars"
+}
