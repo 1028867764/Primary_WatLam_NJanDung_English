@@ -9,7 +9,7 @@ interface DataBase {
   updateTime: string;
   // 贡献者
   creators: Creator[];
-  data: Entry[];
+  data: { [id: string]: Entry };
 }
 
 interface Creator {
@@ -19,7 +19,6 @@ interface Creator {
 }
 
 interface Entry {
-  id: string;
   unicode: string;
   // 按照可信度排序，字符不存在时留空
   characters: string[];
@@ -35,6 +34,8 @@ interface Entry {
   head: string;
   // 韵尾
   tail: string;
+  ref: string;
+  refBy: string[];
   meanings: Meaning[];
 }
 

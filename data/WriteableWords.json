@@ -8,19 +8,18 @@
       "email": "jiaojiaodubai23@gmial.coom"
     }
   ],
-  "data": [
-    {
-      "id": "W+1-dai huk",
+  "data": {
+    "W+1-dai huk": {
       "unicode": "U+557CU+54ED",
       "characters": ["啼哭"],
       "controversial": 0,
       "related": [""],
       "pinyin": "ti2ku1",
       "jyutping": "dai huk",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -31,18 +30,17 @@
         }
       ]
     },
-    {
-      "id": "W+2-ddan njan",
+    "W+2-ddan njan": {
       "unicode": "U+8FDBU+4EBA",
       "characters": ["进人"],
       "controversial": 0,
       "related": [""],
       "pinyin": "jin4ren2",
       "jyutping": "ddan njan",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -53,18 +51,17 @@
         }
       ]
     },
-    {
-      "id": "W+3-sui jaa jau fan",
+    "W+3-sui jaa jau fan": {
       "unicode": "U+6C34U+54CDU+6709U+4EFD",
       "characters": ["水响有份"],
       "controversial": 0,
       "related": [""],
       "pinyin": "shui3xiang3you3fen4",
       "jyutping": "sui jaa jau fan",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -75,18 +72,17 @@
         }
       ]
     },
-    {
-      "id": "W+5-gwo zi",
+    "W+5-gwo zi": {
       "unicode": "U+6302U+7EB8",
       "characters": ["挂纸"],
       "controversial": 0,
       "related": ["U+4F9B-gung3", "U+990A-jaa3", "U+558F-jo5"],
       "pinyin": "gua4zhi3",
       "jyutping": "gwo zi",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -97,8 +93,7 @@
         }
       ]
     },
-    {
-      "id": "W+6-heou toi",
+    "W+6-heou toi": {
       "unicode": "U+597DU+5F69",
       "characters": ["好彩"],
       "controversial": 0,
@@ -110,10 +105,10 @@
       ],
       "pinyin": "hao3cai3",
       "jyutping": "heou toi",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -141,18 +136,17 @@
         }
       ]
     },
-    {
-      "id": "W+7-jaa mok",
+    "W+7-jaa mok": {
       "unicode": "U+7EA6U+6478",
       "characters": ["约摸"],
       "controversial": 0,
       "related": ["A+29-son03"],
       "pinyin": "yue1mo1",
       "jyutping": "jaa mok",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -180,18 +174,17 @@
         }
       ]
     },
-    {
-      "id": "W+8-jin zan",
+    "W+8-jin zan": {
       "unicode": "U+7275U+7B4B",
       "characters": ["牵筋"],
       "controversial": 0,
       "related": [""],
       "pinyin": "qian1jin1",
       "jyutping": "jin zan",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -202,18 +195,17 @@
         }
       ]
     },
-    {
-      "id": "W+9-lop laa",
+    "W+9-lop laa": {
       "unicode": "U+8721U+9753",
       "characters": ["蜡靓"],
       "controversial": 0,
       "related": ["U+71A0-jop10"],
       "pinyin": "la4liang4",
       "jyutping": "lop laa",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -224,8 +216,7 @@
         }
       ]
     },
-    {
-      "id": "W+10-lo zo",
+    "W+10-lo zo": {
       "unicode": "U+85DEU+4562",
       "characters": ["藞䕢"],
       "controversial": 0,
@@ -240,10 +231,10 @@
       ],
       "pinyin": "la3䕢",
       "jyutping": "lo zo",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -271,18 +262,17 @@
         }
       ]
     },
-    {
-      "id": "W+11-pik sot",
+    "W+11-pik sot": {
       "unicode": "U+5288U+6740",
       "characters": ["劈杀"],
       "controversial": 0,
       "related": ["U+4EA4-gou1"],
       "pinyin": "pi1sha1",
       "jyutping": "pik sot",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -293,18 +283,17 @@
         }
       ]
     },
-    {
-      "id": "W+12-po cau",
+    "W+12-po cau": {
       "unicode": "U+6015U+4E11",
       "characters": ["怕丑"],
       "controversial": 0,
       "related": ["U+67B6-go6"],
       "pinyin": "pa4chou3",
       "jyutping": "po cau",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -315,18 +304,17 @@
         }
       ]
     },
-    {
-      "id": "W+13-pun sli",
+    "W+13-pun sli": {
       "unicode": "U+62DAU+6B7B",
       "characters": ["拚死"],
       "controversial": 0,
       "related": [""],
       "pinyin": "pin1si3",
       "jyutping": "pun sli",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -354,18 +342,17 @@
         }
       ]
     },
-    {
-      "id": "W+14-tai laa",
+    "W+14-tai laa": {
       "unicode": "U+51C4U+51C9",
       "characters": ["凄凉"],
       "controversial": 0,
       "related": [""],
       "pinyin": "qi1liang2",
       "jyutping": "tai laa",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -376,18 +363,17 @@
         }
       ]
     },
-    {
-      "id": "W+15-wan sat",
+    "W+15-wan sat": {
       "unicode": "U+628EU+5931",
       "characters": ["抎失"],
       "controversial": 0,
       "related": [""],
       "pinyin": "yun3shi1",
       "jyutping": "wan sat",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -422,18 +408,17 @@
         }
       ]
     },
-    {
-      "id": "W+16-wo lang lang",
+    "W+16-wo lang lang": {
       "unicode": "U+82B1U+7EEBU+7EEB",
       "characters": ["花绫绫"],
       "controversial": 0,
       "related": [""],
       "pinyin": "hua1ling2ling2",
       "jyutping": "wo lang lang",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -444,18 +429,17 @@
         }
       ]
     },
-    {
-      "id": "W+17-woi zung",
+    "W+17-woi zung": {
       "unicode": "U+574FU+79CD",
       "characters": ["坏种"],
       "controversial": 0,
       "related": [""],
       "pinyin": "huai4zhong3",
       "jyutping": "woi zung",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -483,8 +467,7 @@
         }
       ]
     },
-    {
-      "id": "W+21-gin sing",
+    "W+21-gin sing": {
       "unicode": "U+4EF6U+6210",
       "characters": ["件成"],
       "controversial": 1,
@@ -498,10 +481,10 @@
       ],
       "pinyin": "jian4cheng2",
       "jyutping": "gin sing",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -529,18 +512,17 @@
         }
       ]
     },
-    {
-      "id": "W+23-zi sing",
+    "W+23-zi sing": {
       "unicode": "U+81F3U+8BDA",
       "characters": ["至诚"],
       "controversial": 0,
       "related": ["U+6B63-zing3"],
       "pinyin": "zhi4cheng2",
       "jyutping": "zi sing",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -575,18 +557,17 @@
         }
       ]
     },
-    {
-      "id": "W+25-biu se",
+    "W+25-biu se": {
       "unicode": "U+5AD6U+9A07",
       "characters": ["嫖騇"],
       "controversial": 0,
       "related": ["A+53-put7"],
       "pinyin": "piao2she4",
       "jyutping": "biu se",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -597,18 +578,17 @@
         }
       ]
     },
-    {
-      "id": "W+27-lau dau",
+    "W+27-lau dau": {
       "unicode": "U+6D41U+5934",
       "characters": ["流头"],
       "controversial": 0,
       "related": [""],
       "pinyin": "liu2tou2",
       "jyutping": "lau dau",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -636,18 +616,17 @@
         }
       ]
     },
-    {
-      "id": "W+28-bet cyu tyun",
+    "W+28-bet cyu tyun": {
       "unicode": "U+522BU+5904U+6751",
       "characters": ["别处村"],
       "controversial": 0,
       "related": [""],
       "pinyin": "bie2chu4cun1",
       "jyutping": "bet cyu tyun",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -658,18 +637,17 @@
         }
       ]
     },
-    {
-      "id": "W+29-bui ddik",
+    "W+29-bui ddik": {
       "unicode": "U+80CCU+810A",
       "characters": ["背脊"],
       "controversial": 0,
       "related": [""],
       "pinyin": "bei4ji3",
       "jyutping": "bui ddik",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -680,18 +658,17 @@
         }
       ]
     },
-    {
-      "id": "W+30-dau nep",
+    "W+30-dau nep": {
       "unicode": "U+5934U+954A",
       "characters": ["头镊"],
       "controversial": 0,
       "related": [""],
       "pinyin": "tou2nie4",
       "jyutping": "dau nep",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -702,18 +679,17 @@
         }
       ]
     },
-    {
-      "id": "W+31-zi jiu",
+    "W+31-zi jiu": {
       "unicode": "U+7EB8U+9E5E",
       "characters": ["纸鹞"],
       "controversial": 0,
       "related": [""],
       "pinyin": "zhi3yao4",
       "jyutping": "zi jiu",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -724,18 +700,17 @@
         }
       ]
     },
-    {
-      "id": "W+32-njon ci",
+    "W+32-njon ci": {
       "unicode": "U+773CU+7735",
       "characters": ["眼眵"],
       "controversial": 0,
       "related": [""],
       "pinyin": "yan3chi1",
       "jyutping": "njon ci",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -746,8 +721,7 @@
         }
       ]
     },
-    {
-      "id": "W+33-din hung",
+    "W+33-din hung": {
       "unicode": "U+7530U+63A7",
       "characters": ["田控"],
       "controversial": 0,
@@ -759,10 +733,10 @@
       ],
       "pinyin": "tian2kong4",
       "jyutping": "din hung",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -773,18 +747,17 @@
         }
       ]
     },
-    {
-      "id": "W+34-din zuk",
+    "W+34-din zuk": {
       "unicode": "U+7535U+70DB",
       "characters": ["电烛"],
       "controversial": 0,
       "related": [""],
       "pinyin": "dian4zhu2",
       "jyutping": "din zuk",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -795,18 +768,17 @@
         }
       ]
     },
-    {
-      "id": "W+35-duk gi",
+    "W+35-duk gi": {
       "unicode": "U+72ECU+5DF1",
       "characters": ["独己"],
       "controversial": 0,
       "related": [""],
       "pinyin": "du2ji3",
       "jyutping": "duk gi",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -817,18 +789,17 @@
         }
       ]
     },
-    {
-      "id": "W+36-du loe",
+    "W+36-du loe": {
       "unicode": "U+809AU+81DA",
       "characters": ["肚臚"],
       "controversial": 0,
       "related": [""],
       "pinyin": "du4lu2",
       "jyutping": "du loe",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -839,18 +810,17 @@
         }
       ]
     },
-    {
-      "id": "W+37-fot wan",
+    "W+37-fot wan": {
       "unicode": "U+53D1U+761F",
       "characters": ["发瘟"],
       "controversial": 0,
       "related": [""],
       "pinyin": "fa1wen1",
       "jyutping": "fot wan",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -861,18 +831,17 @@
         }
       ]
     },
-    {
-      "id": "w+39-gou git",
+    "w+39-gou git": {
       "unicode": "U+57A2U+573F",
       "characters": ["垢圿"],
       "controversial": 0,
       "related": [""],
       "pinyin": "gou4jia2",
       "jyutping": "gou git",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -900,18 +869,17 @@
         }
       ]
     },
-    {
-      "id": "w+40-leou dau",
+    "w+40-leou dau": {
       "unicode": "U+8001U+8C46",
       "characters": ["老豆"],
       "controversial": 0,
       "related": ["U+3737-me4"],
       "pinyin": "lao3dou4",
       "jyutping": "leou dau",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -922,18 +890,17 @@
         }
       ]
     },
-    {
-      "id": "w+42-slom njat je",
+    "w+42-slom njat je": {
       "unicode": "U+5345U+65E5U+591C",
       "characters": ["卅日夜"],
       "controversial": 0,
       "related": [""],
       "pinyin": "sa4ri4ye4",
       "jyutping": "slom njat je",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -944,18 +911,17 @@
         }
       ]
     },
-    {
-      "id": "w+43-tin din",
+    "w+43-tin din": {
       "unicode": "U+5929U+7530",
       "characters": ["天田"],
       "controversial": 0,
       "related": [""],
       "pinyin": "tian1tian2",
       "jyutping": "tin din",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -983,18 +949,17 @@
         }
       ]
     },
-    {
-      "id": "w+44-ting ddai",
+    "w+44-ting ddai": {
       "unicode": "U+5385U+90B8",
       "characters": ["厅邸"],
       "controversial": 0,
       "related": [""],
       "pinyin": "ting1di3",
       "jyutping": "ting ddai",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1005,18 +970,17 @@
         }
       ]
     },
-    {
-      "id": "w+45-di ddai",
+    "w+45-di ddai": {
       "unicode": "U+5730U+5E95",
       "characters": ["地底"],
       "controversial": 0,
       "related": [""],
       "pinyin": "di4di3",
       "jyutping": "di ddai",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1027,18 +991,17 @@
         }
       ]
     },
-    {
-      "id": "w+48-fuk fat",
+    "w+48-fuk fat": {
       "unicode": "U+7B26U+6CD5",
       "characters": ["符法"],
       "controversial": 0,
       "related": [""],
       "pinyin": "fu2fa3",
       "jyutping": "fuk fat",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1049,18 +1012,17 @@
         }
       ]
     },
-    {
-      "id": "w+49-nji gwai",
+    "w+49-nji gwai": {
       "unicode": "U+8033U+9B3C",
       "characters": ["耳鬼"],
       "controversial": 1,
       "related": [""],
       "pinyin": "er3gui3",
       "jyutping": "nji gwai",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1071,18 +1033,17 @@
         }
       ]
     },
-    {
-      "id": "w+50-hau zung",
+    "w+50-hau zung": {
       "unicode": "U+53E3U+76C5",
       "characters": ["口盅"],
       "controversial": 0,
       "related": ["U+551B-mak7"],
       "pinyin": "kou3zhong1",
       "jyutping": "hau zung",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1093,18 +1054,17 @@
         }
       ]
     },
-    {
-      "id": "w+51-mo ling",
+    "w+51-mo ling": {
       "unicode": "U+5B56U+8EE8",
       "characters": ["孖軨"],
       "controversial": 0,
       "related": [""],
       "pinyin": "ma1ling2",
       "jyutping": "mo ling",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1115,18 +1075,17 @@
         }
       ]
     },
-    {
-      "id": "w+52-fot hi",
+    "w+52-fot hi": {
       "unicode": "U+53D1U+6C14",
       "characters": ["发气"],
       "controversial": 0,
       "related": [""],
       "pinyin": "fa1qi4",
       "jyutping": "fot hi",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1137,18 +1096,17 @@
         }
       ]
     },
-    {
-      "id": "w+53-fot sling",
+    "w+53-fot sling": {
       "unicode": "U+53D1U+6027",
       "characters": ["发性"],
       "controversial": 0,
       "related": [""],
       "pinyin": "fa1xing4",
       "jyutping": "fot sling",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1159,18 +1117,17 @@
         }
       ]
     },
-    {
-      "id": "w+54-tau dui",
+    "w+54-tau dui": {
       "unicode": "U+51D1U+961F",
       "characters": ["凑队"],
       "controversial": 0,
       "related": ["w+55-tau gung"],
       "pinyin": "cou4dui4",
       "jyutping": "tau dui",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1198,18 +1155,17 @@
         }
       ]
     },
-    {
-      "id": "w+55-tau gung",
+    "w+55-tau gung": {
       "unicode": "U+51D1U+5171",
       "characters": ["凑共"],
       "controversial": 0,
       "related": ["w+54-tau dui"],
       "pinyin": "cou4gong4",
       "jyutping": "tau gung",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1237,18 +1193,17 @@
         }
       ]
     },
-    {
-      "id": "w+56-ging nang",
+    "w+56-ging nang": {
       "unicode": "U+6B63U+767B",
       "characters": ["正登"],
       "controversial": 0,
       "related": ["w+57-dak ddang"],
       "pinyin": "zheng4deng1",
       "jyutping": "ging nang",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1276,63 +1231,56 @@
         }
       ]
     },
-    {
-      "id": "w+56-ging ddang",
+    "w+56-ging ddang": {
       "unicode": "U+6B63U+767B",
       "characters": ["正登"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+56-ging nang",
       "pinyin": "zheng4deng1",
       "jyutping": "ging ddang",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "w+56-ging nang",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+56-zing nang",
+    "w+56-zing nang": {
       "unicode": "U+6B63U+767B",
       "characters": ["正登"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+56-ging nang",
       "pinyin": "zheng4deng1",
       "jyutping": "zing nang",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "w+56-ging nang",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+56-zing ddang",
+    "w+56-zing ddang": {
       "unicode": "U+6B63U+767B",
       "characters": ["正登"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+56-ging nang",
       "pinyin": "zheng4deng1",
       "jyutping": "zing ddang",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "w+56-ging nang",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+57-dak ddang",
+    "w+57-dak ddang": {
       "unicode": "U+7279U+767B",
       "characters": ["特登"],
       "controversial": 0,
       "related": ["w+56-ging nang"],
       "pinyin": "te4deng1",
       "jyutping": "dak ddang",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1343,33 +1291,30 @@
         }
       ]
     },
-    {
-      "id": "w+57-dak nang",
+    "w+57-dak nang": {
       "unicode": "U+7279U+767B",
       "characters": ["特登"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+57-dak ddang",
       "pinyin": "te4deng1",
       "jyutping": "dak nang",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "w+57-dak ddang",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+58-ddeou ji",
+    "w+58-ddeou ji": {
       "unicode": "U+65E9U+4EE5",
       "characters": ["早以"],
       "controversial": 0,
       "related": ["w+59-zau ji"],
       "pinyin": "zao3yi3",
       "jyutping": "ddeou ji",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1397,18 +1342,17 @@
         }
       ]
     },
-    {
-      "id": "w+59-zau ji",
+    "w+59-zau ji": {
       "unicode": "U+65E7U+4EE5",
       "characters": ["旧以"],
       "controversial": 0,
       "related": ["w+58-ddeou ji"],
       "pinyin": "jiu4yi3",
       "jyutping": "zau ji",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1419,18 +1363,17 @@
         }
       ]
     },
-    {
-      "id": "w+60-si ging",
+    "w+60-si ging": {
       "unicode": "U+65F6U+5883",
       "characters": ["时境"],
       "controversial": 1,
       "related": [""],
       "pinyin": "shi2jing4",
       "jyutping": "si ging",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1458,18 +1401,17 @@
         }
       ]
     },
-    {
-      "id": "w+61-tau jam",
+    "w+61-tau jam": {
       "unicode": "U+5077U+9634",
       "characters": ["偷阴"],
       "controversial": 0,
       "related": [""],
       "pinyin": "tou1yin1",
       "jyutping": "tau jam",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1497,33 +1439,30 @@
         }
       ]
     },
-    {
-      "id": "w+62-tau jam",
+    "w+62-tau jam": {
       "unicode": "U+5077U+97F3",
       "characters": ["偷音"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+61-tau jam",
       "pinyin": "tou1yin1",
       "jyutping": "tau jam",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "w+61-tau jam",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+65-tin gi",
+    "w+65-tin gi": {
       "unicode": "U+5343U+7948",
       "characters": ["千祈"],
       "controversial": 0,
       "related": [""],
       "pinyin": "qian1qi2",
       "jyutping": "tin gi",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1551,18 +1490,17 @@
         }
       ]
     },
-    {
-      "id": "w+66-tin gi tin",
+    "w+66-tin gi tin": {
       "unicode": "U+5343U+7948U+5343",
       "characters": ["千祈千"],
       "controversial": 0,
       "related": [""],
       "pinyin": "qian1qi2qian1",
       "jyutping": "tin gi tin",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1590,18 +1528,17 @@
         }
       ]
     },
-    {
-      "id": "w+67-tam tam zyun",
+    "w+67-tam tam zyun": {
       "unicode": "U+27F7CU+27F7CU+8F6C",
       "characters": ["𧽼𧽼转"],
       "controversial": 0,
       "related": [""],
       "pinyin": "𧽼𧽼zhuan3",
       "jyutping": "tam tam zyun",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1612,18 +1549,17 @@
         }
       ]
     },
-    {
-      "id": "w+68-kwang kwang zyun",
+    "w+68-kwang kwang zyun": {
       "unicode": "U+3622U+3622U+8F6C",
       "characters": ["㘢㘢转"],
       "controversial": 0,
       "related": [""],
       "pinyin": "㘢㘢zhuan3",
       "jyutping": "kwang kwang zyun",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1634,33 +1570,30 @@
         }
       ]
     },
-    {
-      "id": "w+68-gwang gwang zyun",
+    "w+68-gwang gwang zyun": {
       "unicode": "U+3622U+3622U+8F6C",
       "characters": ["㘢㘢转"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+68-kwang kwang zyun",
       "pinyin": "㘢㘢zhuan3",
       "jyutping": "gwang gwang zyun",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "w+68-kwang kwang zyun",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+69-wing wang zyun",
+    "w+69-wing wang zyun": {
       "unicode": "U+8367U+60D1U+8F6C",
       "characters": ["荧惑转"],
       "controversial": 1,
       "related": [""],
       "pinyin": "ying2huo4zhuan3",
       "jyutping": "wing wang zyun",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1671,18 +1604,17 @@
         }
       ]
     },
-    {
-      "id": "w+70-wing wang wang",
+    "w+70-wing wang wang": {
       "unicode": "U+8367U+60D1U+60D1",
       "characters": ["荧惑惑"],
       "controversial": 1,
       "related": ["U+6172-mun6"],
       "pinyin": "ying2huo4huo4",
       "jyutping": "wing wang wang",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1710,18 +1642,17 @@
         }
       ]
     },
-    {
-      "id": "w+71-hat nji",
+    "w+71-hat nji": {
       "unicode": "U+4E5EU+513F",
       "characters": ["乞儿"],
       "controversial": 0,
       "related": ["w+72-mik hik"],
       "pinyin": "qi3er2",
       "jyutping": "hat nji",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1732,18 +1663,17 @@
         }
       ]
     },
-    {
-      "id": "w+72-mik hik",
+    "w+72-mik hik": {
       "unicode": "U+89C5U+5403",
       "characters": ["觅吃"],
       "controversial": 0,
       "related": ["w+71-hat nji"],
       "pinyin": "mi4chi1",
       "jyutping": "mik hik",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1754,18 +1684,17 @@
         }
       ]
     },
-    {
-      "id": "w+73-lak gou",
+    "w+73-lak gou": {
       "unicode": "U+52D2U+80F6",
       "characters": ["勒胶"],
       "controversial": 0,
       "related": [""],
       "pinyin": "le4jiao1",
       "jyutping": "lak gou",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1776,18 +1705,17 @@
         }
       ]
     },
-    {
-      "id": "w+74-san suk gou",
+    "w+74-san suk gou": {
       "unicode": "U+4F38U+7F29U+80F6",
       "characters": ["伸缩胶"],
       "controversial": 0,
       "related": [""],
       "pinyin": "shen1suo1jiao1",
       "jyutping": "san suk gou",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1798,8 +1726,7 @@
         }
       ]
     },
-    {
-      "id": "w+75-aa ddi",
+    "w+75-aa ddi": {
       "unicode": "U+6838U+5B50",
       "characters": ["核子"],
       "controversial": 0,
@@ -1812,10 +1739,10 @@
       ],
       "pinyin": "he2zi3",
       "jyutping": "aa ddi",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1826,8 +1753,7 @@
         }
       ]
     },
-    {
-      "id": "w+76-aa ge",
+    "w+76-aa ge": {
       "unicode": "U+6838U+8127",
       "characters": ["核脧"],
       "controversial": 0,
@@ -1840,10 +1766,10 @@
       ],
       "pinyin": "he2zui1",
       "jyutping": "aa ge",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1854,33 +1780,30 @@
         }
       ]
     },
-    {
-      "id": "w+76-aa gai",
+    "w+76-aa gai": {
       "unicode": "U+6838U+8127",
       "characters": ["核脧"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+76-aa ge",
       "pinyin": "he2zui1",
       "jyutping": "aa gai",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "w+76-aa ge",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+77-ddeou mun",
+    "w+77-ddeou mun": {
       "unicode": "U+7076U+95E8",
       "characters": ["灶门"],
       "controversial": 0,
       "related": [""],
       "pinyin": "zao4men2",
       "jyutping": "ddeou mun",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1891,18 +1814,17 @@
         }
       ]
     },
-    {
-      "id": "w+78-ddeou me",
+    "w+78-ddeou me": {
       "unicode": "U+7076U+3737",
       "characters": ["灶㜷"],
       "controversial": 0,
       "related": [""],
       "pinyin": "zao4㜷",
       "jyutping": "ddeou me",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1913,18 +1835,17 @@
         }
       ]
     },
-    {
-      "id": "w+79-wui leou",
+    "w+79-wui leou": {
       "unicode": "U+7070U+4F6C",
       "characters": ["灰佬"],
       "controversial": 0,
       "related": [""],
       "pinyin": "hui1lao3",
       "jyutping": "wui leou",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1935,18 +1856,17 @@
         }
       ]
     },
-    {
-      "id": "w+80-wui leou syu",
+    "w+80-wui leou syu": {
       "unicode": "U+7070U+8001U+9F20",
       "characters": ["灰老鼠"],
       "controversial": 0,
       "related": [""],
       "pinyin": "hui1lao3shu3",
       "jyutping": "wui leou syu",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1957,18 +1877,17 @@
         }
       ]
     },
-    {
-      "id": "w+81-bang gang",
+    "w+81-bang gang": {
       "unicode": "U+5E9EU+8679",
       "characters": ["庞虹"],
       "controversial": 0,
       "related": [""],
       "pinyin": "pang2hong2",
       "jyutping": "bang gang",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1979,18 +1898,17 @@
         }
       ]
     },
-    {
-      "id": "w+82-bang gang",
+    "w+82-bang gang": {
       "unicode": "U+5E9EU+7D73",
       "characters": ["庞絳"],
       "controversial": 0,
       "related": [""],
       "pinyin": "pang2jiang4",
       "jyutping": "bang gang",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2001,18 +1919,17 @@
         }
       ]
     },
-    {
-      "id": "w+83-fong mo",
+    "w+83-fong mo": {
       "unicode": "U+653EU+9A6C",
       "characters": ["放马"],
       "controversial": 0,
       "related": ["U+5C59-eo1", "w+84-zo njau", "U+6FD1-loi6"],
       "pinyin": "fang4ma3",
       "jyutping": "fong mo",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2023,8 +1940,7 @@
         }
       ]
     },
-    {
-      "id": "w+84-zo njau",
+    "w+84-zo njau": {
       "unicode": "U+70B8U+725B",
       "characters": ["炸牛"],
       "controversial": 0,
@@ -2038,10 +1954,10 @@
       ],
       "pinyin": "zha4niu2",
       "jyutping": "zo njau",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2052,18 +1968,17 @@
         }
       ]
     },
-    {
-      "id": "w+87-teo tung",
+    "w+87-teo tung": {
       "unicode": "U+62D6U+6876",
       "characters": ["拖桶"],
       "controversial": 0,
       "related": [""],
       "pinyin": "tuo1tong3",
       "jyutping": "teo tung",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2074,18 +1989,17 @@
         }
       ]
     },
-    {
-      "id": "w+88-gwai tung",
+    "w+88-gwai tung": {
       "unicode": "U+67DCU+6876",
       "characters": ["柜桶"],
       "controversial": 0,
       "related": [""],
       "pinyin": "gui4tong3",
       "jyutping": "gwai tung",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2096,18 +2010,17 @@
         }
       ]
     },
-    {
-      "id": "w+91-bi ti",
+    "w+91-bi ti": {
       "unicode": "U+76AEU+523A",
       "characters": ["皮刺"],
       "controversial": 0,
       "related": [""],
       "pinyin": "pi2ci4",
       "jyutping": "bi ti",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2118,18 +2031,17 @@
         }
       ]
     },
-    {
-      "id": "w+92-nang gai",
+    "w+92-nang gai": {
       "unicode": "U+24E4DU+818E",
       "characters": ["𤹍膎"],
       "controversial": 0,
       "related": [""],
       "pinyin": "𤹍xie2",
       "jyutping": "nang gai",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2140,18 +2052,17 @@
         }
       ]
     },
-    {
-      "id": "w+93-bbo no",
+    "w+93-bbo no": {
       "unicode": "U+75A4U+24E3B",
       "characters": ["疤𤸻"],
       "controversial": 0,
       "related": [""],
       "pinyin": "ba1𤸻",
       "jyutping": "bbo no",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2162,18 +2073,17 @@
         }
       ]
     },
-    {
-      "id": "w+94-lom gai",
+    "w+94-lom gai": {
       "unicode": "U+6984U+9E21",
       "characters": ["榄鸡"],
       "controversial": 0,
       "related": [""],
       "pinyin": "lan3ji1",
       "jyutping": "lom gai",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2184,18 +2094,17 @@
         }
       ]
     },
-    {
-      "id": "w+95-bok tui",
+    "w+95-bok tui": {
       "unicode": "U+8584U+8106",
       "characters": ["薄脆"],
       "controversial": 0,
       "related": [""],
       "pinyin": "bao2cui4",
       "jyutping": "bok tui",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2206,18 +2115,17 @@
         }
       ]
     },
-    {
-      "id": "w+96-baa slon",
+    "w+96-baa slon": {
       "unicode": "U+767DU+7CE4",
       "characters": ["白糤"],
       "controversial": 0,
       "related": [""],
       "pinyin": "bai2san3",
       "jyutping": "baa slon",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2228,18 +2136,17 @@
         }
       ]
     },
-    {
-      "id": "w+97-keu lin",
+    "w+97-keu lin": {
       "unicode": "U+7FD8U+8FDE",
       "characters": ["翘连"],
       "controversial": 0,
       "related": [""],
       "pinyin": "qiao4lian2",
       "jyutping": "keu lin",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2250,18 +2157,17 @@
         }
       ]
     },
-    {
-      "id": "w+99-tui ddi",
+    "w+99-tui ddi": {
       "unicode": "U+8106U+5B50",
       "characters": ["脆子"],
       "controversial": 0,
       "related": [""],
       "pinyin": "cui4zi3",
       "jyutping": "tui ddi",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2272,18 +2178,17 @@
         }
       ]
     },
-    {
-      "id": "w+100-bbok caa beo",
+    "w+100-bbok caa beo": {
       "unicode": "U+993AU+7F49U+997D",
       "characters": ["餺罉饽"],
       "controversial": 0,
       "related": [""],
       "pinyin": "bo2cheng1bo1",
       "jyutping": "bbok caa beo",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2294,18 +2199,17 @@
         }
       ]
     },
-    {
-      "id": "w+101-doi lung di",
+    "w+101-doi lung di": {
       "unicode": "U+5927U+7B3CU+7CCD",
       "characters": ["大笼糍"],
       "controversial": 0,
       "related": [""],
       "pinyin": "da4long2ci2",
       "jyutping": "doi lung di",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2316,18 +2220,17 @@
         }
       ]
     },
-    {
-      "id": "w+102-muk syu beo",
+    "w+102-muk syu beo": {
       "unicode": "U+6728U+85AFU+997D",
       "characters": ["木薯饽"],
       "controversial": 0,
       "related": [""],
       "pinyin": "mu4shu3bo1",
       "jyutping": "muk syu beo",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2338,18 +2241,17 @@
         }
       ]
     },
-    {
-      "id": "w+103-lin ddi beo",
+    "w+103-lin ddi beo": {
       "unicode": "U+83B2U+5B50U+997D",
       "characters": ["莲子饽"],
       "controversial": 0,
       "related": [""],
       "pinyin": "lian2zi3bo1",
       "jyutping": "lin ddi beo",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2360,18 +2262,17 @@
         }
       ]
     },
-    {
-      "id": "w+104-et ddi beo",
+    "w+104-et ddi beo": {
       "unicode": "U+42A6U+5B50U+997D",
       "characters": ["䊦子饽"],
       "controversial": 0,
       "related": [""],
       "pinyin": "䊦zi3bo1",
       "jyutping": "et ddi beo",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2382,33 +2283,30 @@
         }
       ]
     },
-    {
-      "id": "w+104-jat ddi beo",
+    "w+104-jat ddi beo": {
       "unicode": "U+42A6U+5B50U+997D",
       "characters": ["䊦子饽"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+104-et ddi beo",
       "pinyin": "䊦zi3bo1",
       "jyutping": "jat ddi beo",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "w+104-et ddi beo",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+105-ddung jep",
+    "w+105-ddung jep": {
       "unicode": "U+67CAU+53F6",
       "characters": ["柊叶"],
       "controversial": 0,
       "related": [""],
       "pinyin": "zhong1ye4",
       "jyutping": "ddung jep",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2419,18 +2317,17 @@
         }
       ]
     },
-    {
-      "id": "w+106-luk buk",
+    "w+106-luk buk": {
       "unicode": "U+2D4B9U+6A38",
       "characters": ["𭒹樸"],
       "controversial": 0,
       "related": [""],
       "pinyin": "𭒹pu3",
       "jyutping": "luk buk",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2441,33 +2338,30 @@
         }
       ]
     },
-    {
-      "id": "w+106-luk guk",
+    "w+106-luk guk": {
       "unicode": "U+2D4B9U+6A38",
       "characters": ["𭒹樸"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+106-luk buk",
       "pinyin": "𭒹pu3",
       "jyutping": "luk guk",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "w+106-luk buk",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+108-doi jep zo",
+    "w+108-doi jep zo": {
       "unicode": "U+5927U+53F6U+8336",
       "characters": ["大叶茶"],
       "controversial": 0,
       "related": [""],
       "pinyin": "da4ye4cha2",
       "jyutping": "doi jep zo",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2478,18 +2372,17 @@
         }
       ]
     },
-    {
-      "id": "w+109-zo dung",
+    "w+109-zo dung": {
       "unicode": "U+8336U+7B52",
       "characters": ["茶筒"],
       "controversial": 0,
       "related": [""],
       "pinyin": "cha2tong3",
       "jyutping": "zo dung",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2500,18 +2393,17 @@
         }
       ]
     },
-    {
-      "id": "w+110-wun son",
+    "w+110-wun son": {
       "unicode": "U+7897U+6808",
       "characters": ["碗栈"],
       "controversial": 0,
       "related": [""],
       "pinyin": "wan3zhan4",
       "jyutping": "wun son",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2522,18 +2414,17 @@
         }
       ]
     },
-    {
-      "id": "w+111-fon bi",
+    "w+111-fon bi": {
       "unicode": "U+996DU+76AE",
       "characters": ["饭皮"],
       "controversial": 0,
       "related": [""],
       "pinyin": "fan4pi2",
       "jyutping": "fon bi",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2544,18 +2435,17 @@
         }
       ]
     },
-    {
-      "id": "w+112-fon dau",
+    "w+112-fon dau": {
       "unicode": "U+996DU+8C46",
       "characters": ["饭豆"],
       "controversial": 0,
       "related": [""],
       "pinyin": "fan4dou4",
       "jyutping": "fon dau",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2566,18 +2456,17 @@
         }
       ]
     },
-    {
-      "id": "w+114-gu njoet",
+    "w+114-gu njoet": {
       "unicode": "U+53E4U+6708",
       "characters": ["古月"],
       "controversial": 0,
       "related": [""],
       "pinyin": "gu3yue4",
       "jyutping": "gu njoet",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2588,18 +2477,17 @@
         }
       ]
     },
-    {
-      "id": "w+115-gwat slyun",
+    "w+115-gwat slyun": {
       "unicode": "U+53E4U+6708U+849C",
       "characters": ["古月蒜"],
       "controversial": 1,
       "related": [""],
       "pinyin": "gu3yue4suan4",
       "jyutping": "gwat slyun",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2610,18 +2498,17 @@
         }
       ]
     },
-    {
-      "id": "w+116-syu gu",
+    "w+116-syu gu": {
       "unicode": "U+85AFU+83F0",
       "characters": ["薯菰"],
       "controversial": 0,
       "related": [""],
       "pinyin": "shu3gu1",
       "jyutping": "syu gu",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2632,18 +2519,17 @@
         }
       ]
     },
-    {
-      "id": "w+117-di gu",
+    "w+117-di gu": {
       "unicode": "U+5730U+83F0",
       "characters": ["地菰"],
       "controversial": 0,
       "related": [""],
       "pinyin": "di4gu1",
       "jyutping": "di gu",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2654,18 +2540,17 @@
         }
       ]
     },
-    {
-      "id": "w+118-jim slai",
+    "w+118-jim slai": {
       "unicode": "U+76D0U+837D",
       "characters": ["盐荽"],
       "controversial": 0,
       "related": [""],
       "pinyin": "yan2sui1",
       "jyutping": "jim slai",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2676,18 +2561,17 @@
         }
       ]
     },
-    {
-      "id": "w+119-jyun slai",
+    "w+119-jyun slai": {
       "unicode": "U+82ABU+837D",
       "characters": ["芫荽"],
       "controversial": 0,
       "related": [""],
       "pinyin": "yuan2sui1",
       "jyutping": "jyun slai",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2698,18 +2582,17 @@
         }
       ]
     },
-    {
-      "id": "w+120-wu hop",
+    "w+120-wu hop": {
       "unicode": "U+828BU+6070",
       "characters": ["芋恰"],
       "controversial": 1,
       "related": [""],
       "pinyin": "yu4qia4",
       "jyutping": "wu hop",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2720,18 +2603,17 @@
         }
       ]
     },
-    {
-      "id": "w+121-wu mung",
+    "w+121-wu mung": {
       "unicode": "U+828BU+791E",
       "characters": ["芋礞"],
       "controversial": 1,
       "related": [""],
       "pinyin": "yu4meng2",
       "jyutping": "wu mung",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2742,18 +2624,17 @@
         }
       ]
     },
-    {
-      "id": "w+122-bbou sluk",
+    "w+122-bbou sluk": {
       "unicode": "U+82DEU+7C9F",
       "characters": ["苞粟"],
       "controversial": 0,
       "related": [""],
       "pinyin": "bao1su4",
       "jyutping": "bbou sluk",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2764,18 +2645,17 @@
         }
       ]
     },
-    {
-      "id": "w+123-zyu fot",
+    "w+123-zyu fot": {
       "unicode": "U+732AU+53D1",
       "characters": ["猪发"],
       "controversial": 0,
       "related": [""],
       "pinyin": "zhu1fa1",
       "jyutping": "zyu fot",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2786,18 +2666,17 @@
         }
       ]
     },
-    {
-      "id": "w+125-cau sau",
+    "w+125-cau sau": {
       "unicode": "U+81EDU+998A",
       "characters": ["臭馊"],
       "controversial": 0,
       "related": [""],
       "pinyin": "chou4sou1",
       "jyutping": "cau sau",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2825,18 +2704,17 @@
         }
       ]
     },
-    {
-      "id": "w+126-sik njyu",
+    "w+126-sik njyu": {
       "unicode": "U+8272U+4E73",
       "characters": ["色乳"],
       "controversial": 0,
       "related": [""],
       "pinyin": "se4ru3",
       "jyutping": "sik njyu",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2847,33 +2725,30 @@
         }
       ]
     },
-    {
-      "id": "w+126-sik njyui",
+    "w+126-sik njyui": {
       "unicode": "U+8272U+4E73",
       "characters": ["色乳"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+126-sik njyu",
       "pinyin": "se4ru3",
       "jyutping": "sik njyui",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "w+126-sik njyu",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+127-soi jau",
+    "w+127-soi jau": {
       "unicode": "U+6652U+6CB9",
       "characters": ["晒油"],
       "controversial": 0,
       "related": [""],
       "pinyin": "shai4you2",
       "jyutping": "soi jau",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2884,18 +2759,17 @@
         }
       ]
     },
-    {
-      "id": "w+128-soi si",
+    "w+128-soi si": {
       "unicode": "U+6652U+8C49",
       "characters": ["晒豉"],
       "controversial": 0,
       "related": [""],
       "pinyin": "shai4chi3",
       "jyutping": "soi si",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2906,18 +2780,17 @@
         }
       ]
     },
-    {
-      "id": "w+129-dau si",
+    "w+129-dau si": {
       "unicode": "U+8C46U+8C49",
       "characters": ["豆豉"],
       "controversial": 0,
       "related": [""],
       "pinyin": "dou4chi3",
       "jyutping": "dau si",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2928,18 +2801,17 @@
         }
       ]
     },
-    {
-      "id": "w+130-lom si",
+    "w+130-lom si": {
       "unicode": "U+6984U+8C49",
       "characters": ["榄豉"],
       "controversial": 0,
       "related": [""],
       "pinyin": "lan3chi3",
       "jyutping": "lom si",
-      "IPA": "",
-      "strokes": "",
       "head": "饮食",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2950,18 +2822,17 @@
         }
       ]
     },
-    {
-      "id": "w+131-lou zou",
+    "w+131-lou zou": {
       "unicode": "U+87E7U+8775",
       "characters": ["蟧蝵"],
       "controversial": 0,
       "related": [""],
       "pinyin": "lao2qiu1",
       "jyutping": "lou zou",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2972,18 +2843,17 @@
         }
       ]
     },
-    {
-      "id": "w+132-mo lung gung",
+    "w+132-mo lung gung": {
       "unicode": "U+8682U+8782U+86A2",
       "characters": ["蚂螂蚢"],
       "controversial": 0,
       "related": [""],
       "pinyin": "ma3lang2hang2",
       "jyutping": "mo lung gung",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2994,33 +2864,30 @@
         }
       ]
     },
-    {
-      "id": "w+132-mo long gong",
+    "w+132-mo long gong": {
       "unicode": "U+8682U+8782U+86A2",
       "characters": ["蚂螂蚢"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+132-mo lung gung",
       "pinyin": "ma3lang2hang2",
       "jyutping": "mo long gong",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "w+132-mo lung gung",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+133-sap nji se slai",
+    "w+133-sap nji se slai": {
       "unicode": "U+5341U+4E8CU+86C7U+8794",
       "characters": ["十二蛇螔"],
       "controversial": 0,
       "related": [""],
       "pinyin": "shi2er4she2yi2",
       "jyutping": "sap nji se slai",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3031,18 +2898,17 @@
         }
       ]
     },
-    {
-      "id": "w+134-bbaa dduk",
+    "w+134-bbaa dduk": {
       "unicode": "U+767EU+8DB3",
       "characters": ["百足"],
       "controversial": 0,
       "related": [""],
       "pinyin": "bai3zu2",
       "jyutping": "bbaa dduk",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3053,18 +2919,17 @@
         }
       ]
     },
-    {
-      "id": "w+135-man nyng",
+    "w+135-man nyng": {
       "unicode": "U+868AU+8747",
       "characters": ["蚊蝇"],
       "controversial": 0,
       "related": [""],
       "pinyin": "wen2ying2",
       "jyutping": "man nyng",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3075,48 +2940,43 @@
         }
       ]
     },
-    {
-      "id": "w+135-man ning",
+    "w+135-man ning": {
       "unicode": "U+868AU+8747",
       "characters": ["蚊蝇"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+135-man nyng",
       "pinyin": "wen2ying2",
       "jyutping": "man ning",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "w+135-man nyng",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+135-man ling",
+    "w+135-man ling": {
       "unicode": "U+868AU+8747",
       "characters": ["蚊蝇"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+135-man nyng",
       "pinyin": "wen2ying2",
       "jyutping": "man ling",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "w+135-man nyng",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+136-tyu don",
+    "w+136-tyu don": {
       "unicode": "U+86C6U+5F39",
       "characters": ["蛆弹"],
       "controversial": 2,
       "related": [""],
       "pinyin": "qu1tan2",
       "jyutping": "tyu don",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3127,18 +2987,17 @@
         }
       ]
     },
-    {
-      "id": "w+137-dong ni",
+    "w+137-dong ni": {
       "unicode": "U+5858U+875E",
       "characters": ["塘蝞"],
       "controversial": 0,
       "related": [""],
       "pinyin": "tang2mei4",
       "jyutping": "dong ni",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3149,33 +3008,30 @@
         }
       ]
     },
-    {
-      "id": "w+137-dong nji",
+    "w+137-dong nji": {
       "unicode": "U+5858U+875E",
       "characters": ["塘蝞"],
       "controversial": 0,
       "related": [""],
-      "ref": "w+137-dong ni",
       "pinyin": "tang2mei4",
       "jyutping": "dong nji",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "w+137-dong ni",
+      "refBy": [],
       "meanings": []
     },
-    {
-      "id": "w+141-gam syu",
+    "w+141-gam syu": {
       "unicode": "U+8804U+870D",
       "characters": ["蠄蜍"],
       "controversial": 0,
       "related": [""],
       "pinyin": "qin2chu2",
       "jyutping": "gam syu",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3186,18 +3042,17 @@
         }
       ]
     },
-    {
-      "id": "w+142-meu wong",
+    "w+142-meu wong": {
       "unicode": "U+875AU+87E5",
       "characters": ["蝚蟥"],
       "controversial": 0,
       "related": [""],
       "pinyin": "rou2huang2",
       "jyutping": "meu wong",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3208,18 +3063,17 @@
         }
       ]
     },
-    {
-      "id": "w+143-meu nang",
+    "w+143-meu nang": {
       "unicode": "U+875AU+56D4",
       "characters": ["蝚囔"],
       "controversial": 0,
       "related": [""],
       "pinyin": "rou2nang1",
       "jyutping": "meu nang",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3230,18 +3084,17 @@
         }
       ]
     },
-    {
-      "id": "w+143-meu nong",
+    "w+143-meu nong": {
       "unicode": "U+875AU+56D4",
       "characters": ["蝚囔"],
       "controversial": 0,
       "related": [""],
       "pinyin": "rou2nang1",
       "jyutping": "meu nong",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3252,18 +3105,17 @@
         }
       ]
     },
-    {
-      "id": "w+144-bang gem",
+    "w+144-bang gem": {
       "unicode": "U+8783U+94B3",
       "characters": ["螃钳"],
       "controversial": 0,
       "related": [""],
       "pinyin": "pang2qian2",
       "jyutping": "bang gem",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3274,18 +3126,17 @@
         }
       ]
     },
-    {
-      "id": "w+145-gem gem",
+    "w+145-gem gem": {
       "unicode": "U+94B3U+94B3",
       "characters": ["钳钳"],
       "controversial": 0,
       "related": [""],
       "pinyin": "qian2qian2",
       "jyutping": "gem gem",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3296,18 +3147,17 @@
         }
       ]
     },
-    {
-      "id": "w+146-bbeo gi op",
+    "w+146-bbeo gi op": {
       "unicode": "U+7C38U+7B95U+4FA0",
       "characters": ["簸箕侠"],
       "controversial": 0,
       "related": [""],
       "pinyin": "bo4ji1xia2",
       "jyutping": "bbeo gi op",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3318,18 +3168,17 @@
         }
       ]
     },
-    {
-      "id": "w+147-se pan",
+    "w+147-se pan": {
       "unicode": "U+86C7U+55B7",
       "characters": ["蛇喷"],
       "controversial": 0,
       "related": [""],
       "pinyin": "she2pen1",
       "jyutping": "se pan",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3340,18 +3189,17 @@
         }
       ]
     },
-    {
-      "id": "w+148-nom se",
+    "w+148-nom se": {
       "unicode": "U+86BAU+86C7",
       "characters": ["蚺蛇"],
       "controversial": 0,
       "related": [""],
       "pinyin": "ran2she2",
       "jyutping": "nom se",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3362,18 +3210,17 @@
         }
       ]
     },
-    {
-      "id": "w+149-hak mak sak",
+    "w+149-hak mak sak": {
       "unicode": "U+9ED1U+58A8U+8272",
       "characters": ["黑墨色"],
       "controversial": 0,
       "related": [""],
       "pinyin": "hei1mo4se4",
       "jyutping": "hak mak sak",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3384,18 +3231,17 @@
         }
       ]
     },
-    {
-      "id": "w+150-hak sak ddaa",
+    "w+150-hak sak ddaa": {
       "unicode": "U+9ED1U+8272U+96C0",
       "characters": ["黑色雀"],
       "controversial": 0,
       "related": [""],
       "pinyin": "hei1se4que4",
       "jyutping": "hak sak ddaa",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3406,18 +3252,17 @@
         }
       ]
     },
-    {
-      "id": "w+151-gi meou",
+    "w+151-gi meou": {
       "unicode": "U+4F01U+6BDB",
       "characters": ["企毛"],
       "controversial": 0,
       "related": [""],
       "pinyin": "qi3mao2",
       "jyutping": "gi meou",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3428,18 +3273,17 @@
         }
       ]
     },
-    {
-      "id": "w+152-wu wok ddaa",
+    "w+152-wu wok ddaa": {
       "unicode": "U+82E6U+9E0CU+96C0",
       "characters": ["苦鸌雀"],
       "controversial": 0,
       "related": [""],
       "pinyin": "ku3hu4que4",
       "jyutping": "wu wok ddaa",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3450,18 +3294,17 @@
         }
       ]
     },
-    {
-      "id": "w+153-mo lau",
+    "w+153-mo lau": {
       "unicode": "U+9A6CU+9A9D",
       "characters": ["马骝"],
       "controversial": 0,
       "related": [""],
       "pinyin": "ma3liu2",
       "jyutping": "mo lau",
-      "IPA": "",
-      "strokes": "",
       "head": "动物",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3472,18 +3315,17 @@
         }
       ]
     },
-    {
-      "id": "w+154-bat bi",
+    "w+154-bat bi": {
       "unicode": "U+9F3BU+9F3B",
       "characters": ["鼻鼻"],
       "controversial": 0,
       "related": [""],
       "pinyin": "bi2bi2",
       "jyutping": "bat bi",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3494,18 +3336,17 @@
         }
       ]
     },
-    {
-      "id": "w+153-luk si",
+    "w+153-luk si": {
       "unicode": "",
       "characters": ["六时"],
       "controversial": 0,
       "related": [""],
       "pinyin": "liu4shi2",
       "jyutping": "luk si",
-      "IPA": "",
-      "strokes": "",
       "head": "",
       "tail": "",
+      "ref": "",
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3533,6 +3374,6 @@
         }
       ]
     }
-  ],
+  },
   "name": "WriteableWords"
 }
