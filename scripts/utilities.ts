@@ -52,13 +52,36 @@ function _parseDB(dbName: DBName): DataBase {
 }
 
 /**
- * 合并所有词条到`test/main.ts`
+ * 合并所有词条到`test/main.ts`，并解决所有引用
  */
-function mergeDB() {
+function exportDB() {
   const dbs = parseDB();
-  const mainDB = new DB('mian.db');
-  for (const key in dbs) {
-    mainDB.innerDB.data.push(...dbs[key].data);
+  const mainDB = new DB('main');
+  for (const dbName in dbs) {
+    mainDB.innerDB.data = Object.assign(mainDB.innerDB.data, dbs[dbName].data);
+  }
+  for (const id in mainDB.innerDB.data) {
+    const entry = mainDB.innerDB.data[id] as Entry;
+    entry.meanings.forEach((meaning) => {
+      meaning.words.forEach((word) => {
+        word.format = word.format
+          .replace(/__self__/g, entry.characters[0])
+          .replace(/{(.+?)}/g, (id) => mainDB.innerDB.data[id]?.characters[0]);
+        word.sentences.forEach((sentence) => {
+          sentence.format = sentence.format
+            .replace(/__self__/g, word.format)
+            .replace(/{(.+?)}/g, (id) => mainDB.innerDB.data[id]?.characters[0]);
+        });
+      });
+    });
+  }
+  for (const id in mainDB.innerDB.data) {
+    let entry = mainDB.innerDB.data[id] as Entry;
+    if (Object.hasOwnProperty.call(mainDB.innerDB.data, entry.ref)) {
+      const targetEntry = mainDB.innerDB.data[entry.ref];
+      entry = Object.assign(JSON.parse(JSON.stringify(targetEntry)), entry);
+      targetEntry.refBy.push(id);
+    }
   }
   mainDB.save('./test');
 }
@@ -81,7 +104,7 @@ class DB {
         createTime: now(),
         updateTime: now(),
         creators: [],
-        data: []
+        data: {}
       };
     }
   }
@@ -114,12 +137,8 @@ class DB {
    */
   hasEntry(idOrJyutping: string, strict: boolean = true): boolean {
     return strict
-      ? this.innerDB.data.some(entry =>
-        entry.id === idOrJyutping || entry.jyutping === idOrJyutping
-      )
-      : this.innerDB.data.some(entry => 
-        entry.id.includes(idOrJyutping) || entry.jyutping.includes(idOrJyutping)
-      );
+      ? Object.hasOwnProperty.call(this.innerDB.data, idOrJyutping)
+      : Object.keys(this.innerDB.data).some(id => id.includes(idOrJyutping));
   }
 
   /**
@@ -133,17 +152,15 @@ class DB {
     if (Array.isArray(ids)) {
       return ids.map(id => this.getEntry(id));
     }
-    return this.innerDB.data.find(entry => entry.id = ids);
+    return this.innerDB.data[ids];
   }
 
   /**
    * 新增一个词条
    * @param entry Entry 对象，具体定义见 `./types/index.d.ts`
    */
-  addEnstry(entry: Entry) {
-    if (!this.hasEntry(entry.id)) {
-      this.innerDB.data.push(entry);
-    }
+  addEnstry(id: string, entry: Entry) {
+    this.innerDB.data[id] = entry;
   }
 
   /**
@@ -157,7 +174,8 @@ class DB {
         properties[key] = new Set();
       }
     }
-    for (const entry of this.innerDB.data) {
+    for (const id in this.innerDB.data) {
+      const entry = this.innerDB.data[id];
       for (const key in properties) {
         properties[key].add(entry[key]);
       }
@@ -166,19 +184,6 @@ class DB {
       properties[key] = Array.from(properties[key]);
     }
     writeJSON('./test/properties.json', properties);
-  }
-
-  /**
-   * 创建一个以id索引entry的object，输出到`./date/*.json`
-   * @returns 返回上述object
-   */
-  genIDIndex() {
-    const index = {};
-    this.innerDB.data.forEach(entry => {
-      index[entry.id] = entry;
-    });
-    writeJSON(`./data/${this.innerDB.name}.index.json`, index);
-    return index;
   }
 }
 
@@ -190,6 +195,6 @@ export {
   writeJSON,
   readJSON,
   parseDB,
-  mergeDB,
+  exportDB,
   DB
 };

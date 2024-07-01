@@ -89,7 +89,6 @@ function isCVDegree(input: number): input is ControversialDegree {
 
 export function isEntry(input: object) {
   return checkObject(input, {
-    id: 'string',
     unicode: 'string', 
     characters: isStringArray,
     controversial: isCVDegree,
@@ -98,6 +97,8 @@ export function isEntry(input: object) {
     jyutping: 'string',
     head: 'string',
     tail: 'string',
+    ref: 'string',
+    refBy: isStringArray,
     meanings: isMeanings
   });
 }
