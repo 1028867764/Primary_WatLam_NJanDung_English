@@ -44,7 +44,7 @@ interface Entry {
  */
 interface Descriptions {
   zh: string;
-  cn: string;
+  en: string;
 }
 
 /**
