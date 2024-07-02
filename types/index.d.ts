@@ -28,14 +28,14 @@ interface Entry {
   // 2 - 存在争议，且未达成共识
   controversial: 0 | 1 | 2;
   // 关联字的ID
-  related: string[];
+  related: string[] | { [id: string]: string };
   pinyin: string;
   jyutping: string;
   head: string;
   // 韵尾
   tail: string;
   ref: string;
-  refBy: string[];
+  refBy: { [id: string]: string };
   meanings: Meaning[];
 }
 
@@ -44,7 +44,7 @@ interface Entry {
  */
 interface Descriptions {
   zh: string;
-  cn: string;
+  en: string;
 }
 
 /**

@@ -51,6 +51,13 @@ function _parseDB(dbName: DBName): DataBase {
   return readJSON(`./data/${dbName}.json`);
 }
 
+function solveIDRef(str: string, source: DB) {
+  return str.replace(
+    /{(.+?)}/g,
+    (match, id) => source.getEntry(id)?.characters[0] || match
+  );
+}
+
 /**
  * 合并所有词条到`test/main.ts`，并解决所有引用
  */
@@ -63,25 +70,48 @@ function exportDB() {
   for (const id in mainDB.innerDB.data) {
     const entry = mainDB.innerDB.data[id] as Entry;
     entry.meanings.forEach((meaning) => {
+      meaning.descriptions.zh = solveIDRef(meaning.descriptions.zh, mainDB);
+      meaning.descriptions.en = solveIDRef(meaning.descriptions.en, mainDB);
       meaning.words.forEach((word) => {
-        word.format = word.format
-          .replace(/__self__/g, entry.characters[0])
-          .replace(/{(.+?)}/g, (id) => mainDB.innerDB.data[id]?.characters[0]);
+        word.format = word.format.replace(/__self__/g, entry.characters[0]);
+        word.format = solveIDRef(word.format, mainDB);
         word.sentences.forEach((sentence) => {
-          sentence.format = sentence.format
-            .replace(/__self__/g, word.format)
-            .replace(/{(.+?)}/g, (id) => mainDB.innerDB.data[id]?.characters[0]);
+          sentence.format = sentence.format.replace(/__self__/g, word.format);
+          sentence.format = solveIDRef(sentence.format, mainDB);
+          sentence.descriptions.zh = solveIDRef(sentence.descriptions.zh, mainDB);
+          sentence.descriptions.en = solveIDRef(sentence.descriptions.en, mainDB);
         });
       });
     });
+    const related: { [id: string]: string } = {};
+    (entry.related as string[]).forEach((id) => {
+      if (mainDB.hasEntry(id)) {
+        related[id] = mainDB.getEntry(id)!.characters[0];
+      }
+    });
+    entry.related = related;
   }
   for (const id in mainDB.innerDB.data) {
-    let entry = mainDB.innerDB.data[id] as Entry;
-    if (Object.hasOwnProperty.call(mainDB.innerDB.data, entry.ref)) {
-      const targetEntry = mainDB.innerDB.data[entry.ref];
-      entry = Object.assign(JSON.parse(JSON.stringify(targetEntry)), entry);
-      targetEntry.refBy.push(id);
+    const entry = mainDB.innerDB.data[id] as Entry;
+    if (mainDB.hasEntry(entry.ref)) {
+      const targetEntry = mainDB.getEntry(entry.ref) as Entry;
+      targetEntry.refBy[entry.ref] = targetEntry.characters[0];
+      targetEntry.refBy[id] = entry.characters[0];
+      Object.keys(targetEntry).forEach((key) => {
+        // 读音有关的属性不要迁移
+        if (![
+          'pinyin',
+          'jyutping',
+          'head',
+          'tail',
+          'ref',
+        ].includes(key)) {
+          entry[key] = targetEntry[key];
+        }
+      });
+      mainDB.setEnstry(entry.ref, targetEntry);
     }
+    mainDB.setEnstry(id, entry);
   }
   mainDB.save('./test');
 }
@@ -146,8 +176,8 @@ class DB {
    * @param ids id号
    * @returns 该id号对应的词条，如果不存在则返回`undefined`
    */
-  getEntry(ids: string): Entry | string;
-  getEntry(ids: string[]): (Entry | string)[];
+  getEntry(ids: string): Entry | undefined;
+  getEntry(ids: string[]): (Entry | undefined)[];
   getEntry(ids: string | string[]): unknown {
     if (Array.isArray(ids)) {
       return ids.map(id => this.getEntry(id));
@@ -159,7 +189,7 @@ class DB {
    * 新增一个词条
    * @param entry Entry 对象，具体定义见 `./types/index.d.ts`
    */
-  addEnstry(id: string, entry: Entry) {
+  setEnstry(id: string, entry: Entry) {
     this.innerDB.data[id] = entry;
   }
 

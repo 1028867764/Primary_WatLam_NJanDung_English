@@ -11,15 +11,17 @@
   "data": {
     "A+maa5": {
       "unicode": "U+561B",
-      "characters": ["嘛"],
+      "characters": [
+        "嘛"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "ma0",
       "jyutping": "maa5",
       "head": "m",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -32,15 +34,17 @@
     },
     "A+le5": {
       "unicode": "U+4E86",
-      "characters": ["了"],
+      "characters": [
+        "了"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "liao3",
       "jyutping": "le5",
       "head": "l",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -53,15 +57,19 @@
     },
     "A+2-nem2": {
       "unicode": "",
-      "characters": ["nem2"],
+      "characters": [
+        "nem2"
+      ],
       "controversial": 0,
-      "related": ["U+8995-men3"],
+      "related": [
+        "U+8995-men3"
+      ],
       "pinyin": "nem2",
       "jyutping": "nem2",
       "head": "n",
       "tail": "m",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -99,7 +107,9 @@
     },
     "A+3-nam1": {
       "unicode": "",
-      "characters": ["nam1"],
+      "characters": [
+        "nam1"
+      ],
       "controversial": 0,
       "related": [
         "U+8352-wong1",
@@ -114,7 +124,7 @@
       "head": "n",
       "tail": "m",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -175,7 +185,9 @@
     },
     "A+4-nam6": {
       "unicode": "",
-      "characters": ["nam6"],
+      "characters": [
+        "nam6"
+      ],
       "controversial": 0,
       "related": [
         "U+52B2-ging6",
@@ -189,7 +201,7 @@
       "head": "n",
       "tail": "m",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -226,15 +238,19 @@
     },
     "A+5-cam2": {
       "unicode": "",
-      "characters": ["cam2"],
+      "characters": [
+        "cam2"
+      ],
       "controversial": 0,
-      "related": ["U+2C186-meu2"],
+      "related": [
+        "U+2C186-meu2"
+      ],
       "pinyin": "cam2",
       "jyutping": "cam2",
       "head": "c",
       "tail": "m",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -256,15 +272,21 @@
     },
     "A+6-tam2": {
       "unicode": "",
-      "characters": ["tam2"],
+      "characters": [
+        "tam2"
+      ],
       "controversial": 0,
-      "related": ["U+2D75E-gwoi5", "U+22CC2-bbat7", "U+7FB9-gaa1"],
+      "related": [
+        "U+2D75E-gwoi5",
+        "U+22CC2-bbat7",
+        "U+7FB9-gaa1"
+      ],
       "pinyin": "tam2",
       "jyutping": "tam2",
       "head": "t",
       "tail": "m",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -294,7 +316,9 @@
     },
     "A+7-zam3": {
       "unicode": "",
-      "characters": ["zam3"],
+      "characters": [
+        "zam3"
+      ],
       "controversial": 0,
       "related": [
         "U+63DE-am2",
@@ -309,7 +333,7 @@
       "head": "z",
       "tail": "m",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -346,15 +370,17 @@
     },
     "A+8-an2": {
       "unicode": "",
-      "characters": ["an2"],
+      "characters": [
+        "an2"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "an2",
       "jyutping": "an2",
       "head": "0",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -384,15 +410,20 @@
     },
     "A+9-ban5": {
       "unicode": "",
-      "characters": ["ban5"],
+      "characters": [
+        "ban5"
+      ],
       "controversial": 0,
-      "related": ["U+6574-zing2", "U+5F04-lung6"],
+      "related": [
+        "U+6574-zing2",
+        "U+5F04-lung6"
+      ],
       "pinyin": "ban5",
       "jyutping": "ban5",
       "head": "b-bb",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -422,15 +453,21 @@
     },
     "A+10-ddan1": {
       "unicode": "",
-      "characters": ["ddan1"],
+      "characters": [
+        "ddan1"
+      ],
       "controversial": 0,
-      "related": ["U+3C3D-en3", "U+642C-bbun1", "U+35E7-ddet8"],
+      "related": [
+        "U+3C3D-en3",
+        "U+642C-bbun1",
+        "U+35E7-ddet8"
+      ],
       "pinyin": "ddan1",
       "jyutping": "ddan1",
       "head": "d-dd",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -467,15 +504,20 @@
     },
     "A+11-dyun5": {
       "unicode": "",
-      "characters": ["dyun5"],
+      "characters": [
+        "dyun5"
+      ],
       "controversial": 0,
-      "related": ["U+7F67-lam6", "U+8D77-hi2"],
+      "related": [
+        "U+7F67-lam6",
+        "U+8D77-hi2"
+      ],
       "pinyin": "dyun5",
       "jyutping": "dyun5",
       "head": "d-dd",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -529,15 +571,17 @@
     },
     "A+14-fen2": {
       "unicode": "",
-      "characters": ["fen2"],
+      "characters": [
+        "fen2"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "fen2",
       "jyutping": "fen2",
       "head": "f",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -567,15 +611,20 @@
     },
     "A+15-han1": {
       "unicode": "",
-      "characters": ["han1"],
+      "characters": [
+        "han1"
+      ],
       "controversial": 0,
-      "related": ["U+5206-fan1", "U+7540-bbi2"],
+      "related": [
+        "U+5206-fan1",
+        "U+7540-bbi2"
+      ],
       "pinyin": "han1",
       "jyutping": "han1",
       "head": "h",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -588,15 +637,17 @@
     },
     "A+16-lan2": {
       "unicode": "",
-      "characters": ["lan2"],
+      "characters": [
+        "lan2"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "lan2",
       "jyutping": "lan2",
       "head": "l",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -633,15 +684,19 @@
     },
     "A+17-lan3": {
       "unicode": "",
-      "characters": ["lan3"],
+      "characters": [
+        "lan3"
+      ],
       "controversial": 0,
-      "related": ["U+634B-lyut7"],
+      "related": [
+        "U+634B-lyut7"
+      ],
       "pinyin": "lan3",
       "jyutping": "lan3",
       "head": "l",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -678,15 +733,20 @@
     },
     "A+18-len1": {
       "unicode": "",
-      "characters": ["len1"],
+      "characters": [
+        "len1"
+      ],
       "controversial": 0,
-      "related": ["U+24E8E-se4", "U+75D5-an4"],
+      "related": [
+        "U+24E8E-se4",
+        "U+75D5-an4"
+      ],
       "pinyin": "len1",
       "jyutping": "len1",
       "head": "l",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -740,7 +800,9 @@
     },
     "A+19-len3": {
       "unicode": "",
-      "characters": ["len3"],
+      "characters": [
+        "len3"
+      ],
       "controversial": 0,
       "related": [
         "U+65B2-ddik7",
@@ -756,7 +818,7 @@
       "head": "l",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -793,15 +855,19 @@
     },
     "A+20-lyun2": {
       "unicode": "",
-      "characters": ["lyun2"],
+      "characters": [
+        "lyun2"
+      ],
       "controversial": 0,
-      "related": ["U+631B-lyun1"],
+      "related": [
+        "U+631B-lyun1"
+      ],
       "pinyin": "lyun2",
       "jyutping": "lyun2",
       "head": "l",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -831,15 +897,21 @@
     },
     "A+25-mun1": {
       "unicode": "",
-      "characters": ["mun1"],
+      "characters": [
+        "mun1"
+      ],
       "controversial": 0,
-      "related": ["U+251F2-pyu2", "U+771F-zan1", "U+73B0-jin6"],
+      "related": [
+        "U+251F2-pyu2",
+        "U+771F-zan1",
+        "U+73B0-jin6"
+      ],
       "pinyin": "mun1",
       "jyutping": "mun1",
       "head": "m",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -869,15 +941,20 @@
     },
     "A+26-nan3": {
       "unicode": "",
-      "characters": ["nan3"],
+      "characters": [
+        "nan3"
+      ],
       "controversial": 0,
-      "related": ["U+25F15-lep8", "U+57BD-nan1"],
+      "related": [
+        "U+25F15-lep8",
+        "U+57BD-nan1"
+      ],
       "pinyin": "nan3",
       "jyutping": "nan3",
       "head": "n",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -962,15 +1039,17 @@
     },
     "A+29-son03": {
       "unicode": "",
-      "characters": ["son03"],
+      "characters": [
+        "son03"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "son03",
       "jyutping": "son03",
       "head": "s",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1007,15 +1086,17 @@
     },
     "A+30-slan3": {
       "unicode": "",
-      "characters": ["slan3"],
+      "characters": [
+        "slan3"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "slan3",
       "jyutping": "slan3",
       "head": "sl",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1045,15 +1126,19 @@
     },
     "A+31-bang5": {
       "unicode": "",
-      "characters": ["bang5"],
+      "characters": [
+        "bang5"
+      ],
       "controversial": 0,
-      "related": ["U+3A67-puk7"],
+      "related": [
+        "U+3A67-puk7"
+      ],
       "pinyin": "bang5",
       "jyutping": "bang5",
       "head": "b-bb",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1083,15 +1168,19 @@
     },
     "A+33-dding3": {
       "unicode": "",
-      "characters": ["dding3"],
+      "characters": [
+        "dding3"
+      ],
       "controversial": 0,
-      "related": ["U+24077-zik9"],
+      "related": [
+        "U+24077-zik9"
+      ],
       "pinyin": "dding3",
       "jyutping": "dding3",
       "head": "d-dd",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1121,15 +1210,21 @@
     },
     "A+34-dding1": {
       "unicode": "",
-      "characters": ["dding1"],
+      "characters": [
+        "dding1"
+      ],
       "controversial": 0,
-      "related": ["U+7C64-tem1", "U+86C0-ddyu3", "U+9525-njui1"],
+      "related": [
+        "U+7C64-tem1",
+        "U+86C0-ddyu3",
+        "U+9525-njui1"
+      ],
       "pinyin": "dding1",
       "jyutping": "dding1",
       "head": "d-dd",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1183,15 +1278,17 @@
     },
     "A+35-dung6": {
       "unicode": "",
-      "characters": ["dung6"],
+      "characters": [
+        "dung6"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "dung6",
       "jyutping": "dung6",
       "head": "d-dd",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1213,15 +1310,21 @@
     },
     "A+38-lung4": {
       "unicode": "",
-      "characters": ["lung4"],
+      "characters": [
+        "lung4"
+      ],
       "controversial": 0,
-      "related": ["U+5997-zam5", "U+59FC-ddoi3", "U+6BD1-dde3"],
+      "related": [
+        "U+5997-zam5",
+        "U+59FC-ddoi3",
+        "U+6BD1-dde3"
+      ],
       "pinyin": "lung4",
       "jyutping": "lung4",
       "head": "l",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1251,15 +1354,19 @@
     },
     "A+39-long1": {
       "unicode": "",
-      "characters": ["long1"],
+      "characters": [
+        "long1"
+      ],
       "controversial": 0,
-      "related": ["U+56E9-wan4"],
+      "related": [
+        "U+56E9-wan4"
+      ],
       "pinyin": "long1",
       "jyutping": "long1",
       "head": "l",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1289,15 +1396,17 @@
     },
     "A+41-ming4": {
       "unicode": "",
-      "characters": ["ming4"],
+      "characters": [
+        "ming4"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "ming4",
       "jyutping": "ming4",
       "head": "m",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1327,15 +1436,20 @@
     },
     "A+42-nung2": {
       "unicode": "",
-      "characters": ["nung2"],
+      "characters": [
+        "nung2"
+      ],
       "controversial": 0,
-      "related": ["A+66-naa6", "A+66-naa3"],
+      "related": [
+        "A+66-naa6",
+        "A+66-naa3"
+      ],
       "pinyin": "nung2",
       "jyutping": "nung2",
       "head": "n",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1429,15 +1543,21 @@
     },
     "A+43-njung1": {
       "unicode": "",
-      "characters": ["njung1"],
+      "characters": [
+        "njung1"
+      ],
       "controversial": 0,
-      "related": ["U+4F01-gi5", "A+32-ddyut7", "U+8E0E-mau1"],
+      "related": [
+        "U+4F01-gi5",
+        "A+32-ddyut7",
+        "U+8E0E-mau1"
+      ],
       "pinyin": "njung1",
       "jyutping": "njung1",
       "head": "nj",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1498,15 +1618,17 @@
     },
     "A+44-pang1": {
       "unicode": "",
-      "characters": ["pang1"],
+      "characters": [
+        "pang1"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "pang1",
       "jyutping": "pang1",
       "head": "p",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1536,15 +1658,19 @@
     },
     "A+45-sing6": {
       "unicode": "",
-      "characters": ["sing6"],
+      "characters": [
+        "sing6"
+      ],
       "controversial": 0,
-      "related": ["U+4EF2-zung6"],
+      "related": [
+        "U+4EF2-zung6"
+      ],
       "pinyin": "sing6",
       "jyutping": "sing6",
       "head": "s",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1590,15 +1716,19 @@
     },
     "A+46-tang2": {
       "unicode": "",
-      "characters": ["tang2"],
+      "characters": [
+        "tang2"
+      ],
       "controversial": 0,
-      "related": ["U+2DDCA-ling3"],
+      "related": [
+        "U+2DDCA-ling3"
+      ],
       "pinyin": "tang2",
       "jyutping": "tang2",
       "head": "t",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1628,7 +1758,9 @@
     },
     "A+47-tang1": {
       "unicode": "",
-      "characters": ["tang1"],
+      "characters": [
+        "tang1"
+      ],
       "controversial": 0,
       "related": [
         "U+3536-kam2",
@@ -1642,7 +1774,7 @@
       "head": "t",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1672,15 +1804,17 @@
     },
     "A+48-ddap7": {
       "unicode": "",
-      "characters": ["ddap7"],
+      "characters": [
+        "ddap7"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "ddap7",
       "jyutping": "ddap7",
       "head": "d-dd",
       "tail": "p",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1717,7 +1851,9 @@
     },
     "A+49-dap9": {
       "unicode": "",
-      "characters": ["dap9"],
+      "characters": [
+        "dap9"
+      ],
       "controversial": 0,
       "related": [
         "U+22FED-cuk7",
@@ -1730,7 +1866,7 @@
       "head": "d-dd",
       "tail": "p",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1791,15 +1927,21 @@
     },
     "A+51-nep8": {
       "unicode": "",
-      "characters": ["nep8"],
+      "characters": [
+        "nep8"
+      ],
       "controversial": 0,
-      "related": ["U+54AE-ddiu3", "U+86C0-ddyu3", "U+9525-njui1"],
+      "related": [
+        "U+54AE-ddiu3",
+        "U+86C0-ddyu3",
+        "U+9525-njui1"
+      ],
       "pinyin": "nep8",
       "jyutping": "nep8",
       "head": "n",
       "tail": "p",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1829,15 +1971,19 @@
     },
     "A+52-zap9": {
       "unicode": "",
-      "characters": ["zap9"],
+      "characters": [
+        "zap9"
+      ],
       "controversial": 0,
-      "related": ["U+64D2-gam4"],
+      "related": [
+        "U+64D2-gam4"
+      ],
       "pinyin": "zap9",
       "jyutping": "zap9",
       "head": "z",
       "tail": "p",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1867,15 +2013,17 @@
     },
     "A+27-sap7": {
       "unicode": "",
-      "characters": ["sap7"],
+      "characters": [
+        "sap7"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "sap7",
       "jyutping": "sap7",
       "head": "s",
       "tail": "p",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1905,15 +2053,19 @@
     },
     "A+28-cyut7": {
       "unicode": "",
-      "characters": ["cyut7"],
+      "characters": [
+        "cyut7"
+      ],
       "controversial": 0,
-      "related": ["U+3D52-fe6"],
+      "related": [
+        "U+3D52-fe6"
+      ],
       "pinyin": "cyut7",
       "jyutping": "cyut7",
       "head": "c",
       "tail": "t",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1950,15 +2102,21 @@
     },
     "A+32-ddyut7": {
       "unicode": "",
-      "characters": ["ddyut7"],
+      "characters": [
+        "ddyut7"
+      ],
       "controversial": 0,
-      "related": ["U+4F01-gi5", "A+43-njung1", "U+8E0E-mau1"],
+      "related": [
+        "U+4F01-gi5",
+        "A+43-njung1",
+        "U+8E0E-mau1"
+      ],
       "pinyin": "ddyut7",
       "jyutping": "ddyut7",
       "head": "d-dd",
       "tail": "t",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -1995,15 +2153,19 @@
     },
     "A+37-kat7": {
       "unicode": "",
-      "characters": ["kat7"],
+      "characters": [
+        "kat7"
+      ],
       "controversial": 0,
-      "related": ["U+541F-ngam6"],
+      "related": [
+        "U+541F-ngam6"
+      ],
       "pinyin": "kat7",
       "jyutping": "kat7",
       "head": "k",
       "tail": "t",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2033,15 +2195,19 @@
     },
     "A+40-let8": {
       "unicode": "",
-      "characters": ["let8"],
+      "characters": [
+        "let8"
+      ],
       "controversial": 0,
-      "related": ["U+8189-ik7"],
+      "related": [
+        "U+8189-ik7"
+      ],
       "pinyin": "let8",
       "jyutping": "let8",
       "head": "l",
       "tail": "t",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2071,15 +2237,17 @@
     },
     "A+50-mat9": {
       "unicode": "",
-      "characters": ["mat9"],
+      "characters": [
+        "mat9"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "mat9",
       "jyutping": "mat9",
       "head": "m",
       "tail": "t",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2109,15 +2277,19 @@
     },
     "A+54-put7": {
       "unicode": "",
-      "characters": ["put7"],
+      "characters": [
+        "put7"
+      ],
       "controversial": 0,
-      "related": ["U+7053-lan5"],
+      "related": [
+        "U+7053-lan5"
+      ],
       "pinyin": "put7",
       "jyutping": "put7",
       "head": "p",
       "tail": "t",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2154,15 +2326,19 @@
     },
     "A+53-put7": {
       "unicode": "",
-      "characters": ["put7"],
+      "characters": [
+        "put7"
+      ],
       "controversial": 0,
-      "related": ["U+5ABE-kau1"],
+      "related": [
+        "U+5ABE-kau1"
+      ],
       "pinyin": "put7",
       "jyutping": "put7",
       "head": "p",
       "tail": "t",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2184,28 +2360,34 @@
     },
     "A+54-mut7": {
       "unicode": "",
-      "characters": ["mut7"],
+      "characters": [
+        "mut7"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "mut7",
       "jyutping": "mut7",
       "head": "m",
       "tail": "t",
       "ref": "A+54-put7",
-      "refBy": [],
+      "refBy": {},
       "meanings": []
     },
     "A+55-dak9": {
       "unicode": "",
-      "characters": ["dak9"],
+      "characters": [
+        "dak9"
+      ],
       "controversial": 0,
-      "related": ["A+93-peu1"],
+      "related": [
+        "A+93-peu1"
+      ],
       "pinyin": "dak9",
       "jyutping": "dak9",
       "head": "d-dd",
       "tail": "k",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2235,15 +2417,19 @@
     },
     "A+56-fik7": {
       "unicode": "",
-      "characters": ["fik7"],
+      "characters": [
+        "fik7"
+      ],
       "controversial": 0,
-      "related": ["U+62C2-fat7"],
+      "related": [
+        "U+62C2-fat7"
+      ],
       "pinyin": "fik7",
       "jyutping": "fik7",
       "head": "f",
       "tail": "k",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2273,15 +2459,19 @@
     },
     "A+58-gak9": {
       "unicode": "",
-      "characters": ["gak9"],
+      "characters": [
+        "gak9"
+      ],
       "controversial": 0,
-      "related": ["U+6FCC-dap9"],
+      "related": [
+        "U+6FCC-dap9"
+      ],
       "pinyin": "gak9",
       "jyutping": "gak9",
       "head": "g",
       "tail": "k",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2311,15 +2501,17 @@
     },
     "A+59-jak9": {
       "unicode": "",
-      "characters": ["jak9"],
+      "characters": [
+        "jak9"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "jak9",
       "jyutping": "jak9",
       "head": "j",
       "tail": "k",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2349,15 +2541,19 @@
     },
     "A+60-lyk9": {
       "unicode": "",
-      "characters": ["lyk9"],
+      "characters": [
+        "lyk9"
+      ],
       "controversial": 0,
-      "related": ["U+65C1-bong5"],
+      "related": [
+        "U+65C1-bong5"
+      ],
       "pinyin": "lyk9",
       "jyutping": "lyk9",
       "head": "l",
       "tail": "k",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2394,28 +2590,32 @@
     },
     "A+60-lik9": {
       "unicode": "",
-      "characters": ["lik9"],
+      "characters": [
+        "lik9"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "lik9",
       "jyutping": "lik9",
       "head": "l",
       "tail": "k",
       "ref": "A+60-lyk9",
-      "refBy": [],
+      "refBy": {},
       "meanings": []
     },
     "A+61-luk7": {
       "unicode": "",
-      "characters": ["luk7"],
+      "characters": [
+        "luk7"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "luk7",
       "jyutping": "luk7",
       "head": "l",
       "tail": "k",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2445,7 +2645,9 @@
     },
     "A+62-luk7": {
       "unicode": "",
-      "characters": ["luk7"],
+      "characters": [
+        "luk7"
+      ],
       "controversial": 0,
       "related": [
         "U+27A3E-tam3",
@@ -2458,7 +2660,7 @@
       "head": "l",
       "tail": "k",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2488,15 +2690,17 @@
     },
     "A+63-wak9": {
       "unicode": "",
-      "characters": ["wak9"],
+      "characters": [
+        "wak9"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "wak9",
       "jyutping": "wak9",
       "head": "w",
       "tail": "k",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2533,15 +2737,19 @@
     },
     "A+64-bbaa1": {
       "unicode": "",
-      "characters": ["bbaa1"],
+      "characters": [
+        "bbaa1"
+      ],
       "controversial": 0,
-      "related": ["U+63B9-maa1"],
+      "related": [
+        "U+63B9-maa1"
+      ],
       "pinyin": "bbaa1",
       "jyutping": "bbaa1",
       "head": "b-bb",
       "tail": "丢ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2570,15 +2778,20 @@
     },
     "A+66-naa6": {
       "unicode": "",
-      "characters": ["naa6"],
+      "characters": [
+        "naa6"
+      ],
       "controversial": 0,
-      "related": ["A+66-naa3", "A+42-nung2"],
+      "related": [
+        "A+66-naa3",
+        "A+42-nung2"
+      ],
       "pinyin": "naa6",
       "jyutping": "naa6",
       "head": "n",
       "tail": "丢ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2608,15 +2821,20 @@
     },
     "A+66-naa3": {
       "unicode": "",
-      "characters": ["naa3"],
+      "characters": [
+        "naa3"
+      ],
       "controversial": 0,
-      "related": ["A+66-naa6", "A+42-nung2"],
+      "related": [
+        "A+66-naa6",
+        "A+42-nung2"
+      ],
       "pinyin": "naa3",
       "jyutping": "naa3",
       "head": "n",
       "tail": "丢ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2646,15 +2864,20 @@
     },
     "A+67-taa3": {
       "unicode": "",
-      "characters": ["taa3"],
+      "characters": [
+        "taa3"
+      ],
       "controversial": 0,
-      "related": ["U+6076-ok8", "U+8AEF-cyun3"],
+      "related": [
+        "U+6076-ok8",
+        "U+8AEF-cyun3"
+      ],
       "pinyin": "taa3",
       "jyutping": "taa3",
       "head": "t",
       "tail": "丢ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2684,15 +2907,19 @@
     },
     "A+68-bi4": {
       "unicode": "",
-      "characters": ["bi4"],
+      "characters": [
+        "bi4"
+      ],
       "controversial": 0,
-      "related": ["U+6485-gyut7"],
+      "related": [
+        "U+6485-gyut7"
+      ],
       "pinyin": "bi4",
       "jyutping": "bi4",
       "head": "b-bb",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2714,15 +2941,17 @@
     },
     "A+69-bai5": {
       "unicode": "",
-      "characters": ["bai5"],
+      "characters": [
+        "bai5"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "bai5",
       "jyutping": "bai5",
       "head": "b-bb",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2752,15 +2981,21 @@
     },
     "A+70-bbai1": {
       "unicode": "",
-      "characters": ["bbai1"],
+      "characters": [
+        "bbai1"
+      ],
       "controversial": 0,
-      "related": ["U+9ED0-ci3", "U+2A400-no1", "U+60F9-nje5"],
+      "related": [
+        "U+9ED0-ci3",
+        "U+2A400-no1",
+        "U+60F9-nje5"
+      ],
       "pinyin": "bbai1",
       "jyutping": "bbai1",
       "head": "b-bb",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2830,15 +3065,19 @@
     },
     "A+71-bou4": {
       "unicode": "",
-      "characters": ["bou4"],
+      "characters": [
+        "bou4"
+      ],
       "controversial": 0,
-      "related": ["U+7FBC-cong3"],
+      "related": [
+        "U+7FBC-cong3"
+      ],
       "pinyin": "bou4",
       "jyutping": "bou4",
       "head": "b-bb",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2868,28 +3107,32 @@
     },
     "A+71-bau4": {
       "unicode": "",
-      "characters": ["bau4"],
+      "characters": [
+        "bau4"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "bau4",
       "jyutping": "bau4",
       "head": "b-bb",
       "tail": "元音韵尾",
       "ref": "A+71-bou4",
-      "refBy": [],
+      "refBy": {},
       "meanings": []
     },
     "A+72-bu4": {
       "unicode": "",
-      "characters": ["bu4"],
+      "characters": [
+        "bu4"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "bu4",
       "jyutping": "bu4",
       "head": "b-bb",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2919,15 +3162,19 @@
     },
     "A+73-dde1": {
       "unicode": "",
-      "characters": ["dde1"],
+      "characters": [
+        "dde1"
+      ],
       "controversial": 0,
-      "related": ["U+6358-ddat7"],
+      "related": [
+        "U+6358-ddat7"
+      ],
       "pinyin": "dde1",
       "jyutping": "dde1",
       "head": "d-dd",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -2971,15 +3218,22 @@
     },
     "A+74-gai2": {
       "unicode": "",
-      "characters": ["gai2"],
+      "characters": [
+        "gai2"
+      ],
       "controversial": 0,
-      "related": ["U+65C1-bong5", "U+5934-daa4", "U+5572-ni01", "U+6EF4-nik7"],
+      "related": [
+        "U+65C1-bong5",
+        "U+5934-daa4",
+        "U+5572-ni01",
+        "U+6EF4-nik7"
+      ],
       "pinyin": "gai2",
       "jyutping": "gai2",
       "head": "g",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3009,15 +3263,22 @@
     },
     "A+75-gau5": {
       "unicode": "",
-      "characters": ["gau5"],
+      "characters": [
+        "gau5"
+      ],
       "controversial": 0,
-      "related": ["U+5A01-wai1", "U+964B-lau6", "U+7981-kam1", "U+6B63-zing3"],
+      "related": [
+        "U+5A01-wai1",
+        "U+964B-lau6",
+        "U+7981-kam1",
+        "U+6B63-zing3"
+      ],
       "pinyin": "gau5",
       "jyutping": "gau5",
       "head": "g",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3047,15 +3308,17 @@
     },
     "A+76-ge1": {
       "unicode": "",
-      "characters": ["ge1"],
+      "characters": [
+        "ge1"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "ge1",
       "jyutping": "ge1",
       "head": "g",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3093,15 +3356,17 @@
     },
     "A+77-ge1": {
       "unicode": "",
-      "characters": ["ge1"],
+      "characters": [
+        "ge1"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "ge1",
       "jyutping": "ge1",
       "head": "g",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3138,15 +3403,17 @@
     },
     "A+78-gwo4": {
       "unicode": "",
-      "characters": ["gwo4"],
+      "characters": [
+        "gwo4"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "gwo4",
       "jyutping": "gwo4",
       "head": "g",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3192,15 +3459,19 @@
     },
     "A+80-jai3": {
       "unicode": "",
-      "characters": ["jai3"],
+      "characters": [
+        "jai3"
+      ],
       "controversial": 0,
-      "related": ["U+22AD6-syut7"],
+      "related": [
+        "U+22AD6-syut7"
+      ],
       "pinyin": "jai3",
       "jyutping": "jai3",
       "head": "j",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3247,13 +3518,16 @@
         }
       ],
       "controversial": 0,
-      "related": ["U+4286-gau4", "U+5774-luk7"],
+      "related": [
+        "U+4286-gau4",
+        "U+5774-luk7"
+      ],
       "pinyin": "koe1",
       "jyutping": "koe1",
       "head": "k",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3283,15 +3557,20 @@
     },
     "A+82-keu3": {
       "unicode": "",
-      "characters": ["keu3"],
+      "characters": [
+        "keu3"
+      ],
       "controversial": 0,
-      "related": ["U+3E43-pe3", "A+9-ban5"],
+      "related": [
+        "U+3E43-pe3",
+        "A+9-ban5"
+      ],
       "pinyin": "keu3",
       "jyutping": "keu3",
       "head": "k",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3321,15 +3600,19 @@
     },
     "A+83-keu2": {
       "unicode": "",
-      "characters": ["keu2"],
+      "characters": [
+        "keu2"
+      ],
       "controversial": 0,
-      "related": ["U+503E-king3"],
+      "related": [
+        "U+503E-king3"
+      ],
       "pinyin": "keu2",
       "jyutping": "keu2",
       "head": "k",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3359,15 +3642,19 @@
     },
     "A+84-kou3": {
       "unicode": "",
-      "characters": ["kou3"],
+      "characters": [
+        "kou3"
+      ],
       "controversial": 0,
-      "related": ["A+89-lou2"],
+      "related": [
+        "A+89-lou2"
+      ],
       "pinyin": "kou3",
       "jyutping": "kou3",
       "head": "k",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3397,28 +3684,34 @@
     },
     "A+84-kou2": {
       "unicode": "",
-      "characters": ["kou2"],
+      "characters": [
+        "kou2"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "kou2",
       "jyutping": "kou2",
       "head": "k",
       "tail": "元音韵尾",
       "ref": "A+84-kou3",
-      "refBy": [],
+      "refBy": {},
       "meanings": []
     },
     "A+85-le2": {
       "unicode": "",
-      "characters": ["le2"],
+      "characters": [
+        "le2"
+      ],
       "controversial": 0,
-      "related": ["U+3F93-jyun1"],
+      "related": [
+        "U+3F93-jyun1"
+      ],
       "pinyin": "le2",
       "jyutping": "le2",
       "head": "l",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3448,15 +3741,19 @@
     },
     "A+86-le1": {
       "unicode": "",
-      "characters": ["le1"],
+      "characters": [
+        "le1"
+      ],
       "controversial": 0,
-      "related": ["U+635E-leou1"],
+      "related": [
+        "U+635E-leou1"
+      ],
       "pinyin": "le1",
       "jyutping": "le1",
       "head": "l",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3486,15 +3783,19 @@
     },
     "A+87-leo1": {
       "unicode": "",
-      "characters": ["leo1"],
+      "characters": [
+        "leo1"
+      ],
       "controversial": 0,
-      "related": ["U+20CBA-ngap7"],
+      "related": [
+        "U+20CBA-ngap7"
+      ],
       "pinyin": "leo1",
       "jyutping": "leo1",
       "head": "l",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3507,15 +3808,19 @@
     },
     "A+88-lui1": {
       "unicode": "",
-      "characters": ["lui1"],
+      "characters": [
+        "lui1"
+      ],
       "controversial": 0,
-      "related": ["U+515C-ddau1"],
+      "related": [
+        "U+515C-ddau1"
+      ],
       "pinyin": "lui1",
       "jyutping": "lui1",
       "head": "l",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3545,15 +3850,17 @@
     },
     "A+89-lou2": {
       "unicode": "",
-      "characters": ["lou2"],
+      "characters": [
+        "lou2"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "lou2",
       "jyutping": "lou2",
       "head": "l",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3631,7 +3938,9 @@
     },
     "A+90-mau3": {
       "unicode": "",
-      "characters": ["mau3"],
+      "characters": [
+        "mau3"
+      ],
       "controversial": 0,
       "related": [
         "U+20C43-nap7",
@@ -3644,7 +3953,7 @@
       "head": "m",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3674,15 +3983,19 @@
     },
     "A+91-nai1": {
       "unicode": "",
-      "characters": ["nai1"],
+      "characters": [
+        "nai1"
+      ],
       "controversial": 0,
-      "related": ["A+26-nan3"],
+      "related": [
+        "A+26-nan3"
+      ],
       "pinyin": "nai1",
       "jyutping": "nai1",
       "head": "n",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3736,15 +4049,22 @@
     },
     "A+92-ngai5": {
       "unicode": "",
-      "characters": ["ngai5"],
+      "characters": [
+        "ngai5"
+      ],
       "controversial": 0,
-      "related": ["U+6469-meo1", "U+30473-nam6", "U+7CEF-noe3", "U+25E49-nap7"],
+      "related": [
+        "U+6469-meo1",
+        "U+30473-nam6",
+        "U+7CEF-noe3",
+        "U+25E49-nap7"
+      ],
       "pinyin": "ngai5",
       "jyutping": "ngai5",
       "head": "ng",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3774,15 +4094,19 @@
     },
     "A+93-peu1": {
       "unicode": "",
-      "characters": ["peu1"],
+      "characters": [
+        "peu1"
+      ],
       "controversial": 0,
-      "related": ["A+55-dak9"],
+      "related": [
+        "A+55-dak9"
+      ],
       "pinyin": "peu1",
       "jyutping": "peu1",
       "head": "p",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3812,15 +4136,19 @@
     },
     "A+95-sleo2": {
       "unicode": "",
-      "characters": ["sleo2"],
+      "characters": [
+        "sleo2"
+      ],
       "controversial": 0,
-      "related": ["U+7D74-njong3"],
+      "related": [
+        "U+7D74-njong3"
+      ],
       "pinyin": "sleo2",
       "jyutping": "sleo2",
       "head": "sl",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3857,15 +4185,21 @@
     },
     "A+96-zyu5": {
       "unicode": "",
-      "characters": ["zyu5"],
+      "characters": [
+        "zyu5"
+      ],
       "controversial": 0,
-      "related": ["U+64C1-ung2", "U+22265-et8", "U+8DB1-ddon2"],
+      "related": [
+        "U+64C1-ung2",
+        "U+22265-et8",
+        "U+8DB1-ddon2"
+      ],
       "pinyin": "zyu5",
       "jyutping": "zyu5",
       "head": "z",
       "tail": "元音韵尾",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3902,15 +4236,22 @@
     },
     "A+97-nguk7": {
       "unicode": "",
-      "characters": ["nguk7"],
+      "characters": [
+        "nguk7"
+      ],
       "controversial": 0,
-      "related": ["U+5C4B-uk7", "A+98-nuk7", "A+99-kuk7", "A+100-njuk7"],
+      "related": [
+        "U+5C4B-uk7",
+        "A+98-nuk7",
+        "A+99-kuk7",
+        "A+100-njuk7"
+      ],
       "pinyin": "nguk7",
       "jyutping": "nguk7",
       "head": "ng",
       "tail": "k",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3940,15 +4281,22 @@
     },
     "A+98-nuk7": {
       "unicode": "",
-      "characters": ["nuk7"],
+      "characters": [
+        "nuk7"
+      ],
       "controversial": 0,
-      "related": ["U+5C4B-uk7", "A+97-nguk7", "A+99-kuk7", "A+100-njuk7"],
+      "related": [
+        "U+5C4B-uk7",
+        "A+97-nguk7",
+        "A+99-kuk7",
+        "A+100-njuk7"
+      ],
       "pinyin": "nuk7",
       "jyutping": "nuk7",
       "head": "n",
       "tail": "k",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -3978,7 +4326,9 @@
     },
     "A+99-kuk7": {
       "unicode": "",
-      "characters": ["kuk7"],
+      "characters": [
+        "kuk7"
+      ],
       "controversial": 0,
       "related": [
         "U+4F62-gyu5",
@@ -3992,7 +4342,7 @@
       "head": "k",
       "tail": "k",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -4022,15 +4372,22 @@
     },
     "A+100-njuk7": {
       "unicode": "",
-      "characters": ["njuk7"],
+      "characters": [
+        "njuk7"
+      ],
       "controversial": 0,
-      "related": ["U+5C4B-uk7", "A+97-nguk7", "A+98-nuk7", "A+99-kuk7"],
+      "related": [
+        "U+5C4B-uk7",
+        "A+97-nguk7",
+        "A+98-nuk7",
+        "A+99-kuk7"
+      ],
       "pinyin": "njuk7",
       "jyutping": "njuk7",
       "head": "nj",
       "tail": "k",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -4060,15 +4417,17 @@
     },
     "A+101-men1": {
       "unicode": "",
-      "characters": ["men1"],
+      "characters": [
+        "men1"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "men1",
       "jyutping": "men1",
       "head": "m",
       "tail": "n",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -4105,15 +4464,19 @@
     },
     "A+102-jim2": {
       "unicode": "",
-      "characters": ["jim2"],
+      "characters": [
+        "jim2"
+      ],
       "controversial": 0,
-      "related": ["U+791E-mung3"],
+      "related": [
+        "U+791E-mung3"
+      ],
       "pinyin": "jim2",
       "jyutping": "jim2",
       "head": "j",
       "tail": "m",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -4167,15 +4530,19 @@
     },
     "A+103-fat7": {
       "unicode": "",
-      "characters": ["fat7"],
+      "characters": [
+        "fat7"
+      ],
       "controversial": 0,
-      "related": ["U+7CC1-slam2"],
+      "related": [
+        "U+7CC1-slam2"
+      ],
       "pinyin": "fat7",
       "jyutping": "fat7",
       "head": "f",
       "tail": "t",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -4205,15 +4572,21 @@
     },
     "A+104-fet10": {
       "unicode": "",
-      "characters": ["fet10"],
+      "characters": [
+        "fet10"
+      ],
       "controversial": 0,
-      "related": ["U+7052-don6", "U+64E4-slan3", "U+719B-bbiu1"],
+      "related": [
+        "U+7052-don6",
+        "U+64E4-slan3",
+        "U+719B-bbiu1"
+      ],
       "pinyin": "fet10",
       "jyutping": "fet10",
       "head": "f",
       "tail": "t",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -4259,15 +4632,17 @@
     },
     "A+105-jing2": {
       "unicode": "",
-      "characters": ["jing2"],
+      "characters": [
+        "jing2"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "jing2",
       "jyutping": "jing2",
       "head": "j",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -4289,28 +4664,32 @@
     },
     "A+105-jang2": {
       "unicode": "",
-      "characters": ["jang2"],
+      "characters": [
+        "jang2"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "jang2",
       "jyutping": "jang2",
       "head": "j",
       "tail": "ng",
       "ref": "A+105-jing2",
-      "refBy": [],
+      "refBy": {},
       "meanings": []
     },
     "A+106-gang5": {
       "unicode": "",
-      "characters": ["gang5"],
+      "characters": [
+        "gang5"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "gang5",
       "jyutping": "gang5",
       "head": "g",
       "tail": "ng",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -4347,15 +4726,17 @@
     },
     "A+107-lyut7": {
       "unicode": "",
-      "characters": ["lyut7"],
+      "characters": [
+        "lyut7"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "lyut7",
       "jyutping": "lyut7",
       "head": "l",
       "tail": "t",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -4377,15 +4758,17 @@
     },
     "A+108-bbak7": {
       "unicode": "",
-      "characters": ["bbak7"],
+      "characters": [
+        "bbak7"
+      ],
       "controversial": 0,
-      "related": [""],
+      "related": [],
       "pinyin": "bbak7",
       "jyutping": "bbak7",
       "head": "b-bb",
       "tail": "k",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -4415,15 +4798,17 @@
     },
     "A+er": {
       "unicode": "",
-      "characters": ["ㇽ"],
+      "characters": [
+        "ㇽ"
+      ],
       "controversial": 2,
-      "related": [""],
+      "related": [],
       "pinyin": "ㇽ",
       "jyutping": "",
       "head": "特殊",
       "tail": "特殊",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -4453,15 +4838,17 @@
     },
     "A+tsu": {
       "unicode": "",
-      "characters": ["っ"],
+      "characters": [
+        "っ"
+      ],
       "controversial": 2,
-      "related": [""],
+      "related": [],
       "pinyin": "っ",
       "jyutping": "",
       "head": "特殊",
       "tail": "特殊",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
@@ -4498,15 +4885,17 @@
     },
     "A+a": {
       "unicode": "",
-      "characters": ["ぁ"],
+      "characters": [
+        "ぁ"
+      ],
       "controversial": 2,
-      "related": [""],
+      "related": [],
       "pinyin": "ぁ",
       "jyutping": "",
       "head": "特殊",
       "tail": "特殊",
       "ref": "",
-      "refBy": [],
+      "refBy": {},
       "meanings": [
         {
           "descriptions": {
