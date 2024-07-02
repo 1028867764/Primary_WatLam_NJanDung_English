@@ -114,7 +114,7 @@
       "related": [
         "U+8352-wong1",
         "U+6DB4-weo3",
-        "W+21-gin sing",
+        "W+21-gin00sing4",
         "U+2A797-noet8",
         "U+6EBE-oi1",
         "U+7ACB-lap9"
@@ -663,7 +663,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+651E-leo2}棉签__self__{w+49-nji gwai}",
+                  "format": "{U+651E-leo2}棉签__self__{w+49-nji5gwai2}",
                   "descriptions": {
                     "zh": "用棉签掏耳洞",
                     "en": "Digging ear wax with a cotton swab"
@@ -4558,7 +4558,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+7B49-ddang2}盆水__self__湿{w+45-di ddai}",
+                  "format": "{U+7B49-ddang2}盆水__self__湿{w+45-di6ddai2}",
                   "descriptions": {
                     "zh": "接一盆水洒水",
                     "en": "Take a basin of water and sprinkle it on the ground"
@@ -4712,7 +4712,7 @@
                   }
                 },
                 {
-                  "format": "竹席下低好{U+51FA-cat7}有泥沙，__self__{U+7740-zaa6}{W+29-bui ddik}",
+                  "format": "竹席下低好{U+51FA-cat7}有泥沙，__self__{U+7740-zaa6}{W+29-bui6ddik7}",
                   "descriptions": {
                     "zh": "竹席下面好像有泥沙似的，硌得我背部难受",
                     "en": "There seems to be sands under the bamboo mat, which makes my back uncomfortable"
