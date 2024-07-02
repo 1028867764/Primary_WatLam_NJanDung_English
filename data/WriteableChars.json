@@ -3386,7 +3386,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+8E43-njuk7}{U+7740-zaa6}{U+2DDCA-ling3}西瓜皮，{U+6574-zing2}我__self__{U+5D29-bbang1}转",
+                  "format": "{U+3647-njuk7}{U+7740-zaa6}{U+2DDCA-ling3}西瓜皮，{U+6574-zing2}我__self__{U+5D29-bbang1}转",
                   "descriptions": {
                     "zh": "踩到西瓜皮，害得我滑倒",
                     "en": "Stepping on the watermelon peel caused me to slip"
@@ -16851,7 +16851,7 @@
                   }
                 },
                 {
-                  "format": "{U+7ACB-lap9}乱讲，__self__{A+100-njuk7}{A+tsu}骂jaa3",
+                  "format": "{U+7ACB-lap9}乱讲，__self__{A+100-njuk7}{A+tsu}骂{U+54BB-jau1}",
                   "descriptions": {
                     "zh": "胡说八道只会招来别人的骂声",
                     "en": "Nonsense will only attract criticism from others"
@@ -22715,7 +22715,7 @@
               },
               "sentences": [
                 {
-                  "format": "__self__两个人来jaa3",
+                  "format": "__self__两个人来{U+54BB-jau1}",
                   "descriptions": {
                     "zh": "仅有两人来",
                     "en": "Only two people come here"
@@ -26100,10 +26100,14 @@
         }
       ]
     },
-    "U+8E43-njuk7": {
-      "unicode": "U+8E43",
+    "U+3647-njuk7": {
+      "unicode": "U+3647",
       "characters": [
-        "蹃"
+        "㙇",
+        {
+          "han_zi": "蹃",
+          "bian_hao": "U+8E43"
+        }
       ],
       "controversial": 0,
       "related": [
@@ -29150,7 +29154,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+4F62-gyu5}__self__{U+542C-ting3}你讲jaa3",
+                  "format": "{U+4F62-gyu5}__self__{U+542C-ting3}你讲{U+54BB-jau1}",
                   "descriptions": {
                     "zh": "他才不会听你话呢",
                     "en": "He won't listen to you"
@@ -42435,7 +42439,7 @@
               },
               "sentences": [
                 {
-                  "format": "__self__{U+5452-maa5}{A+er}后悔jaa3",
+                  "format": "__self__{U+5452-maa5}{A+er}后悔{U+54BB-jau1}",
                   "descriptions": {
                     "zh": "将来可别后悔",
                     "en": "Don't regret it in the future"
@@ -42826,7 +42830,7 @@
       "pinyin": "yi3",
       "jyutping": "nge3",
       "head": "多声母",
-      "tail": "e",
+      "tail": "元音韵尾",
       "ref": "",
       "refBy": {},
       "meanings": [
@@ -42882,7 +42886,7 @@
       "pinyin": "yi3",
       "jyutping": "e3",
       "head": "多声母",
-      "tail": "e",
+      "tail": "元音韵尾",
       "ref": "U+8E26-nge3",
       "refBy": {},
       "meanings": []
@@ -42901,7 +42905,7 @@
       "pinyin": "㹃",
       "jyutping": "pe3",
       "head": "多声母",
-      "tail": "e",
+      "tail": "元音韵尾",
       "ref": "",
       "refBy": {},
       "meanings": [
@@ -42948,7 +42952,7 @@
       "pinyin": "㹃",
       "jyutping": "be4",
       "head": "多声母",
-      "tail": "e",
+      "tail": "元音韵尾",
       "ref": "U+3E43-pe3",
       "refBy": {},
       "meanings": []
@@ -42963,7 +42967,7 @@
       "pinyin": "㹃",
       "jyutping": "kwe3",
       "head": "多声母",
-      "tail": "e",
+      "tail": "元音韵尾",
       "ref": "U+3E43-pe3",
       "refBy": {},
       "meanings": []
@@ -42983,7 +42987,7 @@
       "pinyin": "㚊",
       "jyutping": "gai02",
       "head": "多声母",
-      "tail": "i",
+      "tail": "元音韵尾",
       "ref": "",
       "refBy": {},
       "meanings": [
@@ -43023,7 +43027,7 @@
       "pinyin": "㚊",
       "jyutping": "kai02",
       "head": "多声母",
-      "tail": "i",
+      "tail": "元音韵尾",
       "ref": "U+368A-gai02",
       "refBy": {},
       "meanings": []
@@ -43038,7 +43042,7 @@
       "pinyin": "xi4",
       "jyutping": "hai6",
       "head": "多声母",
-      "tail": "i",
+      "tail": "元音韵尾",
       "ref": "",
       "refBy": {},
       "meanings": [
@@ -43061,7 +43065,7 @@
       "pinyin": "xi4",
       "jyutping": "ai6",
       "head": "多声母",
-      "tail": "i",
+      "tail": "元音韵尾",
       "ref": "",
       "refBy": {},
       "meanings": [
@@ -43096,7 +43100,7 @@
       "pinyin": "di1",
       "jyutping": "ddi01",
       "head": "多声母",
-      "tail": "i",
+      "tail": "元音韵尾",
       "ref": "",
       "refBy": {},
       "meanings": [
@@ -43208,7 +43212,7 @@
       "pinyin": "di1",
       "jyutping": "ni01",
       "head": "多声母",
-      "tail": "i",
+      "tail": "元音韵尾",
       "ref": "U+5572-ddi01",
       "refBy": {},
       "meanings": []
@@ -43229,7 +43233,7 @@
       "pinyin": "zhui1",
       "jyutping": "njui1",
       "head": "多声母",
-      "tail": "i",
+      "tail": "元音韵尾",
       "ref": "",
       "refBy": {},
       "meanings": [
@@ -43269,7 +43273,7 @@
       "pinyin": "zhui1",
       "jyutping": "zui1",
       "head": "多声母",
-      "tail": "i",
+      "tail": "元音韵尾",
       "ref": "U+9525-njui1",
       "refBy": {},
       "meanings": []
@@ -43281,12 +43285,12 @@
       ],
       "controversial": 0,
       "related": [
-        "U+8E43-njuk7"
+        "U+3647-njuk7"
       ],
       "pinyin": "cai3",
       "jyutping": "njoi2",
       "head": "多声母",
-      "tail": "i",
+      "tail": "元音韵尾",
       "ref": "",
       "refBy": {},
       "meanings": [
@@ -43326,7 +43330,7 @@
       "pinyin": "cai3",
       "jyutping": "coi2",
       "head": "多声母",
-      "tail": "i",
+      "tail": "元音韵尾",
       "ref": "U+8E29-njoi2",
       "refBy": {},
       "meanings": []
@@ -43343,7 +43347,7 @@
       "pinyin": "zha4",
       "jyutping": "co3",
       "head": "多声母",
-      "tail": "o",
+      "tail": "元音韵尾",
       "ref": "",
       "refBy": {},
       "meanings": [
@@ -43395,7 +43399,7 @@
       "pinyin": "zha4",
       "jyutping": "zo3",
       "head": "多声母",
-      "tail": "o",
+      "tail": "元音韵尾",
       "ref": "",
       "refBy": {},
       "meanings": [
@@ -43427,7 +43431,7 @@
       "pinyin": "ao4",
       "jyutping": "ngou2",
       "head": "多声母",
-      "tail": "u",
+      "tail": "元音韵尾",
       "ref": "",
       "refBy": {},
       "meanings": [
@@ -43467,7 +43471,7 @@
       "pinyin": "ao4",
       "jyutping": "ou2",
       "head": "多声母",
-      "tail": "u",
+      "tail": "元音韵尾",
       "ref": "U+62D7-ngou2",
       "refBy": {},
       "meanings": []
@@ -45066,6 +45070,168 @@
         }
       ]
     }
+    ,
+    "U+54BB-jau1": {
+      "unicode": "U+54BB",
+      "characters": [
+        "咻"
+      ],
+      "controversial": 0,
+      "related": [],
+      "pinyin": "xiu1",
+      "jyutping": "jau1",
+      "head": "j",
+      "tail": "元音韵尾",
+      "ref": "",
+      "refBy": {},
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "原为「休」字，为避免阅读时引发歧义，故改用此字。用于句末。意为「罢了」、「而已」",
+            "en": "Originally, it was the character「休」. To avoid ambiguity during reading, this character was used instead at the end of a sentence. It means「just」、「only」"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__米",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "U+54BB-jau3": {
+      "unicode": "U+54BB",
+      "characters": [
+        "咻"
+      ],
+      "controversial": 0,
+      "related": [],
+      "pinyin": "xiu1",
+      "jyutping": "jau3",
+      "head": "j",
+      "tail": "元音韵尾",
+      "ref": "U+54BB-jau1",
+      "refBy": {},
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__米",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "U+54BB-jaa3": {
+      "unicode": "U+54BB",
+      "characters": [
+        "咻"
+      ],
+      "controversial": 0,
+      "related": [],
+      "pinyin": "xiu1",
+      "jyutping": "jaa3",
+      "head": "j",
+      "tail": "元音韵尾",
+      "ref": "U+54BB-jau1",
+      "refBy": {},
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__米",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "U+54BB-jeo3": {
+      "unicode": "U+54BB",
+      "characters": [
+        "咻"
+      ],
+      "controversial": 0,
+      "related": [],
+      "pinyin": "xiu1",
+      "jyutping": "jeo3",
+      "head": "j",
+      "tail": "元音韵尾",
+      "ref": "U+54BB-jau1",
+      "refBy": {},
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__米",
+                  "descriptions": {
+                    "zh": "",
+                    "en": ""
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+    
   },
   "name": "WriteableChars"
 }
