@@ -51,6 +51,13 @@ function _parseDB(dbName: DBName): DataBase {
   return readJSON(`./data/${dbName}.json`);
 }
 
+function solveIDRef(str: string, source: DB) {
+  return str.replace(
+    /{(.+?)}/g,
+    (match, id) => source.getEntry(id)?.characters[0] || match
+  );
+}
+
 /**
  * 合并所有词条到`test/main.ts`，并解决所有引用
  */
@@ -63,14 +70,16 @@ function exportDB() {
   for (const id in mainDB.innerDB.data) {
     const entry = mainDB.innerDB.data[id] as Entry;
     entry.meanings.forEach((meaning) => {
+      meaning.descriptions.zh = solveIDRef(meaning.descriptions.zh, mainDB);
+      meaning.descriptions.en = solveIDRef(meaning.descriptions.en, mainDB);
       meaning.words.forEach((word) => {
-        word.format = word.format
-          .replace(/__self__/g, entry.characters[0])
-          .replace(/{(.+?)}/g, (id) => mainDB.innerDB.data[id]?.characters[0]);
+        word.format = word.format.replace(/__self__/g, entry.characters[0]);
+        word.format = solveIDRef(word.format, mainDB);
         word.sentences.forEach((sentence) => {
-          sentence.format = sentence.format
-            .replace(/__self__/g, word.format)
-            .replace(/{(.+?)}/g, (id) => mainDB.innerDB.data[id]?.characters[0]);
+          sentence.format = sentence.format.replace(/__self__/g, word.format);
+          sentence.format = solveIDRef(sentence.format, mainDB);
+          sentence.descriptions.zh = solveIDRef(sentence.descriptions.zh, mainDB);
+          sentence.descriptions.en = solveIDRef(sentence.descriptions.en, mainDB);
         });
       });
     });
@@ -146,8 +155,8 @@ class DB {
    * @param ids id号
    * @returns 该id号对应的词条，如果不存在则返回`undefined`
    */
-  getEntry(ids: string): Entry | string;
-  getEntry(ids: string[]): (Entry | string)[];
+  getEntry(ids: string): Entry | undefined;
+  getEntry(ids: string[]): (Entry | undefined)[];
   getEntry(ids: string | string[]): unknown {
     if (Array.isArray(ids)) {
       return ids.map(id => this.getEntry(id));
