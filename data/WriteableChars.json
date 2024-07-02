@@ -777,12 +777,7 @@
       "unicode": "U+5481",
       "characters": [
         "咁",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "噉",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+5649"
-        }
+        "噉"
       ],
       "controversial": 0,
       "related": [
@@ -828,12 +823,7 @@
       "unicode": "U+5481",
       "characters": [
         "咁",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "噉",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+5649"
-        }
+        "噉"
       ],
       "controversial": 0,
       "related": [],
@@ -3993,12 +3983,7 @@
       "unicode": "U+5FD6",
       "characters": [
         "忖",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "𬣫",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+2C8EB"
-        }
+        "𬣫"
       ],
       "controversial": 1,
       "related": [],
@@ -6801,12 +6786,7 @@
       "unicode": "U+3AF1",
       "characters": [
         "㫱",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "赧",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+8D67"
-        }
+        "赧"
       ],
       "controversial": 0,
       "related": [],
@@ -7705,10 +7685,7 @@
       "unicode": "U+849D",
       "characters": [
         "蒝",
-        {
-          "han_zi": "芚",
-          "bian_hao": "U+829A"
-        }
+        "芚"
       ],
       "controversial": 1,
       "related": [],
@@ -7770,10 +7747,7 @@
       "unicode": "U+6435",
       "characters": [
         "搵",
-        {
-          "han_zi": "揾",
-          "bian_hao": "U+63FE"
-        }
+        "揾"
       ],
       "controversial": 0,
       "related": [
@@ -8702,18 +8676,8 @@
       "unicode": "U+236BA",
       "characters": [
         "𣚺",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "项",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+9879"
-        },
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "𮬷",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+2EB37"
-        }
+        "项",
+        "𮬷"
       ],
       "controversial": 0,
       "related": [
@@ -11002,12 +10966,7 @@
       "unicode": "U+76EA",
       "characters": [
         "盪",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "𠺘",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+20E98"
-        }
+        "𠺘"
       ],
       "controversial": 0,
       "related": [],
@@ -11055,12 +11014,7 @@
       "unicode": "U+2439C",
       "characters": [
         "𤎜",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "𠓇",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+204C7"
-        }
+        "𠓇"
       ],
       "controversial": 1,
       "related": [
@@ -11196,12 +11150,7 @@
       "unicode": "U+3C0D",
       "characters": [
         "㰍",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "𭛇",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+2D6C7"
-        }
+        "𭛇"
       ],
       "controversial": 1,
       "related": [],
@@ -11242,12 +11191,7 @@
       "unicode": "U+3C0D",
       "characters": [
         "㰍",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "𭛇",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+2D6C7"
-        }
+        "𭛇"
       ],
       "controversial": 1,
       "related": [],
@@ -13578,12 +13522,7 @@
       "unicode": "U+3CCC",
       "characters": [
         "㳌",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "罯",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+7F6F"
-        }
+        "罯"
       ],
       "controversial": 1,
       "related": [
@@ -14966,12 +14905,7 @@
       "unicode": "U+8872",
       "characters": [
         "衲",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "㨥",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+3A25"
-        }
+        "㨥"
       ],
       "controversial": 0,
       "related": [
@@ -15367,12 +15301,7 @@
       "unicode": "U+6256",
       "characters": [
         "扖",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "蓻",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+84FB"
-        }
+        "蓻"
       ],
       "controversial": 2,
       "related": [
@@ -18139,14 +18068,8 @@
       "unicode": "U+4798",
       "characters": [
         "䞘",
-        {
-          "han_zi": "趌",
-          "bian_hao": "U+8D8C"
-        },
-        {
-          "han_zi": "趷",
-          "bian_hao": "U+8DB7"
-        }
+        "趌",
+        "趷"
       ],
       "controversial": 0,
       "related": [
@@ -18281,12 +18204,7 @@
       "unicode": "U+21CAC",
       "characters": [
         "𡲬",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "䘿",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+463F"
-        }
+        "䘿"
       ],
       "controversial": 0,
       "related": [
@@ -19014,12 +18932,7 @@
       "unicode": "U+57D2",
       "characters": [
         "埒",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "浖",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+6D56"
-        }
+        "浖"
       ],
       "controversial": 0,
       "related": [
@@ -23005,18 +22918,8 @@
       "unicode": "U+27C35",
       "characters": [
         "𧰵",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "㧻",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+39FB"
-        },
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "剢",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+5262"
-        }
+        "㧻",
+        "剢"
       ],
       "controversial": 0,
       "related": [
@@ -23913,12 +23816,7 @@
       "unicode": "U+8E60",
       "characters": [
         "蹠",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "⿰𧾷則",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+30E20"
-        }
+        "⿰𧾷則"
       ],
       "controversial": 1,
       "related": [
@@ -23989,12 +23887,7 @@
       "unicode": "U+8E60",
       "characters": [
         "蹠",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "⿰𧾷則",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+30E20"
-        }
+        "⿰𧾷則"
       ],
       "controversial": 1,
       "related": [],
@@ -24346,10 +24239,7 @@
       "unicode": "U+785E",
       "characters": [
         "硞",
-        {
-          "han_zi": "㩿",
-          "bian_hao": "U+3A7F"
-        }
+        "㩿"
       ],
       "controversial": 0,
       "related": [],
@@ -24420,10 +24310,7 @@
       "unicode": "U+7910",
       "characters": [
         "礐",
-        {
-          "han_zi": "㪐",
-          "bian_hao": "U+3A90"
-        }
+        "㪐"
       ],
       "controversial": 0,
       "related": [],
@@ -25021,12 +24908,7 @@
       "unicode": "U+5774",
       "characters": [
         "坴",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "碌",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+788C"
-        }
+        "碌"
       ],
       "controversial": 0,
       "related": [
@@ -25088,12 +24970,7 @@
       "unicode": "U+7C15",
       "characters": [
         "簕",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "竻",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+7AFB"
-        }
+        "竻"
       ],
       "controversial": 0,
       "related": [
@@ -26032,12 +25909,7 @@
       "unicode": "U+97A0",
       "characters": [
         "鞠",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "𠤄",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+20904"
-        }
+        "𠤄"
       ],
       "controversial": 1,
       "related": [
@@ -26104,10 +25976,7 @@
       "unicode": "U+3647",
       "characters": [
         "㙇",
-        {
-          "han_zi": "蹃",
-          "bian_hao": "U+8E43"
-        }
+        "蹃"
       ],
       "controversial": 0,
       "related": [
@@ -26505,10 +26374,7 @@
       "unicode": "U+6B36",
       "characters": [
         "欶",
-        {
-          "han_zi": "嗍",
-          "bian_hao": "U+55CD"
-        }
+        "嗍"
       ],
       "controversial": 0,
       "related": [
@@ -27541,10 +27407,7 @@
       "unicode": "U+7F49",
       "characters": [
         "罉",
-        {
-          "han_zi": "鎗",
-          "bian_hao": "U+9397"
-        }
+        "鎗"
       ],
       "controversial": 1,
       "related": [
@@ -33726,12 +33589,7 @@
       "unicode": "U+9416",
       "characters": [
         "鐖",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "鸡",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+9E21"
-        }
+        "鸡"
       ],
       "controversial": 0,
       "related": [],
@@ -33900,12 +33758,7 @@
       "unicode": "U+4E2A",
       "characters": [
         "个",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "箇",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+7B87"
-        }
+        "箇"
       ],
       "controversial": 2,
       "related": [
@@ -34280,12 +34133,7 @@
       "unicode": "U+4F62",
       "characters": [
         "佢",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "渠",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+6E20"
-        }
+        "渠"
       ],
       "controversial": 0,
       "related": [
@@ -36649,12 +36497,7 @@
       "unicode": "U+964B",
       "characters": [
         "陋",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "漏",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+6F0F"
-        }
+        "漏"
       ],
       "controversial": 0,
       "related": [
@@ -38384,12 +38227,7 @@
       "unicode": "U+5C15",
       "characters": [
         "尕",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "细",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+7EC6"
-        }
+        "细"
       ],
       "controversial": 0,
       "related": [
@@ -41406,12 +41244,7 @@
       "unicode": "U+6568",
       "characters": [
         "敨",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "唞",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+551E"
-        }
+        "唞"
       ],
       "controversial": 0,
       "related": [
@@ -41635,18 +41468,8 @@
       "unicode": "U+5A01",
       "characters": [
         "威",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "媙",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+5A99"
-        },
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "媁",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+5A81"
-        }
+        "媙",
+        "媁"
       ],
       "controversial": 0,
       "related": [
@@ -44440,12 +44263,7 @@
       "unicode": "U+6EBE",
       "characters": [
         "溾",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "埃",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+57C3"
-        }
+        "埃"
       ],
       "controversial": 0,
       "related": [
@@ -44757,12 +44575,7 @@
       "unicode": "U+4F22",
       "characters": [
         "伢",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "孲",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+5B72"
-        }
+        "孲"
       ],
       "controversial": 0,
       "related": [
@@ -45069,8 +44882,7 @@
           ]
         }
       ]
-    }
-    ,
+    },
     "U+54BB-jau1": {
       "unicode": "U+54BB",
       "characters": [
@@ -45231,7 +45043,6 @@
         }
       ]
     }
-    
   },
   "name": "WriteableChars"
 }

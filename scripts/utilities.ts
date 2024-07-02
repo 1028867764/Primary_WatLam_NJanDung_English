@@ -1,8 +1,8 @@
 import fs from 'fs';
 import path from 'path';
 
-import { DBName } from '../types/autoExportTypes.js';
-import { DataBase, Creator, Entry } from '../types/index.js';
+import { DBName } from '../types/autoExportTypes';
+import { DataBase, Creator, Entry } from '../types/index';
 
 /**
  * 将`data`以JOSN格式写出到`path`

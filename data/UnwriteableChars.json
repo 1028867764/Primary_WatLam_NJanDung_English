@@ -3510,12 +3510,7 @@
       "unicode": "",
       "characters": [
         "koe1",
-        {
-          "@han_zi": "备选字字符",
-          "han_zi": "颗",
-          "@bian_hao": "备选字万国统一码",
-          "bian_hao": "U+9897"
-        }
+        "颗"
       ],
       "controversial": 0,
       "related": [

@@ -1,8 +1,8 @@
 import fs from "fs";
 import path from 'path';
-import { DB, exportDB } from "./utilities.js";
-import { isEntry } from "./checkSJON.js";
-import { Entry } from "../types/index.js";
+import { DB, exportDB } from "./utilities";
+import { isEntry } from "./checkSJON";
+import { Entry } from "../types/index";
 
 const dataDir = './data';
 const dbNames: string[] = [];
@@ -35,7 +35,7 @@ generateTypeDeclaration();
 console.log('类型声明文件生成完毕。');
 
 const db = new DB('Pended');
-console.log(isEntry(db.getEntry('P+1-bbaa caa') as Entry));
+console.log(isEntry(db.getEntry('P+1-bbaa2caa2') as Entry));
 db.listEntryProps(['head', 'tail']);
 
 exportDB();
