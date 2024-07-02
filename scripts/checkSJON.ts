@@ -98,7 +98,7 @@ export function isEntry(input: object) {
     head: 'string',
     tail: 'string',
     ref: 'string',
-    refBy: isStringArray,
+    refBy: 'object',
     meanings: isMeanings
   });
 }

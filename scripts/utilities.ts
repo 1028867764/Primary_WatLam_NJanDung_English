@@ -83,14 +83,35 @@ function exportDB() {
         });
       });
     });
+    const related: { [id: string]: string } = {};
+    (entry.related as string[]).forEach((id) => {
+      if (mainDB.hasEntry(id)) {
+        related[id] = mainDB.getEntry(id)!.characters[0];
+      }
+    });
+    entry.related = related;
   }
   for (const id in mainDB.innerDB.data) {
-    let entry = mainDB.innerDB.data[id] as Entry;
-    if (Object.hasOwnProperty.call(mainDB.innerDB.data, entry.ref)) {
-      const targetEntry = mainDB.innerDB.data[entry.ref];
-      entry = Object.assign(JSON.parse(JSON.stringify(targetEntry)), entry);
-      targetEntry.refBy.push(id);
+    const entry = mainDB.innerDB.data[id] as Entry;
+    if (mainDB.hasEntry(entry.ref)) {
+      const targetEntry = mainDB.getEntry(entry.ref) as Entry;
+      targetEntry.refBy[entry.ref] = targetEntry.characters[0];
+      targetEntry.refBy[id] = entry.characters[0];
+      Object.keys(targetEntry).forEach((key) => {
+        // 读音有关的属性不要迁移
+        if (![
+          'pinyin',
+          'jyutping',
+          'head',
+          'tail',
+          'ref',
+        ].includes(key)) {
+          entry[key] = targetEntry[key];
+        }
+      });
+      mainDB.setEnstry(entry.ref, targetEntry);
     }
+    mainDB.setEnstry(id, entry);
   }
   mainDB.save('./test');
 }
@@ -168,7 +189,7 @@ class DB {
    * 新增一个词条
    * @param entry Entry 对象，具体定义见 `./types/index.d.ts`
    */
-  addEnstry(id: string, entry: Entry) {
+  setEnstry(id: string, entry: Entry) {
     this.innerDB.data[id] = entry;
   }
 
