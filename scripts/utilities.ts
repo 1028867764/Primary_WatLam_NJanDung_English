@@ -51,13 +51,6 @@ function _parseDB(dbName: DBName): DataBase {
   return readJSON(`./data/${dbName}.json`);
 }
 
-function solveIDRef(str: string, source: DB) {
-  return str.replace(
-    /{(.+?)}/g,
-    (match, id) => source.getEntry(id)?.characters[0] || match
-  );
-}
-
 /**
  * 合并所有词条到`test/main.ts`，并解决所有引用
  */
@@ -68,51 +61,55 @@ function exportDB() {
     mainDB.innerDB.data = Object.assign(mainDB.innerDB.data, dbs[dbName].data);
   }
   for (const id in mainDB.innerDB.data) {
-    const entry = mainDB.innerDB.data[id] as Entry;
+    const entry = mainDB.innerDB.data[id];
+    const char = entry.characters[0];
     entry.meanings.forEach((meaning) => {
-      meaning.descriptions.zh = solveIDRef(meaning.descriptions.zh, mainDB);
-      meaning.descriptions.en = solveIDRef(meaning.descriptions.en, mainDB);
+      meaning.descriptions.zh = mainDB.solveIDRef(meaning.descriptions.zh);
+      meaning.descriptions.en = mainDB.solveIDRef(meaning.descriptions.en);
       meaning.words.forEach((word) => {
-        word.format = word.format.replace(/__self__/g, entry.characters[0]);
-        word.format = solveIDRef(word.format, mainDB);
+        word.format = word.format.replace(/__self__/g, char);
+        word.format = mainDB.solveIDRef(word.format);
         word.sentences.forEach((sentence) => {
           sentence.format = sentence.format.replace(/__self__/g, word.format);
-          sentence.format = solveIDRef(sentence.format, mainDB);
-          sentence.descriptions.zh = solveIDRef(sentence.descriptions.zh, mainDB);
-          sentence.descriptions.en = solveIDRef(sentence.descriptions.en, mainDB);
+          sentence.format = mainDB.solveIDRef(sentence.format);
+          sentence.descriptions.zh = mainDB.solveIDRef(sentence.descriptions.zh);
+          sentence.descriptions.en = mainDB.solveIDRef(sentence.descriptions.en);
         });
       });
     });
-    const related: { [id: string]: string } = {};
-    (entry.related as string[]).forEach((id) => {
-      if (mainDB.hasEntry(id)) {
-        related[id] = mainDB.getEntry(id)!.characters[0];
-      }
-    });
-    entry.related = related;
-  }
-  for (const id in mainDB.innerDB.data) {
-    const entry = mainDB.innerDB.data[id] as Entry;
-    if (mainDB.hasEntry(entry.ref)) {
-      const targetEntry = mainDB.getEntry(entry.ref) as Entry;
-      targetEntry.refBy[entry.ref] = targetEntry.characters[0];
-      targetEntry.refBy[id] = entry.characters[0];
-      Object.keys(targetEntry).forEach((key) => {
-        // 读音有关的属性不要迁移
-        if (![
-          'pinyin',
-          'jyutping',
-          'head',
-          'tail',
-          'ref',
-        ].includes(key)) {
-          entry[key] = targetEntry[key];
+    if (Array.isArray(entry.refBy)) {
+      entry.refBy.push(id);
+      const refBy = mainDB.solveIDIndex(entry.refBy);
+      Object.keys(refBy).forEach((refID) => {
+        const refEntry = mainDB.getEntry(refID) as Entry;
+        refEntry.refBy = refBy;
+        if (refID !== id) {
+          Object.keys(entry).forEach((key) => {
+            if (![
+              'pinyin',
+              'jyutping',
+              'head',
+              'tail',
+              'ref',
+            ].includes(key)) {
+              refEntry[key] = entry[key];
+            }
+          });
         }
       });
-      mainDB.setEnstry(entry.ref, targetEntry);
     }
-    mainDB.setEnstry(id, entry);
+    if (Array.isArray(entry.related)) {
+      entry.related.push(id);
+      const related = mainDB.solveIDIndex(entry.related);
+      Object.keys(related).forEach((relID) => {
+        mainDB.getEntry(relID)!.related = related;
+      });
+    }
   }
+  // for (const id in mainDB.innerDB.data) {
+  //   const entry = mainDB.innerDB.data[id];
+  //   Object.keys(entry.refBy)
+  // }
   mainDB.save('./test');
 }
 
@@ -191,6 +188,35 @@ class DB {
    */
   setEnstry(id: string, entry: Entry) {
     this.innerDB.data[id] = entry;
+  }
+
+  /**
+   * 将id[]解析为{id: char}的形式
+   * @param ids id为元素的数组
+   * @returns id为键名、对应character为键值的object
+   */
+  solveIDIndex(ids: string[]) {
+    const idCharMap: { [id: string]: string } = {};
+    for (const id of ids) {
+      if (this.hasEntry(id)) {
+        idCharMap[id] = this.getEntry(id)!.characters[0];
+      }
+    }
+    return idCharMap;
+  }
+
+  /**
+   * 将{ID}表达式转写为{ID=character}的形式，以便在网页中实现点击字符跳转
+   * @param str 任意包含{ID}表达式的字符串
+   * @returns 含{ID=character}表达式的字符串，若ID不存在，将返回ID的字符串
+   */
+  solveIDRef(str: string) {
+    return str.replace(/{(.+?)}/g, (_match, id) => {
+      const entry = this.getEntry(id);
+      return entry
+        ? `{${id}=${entry.characters[0]}}`
+        : id;
+    });
   }
 
   /**

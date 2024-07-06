@@ -34,8 +34,7 @@ interface Entry {
   head: string;
   // 韵尾
   tail: string;
-  ref: string;
-  refBy: { [id: string]: string };
+  refBy: string[] | { [id: string]: string };
   meanings: Meaning[];
 }
 

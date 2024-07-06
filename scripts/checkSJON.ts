@@ -97,8 +97,7 @@ export function isEntry(input: object) {
     jyutping: 'string',
     head: 'string',
     tail: 'string',
-    ref: 'string',
-    refBy: 'object',
+    refBy: isStringArray,
     meanings: isMeanings
   });
 }

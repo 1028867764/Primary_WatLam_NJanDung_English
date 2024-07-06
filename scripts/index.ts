@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from 'path';
-import { DB, exportDB } from "./utilities";
+import { DB, exportDB, parseDB, writeJSON } from "./utilities";
 import { isEntry } from "./checkSJON";
 import { Entry } from "../types/index";
 
@@ -23,14 +23,14 @@ function getNames(dir: string) {
   });
 }
 
-function generateTypeDeclaration() {
+function autoDeclare() {
   let content = `// 自动生成的类型声明文件\n`;
   content += `export type DBName = \n\t| '${dbNames.join("'\n\t| '")}'\n;`;
   fs.writeFileSync('./types/autoExportTypes.d.ts', content);
 }
 
 getNames(dataDir);
-generateTypeDeclaration();
+autoDeclare();
 
 console.log('类型声明文件生成完毕。');
 

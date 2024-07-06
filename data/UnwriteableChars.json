@@ -20,8 +20,7 @@
       "jyutping": "maa5",
       "head": "m",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -43,8 +42,7 @@
       "jyutping": "le5",
       "head": "l",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -68,8 +66,7 @@
       "jyutping": "nem2",
       "head": "n",
       "tail": "m",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -123,8 +120,7 @@
       "jyutping": "nam1",
       "head": "n",
       "tail": "m",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -200,8 +196,7 @@
       "jyutping": "nam6",
       "head": "n",
       "tail": "m",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -249,8 +244,7 @@
       "jyutping": "cam2",
       "head": "c",
       "tail": "m",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -285,8 +279,7 @@
       "jyutping": "tam2",
       "head": "t",
       "tail": "m",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -332,8 +325,7 @@
       "jyutping": "zam3",
       "head": "z",
       "tail": "m",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -379,8 +371,7 @@
       "jyutping": "an2",
       "head": "0",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -422,8 +413,7 @@
       "jyutping": "ban5",
       "head": "b-bb",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -466,8 +456,7 @@
       "jyutping": "ddan1",
       "head": "d-dd",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -516,8 +505,7 @@
       "jyutping": "dyun5",
       "head": "d-dd",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -580,8 +568,7 @@
       "jyutping": "fen2",
       "head": "f",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -623,8 +610,7 @@
       "jyutping": "han1",
       "head": "h",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -646,8 +632,7 @@
       "jyutping": "lan2",
       "head": "l",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -695,8 +680,7 @@
       "jyutping": "lan3",
       "head": "l",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -745,8 +729,7 @@
       "jyutping": "len1",
       "head": "l",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -817,8 +800,7 @@
       "jyutping": "len3",
       "head": "l",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -866,8 +848,7 @@
       "jyutping": "lyun2",
       "head": "l",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -910,8 +891,7 @@
       "jyutping": "mun1",
       "head": "m",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -953,8 +933,7 @@
       "jyutping": "nan3",
       "head": "n",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1048,8 +1027,7 @@
       "jyutping": "son03",
       "head": "s",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1095,8 +1073,7 @@
       "jyutping": "slan3",
       "head": "sl",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1137,8 +1114,7 @@
       "jyutping": "bang5",
       "head": "b-bb",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1179,8 +1155,7 @@
       "jyutping": "dding3",
       "head": "d-dd",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1223,8 +1198,7 @@
       "jyutping": "dding1",
       "head": "d-dd",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1287,8 +1261,7 @@
       "jyutping": "dung6",
       "head": "d-dd",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1323,8 +1296,7 @@
       "jyutping": "lung4",
       "head": "l",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1365,8 +1337,7 @@
       "jyutping": "long1",
       "head": "l",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1405,8 +1376,7 @@
       "jyutping": "ming4",
       "head": "m",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1448,8 +1418,7 @@
       "jyutping": "nung2",
       "head": "n",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1556,8 +1525,7 @@
       "jyutping": "njung1",
       "head": "nj",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1627,8 +1595,7 @@
       "jyutping": "pang1",
       "head": "p",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1669,8 +1636,7 @@
       "jyutping": "sing6",
       "head": "s",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1727,8 +1693,7 @@
       "jyutping": "tang2",
       "head": "t",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1773,8 +1738,7 @@
       "jyutping": "tang1",
       "head": "t",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1813,8 +1777,7 @@
       "jyutping": "ddap7",
       "head": "d-dd",
       "tail": "p",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1865,8 +1828,7 @@
       "jyutping": "dap9",
       "head": "d-dd",
       "tail": "p",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1940,8 +1902,7 @@
       "jyutping": "nep8",
       "head": "n",
       "tail": "p",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -1982,8 +1943,7 @@
       "jyutping": "zap9",
       "head": "z",
       "tail": "p",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2022,8 +1982,7 @@
       "jyutping": "sap7",
       "head": "s",
       "tail": "p",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2064,8 +2023,7 @@
       "jyutping": "cyut7",
       "head": "c",
       "tail": "t",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2115,8 +2073,7 @@
       "jyutping": "ddyut7",
       "head": "d-dd",
       "tail": "t",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2164,8 +2121,7 @@
       "jyutping": "kat7",
       "head": "k",
       "tail": "t",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2206,8 +2162,7 @@
       "jyutping": "let8",
       "head": "l",
       "tail": "t",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2246,8 +2201,7 @@
       "jyutping": "mat9",
       "head": "m",
       "tail": "t",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2288,8 +2242,9 @@
       "jyutping": "put7",
       "head": "p",
       "tail": "t",
-      "ref": "",
-      "refBy": {},
+      "refBy": [
+        "A+54-mut7"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -2337,8 +2292,7 @@
       "jyutping": "put7",
       "head": "p",
       "tail": "t",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2369,8 +2323,7 @@
       "jyutping": "mut7",
       "head": "m",
       "tail": "t",
-      "ref": "A+54-put7",
-      "refBy": {},
+      "refBy": [],
       "meanings": []
     },
     "A+55-dak9": {
@@ -2386,8 +2339,7 @@
       "jyutping": "dak9",
       "head": "d-dd",
       "tail": "k",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2428,8 +2380,7 @@
       "jyutping": "fik7",
       "head": "f",
       "tail": "k",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2470,8 +2421,7 @@
       "jyutping": "gak9",
       "head": "g",
       "tail": "k",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2510,8 +2460,7 @@
       "jyutping": "jak9",
       "head": "j",
       "tail": "k",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2552,8 +2501,9 @@
       "jyutping": "lyk9",
       "head": "l",
       "tail": "k",
-      "ref": "",
-      "refBy": {},
+      "refBy": [
+        "A+60-lik9"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -2599,8 +2549,7 @@
       "jyutping": "lik9",
       "head": "l",
       "tail": "k",
-      "ref": "A+60-lyk9",
-      "refBy": {},
+      "refBy": [],
       "meanings": []
     },
     "A+61-luk7": {
@@ -2614,8 +2563,7 @@
       "jyutping": "luk7",
       "head": "l",
       "tail": "k",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2659,8 +2607,7 @@
       "jyutping": "luk7",
       "head": "l",
       "tail": "k",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2699,8 +2646,7 @@
       "jyutping": "wak9",
       "head": "w",
       "tail": "k",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2748,8 +2694,7 @@
       "jyutping": "bbaa1",
       "head": "b-bb",
       "tail": "丢ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2790,8 +2735,7 @@
       "jyutping": "naa6",
       "head": "n",
       "tail": "丢ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2833,8 +2777,7 @@
       "jyutping": "naa3",
       "head": "n",
       "tail": "丢ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2876,8 +2819,7 @@
       "jyutping": "taa3",
       "head": "t",
       "tail": "丢ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2918,8 +2860,7 @@
       "jyutping": "bi4",
       "head": "b-bb",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2950,8 +2891,7 @@
       "jyutping": "bai5",
       "head": "b-bb",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -2994,8 +2934,7 @@
       "jyutping": "bbai1",
       "head": "b-bb",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3076,8 +3015,9 @@
       "jyutping": "bou4",
       "head": "b-bb",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [
+        "A+71-bau4"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -3116,8 +3056,7 @@
       "jyutping": "bau4",
       "head": "b-bb",
       "tail": "元音韵尾",
-      "ref": "A+71-bou4",
-      "refBy": {},
+      "refBy": [],
       "meanings": []
     },
     "A+72-bu4": {
@@ -3131,8 +3070,7 @@
       "jyutping": "bu4",
       "head": "b-bb",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3173,8 +3111,7 @@
       "jyutping": "dde1",
       "head": "d-dd",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3232,8 +3169,7 @@
       "jyutping": "gai2",
       "head": "g",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3277,8 +3213,7 @@
       "jyutping": "gau5",
       "head": "g",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3317,8 +3252,7 @@
       "jyutping": "ge1",
       "head": "g",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3365,8 +3299,7 @@
       "jyutping": "ge1",
       "head": "g",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3412,8 +3345,7 @@
       "jyutping": "gwo4",
       "head": "g",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3470,8 +3402,7 @@
       "jyutping": "jai3",
       "head": "j",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3521,8 +3452,7 @@
       "jyutping": "koe1",
       "head": "k",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3564,8 +3494,7 @@
       "jyutping": "keu3",
       "head": "k",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3606,8 +3535,7 @@
       "jyutping": "keu2",
       "head": "k",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3648,8 +3576,9 @@
       "jyutping": "kou3",
       "head": "k",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [
+        "A+84-kou2"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -3688,8 +3617,7 @@
       "jyutping": "kou2",
       "head": "k",
       "tail": "元音韵尾",
-      "ref": "A+84-kou3",
-      "refBy": {},
+      "refBy": [],
       "meanings": []
     },
     "A+85-le2": {
@@ -3705,8 +3633,7 @@
       "jyutping": "le2",
       "head": "l",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3747,8 +3674,7 @@
       "jyutping": "le1",
       "head": "l",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3789,8 +3715,7 @@
       "jyutping": "leo1",
       "head": "l",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3814,8 +3739,7 @@
       "jyutping": "lui1",
       "head": "l",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3854,8 +3778,7 @@
       "jyutping": "lou2",
       "head": "l",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3947,8 +3870,7 @@
       "jyutping": "mau3",
       "head": "m",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -3989,8 +3911,7 @@
       "jyutping": "nai1",
       "head": "n",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4058,8 +3979,7 @@
       "jyutping": "ngai5",
       "head": "ng",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4100,8 +4020,7 @@
       "jyutping": "peu1",
       "head": "p",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4142,8 +4061,7 @@
       "jyutping": "sleo2",
       "head": "sl",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4193,8 +4111,7 @@
       "jyutping": "zyu5",
       "head": "z",
       "tail": "元音韵尾",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4245,8 +4162,7 @@
       "jyutping": "nguk7",
       "head": "ng",
       "tail": "k",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4290,8 +4206,7 @@
       "jyutping": "nuk7",
       "head": "n",
       "tail": "k",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4336,8 +4251,7 @@
       "jyutping": "kuk7",
       "head": "k",
       "tail": "k",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4381,8 +4295,7 @@
       "jyutping": "njuk7",
       "head": "nj",
       "tail": "k",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4421,8 +4334,7 @@
       "jyutping": "men1",
       "head": "m",
       "tail": "n",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4470,8 +4382,7 @@
       "jyutping": "jim2",
       "head": "j",
       "tail": "m",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4536,8 +4447,7 @@
       "jyutping": "fat7",
       "head": "f",
       "tail": "t",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4580,8 +4490,7 @@
       "jyutping": "fet10",
       "head": "f",
       "tail": "t",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4636,8 +4545,9 @@
       "jyutping": "jing2",
       "head": "j",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [
+        "A+105-jang2"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -4668,8 +4578,7 @@
       "jyutping": "jang2",
       "head": "j",
       "tail": "ng",
-      "ref": "A+105-jing2",
-      "refBy": {},
+      "refBy": [],
       "meanings": []
     },
     "A+106-gang5": {
@@ -4683,8 +4592,7 @@
       "jyutping": "gang5",
       "head": "g",
       "tail": "ng",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4730,8 +4638,7 @@
       "jyutping": "lyut7",
       "head": "l",
       "tail": "t",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4762,8 +4669,7 @@
       "jyutping": "bbak7",
       "head": "b-bb",
       "tail": "k",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4802,8 +4708,7 @@
       "jyutping": "",
       "head": "特殊",
       "tail": "特殊",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4842,8 +4747,7 @@
       "jyutping": "",
       "head": "特殊",
       "tail": "特殊",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -4889,8 +4793,7 @@
       "jyutping": "",
       "head": "特殊",
       "tail": "特殊",
-      "ref": "",
-      "refBy": {},
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
