@@ -1,8 +1,8 @@
 import fs from "fs";
 import path from 'path';
-import { DB, exportDB } from "./utilities.js";
-import { isEntry } from "./checkSJON.js";
-import { Entry } from "../types/index.js";
+import { DB, exportDB, parseDB, writeJSON } from "./utilities";
+import { isEntry } from "./checkSJON";
+import { Entry } from "../types/index";
 
 const dataDir = './data';
 const dbNames: string[] = [];
@@ -23,19 +23,19 @@ function getNames(dir: string) {
   });
 }
 
-function generateTypeDeclaration() {
+function autoDeclare() {
   let content = `// 自动生成的类型声明文件\n`;
   content += `export type DBName = \n\t| '${dbNames.join("'\n\t| '")}'\n;`;
   fs.writeFileSync('./types/autoExportTypes.d.ts', content);
 }
 
 getNames(dataDir);
-generateTypeDeclaration();
+autoDeclare();
 
 console.log('类型声明文件生成完毕。');
 
 const db = new DB('Pended');
-console.log(isEntry(db.getEntry('P+1-bbaa caa') as Entry));
+console.log(isEntry(db.getEntry('P+1-bbaa2caa2') as Entry));
 db.listEntryProps(['head', 'tail']);
 
 exportDB();
