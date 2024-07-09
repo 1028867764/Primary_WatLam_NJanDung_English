@@ -35,7 +35,7 @@ function now() {
 function parseDB(...args: DBName[]) {
   const dbs: { [key: string]: DataBase } = {};
   if (args.length === 0) {
-    fs.readdirSync('./data').forEach((file) => {
+    fs.readdirSync('./data').forEach(file => {
       const dbName = path.basename(file, '.json') as DBName;
       dbs[dbName] = _parseDB(dbName);
     });
@@ -57,41 +57,49 @@ function _parseDB(dbName: DBName): DataBase {
 function exportDB() {
   const dbs = parseDB();
   const mainDB = new DB('main');
+  function solveIDRef(obj: object, path: string) {
+    const [head, ...tail] = path.split('.');
+    // 仅对末位属性赋值（跳过那些已经solve过的）
+    if (tail.length === 0 && typeof obj[head] === 'string') {
+      obj[head] = mainDB.solveIDRef(obj[head]);
+    } else if (typeof obj[head] === 'object') {
+      solveIDRef(obj[head], tail.join('.'));
+    }
+  }
   for (const dbName in dbs) {
     mainDB.innerDB.data = Object.assign(mainDB.innerDB.data, dbs[dbName].data);
   }
   for (const id in mainDB.innerDB.data) {
     const entry = mainDB.innerDB.data[id];
     const char = entry.characters[0];
-    entry.meanings.forEach((meaning) => {
-      meaning.descriptions.zh = mainDB.solveIDRef(meaning.descriptions.zh);
-      meaning.descriptions.en = mainDB.solveIDRef(meaning.descriptions.en);
-      meaning.words.forEach((word) => {
-        word.format = word.format.replace(/__self__/g, char);
-        word.format = mainDB.solveIDRef(word.format);
-        word.sentences.forEach((sentence) => {
-          sentence.format = sentence.format.replace(/__self__/g, word.format);
-          sentence.format = mainDB.solveIDRef(sentence.format);
-          sentence.descriptions.zh = mainDB.solveIDRef(sentence.descriptions.zh);
-          sentence.descriptions.en = mainDB.solveIDRef(sentence.descriptions.en);
+    entry.meanings.forEach(meaning => {
+      solveIDRef(meaning, 'descriptions.zh');
+      solveIDRef(meaning, 'descriptions.en');
+      meaning.words.forEach(word => {
+        let wordFormat = char;
+        if (typeof word.format === 'string') {
+          wordFormat = word.format = word.format.replace(/__self__/g, char);
+        }
+        solveIDRef(word, 'format');
+        word.sentences.forEach(sentence => {
+          if (typeof sentence.format === 'string') {
+            sentence.format = sentence.format.replace(/__self__/g, wordFormat);
+          }
+          solveIDRef(sentence, 'format');
+          solveIDRef(sentence, 'descriptions.zh');
+          solveIDRef(sentence, 'descriptions.en');
         });
       });
     });
     if (Array.isArray(entry.refBy)) {
       entry.refBy.push(id);
       const refBy = mainDB.solveIDIndex(entry.refBy);
-      Object.keys(refBy).forEach((refID) => {
+      Object.keys(refBy).forEach(refID => {
         const refEntry = mainDB.getEntry(refID) as Entry;
         refEntry.refBy = refBy;
         if (refID !== id) {
-          Object.keys(entry).forEach((key) => {
-            if (![
-              'pinyin',
-              'jyutping',
-              'head',
-              'tail',
-              'ref',
-            ].includes(key)) {
+          Object.keys(entry).forEach(key => {
+            if (!['pinyin', 'jyutping', 'head', 'tail', 'ref'].includes(key)) {
               refEntry[key] = entry[key];
             }
           });
@@ -101,15 +109,11 @@ function exportDB() {
     if (Array.isArray(entry.related)) {
       entry.related.push(id);
       const related = mainDB.solveIDIndex(entry.related);
-      Object.keys(related).forEach((relID) => {
+      Object.keys(related).forEach(relID => {
         mainDB.getEntry(relID)!.related = related;
       });
     }
   }
-  // for (const id in mainDB.innerDB.data) {
-  //   const entry = mainDB.innerDB.data[id];
-  //   Object.keys(entry.refBy)
-  // }
   mainDB.save('./test');
 }
 
@@ -131,7 +135,7 @@ class DB {
         createTime: now(),
         updateTime: now(),
         creators: [],
-        data: {}
+        data: {},
       };
     }
   }
@@ -141,7 +145,10 @@ class DB {
    */
   save(path?: string) {
     this.innerDB.updateTime = now();
-    writeJSON(`${path ? path : './data'}/${this.innerDB.name}.json`, this.innerDB);
+    writeJSON(
+      `${path ? path : './data'}/${this.innerDB.name}.json`,
+      this.innerDB
+    );
   }
 
   /**
@@ -210,13 +217,31 @@ class DB {
    * @param str 任意包含{ID}表达式的字符串
    * @returns 含{ID=character}表达式的字符串，若ID不存在，将返回ID的字符串
    */
-  solveIDRef(str: string) {
-    return str.replace(/{(.+?)}/g, (_match, id) => {
+  solveIDRef(text: string) {
+    const regexp = /{([^}]+)}/g;
+    let match: RegExpExecArray | null;
+    let lastIndex = 0;
+    const parts: (string | { id: string; char: string })[] = [];
+    while ((match = regexp.exec(text)) !== null) {
+      const expStart = regexp.lastIndex - match[0].length;
+      // 当前match之前的文本
+      if (lastIndex < expStart) {
+        parts.push(text.slice(lastIndex, expStart));
+      }
+      const id = match[1];
       const entry = this.getEntry(id);
-      return entry
-        ? `{${id}=${entry.characters[0]}}`
-        : id;
-    });
+      // 当前match
+      parts.push({
+        id: id,
+        char: entry ? entry.characters[0] : id
+      });
+      // 更新初始位置
+      lastIndex = regexp.lastIndex;
+    }
+    if (lastIndex < text.length) {
+      parts.push(text.slice(lastIndex));
+    }
+    return parts;
   }
 
   /**
@@ -247,10 +272,4 @@ type EntryKeys = {
   [Key in keyof Entry]?: Key;
 }[keyof Entry][];
 
-export {
-  writeJSON,
-  readJSON,
-  parseDB,
-  exportDB,
-  DB
-};
+export { writeJSON, readJSON, parseDB, exportDB, DB };
