@@ -1,14 +1,14 @@
-import fs from "fs";
+import fs from 'fs';
 import path from 'path';
-import { DB, exportDB, parseDB, writeJSON } from "./utilities";
-import { isEntry } from "./checkSJON";
-import { Entry } from "../types/index";
+import { DB, exportDB } from './utilities';
+import { isEntry } from './checkSJON';
+import { Entry } from '../types/index';
 
 const dataDir = './data';
 const dbNames: string[] = [];
 
 function getNames(dir: string) {
-  fs.readdirSync(dir).forEach((file) => {
+  fs.readdirSync(dir).forEach(file => {
     const filePath = path.join(dir, file);
     const isDirectory = fs.statSync(filePath).isDirectory();
     if (isDirectory) {

@@ -39,11 +39,17 @@ interface Entry {
 }
 
 /**
+ * 对于含有{id}表达式的字符串，它将在导出时转换为一个数组，
+ * 其中{id}的位置被替换为{id: string; char: string}
+ */
+type TextList = (string | { id: string; char: string })[];
+
+/**
  * 词/句的中英双语释义
  */
 interface Descriptions {
-  zh: string;
-  en: string;
+  zh: string | TextList;
+  en: string | TextList;
 }
 
 /**
@@ -58,7 +64,7 @@ interface Meaning {
  * 词语的释义，及该释义下的例句
  */
 interface Word {
-  format: string;
+  format: string | TextList;
   descriptions: Descriptions;
   sentences: Sentence[];
 }
@@ -67,7 +73,7 @@ interface Word {
  * 例句
  */
 interface Sentence {
-  format: string;
+  format: string | TextList;
   descriptions: Descriptions;
 }
 
