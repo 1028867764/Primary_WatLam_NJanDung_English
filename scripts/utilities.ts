@@ -81,6 +81,8 @@ function exportDB() {
           wordFormat = word.format = word.format.replace(/__self__/g, char);
         }
         solveIDRef(word, 'format');
+        solveIDRef(word, 'descriptions.zh');
+        solveIDRef(word, 'descriptions.en');
         word.sentences.forEach(sentence => {
           if (typeof sentence.format === 'string') {
             sentence.format = sentence.format.replace(/__self__/g, wordFormat);
