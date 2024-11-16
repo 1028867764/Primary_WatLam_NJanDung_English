@@ -26,12 +26,12 @@
 			"  \"related\": [${7}],",
 			"  \"pinyin\": \"\",",
 			"  \"jyutping\": \"${3}\",",
-			"  \"head\": \"${8|0,b-bb,c,d-dd,f,g,h,j,k,l,m,n,ng,nj,p,s,sl,t,w,z,多声母,特殊|}\",",
-			"  \"tail\": \"${9|m,n,ng,p,t,k,丢ng,丢k,元音韵尾,特殊|}\",",
-			"  \"ref\": \"${10}\",",
+			"  \"bbakLau\": \"${8}\",",
+			"  \"head\": \"${9|0,b-bb,c,d-dd,f,g,h,j,k,l,m,n,ng,nj,p,s,sl,t,w,z,多声母,特殊|}\",",
+			"  \"tail\": \"${10|m,n,ng,p,t,k,丢ng,丢k,元音韵尾|}\",",
 			"  \"refBy\": {},",
-			"  \"meanings\": [${10}]",
-			"}${11}"
+			"  \"meanings\": [${11}]",
+			"}${12}"
 		],
 		"description": "insert a entry in database"
 	},

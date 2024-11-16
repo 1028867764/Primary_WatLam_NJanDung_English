@@ -34,6 +34,7 @@ interface Entry {
   head: string;
   // 韵尾
   tail: string;
+  // 同音异体字的id序列,仅需列在主字
   refBy: string[] | { [id: string]: string };
   meanings: Meaning[];
 }
