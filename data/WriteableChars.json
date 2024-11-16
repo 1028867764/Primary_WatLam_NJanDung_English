@@ -26387,7 +26387,7 @@
                   }
                 },
                 {
-                  "format": "__self__游泳也{U+7740-zaa6}{U+6C89-zam4}死",
+                  "format": "__self__游泳也{U+7740-zaa6}{U+6C89-zam6}死",
                   "descriptions": {
                     "zh": "就算会游泳也被淹死了",
                     "en": "Even if he could swim, he was drowned"
@@ -34543,13 +34543,13 @@
     "U+2D94A-ge6": {
       "unicode": "U+2D94A",
       "characters": [
-        "𭥊"
+        "⿰既逢"
       ],
       "controversial": 0,
       "related": [
         "U+277D8-nong6"
       ],
-      "pinyin": "𭥊",
+      "pinyin": "",
       "jyutping": "ge6",
       "bbakLau": "",
       "head": "g",
