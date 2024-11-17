@@ -3256,62 +3256,6 @@
         }
       ]
     },
-    "A+78-gwo4": {
-      "unicode": "",
-      "characters": [
-        "gwo4"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "gwo4",
-      "jyutping": "gwo4",
-      "bbakLau": "",
-      "head": "g",
-      "tail": "元音韵尾",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "一种用来收拢谷物的农具",
-            "en": "A farming tool used to gather grains"
-          },
-          "words": [
-            {
-              "format": "__self__{U+22CC0-mo1}",
-              "descriptions": {
-                "zh": "一种用来收拢谷物的农具",
-                "en": "A farming tool used to gather grains"
-              },
-              "sentences": []
-            }
-          ]
-        },
-        {
-          "descriptions": {
-            "zh": "用工具收拢",
-            "en": "Use a farming tool to gather grains"
-          },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__成一{U+58A9-ddyng1}",
-                  "descriptions": {
-                    "zh": "收拢成一堆",
-                    "en": "Gather and pile up a pile of grains with a farming tool"
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     "A+80-jai3": {
       "unicode": "",
       "characters": [
