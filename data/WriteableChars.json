@@ -2657,7 +2657,7 @@
       "related": [
         "A+38-lung4",
         "U+59FC-ddoi3",
-        "U+6BD1-dde3"
+        "U+6BD1-dde2"
       ],
       "pinyin": "jin4",
       "jyutping": "zam5",
@@ -8320,7 +8320,7 @@
       ],
       "controversial": 2,
       "related": [
-        "U+9F74"
+        "U+9F74-njen2"
       ],
       "pinyin": "chan2",
       "jyutping": "zin1",
@@ -25318,14 +25318,14 @@
     "U+2C9B0-mak7": {
       "unicode": "U+2C9B0",
       "characters": [
-        "𬦰"
+        "⿰𧾷百"
       ],
       "controversial": 0,
       "related": [
         "U+30DF2-bon4",
         "U+64D2-kem3"
       ],
-      "pinyin": "𬦰",
+      "pinyin": "",
       "jyutping": "mak7",
       "bbakLau": "",
       "head": "m",
@@ -25754,7 +25754,7 @@
     "U+2D9EA-mak7": {
       "unicode": "U+2D9EA",
       "characters": [
-        "𭧪"
+        "⿰日黑"
       ],
       "controversial": 0,
       "related": [
@@ -25763,9 +25763,9 @@
         "U+591C-je6",
         "U+232DF-mo1",
         "U+5149-gwong1",
-        "U+204C7-long1"
+        "U+2439C-long1"
       ],
-      "pinyin": "𭧪",
+      "pinyin": "",
       "jyutping": "mak7",
       "bbakLau": "",
       "head": "m",
@@ -31803,7 +31803,7 @@
       "related": [
         "U+5997-zam5",
         "A+38-lung4",
-        "U+6BD1-dde3"
+        "U+6BD1-dde2"
       ],
       "pinyin": "shi2",
       "jyutping": "ddoi3",
@@ -37716,7 +37716,7 @@
       "related": [
         "U+2D9EA-mak7",
         "U+5149-gwong1",
-        "U+204C7-long1"
+        "U+2439C-long1"
       ],
       "pinyin": "𣋟",
       "jyutping": "mo1",
@@ -37754,13 +37754,13 @@
     "U+2C186-meu2": {
       "unicode": "U+2C186",
       "characters": [
-        "𬆆"
+        "⿰歪卯"
       ],
       "controversial": 0,
       "related": [
         "A+5-cam2"
       ],
-      "pinyin": "𬆆",
+      "pinyin": "",
       "jyutping": "meu2",
       "bbakLau": "",
       "head": "m",
@@ -45473,6 +45473,46 @@
                   "descriptions": {
                     "zh": "收拢成一堆",
                     "en": "Gather and pile up a pile of grains with a farming tool"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "U+2E5A7-pang1": {
+      "unicode": "U+2E5A7",
+      "characters": [
+        "⿰衤旁"
+      ],
+      "controversial": 0,
+      "related": [],
+      "pinyin": "",
+      "jyutping": "pang1",
+      "bbakLau": "",
+      "head": "p",
+      "tail": "ng",
+      "refBy": [],
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "披上（衣物）",
+            "en": "To put on (clothing)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__件{U+891B-lau1}",
+                  "descriptions": {
+                    "zh": "披一件外套",
+                    "en": "Put on a coat"
                   }
                 }
               ]

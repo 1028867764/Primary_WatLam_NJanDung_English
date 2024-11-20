@@ -1166,7 +1166,7 @@
       "related": [
         "U+5997-zam5",
         "U+59FC-ddoi3",
-        "U+6BD1-dde3"
+        "U+6BD1-dde2"
       ],
       "pinyin": "lung4",
       "jyutping": "lung4",
@@ -1457,46 +1457,6 @@
                   "descriptions": {
                     "zh": "没工作呆在家里",
                     "en": "No job, stay at home"
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "A+44-pang1": {
-      "unicode": "",
-      "characters": [
-        "pang1"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "pang1",
-      "jyutping": "pang1",
-      "bbakLau": "",
-      "head": "p",
-      "tail": "ng",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "披上（衣物）",
-            "en": "To put on (clothing)"
-          },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__件{U+891B-lau1}",
-                  "descriptions": {
-                    "zh": "披一件外套",
-                    "en": "Put on a coat"
                   }
                 }
               ]
