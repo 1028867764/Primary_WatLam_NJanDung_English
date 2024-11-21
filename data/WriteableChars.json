@@ -33027,8 +33027,8 @@
       "meanings": [
         {
           "descriptions": {
-            "zh": "量词，衡量轻微接触的动作；所选字仅为个人主张，本词汇或来源于壮语的「ciuq」",
-            "en": "The measure unit of slight instantaneous touches; The selected character「{U+54AE-ddiu3}」is only for reference, and this vocabulary may be derived from the Zhuang language's word「ciuq」"
+            "zh": "量词，衡量轻微接触的动作；本词汇或来源于壮语的「ciuq」",
+            "en": "The measure unit of slight instantaneous touches; This vocabulary may be derived from the Zhuang language's word「ciuq」"
           },
           "words": [
             {
@@ -37940,10 +37940,10 @@
           },
           "words": [
             {
-              "format": "{U+4EF2-zung6}__self__{U+66FE-dang4}",
+              "format": "__self__{U+66FE-dang4}",
               "descriptions": {
-                "zh": "仍未",
-                "en": "Still not, have not yet"
+                "zh": "仍未，从未",
+                "en": "Still not, have not yet, never"
               },
               "sentences": [
                 {
@@ -44622,8 +44622,8 @@
       "meanings": [
         {
           "descriptions": {
-            "zh": "钻入（该字暂未找到正字，所选字仅为个人主张）",
-            "en": "Burrow down, duck into (The original character has not been found yet, and the selected character is only for reference)"
+            "zh": "钻入",
+            "en": "Burrow down, duck into"
           },
           "words": [
             {

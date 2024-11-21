@@ -537,24 +537,7 @@
             "zh": "干净，整洁",
             "en": "Clean and tidy, neat"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         }
       ]
     },
