@@ -2347,7 +2347,7 @@
                   }
                 },
                 {
-                  "format": "{U+64E2-tuk7}薯藤__self__出白色{U+30BBD-njaa1}",
+                  "format": "{U+6410-tuk7}薯藤__self__出白色{U+30BBD-njaa1}",
                   "descriptions": {
                     "zh": "拔断番薯藤，渗出白色浆液",
                     "en": "Tear off the sweet potato vines, exuding white pulp"
@@ -3639,7 +3639,7 @@
       ],
       "controversial": 0,
       "related": [
-        "U+64E2-tuk7",
+        "U+6410-tuk7",
         "U+50DC-cang2"
       ],
       "pinyin": "den4",
@@ -4725,7 +4725,9 @@
       "bbakLau": "",
       "head": "g",
       "tail": "n",
-      "refBy": [],
+      "refBy": [
+        "U+4EF6-gin5"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -10309,7 +10311,7 @@
         }
       ]
     },
-    "U+2E732-gung3": {
+    "U+2B2D0-gung3": {
       "unicode": "U+2B2D0",
       "characters": [
         "⿰虫貢"
@@ -11256,7 +11258,8 @@
     "U+7ABF-lung1": {
       "unicode": "U+7ABF",
       "characters": [
-        "窿"
+        "窿",
+        "竉"
       ],
       "controversial": 0,
       "related": [],
@@ -11663,7 +11666,7 @@
                   }
                 },
                 {
-                  "format": "__self__{U+54AE-ddiu3}{U+7247-pin3}{U+9762-min6}{U+5206-fan1}你！",
+                  "format": "__self__{U+564D-ddiu3}{U+7247-pin3}{U+9762-min6}{U+5206-fan1}你！",
                   "descriptions": {
                     "zh": "亲一口你的脸！",
                     "en": "Give your face a kiss!"
@@ -13462,7 +13465,7 @@
       ],
       "controversial": 0,
       "related": [
-        "U+97A0-nguk7"
+        "U+20904-nguk7"
       ],
       "pinyin": "gong3",
       "jyutping": "kung2",
@@ -16285,7 +16288,7 @@
         }
       ]
     },
-    "U+2108F-lep8": {
+    "U+445C-lep8": {
       "unicode": "U+445C",
       "characters": [
         "䑜",
@@ -16316,7 +16319,7 @@
               },
               "sentences": [
                 {
-                  "format": "__self__狗{U+2108F-lep8}蔗皮，{w+153-mo5lau1}偷饭皮",
+                  "format": "__self__狗{U+445C-lep8}蔗皮，{w+153-mo5lau1}偷饭皮",
                   "descriptions": {
                     "zh": "贪吃狗馋甘蔗皮，猴子偷吃米饭锅巴",
                     "en": "Greedy dogs crave sugarcane peels, monkeys steal rice crust"
@@ -17861,7 +17864,7 @@
               },
               "sentences": [
                 {
-                  "format": "手机__self__屎{U+7A87-bak9}",
+                  "format": "手机__self__屎{U+5798-bak9}",
                   "descriptions": {
                     "zh": "手机掉进厕所",
                     "en": "Mobile phone falling into the toilet"
@@ -18787,7 +18790,7 @@
       ],
       "controversial": 0,
       "related": [
-        "U+64E2-tuk7",
+        "U+6410-tuk7",
         "U+634B-lot8"
       ],
       "pinyin": "lü3",
@@ -19714,7 +19717,7 @@
                   }
                 },
                 {
-                  "format": "{U+4F7F-sai2}火钳__self__{U+54AE-ddiu3}{U+4F62-gyu5}{U+96BB-zik7}手",
+                  "format": "{U+4F7F-sai2}火钳__self__{U+564D-ddiu3}{U+4F62-gyu5}{U+96BB-zik7}手",
                   "descriptions": {
                     "zh": "用火钳烫一下他的手",
                     "en": "Burn his hand with tongs"
@@ -20523,7 +20526,7 @@
       ],
       "controversial": 0,
       "related": [
-        "U+64E2-tuk7",
+        "U+5648-tuk7",
         "U+7117-guk9"
       ],
       "pinyin": "qu1",
@@ -21021,7 +21024,9 @@
       "bbakLau": "",
       "head": "多声母",
       "tail": "t",
-      "refBy": [],
+      "refBy": [
+        "U+62C2-pat7"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -21968,7 +21973,7 @@
         }
       ]
     },
-    "U+7A87-bak9": {
+    "U+5798-bak9": {
       "unicode": "U+5798",
       "characters": [
         "垘"
@@ -23187,7 +23192,7 @@
       ],
       "controversial": 0,
       "related": [
-        "U+54AE-ddiu3",
+        "U+564D-ddiu3",
         "U+22DD5-mau1",
         "U+67AA-taa1"
       ],
@@ -26025,7 +26030,7 @@
         }
       ]
     },
-    "U+97A0-nguk7": {
+    "U+20904-nguk7": {
       "unicode": "U+20904",
       "characters": [
         "𠤄"
@@ -26079,7 +26084,7 @@
               },
               "sentences": [
                 {
-                  "format": "条山路__self__来{U+97A0-nguk7}去，{U+6781-gik9}难{U+884C-aa4}",
+                  "format": "条山路__self__来{U+20904-nguk7}去，{U+6781-gik9}难{U+884C-aa4}",
                   "descriptions": {
                     "zh": "这山路弯来弯去的，真难走",
                     "en": "This mountain road twists and turns, it's really difficult to drive on"
@@ -26209,7 +26214,7 @@
               },
               "sentences": [
                 {
-                  "format": "__self__{U+9033-njuk7}{U+2E732-gung3}",
+                  "format": "__self__{U+9033-njuk7}{U+2B2D0-gung3}",
                   "descriptions": {
                     "zh": "（蛆虫）蠕动",
                     "en": "(Maggot) Wriggling"
@@ -26811,7 +26816,7 @@
         }
       ]
     },
-    "U+64E2-tuk7": {
+    "U+6410-tuk7": {
       "unicode": "U+6410",
       "characters": [
         "搐",
@@ -27411,7 +27416,7 @@
       ],
       "controversial": 0,
       "related": [
-        "U+8E7D-liu1"
+        "U+8E58-liu1"
       ],
       "pinyin": "xing2",
       "jyutping": "aa4",
@@ -28107,7 +28112,7 @@
       "controversial": 0,
       "related": [
         "A+64-bbaa1",
-        "U+64E2-tuk7",
+        "U+6410-tuk7",
         "U+5265-muk7"
       ],
       "pinyin": "meng3",
@@ -28459,7 +28464,7 @@
       "controversial": 0,
       "related": [
         "U+77FA-ddik7",
-        "U+54AE-ddiu3"
+        "U+564D-ddiu3"
       ],
       "pinyin": "qiang1",
       "jyutping": "taa1",
@@ -29588,7 +29593,7 @@
       ],
       "controversial": 0,
       "related": [
-        "U+7A87-bak9",
+        "U+5798-bak9",
         "U+21CA2-ke1",
         "U+577A-bet10",
         "U+670F-wat7",
@@ -31340,7 +31345,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+7740-zaa6}马蜂__self__{U+54AE-ddiu3}",
+                  "format": "{U+7740-zaa6}马蜂__self__{U+564D-ddiu3}",
                   "descriptions": {
                     "zh": "被马蜂蛰了一口",
                     "en": "Stung by a wasp"
@@ -33006,7 +33011,7 @@
       "refBy": [],
       "meanings": []
     },
-    "U+54AE-ddiu3": {
+    "U+564D-ddiu3": {
       "unicode": "U+564D",
       "characters": [
         "噍",
@@ -35622,7 +35627,7 @@
       "controversial": 0,
       "related": [
         "U+5C59-eo1",
-        "U+7A87-bak9",
+        "U+5798-bak9",
         "U+6DBF-dduk7",
         "U+577A-bet10",
         "U+670F-wat7",
@@ -36126,7 +36131,7 @@
       "refBy": [],
       "meanings": []
     },
-    "U+8E7D-liu1": {
+    "U+8E58-liu1": {
       "unicode": "U+8E58",
       "characters": [
         "蹘"
@@ -38161,7 +38166,7 @@
       ],
       "controversial": 0,
       "related": [
-        "U+54AE-ddiu3",
+        "U+564D-ddiu3",
         "U+77FA-ddik7",
         "U+6409-gwak7"
       ],
@@ -39349,7 +39354,9 @@
       "bbakLau": "",
       "head": "nj",
       "tail": "元音韵尾",
-      "refBy": [],
+      "refBy": [
+        "U+55C5-zau3"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -42066,7 +42073,7 @@
               },
               "sentences": [
                 {
-                  "format": "屎{U+7A87-bak9}{A+3-nam1}__self__",
+                  "format": "屎{U+5798-bak9}{A+3-nam1}__self__",
                   "descriptions": {
                     "zh": "厕所脏死了",
                     "en": "The toilet is too dirty"
@@ -43259,7 +43266,7 @@
       ],
       "controversial": 0,
       "related": [
-        "U+54AE-ddiu3",
+        "U+564D-ddiu3",
         "A+51-nep8",
         "U+34E4-gat7",
         "U+27C35-dduk7",
