@@ -94,26 +94,34 @@ function exportDB() {
       });
     });
     if (Array.isArray(entry.refBy)) {
-      entry.refBy.push(id);
-      const refBy = mainDB.solveIDIndex(entry.refBy);
-      Object.keys(refBy).forEach(refID => {
-        const refEntry = mainDB.getEntry(refID) as Entry;
-        refEntry.refBy = refBy;
-        if (refID !== id) {
-          Object.keys(entry).forEach(key => {
-            if (!['pinyin', 'jyutping', 'head', 'tail', 'ref'].includes(key)) {
-              refEntry[key] = entry[key];
-            }
-          });
-        }
-      });
+      if (entry.refBy.length) {
+        const allRef = [id, ...entry.refBy];
+        const refBy = mainDB.solveIDIndex(allRef);
+        allRef.forEach(refID => {
+          const refEntry = mainDB.innerDB.data[refID];
+          refEntry.refBy = refBy;
+          if (refID !== id) {
+            Object.keys(entry).forEach(key => {
+              if (!['pinyin', 'jyutping', 'head', 'tail', 'bbakLau'].includes(key)) {
+                refEntry[key] = entry[key];
+              }
+            });
+          }
+        });
+      } else {
+        entry.refBy = {};
+      }
     }
     if (Array.isArray(entry.related)) {
-      entry.related.push(id);
-      const related = mainDB.solveIDIndex(entry.related);
-      Object.keys(related).forEach(relID => {
-        mainDB.getEntry(relID)!.related = related;
-      });
+      if (entry.related.length) {
+        const allRelaed = [id, ...entry.related];
+        const related = mainDB.solveIDIndex(allRelaed);
+        allRelaed.forEach(relID => {
+          mainDB.innerDB.data[relID].related = related;
+        });
+      } else {
+        entry.related = {};
+      }
     }
   }
   mainDB.save('./test');

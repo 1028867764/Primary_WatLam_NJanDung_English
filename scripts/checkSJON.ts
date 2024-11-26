@@ -94,6 +94,7 @@ export function isEntry(input: object) {
     controversial: isCVDegree,
     related: isStringArray,
     pinyin: 'string',
+    bbakLau: 'string',
     jyutping: 'string',
     head: 'string',
     tail: 'string',
