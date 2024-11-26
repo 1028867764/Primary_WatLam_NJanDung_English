@@ -51,12 +51,20 @@ function _parseDB(dbName: DBName): DataBase {
   return readJSON(`./data/${dbName}.json`);
 }
 
-/**
- * 合并所有词条到`test/main.ts`，并解决所有引用
- */
-function exportDB() {
+function mergeDB() {
   const dbs = parseDB();
   const mainDB = new DB('main');
+  for (const dbName in dbs) {
+    mainDB.innerDB.data = Object.assign(mainDB.innerDB.data, dbs[dbName].data);
+  }
+  return mainDB;
+}
+
+/**
+ * 合并所有词条到`test/main.json`，并解决所有引用
+ */
+function exportDB() {
+  const mainDB = mergeDB();
   function solveIDRef(obj: object, path: string) {
     const [head, ...tail] = path.split('.');
     // 仅对末位属性赋值（跳过那些已经solve过的）
@@ -66,10 +74,8 @@ function exportDB() {
       solveIDRef(obj[head], tail.join('.'));
     }
   }
-  for (const dbName in dbs) {
-    mainDB.innerDB.data = Object.assign(mainDB.innerDB.data, dbs[dbName].data);
-  }
   for (const id in mainDB.innerDB.data) {
+    console.log(`solve ID ${id}`);
     const entry = mainDB.innerDB.data[id];
     const char = entry.characters[0];
     entry.meanings.forEach(meaning => {
@@ -117,6 +123,7 @@ function exportDB() {
         const allRelaed = [id, ...entry.related];
         const related = mainDB.solveIDIndex(allRelaed);
         allRelaed.forEach(relID => {
+          console.log(`solve relID: ${relID}`);
           mainDB.innerDB.data[relID].related = related;
         });
       } else {
@@ -282,4 +289,4 @@ type EntryKeys = {
   [Key in keyof Entry]?: Key;
 }[keyof Entry][];
 
-export { writeJSON, readJSON, parseDB, exportDB, DB };
+export { writeJSON, readJSON, parseDB, mergeDB, exportDB, DB };

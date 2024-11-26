@@ -31,6 +31,7 @@ interface Entry {
   related: string[] | { [id: string]: string };
   pinyin: string;
   jyutping: string;
+  bbakLau: string;
   head: string;
   // 韵尾
   tail: string;

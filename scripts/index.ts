@@ -5,15 +5,15 @@ import { isEntry } from './checkSJON';
 import { Entry } from '../types/index';
 
 const dataDir = './data';
-const dbNames: string[] = [];
 
-function getNames(dir: string) {
+function getDBNames(dir: string): string[] {
+  const dbNames: string[] = [];
   fs.readdirSync(dir).forEach(file => {
     const filePath = path.join(dir, file);
     const isDirectory = fs.statSync(filePath).isDirectory();
     if (isDirectory) {
       // 如果是目录，则递归读取
-      getNames(filePath);
+      getDBNames(filePath);
     } else {
       // 如果是.json文件，则提取文件名（不包含扩展名）
       if (filePath.endsWith('.json')) {
@@ -21,15 +21,15 @@ function getNames(dir: string) {
       }
     }
   });
+  return dbNames;
 }
 
 function autoDeclare() {
   let content = `// 自动生成的类型声明文件\n`;
-  content += `export type DBName = \n\t| '${dbNames.join("'\n\t| '")}'\n;`;
+  content += `export type DBName = \n\t| '${getDBNames(dataDir).join("'\n\t| '")}'\n;`;
   fs.writeFileSync('./types/autoExportTypes.d.ts', content);
 }
 
-getNames(dataDir);
 autoDeclare();
 
 console.log('类型声明文件生成完毕。');
