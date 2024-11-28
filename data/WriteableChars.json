@@ -1090,8 +1090,8 @@
       ],
       "controversial": 0,
       "related": [
-        "w+92-nang1gai1",
-        "w+93-bbo1no1",
+        "W+92-nang1gai1",
+        "W+93-bbo1no1",
         "U+5664-gam3"
       ],
       "pinyin": "𥀬",
@@ -1376,7 +1376,7 @@
                   }
                 },
                 {
-                  "format": "{U+6260-co1}{U+6260-co1}{w+45-di6ddai2}又__self__{U+3A06-lam1}{U+7247-pin3}{U+9762-min6}，{U+5187-mau5}{U+8BC6-syk7}{A+3-nam1}！",
+                  "format": "{U+6260-co1}{U+6260-co1}{W+45-di6ddai2}又__self__{U+3A06-lam1}{U+7247-pin3}{U+9762-min6}，{U+5187-mau5}{U+8BC6-syk7}{A+3-nam1}！",
                   "descriptions": {
                     "zh": "用手掌按压地面之后又抹在脸上，真邋遢！",
                     "en": "Pressing the ground with the palm and then directly wiping the face with the hand, it's really dirty!"
@@ -1539,7 +1539,7 @@
               },
               "sentences": [
                 {
-                  "format": "一__self__{w+106-luk9buk9}{U+5B50-ddi2}",
+                  "format": "一__self__{W+106-luk9buk9}{U+5B50-ddi2}",
                   "descriptions": {
                     "zh": "一瓣柚子",
                     "en": "A segment of pomelo"
@@ -2139,8 +2139,8 @@
       ],
       "controversial": 0,
       "related": [
-        "w+58-ddeou2ji02",
-        "w+59-zau6ji02"
+        "W+58-ddeou2ji02",
+        "W+59-zau6ji02"
       ],
       "pinyin": "yan2",
       "jyutping": "ngom01",
@@ -3194,7 +3194,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+4F62-gyu5}{w+61-tau1jam01}{A+er}__self__出教室",
+                  "format": "{U+4F62-gyu5}{W+61-tau1jam01}{A+er}__self__出教室",
                   "descriptions": {
                     "zh": "他悄悄爬出教室",
                     "en": "He quietly crawled out of the classroom"
@@ -3320,7 +3320,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+6253-ddo2}床{w+45-di6ddai2}__self__出{U+96BB-zik7}手",
+                  "format": "{U+6253-ddo2}床{W+45-di6ddai2}__self__出{U+96BB-zik7}手",
                   "descriptions": {
                     "zh": "从床底伸出一只手",
                     "en": "Extend a hand from under the bed"
@@ -3663,7 +3663,7 @@
               },
               "sentences": [
                 {
-                  "format": "音响放{U+5481-gam2}大声，{w+49-nji5gwai2}{U+603B-ddung2}{U+7740-zaa6}__self__聋{A+a}{A+le5}",
+                  "format": "音响放{U+5481-gam2}大声，{W+49-nji5gwai2}{U+603B-ddung2}{U+7740-zaa6}__self__聋{A+a}{A+le5}",
                   "descriptions": {
                     "zh": "音响放得那么大声，耳朵都被震聋了",
                     "en": "The sound system was playing so loudly that my ears were deafened"
@@ -4207,7 +4207,7 @@
               },
               "sentences": [
                 {
-                  "format": "__self__半日{w+88-gwai6tung2}{U+4EF2-zung6}{U+5187-mau5}见锁匙",
+                  "format": "__self__半日{W+88-gwai6tung2}{U+4EF2-zung6}{U+5187-mau5}见锁匙",
                   "descriptions": {
                     "zh": "翻了半天抽屉仍未能找到钥匙",
                     "en": "After rummaging through the drawers for a long time, I still couldn't find the key"
@@ -4408,8 +4408,8 @@
       "related": [
         "U+4F4F-zyu6",
         "U+26777-bbaa3",
-        "w+83-fong3mo5",
-        "w+84-zo3njau4",
+        "W+83-fong3mo5",
+        "W+84-zo3njau4",
         "U+5C59-eo1",
         "U+6FD1-loi6"
       ],
@@ -5416,7 +5416,7 @@
               },
               "sentences": [
                 {
-                  "format": "__self__{U+67B6-go3}边斗车出{w+43-tin1din4}",
+                  "format": "__self__{U+67B6-go3}边斗车出{W+43-tin1din4}",
                   "descriptions": {
                     "zh": "把边斗车拉出到外面空旷地方",
                     "en": "Pull the side cart to an open area outside"
@@ -5729,14 +5729,14 @@
               },
               "sentences": [
                 {
-                  "format": "记{U+5F97-ddak7}__self__{U+5572-ni01}饭菜{U+7540-bbi2}{w+40-leou5dau6}",
+                  "format": "记{U+5F97-ddak7}__self__{U+5572-ni01}饭菜{U+7540-bbi2}{W+40-leou5dau6}",
                   "descriptions": {
                     "zh": "记得给老爸留点饭菜",
                     "en": "Remember to leave some food for dad"
                   }
                 },
                 {
-                  "format": "{U+7FFB-fon1}大风，{U+843D-lok10}大雨，天上{U+8DCC-ddit7}{U+2CF82-lang3}{U+96BB-zik7}{w+80-wui1leou5syu2}，公{U+5403-hik7}头，婆{U+5403-hik7}尾，__self__出中间喂老李",
+                  "format": "{U+7FFB-fon1}大风，{U+843D-lok10}大雨，天上{U+8DCC-ddit7}{U+2CF82-lang3}{U+96BB-zik7}{W+80-wui1leou5syu2}，公{U+5403-hik7}头，婆{U+5403-hik7}尾，__self__出中间喂老李",
                   "descriptions": {
                     "zh": "刮大风，下大雨，天上掉下个灰老鼠，老公吃头，老婆吃尾，留出中间喂老李",
                     "en": "Strong wind, heavy rain, and a gray mouse falling from the sky. The husband eats the head of gray mouse and the wife eats the tail, leaving the middle part to feed Old Li"
@@ -6027,7 +6027,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+5C15-nai3}{U+4FAC-nung5}{A+er}__self__{w+45-di6ddai2}",
+                  "format": "{U+5C15-nai3}{U+4FAC-nung5}{A+er}__self__{W+45-di6ddai2}",
                   "descriptions": {
                     "zh": "小孩在地上打滚",
                     "en": "Children rolling on the ground"
@@ -6539,7 +6539,7 @@
       ],
       "controversial": 0,
       "related": [
-        "w+70-wing5wang6wang6"
+        "W+70-wing5wang6wang6"
       ],
       "pinyin": "man2",
       "jyutping": "mun6",
@@ -6652,7 +6652,7 @@
               },
               "sentences": [
                 {
-                  "format": "你__self__{U+5481-gam2}{A+er}多{w+48-fuk7fat7}{U+4F5C-ddok8}{U+35B7-si5}{U+4B87-lat9}？",
+                  "format": "你__self__{U+5481-gam2}{A+er}多{W+48-fuk7fat7}{U+4F5C-ddok8}{U+35B7-si5}{U+4B87-lat9}？",
                   "descriptions": {
                     "zh": "你耍这么多花招干什么？",
                     "en": "Why are you playing so many tricks?"
@@ -7139,7 +7139,7 @@
               },
               "sentences": [
                 {
-                  "format": "{w+77-ddeou3mun4}{U+5F97-ddak7}{U+5481-gam2}{A+er}__self__",
+                  "format": "{W+77-ddeou3mun4}{U+5F97-ddak7}{U+5481-gam2}{A+er}__self__",
                   "descriptions": {
                     "zh": "厨房里的烟怎么这么多",
                     "en": "Why is there so much smoke in the kitchen"
@@ -9503,7 +9503,7 @@
                   }
                 },
                 {
-                  "format": "{w+45-di6ddai2}湿，膝头{U+5187-mau5}__self__跪",
+                  "format": "{W+45-di6ddai2}湿，膝头{U+5187-mau5}__self__跪",
                   "descriptions": {
                     "zh": "地面湿了，膝盖不方便跪下",
                     "en": "The ground is wet, making it inconvenient for knees to kneel down"
@@ -9552,7 +9552,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+651E-leo2}{w+50-hau2zung1}__self__杯水",
+                  "format": "{U+651E-leo2}{W+50-hau2zung1}__self__杯水",
                   "descriptions": {
                     "zh": "拿杯子接一杯水",
                     "en": "Take a cup and receive a cup of water"
@@ -13446,7 +13446,7 @@
               },
               "sentences": [
                 {
-                  "format": "面包{U+7740-zaa6}{w+135-man4nyng4}__self__过{A+le5}",
+                  "format": "面包{U+7740-zaa6}{W+135-man4nyng4}__self__过{A+le5}",
                   "descriptions": {
                     "zh": "面包被苍蝇沾染过了",
                     "en": "The bread has been stained by flies"
@@ -14896,7 +14896,7 @@
               },
               "sentences": [
                 {
-                  "format": "{w+45-di6ddai2}有{U+58A9-ddyng1}{U+6728-muk9}__self__",
+                  "format": "{W+45-di6ddai2}有{U+58A9-ddyng1}{U+6728-muk9}__self__",
                   "descriptions": {
                     "zh": "地上有一堆木屑",
                     "en": "There is a pile of sawdust on the ground"
@@ -16319,7 +16319,7 @@
               },
               "sentences": [
                 {
-                  "format": "__self__狗{U+445C-lep8}蔗皮，{w+153-mo5lau1}偷饭皮",
+                  "format": "__self__狗{U+445C-lep8}蔗皮，{W+153-mo5lau1}偷饭皮",
                   "descriptions": {
                     "zh": "贪吃狗馋甘蔗皮，猴子偷吃米饭锅巴",
                     "en": "Greedy dogs crave sugarcane peels, monkeys steal rice crust"
@@ -16490,7 +16490,7 @@
           },
           "words": [
             {
-              "format": "吵__self__{w+49-nji5gwai2}",
+              "format": "吵__self__{W+49-nji5gwai2}",
               "descriptions": {
                 "zh": "形容噪声刺耳",
                 "en": "Describing the harsh noise"
@@ -17137,8 +17137,8 @@
       "controversial": 0,
       "related": [
         "U+21CA2-ke1",
-        "w+83-fong3mo5",
-        "w+84-zo3njau4",
+        "W+83-fong3mo5",
+        "W+84-zo3njau4",
         "U+5C59-eo1"
       ],
       "pinyin": "fa2",
@@ -17433,7 +17433,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+7740-zaa6}{w+131-lou4zou1}__self__尿",
+                  "format": "{U+7740-zaa6}{W+131-lou4zou1}__self__尿",
                   "descriptions": {
                     "zh": "被蜘蛛撒尿",
                     "en": "Stung by venom released by spiders"
@@ -17743,7 +17743,7 @@
               },
               "sentences": [
                 {
-                  "format": "开车{w+60-si4ging3}__self__{U+6781-gik9}{U+5DAC-nji4}{U+5DC7-hi1}",
+                  "format": "开车{W+60-si4ging3}__self__{U+6781-gik9}{U+5DAC-nji4}{U+5DC7-hi1}",
                   "descriptions": {
                     "zh": "开车时候发呆很危险",
                     "en": "It's dangerous to daydream while driving"
@@ -17906,7 +17906,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+96BB-zik7}{w+79-wui1leou5}，{U+4E2A-geo3}{A+tsu}{U+56E9-wan4}{A+er}{U+4EF2-zung6}{U+5187-mau5}__self__？",
+                  "format": "{U+96BB-zik7}{W+79-wui1leou5}，{U+4E2A-geo3}{A+tsu}{U+56E9-wan4}{A+er}{U+4EF2-zung6}{U+5187-mau5}__self__？",
                   "descriptions": {
                     "zh": "那家伙，这次还不完蛋？",
                     "en": "That guy, isn't he screwed this time?"
@@ -18128,7 +18128,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+67B6-go3}飞机__self__{U+843D-lok10}{w+45-di6ddai2}",
+                  "format": "{U+67B6-go3}飞机__self__{U+843D-lok10}{W+45-di6ddai2}",
                   "descriptions": {
                     "zh": "飞机头朝下俯冲插入地面",
                     "en": "The aircraft nosedive downwards and insert into the ground"
@@ -18845,7 +18845,7 @@
               },
               "sentences": [
                 {
-                  "format": "{w+45-di6ddai2}滑__self__",
+                  "format": "{W+45-di6ddai2}滑__self__",
                   "descriptions": {
                     "zh": "地面滑溜溜",
                     "en": "The ground is slippery"
@@ -20205,7 +20205,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+4F7F-sai2}{U+96BB-zik7}{U+2D75E-gwoi5}__self__水上地{U+575C-lik7}淋{w+115-gwat7slyun3}",
+                  "format": "{U+4F7F-sai2}{U+96BB-zik7}{U+2D75E-gwoi5}__self__水上地{U+575C-lik7}淋{W+115-gwat7slyun3}",
                   "descriptions": {
                     "zh": "用瓢撇水到田垄上浇大蒜",
                     "en": "Use a dipper to ladle water and splash onto the ridges for watering the garlic"
@@ -20448,8 +20448,8 @@
         "U+95AA-hai1",
         "U+5C44-bbe1",
         "U+5C44-be5",
-        "w+75-aa6ddi2",
-        "w+76-aa6ge5"
+        "W+75-aa6ddi2",
+        "W+76-aa6ge5"
       ],
       "pinyin": "𨳍",
       "jyutping": "toet10",
@@ -21984,8 +21984,8 @@
         "U+577A-bet10",
         "U+670F-wat7",
         "U+63D9-bban2",
-        "w+83-fong3mo5",
-        "w+84-zo3njau4",
+        "W+83-fong3mo5",
+        "W+84-zo3njau4",
         "U+5C59-eo1"
       ],
       "pinyin": "fu2",
@@ -24046,7 +24046,7 @@
               },
               "sentences": [
                 {
-                  "format": "碟菜{U+5187-mau5}记{U+5F97-ddak7}{A+47-tang1}{U+7D27-gan2}，__self__{U+5F97-ddak7}一{U+58A9-ddyng1}{w+135-man4nyng4}",
+                  "format": "碟菜{U+5187-mau5}记{U+5F97-ddak7}{A+47-tang1}{U+7D27-gan2}，__self__{U+5F97-ddak7}一{U+58A9-ddyng1}{W+135-man4nyng4}",
                   "descriptions": {
                     "zh": "这碟菜忘记罩好了，结果引来了一大堆苍蝇",
                     "en": "Forgot to cover this dish properly, which resulted in a lot of flies gathering"
@@ -25547,8 +25547,8 @@
             {
               "format": "{U+7F49-caa1}耳__self__",
               "descriptions": {
-                "zh": "同「{w+97-keu1lin4}」；一种油炸小吃，有点像升级版的「莫比乌斯环」，又有点像丰田车标",
-                "en": "Same as「{w+97-keu1lin4}」; A fried snack that resembles an upgraded version of the Mobius Ring and also resembles the Toyota logo"
+                "zh": "同「{W+97-keu1lin4}」；一种油炸小吃，有点像升级版的「莫比乌斯环」，又有点像丰田车标",
+                "en": "Same as「{W+97-keu1lin4}」; A fried snack that resembles an upgraded version of the Mobius Ring and also resembles the Toyota logo"
               },
               "sentences": []
             }
@@ -25720,8 +25720,8 @@
       "controversial": 0,
       "related": [
         "U+2502C-jim2",
-        "w+92-nang1gai1",
-        "w+93-bbo1no1"
+        "W+92-nang1gai1",
+        "W+93-bbo1no1"
       ],
       "pinyin": "meng4",
       "jyutping": "mak9",
@@ -27582,8 +27582,8 @@
                 {
                   "format": "__self__耳{U+5265-muk7}",
                   "descriptions": {
-                    "zh": "同「{w+97-keu1lin4}」；一种油炸小吃，有点像升级版的「莫比乌斯环」，又有点像丰田车标",
-                    "en": "Same as「{w+97-keu1lin4}」, A fried snack that resembles an upgraded version of the Mobius Ring and also resembles the Toyota logo"
+                    "zh": "同「{W+97-keu1lin4}」；一种油炸小吃，有点像升级版的「莫比乌斯环」，又有点像丰田车标",
+                    "en": "Same as「{W+97-keu1lin4}」, A fried snack that resembles an upgraded version of the Mobius Ring and also resembles the Toyota logo"
                   }
                 },
                 {
@@ -27782,7 +27782,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+22CC2-bbat7}__self__{w+128-soi3si6}",
+                  "format": "{U+22CC2-bbat7}__self__{W+128-soi3si6}",
                   "descriptions": {
                     "zh": "舀一勺黄豆酱",
                     "en": "Spoon a spoonful of soybean sauce"
@@ -28143,7 +28143,7 @@
                   }
                 },
                 {
-                  "format": "__self__{w+115-gwat7slyun3}",
+                  "format": "__self__{W+115-gwat7slyun3}",
                   "descriptions": {
                     "zh": "收获大蒜",
                     "en": "Harvest garlic by pulling them up in the cultivated farmland"
@@ -28720,8 +28720,8 @@
       "related": [
         "U+5BC6-mat9",
         "U+957F-zaa4",
-        "w+57-dak9ddang01",
-        "w+56-ging3nang01"
+        "W+57-dak9ddang01",
+        "W+56-ging3nang01"
       ],
       "pinyin": "ying4",
       "jyutping": "njaa6",
@@ -29598,8 +29598,8 @@
         "U+577A-bet10",
         "U+670F-wat7",
         "U+63D9-bban2",
-        "w+83-fong3mo5",
-        "w+84-zo3njau4",
+        "W+83-fong3mo5",
+        "W+84-zo3njau4",
         "U+6FD1-loi6"
       ],
       "pinyin": "e1",
@@ -30416,8 +30416,8 @@
         "U+28CCD-toet10",
         "U+95AA-hai1",
         "U+5C44-be5",
-        "w+75-aa6ddi2",
-        "w+76-aa6ge5"
+        "W+75-aa6ddi2",
+        "W+76-aa6ge5"
       ],
       "pinyin": "bi1",
       "jyutping": "bbe1",
@@ -30462,8 +30462,8 @@
         "U+28CCD-toet10",
         "U+95AA-hai1",
         "U+5C44-bbe1",
-        "w+75-aa6ddi2",
-        "w+76-aa6ge5"
+        "W+75-aa6ddi2",
+        "W+76-aa6ge5"
       ],
       "pinyin": "bi1",
       "jyutping": "be5",
@@ -30492,8 +30492,8 @@
         "U+64F8-lop8",
         "U+5171-gung6",
         "U+540C-dung4",
-        "w+54-tau3dui6",
-        "w+55-tau3gung6"
+        "W+54-tau3dui6",
+        "W+55-tau3gung6"
       ],
       "pinyin": "pei2",
       "jyutping": "bbui1",
@@ -30870,7 +30870,7 @@
               },
               "sentences": [
                 {
-                  "format": "{w+137-dong4ni1}{A+er}{U+7740-zaa6}{w+131-lou4zou1}网__self__{U+4F4F-zyu6}",
+                  "format": "{W+137-dong4ni1}{A+er}{U+7740-zaa6}{W+131-lou4zou1}网__self__{U+4F4F-zyu6}",
                   "descriptions": {
                     "zh": "蜻蜓被蜘蛛网粘住",
                     "en": "The dragonfly is stuck by the spider web"
@@ -30977,7 +30977,7 @@
               },
               "sentences": [
                 {
-                  "format": "__self__{w+45-di6ddai2}",
+                  "format": "__self__{W+45-di6ddai2}",
                   "descriptions": {
                     "zh": "手臂向下，手掌向下按压地面",
                     "en": "Arm downwards, palm downwards, press hard against the ground"
@@ -32816,7 +32816,7 @@
                   }
                 },
                 {
-                  "format": "扫{U+9F50-dai4}{w+45-di6ddai2}，{U+4EF2-zung6}{U+7740-zaa6}拖__self__",
+                  "format": "扫{U+9F50-dai4}{W+45-di6ddai2}，{U+4EF2-zung6}{U+7740-zaa6}拖__self__",
                   "descriptions": {
                     "zh": "扫完地之后还要拖",
                     "en": "After sweeping the floor, we still need to mop it up"
@@ -34975,8 +34975,8 @@
         "U+28CCD-toet10",
         "U+5C44-bbe1",
         "U+5C44-be5",
-        "w+75-aa6ddi2",
-        "w+76-aa6ge5"
+        "W+75-aa6ddi2",
+        "W+76-aa6ge5"
       ],
       "pinyin": "se1",
       "jyutping": "hai1",
@@ -35528,7 +35528,7 @@
       ],
       "controversial": 0,
       "related": [
-        "w+79-wui1leou5"
+        "W+79-wui1leou5"
       ],
       "pinyin": "qi4",
       "jyutping": "kai3",
@@ -35632,8 +35632,8 @@
         "U+577A-bet10",
         "U+670F-wat7",
         "U+63D9-bban2",
-        "w+83-fong3mo5",
-        "w+84-zo3njau4"
+        "W+83-fong3mo5",
+        "W+84-zo3njau4"
       ],
       "pinyin": "𡲢",
       "jyutping": "ke1",
@@ -36522,8 +36522,8 @@
         "U+577A-bet10",
         "U+670F-wat7",
         "U+63D9-bban2",
-        "w+83-fong3mo5",
-        "w+84-zo3njau4"
+        "W+83-fong3mo5",
+        "W+84-zo3njau4"
       ],
       "pinyin": "lai4",
       "jyutping": "loi6",
@@ -37091,7 +37091,7 @@
               },
               "sentences": [
                 {
-                  "format": "条裙__self__{w+45-di6ddai2}{A+le5}",
+                  "format": "条裙__self__{W+45-di6ddai2}{A+le5}",
                   "descriptions": {
                     "zh": "裙子太长拖在地上",
                     "en": "The skirt is so long that drag onto the ground"
@@ -38241,7 +38241,7 @@
               },
               "sentences": [
                 {
-                  "format": "__self__{w+45-di6ddai2}",
+                  "format": "__self__{W+45-di6ddai2}",
                   "descriptions": {
                     "zh": "赖地不起",
                     "en": "Lying on the ground unwilling to stand up"
@@ -38284,7 +38284,7 @@
       ],
       "controversial": 0,
       "related": [
-        "w+40-leou5dau6"
+        "W+40-leou5dau6"
       ],
       "pinyin": "㜷",
       "jyutping": "me4",
@@ -42968,7 +42968,7 @@
                   }
                 },
                 {
-                  "format": "__self__{w+88-gwai6tung2}",
+                  "format": "__self__{W+88-gwai6tung2}",
                   "descriptions": {
                     "zh": "翻找抽屉",
                     "en": "Rummaging through drawers"

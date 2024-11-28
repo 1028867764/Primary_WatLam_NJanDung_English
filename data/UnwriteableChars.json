@@ -610,7 +610,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+651E-leo2}棉签__self__{w+49-nji5gwai2}",
+                  "format": "{U+651E-leo2}棉签__self__{W+49-nji5gwai2}",
                   "descriptions": {
                     "zh": "用棉签掏耳洞",
                     "en": "Digging ear wax with a cotton swab"
@@ -4314,7 +4314,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+7B49-ddang2}盆水__self__湿{w+45-di6ddai2}",
+                  "format": "{U+7B49-ddang2}盆水__self__湿{W+45-di6ddai2}",
                   "descriptions": {
                     "zh": "接一盆水洒水",
                     "en": "Take a basin of water and sprinkle it on the ground"

@@ -890,7 +890,7 @@
         }
       ]
     },
-    "w+39-gou2git7": {
+    "W+39-gou2git7": {
       "unicode": "U+57A2U+573F",
       "characters": [
         "垢圿"
@@ -930,7 +930,7 @@
         }
       ]
     },
-    "w+40-leou5dau6": {
+    "W+40-leou5dau6": {
       "unicode": "U+8001U+8C46",
       "characters": [
         "老豆"
@@ -955,7 +955,7 @@
         }
       ]
     },
-    "w+42-slom00njat9je3": {
+    "W+42-slom00njat9je3": {
       "unicode": "U+5345U+65E5U+591C",
       "characters": [
         "卅日夜"
@@ -978,7 +978,7 @@
         }
       ]
     },
-    "w+43-tin1din4": {
+    "W+43-tin1din4": {
       "unicode": "U+5929U+7530",
       "characters": [
         "天田"
@@ -1018,7 +1018,7 @@
         }
       ]
     },
-    "w+44-ting1ddai2": {
+    "W+44-ting1ddai2": {
       "unicode": "U+5385U+90B8",
       "characters": [
         "厅邸"
@@ -1034,14 +1034,14 @@
       "meanings": [
         {
           "descriptions": {
-            "zh": "中堂，旧式宅院供奉祖先和会客的地方，与今天「客厅」的作用类似。因为宗族祖先的「{w+44-ting1ddai2}」常被后人立祠祭祀，因此「老{w+44-ting1ddai2}」也常用于代指宗祠",
-            "en": "The place where worshipping ancestors or receiving guests in old style houses, its function is similar to today's 「living room」.「老{w+44-ting1ddai2}」also commonly used to refer to ancestral temples, because the ancestral「{w+44-ting1ddai2}」of the clan are often worshipped by later generations"
+            "zh": "中堂，旧式宅院供奉祖先和会客的地方，与今天「客厅」的作用类似。因为宗族祖先的「{W+44-ting1ddai2}」常被后人立祠祭祀，因此「老{W+44-ting1ddai2}」也常用于代指宗祠",
+            "en": "The place where worshipping ancestors or receiving guests in old style houses, its function is similar to today's 「living room」.「老{W+44-ting1ddai2}」also commonly used to refer to ancestral temples, because the ancestral「{W+44-ting1ddai2}」of the clan are often worshipped by later generations"
           },
           "words": []
         }
       ]
     },
-    "w+45-di6ddai2": {
+    "W+45-di6ddai2": {
       "unicode": "U+5730U+5E95",
       "characters": [
         "地底"
@@ -1064,7 +1064,7 @@
         }
       ]
     },
-    "w+48-fuk7fat7": {
+    "W+48-fuk7fat7": {
       "unicode": "U+7B26U+6CD5",
       "characters": [
         "符法"
@@ -1087,7 +1087,7 @@
         }
       ]
     },
-    "w+49-nji5gwai2": {
+    "W+49-nji5gwai2": {
       "unicode": "U+8033U+9B3C",
       "characters": [
         "耳鬼"
@@ -1110,7 +1110,7 @@
         }
       ]
     },
-    "w+50-hau2zung1": {
+    "W+50-hau2zung1": {
       "unicode": "U+53E3U+76C5",
       "characters": [
         "口盅"
@@ -1135,7 +1135,7 @@
         }
       ]
     },
-    "w+51-mo1ling1": {
+    "W+51-mo1ling1": {
       "unicode": "U+5B56U+8EE8",
       "characters": [
         "孖軨"
@@ -1158,7 +1158,7 @@
         }
       ]
     },
-    "w+52-fot8hi3": {
+    "W+52-fot8hi3": {
       "unicode": "U+53D1U+6C14",
       "characters": [
         "发气"
@@ -1181,7 +1181,7 @@
         }
       ]
     },
-    "w+53-fot8sling3": {
+    "W+53-fot8sling3": {
       "unicode": "U+53D1U+6027",
       "characters": [
         "发性"
@@ -1204,14 +1204,14 @@
         }
       ]
     },
-    "w+54-tau3dui6": {
+    "W+54-tau3dui6": {
       "unicode": "U+51D1U+961F",
       "characters": [
         "凑队"
       ],
       "controversial": 0,
       "related": [
-        "w+55-tau3gung6"
+        "W+55-tau3gung6"
       ],
       "pinyin": "cou4dui4",
       "jyutping": "tau3dui6",
@@ -1246,14 +1246,14 @@
         }
       ]
     },
-    "w+55-tau3gung6": {
+    "W+55-tau3gung6": {
       "unicode": "U+51D1U+5171",
       "characters": [
         "凑共"
       ],
       "controversial": 0,
       "related": [
-        "w+54-tau3dui6"
+        "W+54-tau3dui6"
       ],
       "pinyin": "cou4gong4",
       "jyutping": "tau3gung6",
@@ -1288,14 +1288,14 @@
         }
       ]
     },
-    "w+56-ging3nang01": {
+    "W+56-ging3nang01": {
       "unicode": "U+6B63U+767B",
       "characters": [
         "正登"
       ],
       "controversial": 0,
       "related": [
-        "w+57-dak9ddang01"
+        "W+57-dak9ddang01"
       ],
       "pinyin": "zheng4deng1",
       "jyutping": "ging3nang01",
@@ -1303,9 +1303,9 @@
       "head": "",
       "tail": "",
       "refBy": [
-        "w+56-ging3ddang01",
-        "w+56-zing3nang01",
-        "w+56-zing3ddang01"
+        "W+56-ging3ddang01",
+        "W+56-zing3nang01",
+        "W+56-zing3ddang01"
       ],
       "meanings": [
         {
@@ -1334,7 +1334,7 @@
         }
       ]
     },
-    "w+56-ging3ddang01": {
+    "W+56-ging3ddang01": {
       "unicode": "U+6B63U+767B",
       "characters": [
         "正登"
@@ -1349,7 +1349,7 @@
       "refBy": [],
       "meanings": []
     },
-    "w+56-zing3nang01": {
+    "W+56-zing3nang01": {
       "unicode": "U+6B63U+767B",
       "characters": [
         "正登"
@@ -1364,7 +1364,7 @@
       "refBy": [],
       "meanings": []
     },
-    "w+56-zing3ddang01": {
+    "W+56-zing3ddang01": {
       "unicode": "U+6B63U+767B",
       "characters": [
         "正登"
@@ -1379,14 +1379,14 @@
       "refBy": [],
       "meanings": []
     },
-    "w+57-dak9ddang01": {
+    "W+57-dak9ddang01": {
       "unicode": "U+7279U+767B",
       "characters": [
         "特登"
       ],
       "controversial": 0,
       "related": [
-        "w+56-ging3nang01"
+        "W+56-ging3nang01"
       ],
       "pinyin": "te4deng1",
       "jyutping": "dak9ddang01",
@@ -1394,7 +1394,7 @@
       "head": "",
       "tail": "",
       "refBy": [
-        "w+57-dak9nang01"
+        "W+57-dak9nang01"
       ],
       "meanings": [
         {
@@ -1406,7 +1406,7 @@
         }
       ]
     },
-    "w+57-dak9nang01": {
+    "W+57-dak9nang01": {
       "unicode": "U+7279U+767B",
       "characters": [
         "特登"
@@ -1421,14 +1421,14 @@
       "refBy": [],
       "meanings": []
     },
-    "w+58-ddeou2ji02": {
+    "W+58-ddeou2ji02": {
       "unicode": "U+65E9U+4EE5",
       "characters": [
         "早以"
       ],
       "controversial": 0,
       "related": [
-        "w+59-zau6ji02"
+        "W+59-zau6ji02"
       ],
       "pinyin": "zao3yi3",
       "jyutping": "ddeou2ji02",
@@ -1463,14 +1463,14 @@
         }
       ]
     },
-    "w+59-zau6ji02": {
+    "W+59-zau6ji02": {
       "unicode": "U+65E7U+4EE5",
       "characters": [
         "旧以"
       ],
       "controversial": 0,
       "related": [
-        "w+58-ddeou2ji02"
+        "W+58-ddeou2ji02"
       ],
       "pinyin": "jiu4yi3",
       "jyutping": "zau6ji02",
@@ -1488,7 +1488,7 @@
         }
       ]
     },
-    "w+60-si4ging3": {
+    "W+60-si4ging3": {
       "unicode": "U+65F6U+5883",
       "characters": [
         "时境"
@@ -1528,7 +1528,7 @@
         }
       ]
     },
-    "w+61-tau1jam01": {
+    "W+61-tau1jam01": {
       "unicode": "U+5077U+9634",
       "characters": [
         "偷阴"
@@ -1541,13 +1541,13 @@
       "head": "",
       "tail": "",
       "refBy": [
-        "w+62-tau1jam01"
+        "W+62-tau1jam01"
       ],
       "meanings": [
         {
           "descriptions": {
-            "zh": "悄悄地,同「{w+62-tau1jam01}」（第二字常念小称音「jam01」）",
-            "en": "Quietly, secretly, same as「{w+62-tau1jam01}」(The second character is pronounced as cute-tone「jam01」)"
+            "zh": "悄悄地,同「{W+62-tau1jam01}」（第二字常念小称音「jam01」）",
+            "en": "Quietly, secretly, same as「{W+62-tau1jam01}」(The second character is pronounced as cute-tone「jam01」)"
           },
           "words": [
             {
@@ -1570,7 +1570,7 @@
         }
       ]
     },
-    "w+62-tau1jam01": {
+    "W+62-tau1jam01": {
       "unicode": "U+5077U+97F3",
       "characters": [
         "偷音"
@@ -1585,7 +1585,7 @@
       "refBy": [],
       "meanings": []
     },
-    "w+65-tin1gi4": {
+    "W+65-tin1gi4": {
       "unicode": "U+5343U+7948",
       "characters": [
         "千祈"
@@ -1625,7 +1625,7 @@
         }
       ]
     },
-    "w+66-tin1gi4tin1": {
+    "W+66-tin1gi4tin1": {
       "unicode": "U+5343U+7948U+5343",
       "characters": [
         "千祈千"
@@ -1665,7 +1665,7 @@
         }
       ]
     },
-    "w+67-tam2tam2zyun2": {
+    "W+67-tam2tam2zyun2": {
       "unicode": "U+27F7CU+27F7CU+8F6C",
       "characters": [
         "𧽼𧽼转"
@@ -1688,7 +1688,7 @@
         }
       ]
     },
-    "w+68-kwang00kwang00zyun2": {
+    "W+68-kwang00kwang00zyun2": {
       "unicode": "U+3622U+3622U+8F6C",
       "characters": [
         "㘢㘢转"
@@ -1701,7 +1701,7 @@
       "head": "",
       "tail": "",
       "refBy": [
-        "w+68-gwang00gwang00zyun2"
+        "W+68-gwang00gwang00zyun2"
       ],
       "meanings": [
         {
@@ -1713,7 +1713,7 @@
         }
       ]
     },
-    "w+68-gwang00gwang00zyun2": {
+    "W+68-gwang00gwang00zyun2": {
       "unicode": "U+3622U+3622U+8F6C",
       "characters": [
         "㘢㘢转"
@@ -1728,7 +1728,7 @@
       "refBy": [],
       "meanings": []
     },
-    "w+69-wing5wang5zyun2": {
+    "W+69-wing5wang5zyun2": {
       "unicode": "U+8367U+60D1U+8F6C",
       "characters": [
         "荧惑转"
@@ -1751,7 +1751,7 @@
         }
       ]
     },
-    "w+70-wing5wang6wang6": {
+    "W+70-wing5wang6wang6": {
       "unicode": "U+8367U+60D1U+60D1",
       "characters": [
         "荧惑惑"
@@ -1793,14 +1793,14 @@
         }
       ]
     },
-    "w+71-hat7nji1": {
+    "W+71-hat7nji1": {
       "unicode": "U+4E5EU+513F",
       "characters": [
         "乞儿"
       ],
       "controversial": 0,
       "related": [
-        "w+72-mik9hik7"
+        "W+72-mik9hik7"
       ],
       "pinyin": "qi3er2",
       "jyutping": "hat7nji1",
@@ -1818,14 +1818,14 @@
         }
       ]
     },
-    "w+72-mik9hik7": {
+    "W+72-mik9hik7": {
       "unicode": "U+89C5U+5403",
       "characters": [
         "觅吃佬"
       ],
       "controversial": 0,
       "related": [
-        "w+71-hat7nji1"
+        "W+71-hat7nji1"
       ],
       "pinyin": "mi4chi1lao3",
       "jyutping": "mik9hik7leou5",
@@ -1843,7 +1843,7 @@
         }
       ]
     },
-    "w+73-lak7gou1": {
+    "W+73-lak7gou1": {
       "unicode": "U+52D2U+80F6",
       "characters": [
         "勒胶"
@@ -1866,7 +1866,7 @@
         }
       ]
     },
-    "w+74-san1suk7gou1": {
+    "W+74-san1suk7gou1": {
       "unicode": "U+4F38U+7F29U+80F6",
       "characters": [
         "伸缩胶"
@@ -1889,7 +1889,7 @@
         }
       ]
     },
-    "w+75-aa6ddi2": {
+    "W+75-aa6ddi2": {
       "unicode": "U+6838U+5B50",
       "characters": [
         "核子"
@@ -1900,7 +1900,7 @@
         "U+95AA-hai1",
         "U+5C44-bbe1",
         "U+5C44-be5",
-        "w+76-aa6ge5"
+        "W+76-aa6ge5"
       ],
       "pinyin": "he2zi3",
       "jyutping": "aa6ddi2",
@@ -1918,7 +1918,7 @@
         }
       ]
     },
-    "w+76-aa6ge5": {
+    "W+76-aa6ge5": {
       "unicode": "U+6838U+8127",
       "characters": [
         "核脧"
@@ -1929,7 +1929,7 @@
         "U+95AA-hai1",
         "U+5C44-bbe1",
         "U+5C44-be5",
-        "w+75-aa6ddi2"
+        "W+75-aa6ddi2"
       ],
       "pinyin": "he2zui1",
       "jyutping": "aa6ge5",
@@ -1937,7 +1937,7 @@
       "head": "",
       "tail": "",
       "refBy": [
-        "w+76-aa6gai5"
+        "W+76-aa6gai5"
       ],
       "meanings": [
         {
@@ -1949,7 +1949,7 @@
         }
       ]
     },
-    "w+76-aa6gai5": {
+    "W+76-aa6gai5": {
       "unicode": "U+6838U+8127",
       "characters": [
         "核脧"
@@ -1964,7 +1964,7 @@
       "refBy": [],
       "meanings": []
     },
-    "w+77-ddeou3mun4": {
+    "W+77-ddeou3mun4": {
       "unicode": "U+7076U+95E8",
       "characters": [
         "灶门"
@@ -1987,7 +1987,7 @@
         }
       ]
     },
-    "w+78-ddeou3me4": {
+    "W+78-ddeou3me4": {
       "unicode": "U+7076U+3737",
       "characters": [
         "灶㜷"
@@ -2010,7 +2010,7 @@
         }
       ]
     },
-    "w+79-wui1leou5": {
+    "W+79-wui1leou5": {
       "unicode": "U+7070U+4F6C",
       "characters": [
         "灰佬"
@@ -2033,7 +2033,7 @@
         }
       ]
     },
-    "w+80-wui1leou5syu2": {
+    "W+80-wui1leou5syu2": {
       "unicode": "U+7070U+8001U+9F20",
       "characters": [
         "灰老鼠"
@@ -2056,7 +2056,7 @@
         }
       ]
     },
-    "w+81-bang4gang3": {
+    "W+81-bang4gang3": {
       "unicode": "U+5E9EU+8679",
       "characters": [
         "庞虹"
@@ -2079,7 +2079,7 @@
         }
       ]
     },
-    "w+82-bang4gang3": {
+    "W+82-bang4gang3": {
       "unicode": "U+5E9EU+7D73",
       "characters": [
         "庞絳"
@@ -2102,7 +2102,7 @@
         }
       ]
     },
-    "w+83-fong3mo5": {
+    "W+83-fong3mo5": {
       "unicode": "U+653EU+9A6C",
       "characters": [
         "放马"
@@ -2110,7 +2110,7 @@
       "controversial": 0,
       "related": [
         "U+5C59-eo1",
-        "w+84-zo3njau4",
+        "W+84-zo3njau4",
         "U+6FD1-loi6"
       ],
       "pinyin": "fang4ma3",
@@ -2129,7 +2129,7 @@
         }
       ]
     },
-    "w+84-zo3njau4": {
+    "W+84-zo3njau4": {
       "unicode": "U+70B8U+725B",
       "characters": [
         "炸牛"
@@ -2141,7 +2141,7 @@
         "U+577A-bet10",
         "U+670F-wat7",
         "U+63D9-bban2",
-        "w+83-fong3mo5"
+        "W+83-fong3mo5"
       ],
       "pinyin": "zha4niu2",
       "jyutping": "zo3njau4",
@@ -2159,7 +2159,7 @@
         }
       ]
     },
-    "w+87-teo1tung2": {
+    "W+87-teo1tung2": {
       "unicode": "U+62D6U+6876",
       "characters": [
         "拖桶"
@@ -2182,7 +2182,7 @@
         }
       ]
     },
-    "w+88-gwai6tung2": {
+    "W+88-gwai6tung2": {
       "unicode": "U+67DCU+6876",
       "characters": [
         "柜桶"
@@ -2205,7 +2205,7 @@
         }
       ]
     },
-    "w+91-bi4ti3": {
+    "W+91-bi4ti3": {
       "unicode": "U+76AEU+523A",
       "characters": [
         "皮刺"
@@ -2228,7 +2228,7 @@
         }
       ]
     },
-    "w+92-nang1gai1": {
+    "W+92-nang1gai1": {
       "unicode": "U+24E4DU+818E",
       "characters": [
         "𤹍膎"
@@ -2251,7 +2251,7 @@
         }
       ]
     },
-    "w+93-bbo1no1": {
+    "W+93-bbo1no1": {
       "unicode": "U+75A4U+24E3B",
       "characters": [
         "疤𤸻"
@@ -2274,7 +2274,7 @@
         }
       ]
     },
-    "w+94-lom2gai1": {
+    "W+94-lom2gai1": {
       "unicode": "U+6984U+9E21",
       "characters": [
         "榄鸡"
@@ -2297,7 +2297,7 @@
         }
       ]
     },
-    "w+95-bok10tui3": {
+    "W+95-bok10tui3": {
       "unicode": "U+8584U+8106",
       "characters": [
         "薄脆"
@@ -2320,7 +2320,7 @@
         }
       ]
     },
-    "w+96-baa6slon2": {
+    "W+96-baa6slon2": {
       "unicode": "U+767DU+7CE4",
       "characters": [
         "白糤"
@@ -2343,7 +2343,7 @@
         }
       ]
     },
-    "w+97-keu1lin4": {
+    "W+97-keu1lin4": {
       "unicode": "U+7FD8U+8FDE",
       "characters": [
         "翘连"
@@ -2366,7 +2366,7 @@
         }
       ]
     },
-    "w+99-tui3ddi2": {
+    "W+99-tui3ddi2": {
       "unicode": "U+8106U+5B50",
       "characters": [
         "脆子"
@@ -2389,7 +2389,7 @@
         }
       ]
     },
-    "w+100-bbok8caa1beo6": {
+    "W+100-bbok8caa1beo6": {
       "unicode": "U+993AU+7F49U+997D",
       "characters": [
         "餺罉饽"
@@ -2405,14 +2405,14 @@
       "meanings": [
         {
           "descriptions": {
-            "zh": "一种糯米年糕，同「{w+101-doi6lung4di4}」",
-            "en": "A type of glutinous rice cake, same as「{w+101-doi6lung4di4}」"
+            "zh": "一种糯米年糕，同「{W+101-doi6lung4di4}」",
+            "en": "A type of glutinous rice cake, same as「{W+101-doi6lung4di4}」"
           },
           "words": []
         }
       ]
     },
-    "w+101-doi6lung4di4": {
+    "W+101-doi6lung4di4": {
       "unicode": "U+5927U+7B3CU+7CCD",
       "characters": [
         "大笼糍"
@@ -2428,14 +2428,14 @@
       "meanings": [
         {
           "descriptions": {
-            "zh": "一种糯米年糕，同「{w+100-bbok8caa1beo6}」",
-            "en": "A type of glutinous rice cake, same as「{w+100-bbok8caa1beo6}」"
+            "zh": "一种糯米年糕，同「{W+100-bbok8caa1beo6}」",
+            "en": "A type of glutinous rice cake, same as「{W+100-bbok8caa1beo6}」"
           },
           "words": []
         }
       ]
     },
-    "w+102-muk9syu4beo6": {
+    "W+102-muk9syu4beo6": {
       "unicode": "U+6728U+85AFU+997D",
       "characters": [
         "木薯饽"
@@ -2458,7 +2458,7 @@
         }
       ]
     },
-    "w+103-lin4ddi2beo6": {
+    "W+103-lin4ddi2beo6": {
       "unicode": "U+83B2U+5B50U+997D",
       "characters": [
         "莲子饽"
@@ -2481,7 +2481,7 @@
         }
       ]
     },
-    "w+104-et8ddi2beo6": {
+    "W+104-et8ddi2beo6": {
       "unicode": "U+42A6U+5B50U+997D",
       "characters": [
         "䊦子饽"
@@ -2494,7 +2494,7 @@
       "head": "饮食",
       "tail": "",
       "refBy": [
-        "w+104-jet8ddi2beo6"
+        "W+104-jet8ddi2beo6"
       ],
       "meanings": [
         {
@@ -2506,7 +2506,7 @@
         }
       ]
     },
-    "w+104-jet8ddi2beo6": {
+    "W+104-jet8ddi2beo6": {
       "unicode": "U+42A6U+5B50U+997D",
       "characters": [
         "䊦子饽"
@@ -2521,7 +2521,7 @@
       "refBy": [],
       "meanings": []
     },
-    "w+105-ddung1jep10": {
+    "W+105-ddung1jep10": {
       "unicode": "U+67CAU+53F6",
       "characters": [
         "柊叶"
@@ -2544,7 +2544,7 @@
         }
       ]
     },
-    "w+106-luk9buk9": {
+    "W+106-luk9buk9": {
       "unicode": "U+2D4B9U+6A38",
       "characters": [
         "𭒹樸"
@@ -2557,7 +2557,7 @@
       "head": "饮食",
       "tail": "",
       "refBy": [
-        "w+106-luk9guk9"
+        "W+106-luk9guk9"
       ],
       "meanings": [
         {
@@ -2569,7 +2569,7 @@
         }
       ]
     },
-    "w+106-luk9guk9": {
+    "W+106-luk9guk9": {
       "unicode": "U+2D4B9U+6A38",
       "characters": [
         "𭒹樸"
@@ -2584,7 +2584,7 @@
       "refBy": [],
       "meanings": []
     },
-    "w+108-doi6jep10zo4": {
+    "W+108-doi6jep10zo4": {
       "unicode": "U+5927U+53F6U+8336",
       "characters": [
         "大叶茶"
@@ -2607,7 +2607,7 @@
         }
       ]
     },
-    "w+109-zo4dung4": {
+    "W+109-zo4dung4": {
       "unicode": "U+8336U+7B52",
       "characters": [
         "茶筒"
@@ -2630,7 +2630,7 @@
         }
       ]
     },
-    "w+110-wun2son6": {
+    "W+110-wun2son6": {
       "unicode": "U+7897U+6808",
       "characters": [
         "碗栈"
@@ -2653,7 +2653,7 @@
         }
       ]
     },
-    "w+111-fon6bi4": {
+    "W+111-fon6bi4": {
       "unicode": "U+996DU+76AE",
       "characters": [
         "饭皮"
@@ -2676,7 +2676,7 @@
         }
       ]
     },
-    "w+112-fon6dau6": {
+    "W+112-fon6dau6": {
       "unicode": "U+996DU+8C46",
       "characters": [
         "饭豆"
@@ -2699,7 +2699,7 @@
         }
       ]
     },
-    "w+114-gu2njoet10": {
+    "W+114-gu2njoet10": {
       "unicode": "U+53E4U+6708",
       "characters": [
         "古月"
@@ -2722,7 +2722,7 @@
         }
       ]
     },
-    "w+115-gwat7slyun3": {
+    "W+115-gwat7slyun3": {
       "unicode": "U+53E4U+6708U+849C",
       "characters": [
         "古月蒜"
@@ -2745,7 +2745,7 @@
         }
       ]
     },
-    "w+116-syu4gu1": {
+    "W+116-syu4gu1": {
       "unicode": "U+85AFU+83F0",
       "characters": [
         "薯菰"
@@ -2768,7 +2768,7 @@
         }
       ]
     },
-    "w+117-di6gu1": {
+    "W+117-di6gu1": {
       "unicode": "U+5730U+83F0",
       "characters": [
         "地菰"
@@ -2791,7 +2791,7 @@
         }
       ]
     },
-    "w+118-jim4slai1": {
+    "W+118-jim4slai1": {
       "unicode": "U+76D0U+837D",
       "characters": [
         "盐荽"
@@ -2814,7 +2814,7 @@
         }
       ]
     },
-    "w+119-jyun4slai1": {
+    "W+119-jyun4slai1": {
       "unicode": "U+82ABU+837D",
       "characters": [
         "芫荽"
@@ -2837,7 +2837,7 @@
         }
       ]
     },
-    "w+120-wu6hop8": {
+    "W+120-wu6hop8": {
       "unicode": "U+828BU+6070",
       "characters": [
         "芋恰"
@@ -2860,7 +2860,7 @@
         }
       ]
     },
-    "w+121-wu6mung00": {
+    "W+121-wu6mung00": {
       "unicode": "U+828BU+791E",
       "characters": [
         "芋礞"
@@ -2883,7 +2883,7 @@
         }
       ]
     },
-    "w+122-bbou1sluk7": {
+    "W+122-bbou1sluk7": {
       "unicode": "U+82DEU+7C9F",
       "characters": [
         "苞粟"
@@ -2906,7 +2906,7 @@
         }
       ]
     },
-    "w+123-zyu1fot8": {
+    "W+123-zyu1fot8": {
       "unicode": "U+732AU+53D1",
       "characters": [
         "猪发"
@@ -2929,7 +2929,7 @@
         }
       ]
     },
-    "w+125-cau3sau1": {
+    "W+125-cau3sau1": {
       "unicode": "U+81EDU+998A",
       "characters": [
         "臭馊"
@@ -2969,7 +2969,7 @@
         }
       ]
     },
-    "w+126-sik7njyu5": {
+    "W+126-sik7njyu5": {
       "unicode": "U+8272U+4E73",
       "characters": [
         "色乳"
@@ -2982,7 +2982,7 @@
       "head": "饮食",
       "tail": "",
       "refBy": [
-        "w+126-sik7njyui5"
+        "W+126-sik7njyui5"
       ],
       "meanings": [
         {
@@ -2994,7 +2994,7 @@
         }
       ]
     },
-    "w+126-sik7njyui5": {
+    "W+126-sik7njyui5": {
       "unicode": "U+8272U+4E73",
       "characters": [
         "色乳"
@@ -3009,7 +3009,7 @@
       "refBy": [],
       "meanings": []
     },
-    "w+127-soi3jau4": {
+    "W+127-soi3jau4": {
       "unicode": "U+6652U+6CB9",
       "characters": [
         "晒油"
@@ -3032,7 +3032,7 @@
         }
       ]
     },
-    "w+128-soi3si6": {
+    "W+128-soi3si6": {
       "unicode": "U+6652U+8C49",
       "characters": [
         "晒豉"
@@ -3055,7 +3055,7 @@
         }
       ]
     },
-    "w+129-dau6si6": {
+    "W+129-dau6si6": {
       "unicode": "U+8C46U+8C49",
       "characters": [
         "豆豉"
@@ -3078,7 +3078,7 @@
         }
       ]
     },
-    "w+130-lom2si6": {
+    "W+130-lom2si6": {
       "unicode": "U+6984U+8C49",
       "characters": [
         "榄豉"
@@ -3101,7 +3101,7 @@
         }
       ]
     },
-    "w+131-lou4zou1": {
+    "W+131-lou4zou1": {
       "unicode": "U+87E7U+8775",
       "characters": [
         "蟧蝵"
@@ -3124,7 +3124,7 @@
         }
       ]
     },
-    "w+132-mo5lung00gung00": {
+    "W+132-mo5lung00gung00": {
       "unicode": "U+8682U+8782U+86A2",
       "characters": [
         "蚂螂蚢"
@@ -3137,7 +3137,7 @@
       "head": "动物",
       "tail": "",
       "refBy": [
-        "w+132-mo5long00gong00"
+        "W+132-mo5long00gong00"
       ],
       "meanings": [
         {
@@ -3149,7 +3149,7 @@
         }
       ]
     },
-    "w+132-mo5long00gong00": {
+    "W+132-mo5long00gong00": {
       "unicode": "U+8682U+8782U+86A2",
       "characters": [
         "蚂螂蚢"
@@ -3164,7 +3164,7 @@
       "refBy": [],
       "meanings": []
     },
-    "w+133-sap9nji6se4slai1": {
+    "W+133-sap9nji6se4slai1": {
       "unicode": "U+5341U+4E8CU+86C7U+8794",
       "characters": [
         "十二蛇螔"
@@ -3187,7 +3187,7 @@
         }
       ]
     },
-    "w+134-bbaa2dduk7": {
+    "W+134-bbaa2dduk7": {
       "unicode": "U+767EU+8DB3",
       "characters": [
         "百足"
@@ -3210,7 +3210,7 @@
         }
       ]
     },
-    "w+135-man4nyng4": {
+    "W+135-man4nyng4": {
       "unicode": "U+868AU+8747",
       "characters": [
         "蚊蝇"
@@ -3223,8 +3223,8 @@
       "head": "动物",
       "tail": "",
       "refBy": [
-        "w+135-man4ning4",
-        "w+135-man4ling4"
+        "W+135-man4ning4",
+        "W+135-man4ling4"
       ],
       "meanings": [
         {
@@ -3236,7 +3236,7 @@
         }
       ]
     },
-    "w+135-man4ning4": {
+    "W+135-man4ning4": {
       "unicode": "U+868AU+8747",
       "characters": [
         "蚊蝇"
@@ -3251,7 +3251,7 @@
       "refBy": [],
       "meanings": []
     },
-    "w+135-man4ling4": {
+    "W+135-man4ling4": {
       "unicode": "U+868AU+8747",
       "characters": [
         "蚊蝇"
@@ -3266,7 +3266,7 @@
       "refBy": [],
       "meanings": []
     },
-    "w+136-tyu1don4": {
+    "W+136-tyu1don4": {
       "unicode": "U+86C6U+5F39",
       "characters": [
         "蛆弹"
@@ -3289,7 +3289,7 @@
         }
       ]
     },
-    "w+137-dong4ni1": {
+    "W+137-dong4ni1": {
       "unicode": "U+5858U+875E",
       "characters": [
         "塘蝞"
@@ -3302,7 +3302,7 @@
       "head": "动物",
       "tail": "",
       "refBy": [
-        "w+137-dong4nji1"
+        "W+137-dong4nji1"
       ],
       "meanings": [
         {
@@ -3314,7 +3314,7 @@
         }
       ]
     },
-    "w+137-dong4nji1": {
+    "W+137-dong4nji1": {
       "unicode": "U+5858U+875E",
       "characters": [
         "塘蝞"
@@ -3329,7 +3329,7 @@
       "refBy": [],
       "meanings": []
     },
-    "w+141-gam4syu4": {
+    "W+141-gam4syu4": {
       "unicode": "U+8804U+870D",
       "characters": [
         "蠄蜍"
@@ -3352,7 +3352,7 @@
         }
       ]
     },
-    "w+142-meu6wong4": {
+    "W+142-meu6wong4": {
       "unicode": "U+875AU+87E5",
       "characters": [
         "蝚蟥"
@@ -3375,7 +3375,7 @@
         }
       ]
     },
-    "w+143-meu6nang3": {
+    "W+143-meu6nang3": {
       "unicode": "U+875AU+56D4",
       "characters": [
         "蝚囔"
@@ -3398,7 +3398,7 @@
         }
       ]
     },
-    "w+143-meu6nong3": {
+    "W+143-meu6nong3": {
       "unicode": "U+875AU+56D4",
       "characters": [
         "蝚囔"
@@ -3421,7 +3421,7 @@
         }
       ]
     },
-    "w+144-bang4gem4": {
+    "W+144-bang4gem4": {
       "unicode": "U+8783U+94B3",
       "characters": [
         "螃钳"
@@ -3444,7 +3444,7 @@
         }
       ]
     },
-    "w+145-gem4gem4": {
+    "W+145-gem4gem4": {
       "unicode": "U+94B3U+94B3",
       "characters": [
         "钳钳"
@@ -3467,7 +3467,7 @@
         }
       ]
     },
-    "w+146-bbeo3gi1op10": {
+    "W+146-bbeo3gi1op10": {
       "unicode": "U+7C38U+7B95U+4FA0",
       "characters": [
         "簸箕侠"
@@ -3490,7 +3490,7 @@
         }
       ]
     },
-    "w+147-se4pan3": {
+    "W+147-se4pan3": {
       "unicode": "U+86C7U+55B7",
       "characters": [
         "蛇喷"
@@ -3513,7 +3513,7 @@
         }
       ]
     },
-    "w+148-nom4se4": {
+    "W+148-nom4se4": {
       "unicode": "U+86BAU+86C7",
       "characters": [
         "蚺蛇"
@@ -3536,7 +3536,7 @@
         }
       ]
     },
-    "w+149-hak7mak9sak7": {
+    "W+149-hak7mak9sak7": {
       "unicode": "U+9ED1U+58A8U+8272",
       "characters": [
         "黑墨色"
@@ -3559,7 +3559,7 @@
         }
       ]
     },
-    "w+150-hak7sak7ddaa2": {
+    "W+150-hak7sak7ddaa2": {
       "unicode": "U+9ED1U+8272U+96C0",
       "characters": [
         "黑色雀"
@@ -3582,7 +3582,7 @@
         }
       ]
     },
-    "w+151-gi5meou4": {
+    "W+151-gi5meou4": {
       "unicode": "U+4F01U+6BDB",
       "characters": [
         "企毛"
@@ -3605,7 +3605,7 @@
         }
       ]
     },
-    "w+152-wu2wok7ddaa2": {
+    "W+152-wu2wok7ddaa2": {
       "unicode": "U+82E6U+9E0CU+96C0",
       "characters": [
         "苦鸌雀"
@@ -3628,7 +3628,7 @@
         }
       ]
     },
-    "w+153-mo5lau1": {
+    "W+153-mo5lau1": {
       "unicode": "U+9A6CU+9A9D",
       "characters": [
         "马骝"
@@ -3651,7 +3651,7 @@
         }
       ]
     },
-    "w+154-bat9bi6": {
+    "W+154-bat9bi6": {
       "unicode": "U+9F3BU+9F3B",
       "characters": [
         "鼻鼻"
@@ -3674,7 +3674,7 @@
         }
       ]
     },
-    "w+153-luk9si4": {
+    "W+153-luk9si4": {
       "unicode": "",
       "characters": [
         "六时"
@@ -3714,7 +3714,7 @@
         }
       ]
     },
-    "w+155-slaa2gik9": {
+    "W+155-slaa2gik9": {
       "unicode": "",
       "characters": [
         "则剧"
