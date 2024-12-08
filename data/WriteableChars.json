@@ -45526,6 +45526,70 @@
           ]
         }
       ]
+    },
+    "U+29725-beo6": {
+      "unicode": "U+29725",
+      "characters": [
+        "⿱波食",
+        "饽"
+      ],
+      "controversial": 0,
+      "related": [],
+      "pinyin": "bo1",
+      "jyutping": "beo6",
+      "bbakLau": "",
+      "head": "b-bb",
+      "tail": "元音韵尾",
+      "refBy": [],
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "糍粑；汤圆",
+            "en": "Rice cake; Glutinous rice ball"
+          },
+          "words": []
+        }
+      ]
+    },
+    "U+8DD4-koe2": {
+      "unicode": "U+8DD4",
+      "characters": [
+        "跔"
+      ],
+      "controversial": 0,
+      "related": [],
+      "pinyin": "ju1",
+      "jyutping": "koe2",
+      "bbakLau": "",
+      "head": "k",
+      "tail": "元音韵尾",
+      "refBy": [
+        "U+8DD4-ke2"
+      ],
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "（手指、脚趾）冻僵",
+            "en": "(Fingers, toes) Frozen"
+          },
+          "words": []
+        }
+      ]
+    },
+    "U+8DD4-ke2": {
+      "unicode": "U+8DD4",
+      "characters": [
+        "跔"
+      ],
+      "controversial": 0,
+      "related": [],
+      "pinyin": "ju1",
+      "jyutping": "ke2",
+      "bbakLau": "",
+      "head": "k",
+      "tail": "元音韵尾",
+      "refBy": [],
+      "meanings": []
     }
   },
   "name": "WriteableChars"

@@ -38218,8 +38218,8 @@
       "meanings": [],
       "bbakLau": ""
     },
-    "U+5616-ǀnan7": {
-      "id": "U+5616-ǀnan7",
+    "U+5616-zaa2": {
+      "id": "U+5616-zaa2",
       "unicode": "U+5616",
       "characters": [
         "嘖"
@@ -38227,7 +38227,7 @@
       "controversial": 0,
       "related": [],
       "pinyin": "ze2",
-      "jyutping": "ǀnan7",
+      "jyutping": "zaa2",
       "head": "ǀ",
       "tail": "",
       "refBy": [],
@@ -96514,30 +96514,6 @@
       "meanings": [],
       "bbakLau": ""
     },
-    "U+55FE-ǂʷnan7": {
-      "id": "U+55FE-ǂʷnan7",
-      "unicode": "U+55FE",
-      "characters": [
-        "嗾"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "sou3",
-      "jyutping": "ǂʷnan7",
-      "head": "ǂʷ",
-      "tail": "",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "喚狗聲",
-            "en": ""
-          },
-          "words": []
-        }
-      ],
-      "bbakLau": ""
-    },
     "U+562D-bang4": {
       "id": "U+562D-bang4",
       "unicode": "U+562D",
@@ -118778,7 +118754,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𥫗",
+      "pinyin": "zhu2",
       "jyutping": "zuk7",
       "head": "z",
       "tail": "",
@@ -125746,7 +125722,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𢫦",
+      "pinyin": "pai1",
       "jyutping": "bbaa2",
       "head": "bb",
       "tail": "",
