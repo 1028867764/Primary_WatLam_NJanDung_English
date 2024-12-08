@@ -1395,7 +1395,7 @@
       ],
       "controversial": 0,
       "related": [
-        "A+11-dyun5",
+        "U+50D4-dyun5",
         "U+8D77-hi2"
       ],
       "pinyin": "shen1",
@@ -16288,17 +16288,16 @@
         }
       ]
     },
-    "U+445C-lep8": {
-      "unicode": "U+445C",
+    "U+2108F-lep8": {
+      "unicode": "U+2108F",
       "characters": [
-        "䑜",
         "𡂏"
       ],
       "controversial": 1,
       "related": [
         "U+444B-nging5"
       ],
-      "pinyin": "tie4",
+      "pinyin": "lie4",
       "jyutping": "lep8",
       "bbakLau": "",
       "head": "l",
@@ -16319,7 +16318,7 @@
               },
               "sentences": [
                 {
-                  "format": "__self__狗{U+445C-lep8}蔗皮，{W+153-mo5lau1}偷饭皮",
+                  "format": "__self__狗{U+2108F-lep8}蔗皮，{W+153-mo5lau1}偷饭皮",
                   "descriptions": {
                     "zh": "贪吃狗馋甘蔗皮，猴子偷吃米饭锅巴",
                     "en": "Greedy dogs crave sugarcane peels, monkeys steal rice crust"
@@ -34416,7 +34415,7 @@
               },
               "sentences": [
                 {
-                  "format": "{A+30-slan3}太__self__，难{U+8E29-njoi2}{U+5F97-ddak7}单车上",
+                  "format": "{U+5CFB-slan3}太__self__，难{U+8E29-njoi2}{U+5F97-ddak7}单车上",
                   "descriptions": {
                     "zh": "坡太陡峭了，自行车难以行驶上去",
                     "en": "The slope is too steep, making it difficult for bicycles to drive up"
@@ -34586,7 +34585,7 @@
       "controversial": 0,
       "related": [
         "U+7F67-lam6",
-        "A+11-dyun5"
+        "U+50D4-dyun5"
       ],
       "pinyin": "qi3",
       "jyutping": "hi2",
@@ -41872,7 +41871,7 @@
       ],
       "controversial": 0,
       "related": [
-        "U+821E-mu5"
+        "U+821E-mu2"
       ],
       "pinyin": "zu3",
       "jyutping": "zeo2",
@@ -42810,7 +42809,7 @@
         }
       ]
     },
-    "U+821E-mu5": {
+    "U+821E-mu2": {
       "unicode": "U+821E",
       "characters": [
         "舞"
@@ -42818,7 +42817,7 @@
       "controversial": 0,
       "related": [],
       "pinyin": "wu3",
-      "jyutping": "mu5",
+      "jyutping": "mu2",
       "bbakLau": "",
       "head": "m",
       "tail": "元音韵尾",
@@ -45590,6 +45589,113 @@
       "tail": "元音韵尾",
       "refBy": [],
       "meanings": []
+    },
+    "U+5CFB-slan3": {
+      "unicode": "U+5CFB",
+      "characters": [
+        "峻"
+      ],
+      "controversial": 0,
+      "related": [],
+      "pinyin": "jun4",
+      "jyutping": "slan3",
+      "bbakLau": "",
+      "head": "sl",
+      "tail": "n",
+      "refBy": [],
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "坡，小土坡",
+            "en": "Slope, small soil slope"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+4F01-gi5}上{U+96BB-zik7}__self__",
+                  "descriptions": {
+                    "zh": "站在小土坡上",
+                    "en": "Standing on a small soil slope"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "U+50D4-dyun5": {
+      "unicode": "",
+      "characters": [
+        "僔"
+      ],
+      "controversial": 0,
+      "related": [
+        "U+7F67-lam6",
+        "U+8D77-hi2"
+      ],
+      "pinyin": "",
+      "jyutping": "dyun5",
+      "bbakLau": "",
+      "head": "d-dd",
+      "tail": "n",
+      "refBy": [],
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "摞成一栋",
+            "en": "Stack"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{U+8D77-hi2}{U+5572-ni01}碗",
+                  "descriptions": {
+                    "zh": "把这些碗摞起来",
+                    "en": "Stack these bowls up"
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "descriptions": {
+            "zh": "量词，用于码成一栋的物体",
+            "en": "A stack of"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "一__self__碗",
+                  "descriptions": {
+                    "zh": "一摞碗",
+                    "en": "A stack of bowls"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
     }
   },
   "name": "WriteableChars"
