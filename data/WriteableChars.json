@@ -12438,7 +12438,7 @@
               },
               "sentences": [
                 {
-                  "format": "你__self__日{U+5728-doi4}{A+74-gai2}发癫！",
+                  "format": "你__self__日{U+5728-doi5}{A+74-gai2}发癫！",
                   "descriptions": {
                     "zh": "你整天在这里发疯！",
                     "en": "You go crazy here all day!"
@@ -19615,7 +19615,7 @@
               },
               "sentences": [
                 {
-                  "format": "__self__莲子{U+997D-beo6}",
+                  "format": "__self__莲子{U+29725-beo6}",
                   "descriptions": {
                     "zh": "捏汤圆",
                     "en": "Make glutinous rice balls manually"
@@ -45249,7 +45249,7 @@
                   }
                 },
                 {
-                  "format": "__self__{U+997D-beo6}",
+                  "format": "__self__{U+29725-beo6}",
                   "descriptions": {
                     "zh": "无能的人",
                     "en": "An incompetent person"
