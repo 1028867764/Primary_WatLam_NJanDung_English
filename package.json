@@ -5,7 +5,7 @@
   "author": "jiaojiaodubai",
   "license": "LGPL-3.0",
   "mian": "./scripts/index.ts",
-  "type":"module",
+  "type": "module",
   "scripts": {
     "lint:json": "pnpm exec prettier data/*.json --write",
     "lint:script": "pnpm eslint --fix",
@@ -18,7 +18,8 @@
     "eslint": "^9.5.0",
     "globals": "^15.6.0",
     "prettier": "^3.3.2",
-    "typescript-eslint": "^7.14.1"
+    "typescript-eslint": "^7.14.1",
+    "xlsx": "^0.18.5"
   },
   "dependencies": {
     "pinyin-pro": "^3.22.2"
