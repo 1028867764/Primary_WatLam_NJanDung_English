@@ -134,6 +134,14 @@ function exportDB() {
   mainDB.save('./test');
 }
 
+export function iterDB(cb: (arg0: DB) => void) {
+  fs.readdirSync('./data').forEach((file) => {
+    const dbName = path.basename(file, '.json');
+    const db = new DB(dbName);
+    cb(db);
+  });
+}
+
 class DB {
   innerDB: DataBase;
 
