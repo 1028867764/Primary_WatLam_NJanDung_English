@@ -1539,7 +1539,7 @@
               },
               "sentences": [
                 {
-                  "format": "一__self__{W+106-luk9buk9}{U+5B50-ddi2}",
+                  "format": "一__self__𭒹樸{U+5B50-ddi2}",
                   "descriptions": {
                     "zh": "一瓣柚子",
                     "en": "A segment of pomelo"
@@ -13446,7 +13446,7 @@
               },
               "sentences": [
                 {
-                  "format": "面包{U+7740-zaa6}{W+135-man4nyng4}__self__过{A+le5}",
+                  "format": "面包{U+7740-zaa6}蚊蝇__self__过{A+le5}",
                   "descriptions": {
                     "zh": "面包被苍蝇沾染过了",
                     "en": "The bread has been stained by flies"
@@ -16318,7 +16318,7 @@
               },
               "sentences": [
                 {
-                  "format": "__self__狗{U+2108F-lep8}蔗皮，{W+153-mo5lau1}偷饭皮",
+                  "format": "__self__狗{U+2108F-lep8}蔗皮，马骝偷饭皮",
                   "descriptions": {
                     "zh": "贪吃狗馋甘蔗皮，猴子偷吃米饭锅巴",
                     "en": "Greedy dogs crave sugarcane peels, monkeys steal rice crust"
@@ -17432,7 +17432,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+7740-zaa6}{W+131-lou4zou1}__self__尿",
+                  "format": "{U+7740-zaa6}蟧蝵__self__尿",
                   "descriptions": {
                     "zh": "被蜘蛛撒尿",
                     "en": "Stung by venom released by spiders"
@@ -20204,7 +20204,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+4F7F-sai2}{U+96BB-zik7}{U+2D75E-gwoi5}__self__水上地{U+575C-lik7}淋{W+115-gwat7slyun3}",
+                  "format": "{U+4F7F-sai2}{U+96BB-zik7}{U+2D75E-gwoi5}__self__水上地{U+575C-lik7}淋骨蒜",
                   "descriptions": {
                     "zh": "用瓢撇水到田垄上浇大蒜",
                     "en": "Use a dipper to ladle water and splash onto the ridges for watering the garlic"
@@ -24045,7 +24045,7 @@
               },
               "sentences": [
                 {
-                  "format": "碟菜{U+5187-mau5}记{U+5F97-ddak7}{A+47-tang1}{U+7D27-gan2}，__self__{U+5F97-ddak7}一{U+58A9-ddyng1}{W+135-man4nyng4}",
+                  "format": "碟菜{U+5187-mau5}记{U+5F97-ddak7}{A+47-tang1}{U+7D27-gan2}，__self__{U+5F97-ddak7}一{U+58A9-ddyng1}蚊蝇",
                   "descriptions": {
                     "zh": "这碟菜忘记罩好了，结果引来了一大堆苍蝇",
                     "en": "Forgot to cover this dish properly, which resulted in a lot of flies gathering"
@@ -25546,8 +25546,8 @@
             {
               "format": "{U+7F49-caa1}耳__self__",
               "descriptions": {
-                "zh": "同「{W+97-keu1lin4}」；一种油炸小吃，有点像升级版的「莫比乌斯环」，又有点像丰田车标",
-                "en": "Same as「{W+97-keu1lin4}」; A fried snack that resembles an upgraded version of the Mobius Ring and also resembles the Toyota logo"
+                "zh": "同「翘连」；一种油炸小吃，有点像升级版的「莫比乌斯环」，又有点像丰田车标",
+                "en": "Same as「翘连」; A fried snack that resembles an upgraded version of the Mobius Ring and also resembles the Toyota logo"
               },
               "sentences": []
             }
@@ -27581,8 +27581,8 @@
                 {
                   "format": "__self__耳{U+5265-muk7}",
                   "descriptions": {
-                    "zh": "同「{W+97-keu1lin4}」；一种油炸小吃，有点像升级版的「莫比乌斯环」，又有点像丰田车标",
-                    "en": "Same as「{W+97-keu1lin4}」, A fried snack that resembles an upgraded version of the Mobius Ring and also resembles the Toyota logo"
+                    "zh": "同「翘连」；一种油炸小吃，有点像升级版的「莫比乌斯环」，又有点像丰田车标",
+                    "en": "Same as「翘连」, A fried snack that resembles an upgraded version of the Mobius Ring and also resembles the Toyota logo"
                   }
                 },
                 {
@@ -27781,7 +27781,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+22CC2-bbat7}__self__{W+128-soi3si6}",
+                  "format": "{U+22CC2-bbat7}__self__晒豉",
                   "descriptions": {
                     "zh": "舀一勺黄豆酱",
                     "en": "Spoon a spoonful of soybean sauce"
@@ -28142,7 +28142,7 @@
                   }
                 },
                 {
-                  "format": "__self__{W+115-gwat7slyun3}",
+                  "format": "__self__骨蒜",
                   "descriptions": {
                     "zh": "收获大蒜",
                     "en": "Harvest garlic by pulling them up in the cultivated farmland"
@@ -30869,7 +30869,7 @@
               },
               "sentences": [
                 {
-                  "format": "{W+137-dong4ni1}{A+er}{U+7740-zaa6}{W+131-lou4zou1}网__self__{U+4F4F-zyu6}",
+                  "format": "塘蝞{A+er}{U+7740-zaa6}蟧蝵网__self__{U+4F4F-zyu6}",
                   "descriptions": {
                     "zh": "蜻蜓被蜘蛛网粘住",
                     "en": "The dragonfly is stuck by the spider web"
@@ -45546,7 +45546,16 @@
             "zh": "糍粑；汤圆",
             "en": "Rice cake; Glutinous rice ball"
           },
-          "words": []
+          "words": [
+            {
+              "format": "木薯__self__",
+              "descriptions": {
+                "zh": "用木薯淀粉制成的糕点",
+                "en": "Pastry made from cassava starch"
+              },
+              "sentences": []
+            }
+          ]
         }
       ]
     },

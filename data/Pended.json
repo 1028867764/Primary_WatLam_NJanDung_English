@@ -1265,69 +1265,6 @@
         }
       ]
     },
-    "P+41-zuk7gai1": {
-      "unicode": "",
-      "characters": [
-        "zuk8 gai1"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "zuk8 gai1",
-      "jyutping": "zuk7gai1",
-      "bbakLau": "",
-      "head": "动物",
-      "tail": "",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "蟋蟀",
-            "en": "Crickets"
-          },
-          "words": []
-        }
-      ]
-    },
-    "P+42-gaau2muk7tyu1": {
-      "unicode": "",
-      "characters": [
-        "gaau2𧌍蛆"
-      ],
-      "controversial": 2,
-      "related": [],
-      "pinyin": "gaau2𧌍qu1",
-      "jyutping": "gaau2muk7tyu1",
-      "bbakLau": "",
-      "head": "动物",
-      "tail": "",
-      "refBy": [
-        "P+42-gaau2meou4tyu1"
-      ],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "蝌蚪",
-            "en": "Tadpoles"
-          },
-          "words": []
-        }
-      ]
-    },
-    "P+42-gaau2meou4tyu1": {
-      "unicode": "",
-      "characters": [
-        "gaau2𧌍蛆"
-      ],
-      "controversial": 2,
-      "related": [],
-      "pinyin": "gaau2𧌍qu1",
-      "jyutping": "gaau2meou4tyu1",
-      "bbakLau": "",
-      "head": "动物",
-      "tail": "",
-      "refBy": [],
-      "meanings": []
-    },
     "P+43-fon1gwan00nau2": {
       "unicode": "",
       "characters": [
@@ -1407,29 +1344,6 @@
       "tail": "",
       "refBy": [],
       "meanings": []
-    },
-    "P+46-teou2meou4ing1": {
-      "unicode": "",
-      "characters": [
-        "草毛ing1"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "cao3mao2ing1",
-      "jyutping": "teou2meou4ing1",
-      "bbakLau": "",
-      "head": "动物",
-      "tail": "",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "毛毛虫",
-            "en": "Caterpillar"
-          },
-          "words": []
-        }
-      ]
     }
   },
   "name": "Pended"
