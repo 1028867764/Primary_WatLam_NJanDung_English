@@ -19,8 +19,8 @@
       "pinyin": "bbaa2 caa2",
       "jyutping": "bbaa2caa2",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -42,8 +42,8 @@
       "pinyin": "bbaa2 bbet8",
       "jyutping": "bbaa2bbet8",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -65,8 +65,8 @@
       "pinyin": "nan2wei4",
       "jyutping": "non4wai1",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [
         "P+3-no00wai1"
       ],
@@ -114,8 +114,8 @@
       "pinyin": "nan2wei4",
       "jyutping": "no00wai1",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": []
     },
@@ -129,8 +129,8 @@
       "pinyin": "ling2zeng1",
       "jyutping": "lang4slang6",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -152,8 +152,8 @@
       "pinyin": "san1ling2",
       "jyutping": "slom1lang4",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -175,8 +175,8 @@
       "pinyin": "slop8 slang3",
       "jyutping": "slop8slang3",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -185,46 +185,6 @@
             "en": "Not serious; Talk nonsense"
           },
           "words": []
-        }
-      ]
-    },
-    "P+7-am6beot00lang00": {
-      "unicode": "",
-      "characters": [
-        "冚BL"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "kan3BL",
-      "jyutping": "am6beot00lang00",
-      "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "全部",
-            "en": "Whole, in total"
-          },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__{U+5403-hik7}{U+9F50-dai4}",
-                  "descriptions": {
-                    "zh": "全部吃完",
-                    "en": "Eat it all up"
-                  }
-                }
-              ]
-            }
-          ]
         }
       ]
     },
@@ -238,8 +198,8 @@
       "pinyin": "yi1PL",
       "jyutping": "jat1pok8lok8",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -278,8 +238,8 @@
       "pinyin": "ban4LK",
       "jyutping": "bbun3lang00kang00",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -318,8 +278,8 @@
       "pinyin": "sap7 ce1",
       "jyutping": "sap7ce1",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -341,8 +301,8 @@
       "pinyin": "sap7 tip7",
       "jyutping": "sap7tip7",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [
         "P+12-sap7tit7"
       ],
@@ -366,8 +326,8 @@
       "pinyin": "sap7 tit7",
       "jyutping": "sap7tit7",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": []
     },
@@ -381,8 +341,8 @@
       "pinyin": "long3long3lie1lie1",
       "jyutping": "lung4lung4le5le5",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -404,8 +364,8 @@
       "pinyin": "lam6 lam4 le6 le6",
       "jyutping": "lam4lam4le6le6",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -427,8 +387,8 @@
       "pinyin": "zhi1zhi1𠽻𠽻",
       "jyutping": "zi1zi1zet8zet8",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -450,8 +410,8 @@
       "pinyin": "zhi1𠽻",
       "jyutping": "zi6zet10",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -490,8 +450,8 @@
       "pinyin": "ni ni nang nang",
       "jyutping": "ni00ni00nang00nang00",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -530,8 +490,8 @@
       "pinyin": "bi2gung1",
       "jyutping": "bi6gung1",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -553,8 +513,8 @@
       "pinyin": "wu2cung1",
       "jyutping": "m6cung1",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -593,8 +553,8 @@
       "pinyin": "bao4pitshang1",
       "jyutping": "bbou3pit7saa1",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -633,8 +593,8 @@
       "pinyin": "cheng3xiang3",
       "jyutping": "cing2jaa2",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -673,8 +633,8 @@
       "pinyin": "cheng3rang3",
       "jyutping": "cing2njaa2",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -713,8 +673,8 @@
       "pinyin": "dak9-10 jak9",
       "jyutping": "dak9jak9",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -753,8 +713,8 @@
       "pinyin": "䶎hou1qi4chuan3",
       "jyutping": "ham1ho1hi3cyun2",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -776,8 +736,8 @@
       "pinyin": "lao3ke1",
       "jyutping": "leou5ke1",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -799,8 +759,8 @@
       "pinyin": "luo4yu3bakshi1",
       "jyutping": "lok10jyu5bak9sap7",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -839,8 +799,8 @@
       "pinyin": "me2 se2",
       "jyutping": "me2se2",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -866,39 +826,14 @@
       "pinyin": "ngak7-8 ngoe2",
       "jyutping": "ngak7ngoe2",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
           "descriptions": {
             "zh": "说话结巴",
             "en": "Stuttering, stammering"
-          },
-          "words": []
-        }
-      ]
-    },
-    "P+29-ngi4ngi4nguk9nguk9": {
-      "unicode": "",
-      "characters": [
-        "ngi4-6 ngi4𠵛𠵛"
-      ],
-      "controversial": 0,
-      "related": [
-        "U+20D5B-nguk9"
-      ],
-      "pinyin": "ngi4-6 ngi4𠵛𠵛",
-      "jyutping": "ngi4ngi4nguk9nguk9",
-      "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "因为不牢固而摇晃；因为不专心而多动",
-            "en": "Shake due to lack of firmness; Being hyperactive due to lack of concentration"
           },
           "words": []
         }
@@ -914,8 +849,8 @@
       "pinyin": "er4nang4",
       "jyutping": "ni6nang4",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [
         "P+30-nji6nang4"
       ],
@@ -963,8 +898,8 @@
       "pinyin": "er4nang4",
       "jyutping": "nji6nang4",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": []
     },
@@ -978,8 +913,8 @@
       "pinyin": "sat7-8 jan1",
       "jyutping": "sat7jan1",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -1032,8 +967,8 @@
       "pinyin": "sat9-10 sik9",
       "jyutping": "sat9sik9",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -1055,8 +990,8 @@
       "pinyin": "si2 si1 sik8 sik7",
       "jyutping": "si1si1sik7sik7",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -1078,8 +1013,8 @@
       "pinyin": "wi6 wi4 wak10 wak9",
       "jyutping": "wi4wi4wak9wak9",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -1108,29 +1043,6 @@
         }
       ]
     },
-    "P+35-bbai3lui1": {
-      "unicode": "",
-      "characters": [
-        "裨lui1"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "bi4lui1",
-      "jyutping": "bbai3lui1",
-      "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "左撇子",
-            "en": "Left-handed person"
-          },
-          "words": []
-        }
-      ]
-    },
     "P+36-meou4man1": {
       "unicode": "",
       "characters": [
@@ -1141,37 +1053,14 @@
       "pinyin": "mao2man1",
       "jyutping": "meou4man1",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
           "descriptions": {
             "zh": "鸡皮疙瘩",
             "en": "Goose bumps"
-          },
-          "words": []
-        }
-      ]
-    },
-    "P+37-gau5lak7cak7": {
-      "unicode": "",
-      "characters": [
-        "gau5 lak7 cak7"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "gau5 lak7 cak7",
-      "jyutping": "gau5lak7cak7",
-      "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "破烂玩意儿",
-            "en": "Old and torn stuff"
           },
           "words": []
         }
@@ -1189,77 +1078,14 @@
       "pinyin": "tou1nian1bun6qiang3",
       "jyutping": "tau1nem1bun00taa2",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
           "descriptions": {
             "zh": "（具体意思不确定，总之是一些不好的勾当，比如盗窃、抢劫）",
             "en": "(The specific meaning is uncertain, in short, it is some bad activities, such as theft and robbery)"
-          },
-          "words": []
-        }
-      ]
-    },
-    "P+39-dung00gyun6": {
-      "unicode": "",
-      "characters": [
-        "dung6䟒"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "dung6䟒",
-      "jyutping": "dung00gyun6",
-      "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "环绕的圈",
-            "en": "Surrounding Circle"
-          },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "围{A+le5}一{U+96BB-zik7}__self__",
-                  "descriptions": {
-                    "zh": "围了一圈",
-                    "en": "Surrounded in a circle"
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "P+40-gom2njing2": {
-      "unicode": "",
-      "characters": [
-        "gom2 njing2"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "gom2 njing2",
-      "jyutping": "gom2njing2",
-      "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "形容肉肥而不腻",
-            "en": "Describing fat but not greasy meat"
           },
           "words": []
         }
@@ -1275,8 +1101,8 @@
       "pinyin": "fan1gwan6niu3",
       "jyutping": "fon1gwan00nau2",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [],
       "meanings": [
         {
@@ -1291,15 +1117,15 @@
     "P+44-fon2gwai2": {
       "unicode": "",
       "characters": [
-        "反轨"
+        "反诡"
       ],
       "controversial": 2,
       "related": [],
       "pinyin": "fan3gui3",
       "jyutping": "fon2gwai2",
       "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
+      "head": "",
+      "tail": "",
       "refBy": [
         "P+44-fong2gwai2"
       ],
@@ -1329,21 +1155,6 @@
           ]
         }
       ]
-    },
-    "P+44-fong2gwai2": {
-      "unicode": "",
-      "characters": [
-        "反轨"
-      ],
-      "controversial": 2,
-      "related": [],
-      "pinyin": "fan3gui3",
-      "jyutping": "fong2gwai2",
-      "bbakLau": "",
-      "head": "词语",
-      "tail": "词语",
-      "refBy": [],
-      "meanings": []
     }
   },
   "name": "Pended"

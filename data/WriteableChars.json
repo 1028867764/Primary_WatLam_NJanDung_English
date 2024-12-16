@@ -107,8 +107,7 @@
       "related": [
         "U+6210-sing4",
         "U+603B-ddung2",
-        "U+9F50-dai4",
-        "P+7-am6beot00lang00"
+        "U+9F50-dai4"
       ],
       "pinyin": "kan3",
       "jyutping": "am6",
@@ -148,12 +147,20 @@
               ]
             },
             {
-              "format": "__self__beot lang",
+              "format": "__self__BL",
               "descriptions": {
-                "zh": "全部",
-                "en": "Whole; Complete; Entire; Total; All"
+                "zh": "全部，「BL」可念作「beot lang」",
+                "en": "Whole; Complete; Entire; Total; All;「BL」may be pronounced as「beot lang」"
               },
-              "sentences": []
+              "sentences": [
+                {
+                  "format": "__self__{U+5403-hik7}{U+9F50-dai4}",
+                  "descriptions": {
+                    "zh": "全部吃完",
+                    "en": "Eat it all up"
+                  }
+                }
+              ]
             }
           ]
         }
@@ -5217,12 +5224,20 @@
           },
           "words": [
             {
-              "format": "__self__",
+              "format": "dung6__self__",
               "descriptions": {
-                "zh": "",
-                "en": ""
+                "zh": "环绕的圈",
+                "en": "Surrounding Circle"
               },
-              "sentences": []
+              "sentences": [
+                {
+                  "format": "围{A+le5}一{U+96BB-zik7}__self__",
+                  "descriptions": {
+                    "zh": "围了一圈",
+                    "en": "Surrounded in a circle"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -7139,7 +7154,7 @@
               },
               "sentences": [
                 {
-                  "format": "{W+77-ddeou3mun4}{U+5F97-ddak7}{U+5481-gam2}{A+er}__self__",
+                  "format": "灶门{U+5F97-ddak7}{U+5481-gam2}{A+er}__self__",
                   "descriptions": {
                     "zh": "厨房里的烟怎么这么多",
                     "en": "Why is there so much smoke in the kitchen"
@@ -12415,7 +12430,7 @@
         "U+957F-zaa4",
         "U+603B-ddung2",
         "U+9F50-dai4",
-        "P+7-am6beot00lang00"
+        ""
       ],
       "pinyin": "cheng2",
       "jyutping": "sing4",
@@ -24831,7 +24846,7 @@
               },
               "sentences": [
                 {
-                  "format": "知识点{P+7-am6beot00lang00}记__self__来",
+                  "format": "知识点{U+519A-am6}BL记__self__来",
                   "descriptions": {
                     "zh": "知识点全部记下来",
                     "en": "Write down all the knowledge points"
@@ -26024,6 +26039,14 @@
                   }
                 }
               ]
+            },
+            {
+              "format": "ngi4-6ngi4__self__{U+20D5B-nguk9}",
+              "descriptions": {
+                "zh": "因为不牢固而摇晃；因为不专心而多动",
+                "en": "Shake due to lack of firmness; Being hyperactive due to lack of concentration"
+              },
+              "sentences": []
             }
           ]
         }
@@ -30255,20 +30278,20 @@
           },
           "words": [
             {
-              "format": "__self__",
+              "format": "__self__手",
               "descriptions": {
-                "zh": "",
-                "en": ""
+                "zh": "左手",
+                "en": "The left hand"
               },
-              "sentences": [
-                {
-                  "format": "__self__手",
-                  "descriptions": {
-                    "zh": "左手",
-                    "en": "The left hand"
-                  }
-                }
-              ]
+              "sentences": []
+            },
+            {
+              "format": "__self__lui1",
+              "descriptions": {
+                "zh": "左撇子，左利手",
+                "en": "Left-handed person"
+              },
+              "sentences": []
             }
           ]
         }

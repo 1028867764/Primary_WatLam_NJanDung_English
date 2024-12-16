@@ -3009,6 +3009,14 @@
                   }
                 }
               ]
+            },
+            {
+              "format": "__self__lak7cak7",
+              "descriptions": {
+                "zh": "破烂玩意儿",
+                "en": "Old and torn stuff"
+              },
+              "sentences": []
             }
           ]
         }
