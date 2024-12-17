@@ -313,7 +313,7 @@ function log2File(filename: string, logContent: string): void {
       fs.mkdirSync(testDir, { recursive: true });
     }
 
-    fs.appendFileSync(logFilePath, `${logContent}\n`, { encoding: 'utf8' });
+    fs.writeFileSync(logFilePath, `${logContent}\n`, { encoding: 'utf8' });
     console.log('日志已成功记录');
   } catch (err) {
     console.error('记录日志时出错:', err);
