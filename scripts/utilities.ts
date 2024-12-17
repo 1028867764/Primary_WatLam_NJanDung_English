@@ -1,8 +1,9 @@
 import fs from 'fs';
-import path from 'path';
+import path, { dirname, join } from 'path';
 
 import { DBName } from '../types/autoExportTypes';
 import { DataBase, Creator, Entry } from '../types/index';
+import { fileURLToPath } from 'url';
 
 /**
  * 将`data`以JOSN格式写出到`path`
@@ -291,10 +292,36 @@ class DB {
     }
     writeJSON('./test/properties.json', properties);
   }
+
+  iterEntry(cb: (id: string, entry: Entry) => void) {
+    for (const id in this.innerDB.data) {
+      const entry = this.innerDB.data[id];
+      cb(id, entry);
+    }
+  }
+}
+
+const __filename = fileURLToPath(import.meta.url);
+const __dirname = dirname(__filename);
+
+function log2File(filename: string, logContent: string): void {
+  const logFilePath = join(__dirname, '..', 'test', filename); // 构建日志文件路径
+
+  try {
+    const testDir = join(__dirname, '..', 'test');
+    if (!fs.existsSync(testDir)) {
+      fs.mkdirSync(testDir, { recursive: true });
+    }
+
+    fs.appendFileSync(logFilePath, `${logContent}\n`, { encoding: 'utf8' });
+    console.log('日志已成功记录');
+  } catch (err) {
+    console.error('记录日志时出错:', err);
+  }
 }
 
 type EntryKeys = {
   [Key in keyof Entry]?: Key;
 }[keyof Entry][];
 
-export { writeJSON, readJSON, parseDB, mergeDB, exportDB, DB };
+export { writeJSON, readJSON, parseDB, mergeDB, exportDB, DB, log2File };
