@@ -24,40 +24,31 @@ function readJSON(path: string) {
   return JSON.parse(fs.readFileSync(path, 'utf-8'));
 }
 
+function readDB(dbName: string) {
+  return readJSON(`./data/${dbName}.json`);
+}
+
 function now() {
   return new Date().toISOString();
 }
 
-/**
- * 读取任意数据库的实用函数
- * @param args 有效的数据库名
- * @returns 以数据库名为键、数据库对象为值的object
- */
-function parseDB(...args: DBName[]) {
-  const dbs: { [key: string]: DataBase } = {};
-  if (args.length === 0) {
-    fs.readdirSync('./data').forEach(file => {
-      const dbName = path.basename(file, '.json') as DBName;
-      dbs[dbName] = _parseDB(dbName);
-    });
-  } else {
-    for (const dbName of args) {
-      dbs[dbName] = _parseDB(dbName);
-    }
-  }
-  return dbs;
-}
-
-function _parseDB(dbName: DBName): DataBase {
-  return readJSON(`./data/${dbName}.json`);
-}
-
 function mergeDB() {
-  const dbs = parseDB();
+  const dbNames: string[] = [];
   const mainDB = new DB('main');
-  for (const dbName in dbs) {
-    mainDB.innerDB.data = Object.assign(mainDB.innerDB.data, dbs[dbName].data);
-  }
+  fs.readdirSync('./data').forEach(file => {
+    const dbName = path.basename(file, '.json') as DBName;
+    dbNames.push(dbName);
+    const db = new DB(dbName);
+    db.iterEntry((id, entry) => {
+      entry.subDB = dbName;
+      mainDB.setEnstry(id, entry);
+    });
+  });
+  fs.writeFileSync(
+    './types/autoExportTypes.d.ts',
+    `// 自动生成的类型声明文件\nexport type DBName = \n\t| '${dbNames.join("'\n\t| '")}'\n;`
+  );
+  console.log('类型声明文件生成完毕。');
   return mainDB;
 }
 
@@ -70,14 +61,15 @@ function exportDB() {
     const [head, ...tail] = path.split('.');
     // 仅对末位属性赋值（跳过那些已经solve过的）
     if (tail.length === 0 && typeof obj[head] === 'string') {
-      obj[head] = mainDB.solveIDRef(obj[head]);
+      obj[head] = mainDB.solveIdRef(obj[head]);
     } else if (typeof obj[head] === 'object') {
       solveIDRef(obj[head], tail.join('.'));
     }
   }
-  for (const id in mainDB.innerDB.data) {
+
+  for (const id in mainDB._database.data) {
     console.log(`solve ID ${id}`);
-    const entry = mainDB.innerDB.data[id];
+    const entry = mainDB._database.data[id];
     const char = entry.characters[0];
     entry.meanings.forEach(meaning => {
       solveIDRef(meaning, 'descriptions.zh');
@@ -103,9 +95,9 @@ function exportDB() {
     if (Array.isArray(entry.refBy)) {
       if (entry.refBy.length) {
         const allRef = [id, ...entry.refBy];
-        const refBy = mainDB.solveIDIndex(allRef);
+        const refBy = mainDB.solveIdArray(allRef);
         allRef.forEach(refID => {
-          const refEntry = mainDB.innerDB.data[refID];
+          const refEntry = mainDB._database.data[refID];
           refEntry.refBy = refBy;
           if (refID !== id) {
             Object.keys(entry).forEach(key => {
@@ -122,10 +114,10 @@ function exportDB() {
     if (Array.isArray(entry.related)) {
       if (entry.related.length) {
         const allRelaed = [id, ...entry.related];
-        const related = mainDB.solveIDIndex(allRelaed);
+        const related = mainDB.solveIdArray(allRelaed);
         allRelaed.forEach(relID => {
           console.log(`solve relID: ${relID}`);
-          mainDB.innerDB.data[relID].related = related;
+          mainDB._database.data[relID].related = related;
         });
       } else {
         entry.related = {};
@@ -144,7 +136,7 @@ export function iterDB(cb: (arg0: DB) => void) {
 }
 
 class DB {
-  innerDB: DataBase;
+  _database: DataBase;
 
   /**
    * @param dbName 数据库名
@@ -153,9 +145,9 @@ class DB {
    */
   constructor(dbName?: DBName | string) {
     if (typeof dbName === 'string' && fs.existsSync(`./data/${dbName}.json`)) {
-      this.innerDB = parseDB(dbName as DBName)[dbName];
+      this._database = readDB(dbName);
     } else {
-      this.innerDB = {
+      this._database = {
         name: dbName === undefined ? 'newDatabase' : dbName,
         version: '0.0.1',
         createTime: now(),
@@ -166,14 +158,22 @@ class DB {
     }
   }
 
+  get data() {
+    return this._database.data;
+  }
+
+  set data(newData) {
+    this._database.data = newData;
+  }
+
   /**
    * 保存数据库到文件
    */
   save(path?: string) {
-    this.innerDB.updateTime = now();
+    this._database.updateTime = now();
     writeJSON(
-      `${path ? path : './data'}/${this.innerDB.name}.json`,
-      this.innerDB
+      `${path ? path : './data'}/${this._database.name}.json`,
+      this._database
     );
   }
 
@@ -185,7 +185,7 @@ class DB {
    * - url 可选属性，你的个人主页
    */
   addCreator(creator: Creator) {
-    this.innerDB.creators.push(creator);
+    this._database.creators.push(creator);
   }
 
   /**
@@ -197,8 +197,8 @@ class DB {
    */
   hasEntry(idOrJyutping: string, strict: boolean = true): boolean {
     return strict
-      ? Object.hasOwnProperty.call(this.innerDB.data, idOrJyutping)
-      : Object.keys(this.innerDB.data).some(id => id.includes(idOrJyutping));
+      ? Object.hasOwnProperty.call(this._database.data, idOrJyutping)
+      : Object.keys(this._database.data).some(id => id.includes(idOrJyutping));
   }
 
   /**
@@ -212,7 +212,7 @@ class DB {
     if (Array.isArray(ids)) {
       return ids.map(id => this.getEntry(id));
     }
-    return this.innerDB.data[ids];
+    return this._database.data[ids];
   }
 
   /**
@@ -220,7 +220,7 @@ class DB {
    * @param entry Entry 对象，具体定义见 `./types/index.d.ts`
    */
   setEnstry(id: string, entry: Entry) {
-    this.innerDB.data[id] = entry;
+    this._database.data[id] = entry;
   }
 
   /**
@@ -228,7 +228,7 @@ class DB {
    * @param ids id为元素的数组
    * @returns id为键名、对应character为键值的object
    */
-  solveIDIndex(ids: string[]) {
+  solveIdArray(ids: string[]) {
     const idCharMap: { [id: string]: string } = {};
     for (const id of ids) {
       if (this.hasEntry(id)) {
@@ -243,7 +243,7 @@ class DB {
    * @param str 任意包含{ID}表达式的字符串
    * @returns 含{ID=character}表达式的字符串，若ID不存在，将返回ID的字符串
    */
-  solveIDRef(text: string) {
+  solveIdRef(text: string) {
     const regexp = /{([^}]+)}/g;
     let match: RegExpExecArray | null;
     let lastIndex = 0;
@@ -281,8 +281,8 @@ class DB {
         properties[key] = new Set();
       }
     }
-    for (const id in this.innerDB.data) {
-      const entry = this.innerDB.data[id];
+    for (const id in this._database.data) {
+      const entry = this._database.data[id];
       for (const key in properties) {
         properties[key].add(entry[key]);
       }
@@ -294,15 +294,14 @@ class DB {
   }
 
   iterEntry(cb: (id: string, entry: Entry) => void) {
-    for (const id in this.innerDB.data) {
-      const entry = this.innerDB.data[id];
+    for (const id in this._database.data) {
+      const entry = this._database.data[id];
       cb(id, entry);
     }
   }
 }
 
-const __filename = fileURLToPath(import.meta.url);
-const __dirname = dirname(__filename);
+const __dirname = dirname(fileURLToPath(import.meta.url));
 
 function log2File(filename: string, logContent: string): void {
   const logFilePath = join(__dirname, '..', 'test', filename); // 构建日志文件路径
@@ -324,4 +323,4 @@ type EntryKeys = {
   [Key in keyof Entry]?: Key;
 }[keyof Entry][];
 
-export { writeJSON, readJSON, parseDB, mergeDB, exportDB, DB, log2File };
+export { writeJSON, readJSON, mergeDB, exportDB, DB, log2File };

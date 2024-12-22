@@ -19,6 +19,7 @@ interface Creator {
 }
 
 interface Entry {
+  subDB?: string;
   unicode: string;
   // 按照可信度排序，字符不存在时留空
   characters: string[];
