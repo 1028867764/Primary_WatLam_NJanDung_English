@@ -41,7 +41,7 @@ function mergeDB() {
     const db = new DB(dbName);
     db.iterEntry((id, entry) => {
       entry.subDB = dbName;
-      mainDB.setEnstry(id, entry);
+      mainDB.setEntry(id, entry);
     });
   });
   fs.writeFileSync(
@@ -219,7 +219,7 @@ class DB {
    * 新增一个词条
    * @param entry Entry 对象，具体定义见 `./types/index.d.ts`
    */
-  setEnstry(id: string, entry: Entry) {
+  setEntry(id: string, entry: Entry) {
     this._database.data[id] = entry;
   }
 

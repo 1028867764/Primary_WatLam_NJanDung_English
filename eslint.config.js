@@ -1,20 +1,21 @@
 import globals from "globals";
-import pluginJs from "@eslint/js";
+import js from "@eslint/js";
 import tseslint from "typescript-eslint";
+import json from "@eslint/json";
 
 
-export default [
-  { languageOptions: { globals: globals.node } },
-    pluginJs.configs.recommended,
+/** @type {import('eslint').Linter.Config[]} */
+export default [  
+  {
+    files: ["**/*.{js,mjs,cjs,ts}"],
+    languageOptions: { globals: globals.node },
+    ...js.configs.recommended
+  },
   ...tseslint.configs.recommended,
   {
-    files: ["scripts/*.{js,mjs,ts}"],
-    rules: {
-      semi: ["error", "always"],
-      indent: ["error", 2],
-      "no-prototype-builtins": "off",
-      "spaced-comment": "error",
-      "no-multi-spaces": "error"
-    }
-  }
+		files: ["**/*.json"],
+		ignores: ["package-lock.json"],
+		language: "json/json",
+		...json.configs.recommended,
+	}
 ];

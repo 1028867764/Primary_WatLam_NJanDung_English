@@ -11,7 +11,9 @@
   "data": {
     "W+1-dai4huk7": {
       "unicode": "U+557CU+54ED",
-      "characters": ["啼哭"],
+      "characters": [
+        "啼哭"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "ti2ku1",
@@ -32,7 +34,9 @@
     },
     "W+2-ddan3njan4": {
       "unicode": "U+8FDBU+4EBA",
-      "characters": ["进人"],
+      "characters": [
+        "进人"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "jin4ren2",
@@ -53,7 +57,9 @@
     },
     "W+3-sui2jaa2jau5fan6": {
       "unicode": "U+6C34U+54CDU+6709U+4EFD",
-      "characters": ["水响有份"],
+      "characters": [
+        "水响有份"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "shui3xiang3you3fen4",
@@ -74,9 +80,15 @@
     },
     "W+5-gwo3zi2": {
       "unicode": "U+6302U+7EB8",
-      "characters": ["挂纸"],
+      "characters": [
+        "挂纸"
+      ],
       "controversial": 0,
-      "related": ["U+4F9B-gung3", "U+990A-jaa3", "U+558F-jo5"],
+      "related": [
+        "U+4F9B-gung3",
+        "U+990A-jaa3",
+        "U+558F-jo5"
+      ],
       "pinyin": "gua4zhi3",
       "jyutping": "gwo3zi2",
       "bbakLau": "",
@@ -95,7 +107,9 @@
     },
     "W+6-heou2toi2": {
       "unicode": "U+597DU+5F69",
-      "characters": ["好彩"],
+      "characters": [
+        "好彩"
+      ],
       "controversial": 0,
       "related": [
         "U+60DC-slik7",
@@ -138,9 +152,13 @@
     },
     "W+7-jaa2mok8": {
       "unicode": "U+7EA6U+6478",
-      "characters": ["约摸"],
+      "characters": [
+        "约摸"
+      ],
       "controversial": 0,
-      "related": ["A+29-son03"],
+      "related": [
+        "A+29-son03"
+      ],
       "pinyin": "yue1mo1",
       "jyutping": "jaa2mok8",
       "bbakLau": "",
@@ -176,7 +194,9 @@
     },
     "W+8-jin1zan1": {
       "unicode": "U+7275U+7B4B",
-      "characters": ["牵筋"],
+      "characters": [
+        "牵筋"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "qian1jin1",
@@ -197,9 +217,13 @@
     },
     "W+9-lop8laa3": {
       "unicode": "U+8721U+9753",
-      "characters": ["蜡靓"],
+      "characters": [
+        "蜡靓"
+      ],
       "controversial": 0,
-      "related": ["U+71A0-jop10"],
+      "related": [
+        "U+71A0-jop10"
+      ],
       "pinyin": "la4liang4",
       "jyutping": "lop8laa3",
       "bbakLau": "",
@@ -218,7 +242,9 @@
     },
     "W+10-lo00zo00": {
       "unicode": "U+85DEU+4562",
-      "characters": ["藞䕢"],
+      "characters": [
+        "藞䕢"
+      ],
       "controversial": 0,
       "related": [
         "U+8352-wong1",
@@ -264,9 +290,13 @@
     },
     "W+11-pik7sot8": {
       "unicode": "U+5288U+6740",
-      "characters": ["劈杀"],
+      "characters": [
+        "劈杀"
+      ],
       "controversial": 0,
-      "related": ["U+4EA4-gou1"],
+      "related": [
+        "U+4EA4-gou1"
+      ],
       "pinyin": "pi1sha1",
       "jyutping": "pik7sot8",
       "bbakLau": "",
@@ -285,9 +315,13 @@
     },
     "W+12-po3cau2": {
       "unicode": "U+6015U+4E11",
-      "characters": ["怕丑"],
+      "characters": [
+        "怕丑"
+      ],
       "controversial": 0,
-      "related": ["U+67B6-go6"],
+      "related": [
+        "U+67B6-go6"
+      ],
       "pinyin": "pa4chou3",
       "jyutping": "po3cau2",
       "bbakLau": "",
@@ -306,7 +340,9 @@
     },
     "W+13-pun1sli2": {
       "unicode": "U+62DAU+6B7B",
-      "characters": ["拚死"],
+      "characters": [
+        "拚死"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "pin1si3",
@@ -344,7 +380,9 @@
     },
     "W+14-tai1laa4": {
       "unicode": "U+51C4U+51C9",
-      "characters": ["凄凉"],
+      "characters": [
+        "凄凉"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "qi1liang2",
@@ -365,7 +403,9 @@
     },
     "W+15-wan5sat7": {
       "unicode": "U+628EU+5931",
-      "characters": ["抎失"],
+      "characters": [
+        "抎失"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "yun3shi1",
@@ -410,7 +450,9 @@
     },
     "W+16-wo1lang3lang3": {
       "unicode": "U+82B1U+7EEBU+7EEB",
-      "characters": ["花绫绫"],
+      "characters": [
+        "花绫绫"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "hua1ling2ling2",
@@ -431,7 +473,9 @@
     },
     "W+17-woi6zung2": {
       "unicode": "U+574FU+79CD",
-      "characters": ["坏种"],
+      "characters": [
+        "坏种"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "huai4zhong3",
@@ -469,7 +513,9 @@
     },
     "W+21-gin00sing4": {
       "unicode": "U+4EF6U+6210",
-      "characters": ["件成"],
+      "characters": [
+        "件成"
+      ],
       "controversial": 1,
       "related": [
         "U+8352-wong1",
@@ -497,9 +543,13 @@
     },
     "W+23-zi3sing4": {
       "unicode": "U+81F3U+8BDA",
-      "characters": ["至诚"],
+      "characters": [
+        "至诚"
+      ],
       "controversial": 0,
-      "related": ["U+6B63-zing3"],
+      "related": [
+        "U+6B63-zing3"
+      ],
       "pinyin": "zhi4cheng2",
       "jyutping": "zi3sing4",
       "bbakLau": "",
@@ -542,9 +592,13 @@
     },
     "W+25-biu4se3": {
       "unicode": "U+5AD6U+9A07",
-      "characters": ["嫖騇"],
+      "characters": [
+        "嫖騇"
+      ],
       "controversial": 0,
-      "related": ["A+53-put7"],
+      "related": [
+        "A+53-put7"
+      ],
       "pinyin": "piao2she4",
       "jyutping": "biu4se3",
       "bbakLau": "",
@@ -563,7 +617,9 @@
     },
     "W+27-lau4dau4": {
       "unicode": "U+6D41U+5934",
-      "characters": ["流头"],
+      "characters": [
+        "流头"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "liu2tou2",
@@ -601,7 +657,9 @@
     },
     "W+28-bet10cyu3tyun1": {
       "unicode": "U+522BU+5904U+6751",
-      "characters": ["别处村"],
+      "characters": [
+        "别处村"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "bie2chu4cun1",
@@ -622,7 +680,9 @@
     },
     "W+29-bui6ddik7": {
       "unicode": "U+80CCU+810A",
-      "characters": ["背脊"],
+      "characters": [
+        "背脊"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "bei4ji3",
@@ -643,7 +703,9 @@
     },
     "W+30-dau4nep8": {
       "unicode": "U+5934U+954A",
-      "characters": ["头镊"],
+      "characters": [
+        "头镊"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "tou2nie4",
@@ -664,7 +726,9 @@
     },
     "W+31-zi2jiu4": {
       "unicode": "U+7EB8U+9E5E",
-      "characters": ["纸鹞"],
+      "characters": [
+        "纸鹞"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "zhi3yao4",
@@ -685,7 +749,9 @@
     },
     "W+32-njon5ci1": {
       "unicode": "U+773CU+7735",
-      "characters": ["眼眵"],
+      "characters": [
+        "眼眵"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "yan3chi1",
@@ -706,7 +772,9 @@
     },
     "W+33-din4hung3": {
       "unicode": "U+7530U+63A7",
-      "characters": ["田控"],
+      "characters": [
+        "田控"
+      ],
       "controversial": 0,
       "related": [
         "U+578C-dung6",
@@ -732,7 +800,9 @@
     },
     "W+34-din6zuk7": {
       "unicode": "U+7535U+70DB",
-      "characters": ["电烛"],
+      "characters": [
+        "电烛"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "dian4zhu2",
@@ -753,7 +823,9 @@
     },
     "W+35-duk9gi2": {
       "unicode": "U+72ECU+5DF1",
-      "characters": ["独己"],
+      "characters": [
+        "独己"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "du2ji3",
@@ -774,7 +846,9 @@
     },
     "W+36-du5loe4": {
       "unicode": "U+809AU+81DA",
-      "characters": ["肚臚"],
+      "characters": [
+        "肚臚"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "du4lu2",
@@ -795,7 +869,9 @@
     },
     "W+37-fot8wan1": {
       "unicode": "U+53D1U+761F",
-      "characters": ["发瘟"],
+      "characters": [
+        "发瘟"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "fa1wen1",
@@ -816,7 +892,9 @@
     },
     "W+39-gou2git7": {
       "unicode": "U+57A2U+573F",
-      "characters": ["垢圿"],
+      "characters": [
+        "垢圿"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "gou4jia2",
@@ -854,9 +932,13 @@
     },
     "W+40-leou5dau6": {
       "unicode": "U+8001U+8C46",
-      "characters": ["老豆"],
+      "characters": [
+        "老豆"
+      ],
       "controversial": 0,
-      "related": ["U+3737-me4"],
+      "related": [
+        "U+3737-me4"
+      ],
       "pinyin": "lao3dou4",
       "jyutping": "leou5dau6",
       "bbakLau": "",
@@ -875,7 +957,9 @@
     },
     "W+42-slom00njat9je3": {
       "unicode": "U+5345U+65E5U+591C",
-      "characters": ["卅日夜"],
+      "characters": [
+        "卅日夜"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "sa4ri4ye4",
@@ -896,7 +980,9 @@
     },
     "W+43-tin1din4": {
       "unicode": "U+5929U+7530",
-      "characters": ["天田"],
+      "characters": [
+        "天田"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "tian1tian2",
@@ -934,7 +1020,9 @@
     },
     "W+44-ting1ddai2": {
       "unicode": "U+5385U+90B8",
-      "characters": ["厅邸"],
+      "characters": [
+        "厅邸"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "ting1di3",
@@ -955,7 +1043,9 @@
     },
     "W+45-di6ddai2": {
       "unicode": "U+5730U+5E95",
-      "characters": ["地底"],
+      "characters": [
+        "地底"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "di4di3",
@@ -976,7 +1066,9 @@
     },
     "W+48-fuk7fat7": {
       "unicode": "U+7B26U+6CD5",
-      "characters": ["符法"],
+      "characters": [
+        "符法"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "fu2fa3",
@@ -997,7 +1089,9 @@
     },
     "W+49-nji5gwai2": {
       "unicode": "U+8033U+9B3C",
-      "characters": ["耳鬼"],
+      "characters": [
+        "耳鬼"
+      ],
       "controversial": 1,
       "related": [],
       "pinyin": "er3gui3",
@@ -1018,9 +1112,13 @@
     },
     "W+50-hau2zung1": {
       "unicode": "U+53E3U+76C5",
-      "characters": ["口盅"],
+      "characters": [
+        "口盅"
+      ],
       "controversial": 0,
-      "related": ["U+551B-mak7"],
+      "related": [
+        "U+551B-mak7"
+      ],
       "pinyin": "kou3zhong1",
       "jyutping": "hau2zung1",
       "bbakLau": "",
@@ -1039,7 +1137,9 @@
     },
     "W+51-mo1ling1": {
       "unicode": "U+5B56U+8EE8",
-      "characters": ["孖軨"],
+      "characters": [
+        "孖軨"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "ma1ling2",
@@ -1060,7 +1160,9 @@
     },
     "W+52-fot8hi3": {
       "unicode": "U+53D1U+6C14",
-      "characters": ["发气"],
+      "characters": [
+        "发气"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "fa1qi4",
@@ -1081,7 +1183,9 @@
     },
     "W+53-fot8sling3": {
       "unicode": "U+53D1U+6027",
-      "characters": ["发性"],
+      "characters": [
+        "发性"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "fa1xing4",
@@ -1102,9 +1206,13 @@
     },
     "W+54-tau3dui6": {
       "unicode": "U+51D1U+961F",
-      "characters": ["凑队"],
+      "characters": [
+        "凑队"
+      ],
       "controversial": 0,
-      "related": ["W+55-tau3gung6"],
+      "related": [
+        "W+55-tau3gung6"
+      ],
       "pinyin": "cou4dui4",
       "jyutping": "tau3dui6",
       "bbakLau": "",
@@ -1140,9 +1248,13 @@
     },
     "W+55-tau3gung6": {
       "unicode": "U+51D1U+5171",
-      "characters": ["凑共"],
+      "characters": [
+        "凑共"
+      ],
       "controversial": 0,
-      "related": ["W+54-tau3dui6"],
+      "related": [
+        "W+54-tau3dui6"
+      ],
       "pinyin": "cou4gong4",
       "jyutping": "tau3gung6",
       "bbakLau": "",
@@ -1178,15 +1290,23 @@
     },
     "W+56-ging3nang01": {
       "unicode": "U+6B63U+767B",
-      "characters": ["正登"],
+      "characters": [
+        "正登"
+      ],
       "controversial": 0,
-      "related": ["W+57-dak9ddang01"],
+      "related": [
+        "W+57-dak9ddang01"
+      ],
       "pinyin": "zheng4deng1",
       "jyutping": "ging3nang01",
       "bbakLau": "",
       "head": "",
       "tail": "",
-      "refBy": ["W+56-ging3ddang01", "W+56-zing3nang01", "W+56-zing3ddang01"],
+      "refBy": [
+        "W+56-ging3ddang01",
+        "W+56-zing3nang01",
+        "W+56-zing3ddang01"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -1216,7 +1336,9 @@
     },
     "W+56-ging3ddang01": {
       "unicode": "U+6B63U+767B",
-      "characters": ["正登"],
+      "characters": [
+        "正登"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "zheng4deng1",
@@ -1229,7 +1351,9 @@
     },
     "W+56-zing3nang01": {
       "unicode": "U+6B63U+767B",
-      "characters": ["正登"],
+      "characters": [
+        "正登"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "zheng4deng1",
@@ -1242,7 +1366,9 @@
     },
     "W+56-zing3ddang01": {
       "unicode": "U+6B63U+767B",
-      "characters": ["正登"],
+      "characters": [
+        "正登"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "zheng4deng1",
@@ -1255,15 +1381,21 @@
     },
     "W+57-dak9ddang01": {
       "unicode": "U+7279U+767B",
-      "characters": ["特登"],
+      "characters": [
+        "特登"
+      ],
       "controversial": 0,
-      "related": ["W+56-ging3nang01"],
+      "related": [
+        "W+56-ging3nang01"
+      ],
       "pinyin": "te4deng1",
       "jyutping": "dak9ddang01",
       "bbakLau": "",
       "head": "",
       "tail": "",
-      "refBy": ["W+57-dak9nang01"],
+      "refBy": [
+        "W+57-dak9nang01"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -1276,7 +1408,9 @@
     },
     "W+57-dak9nang01": {
       "unicode": "U+7279U+767B",
-      "characters": ["特登"],
+      "characters": [
+        "特登"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "te4deng1",
@@ -1289,9 +1423,13 @@
     },
     "W+58-ddeou2ji02": {
       "unicode": "U+65E9U+4EE5",
-      "characters": ["早以"],
+      "characters": [
+        "早以"
+      ],
       "controversial": 0,
-      "related": ["W+59-zau6ji02"],
+      "related": [
+        "W+59-zau6ji02"
+      ],
       "pinyin": "zao3yi3",
       "jyutping": "ddeou2ji02",
       "bbakLau": "",
@@ -1327,9 +1465,13 @@
     },
     "W+59-zau6ji02": {
       "unicode": "U+65E7U+4EE5",
-      "characters": ["旧以"],
+      "characters": [
+        "旧以"
+      ],
       "controversial": 0,
-      "related": ["W+58-ddeou2ji02"],
+      "related": [
+        "W+58-ddeou2ji02"
+      ],
       "pinyin": "jiu4yi3",
       "jyutping": "zau6ji02",
       "bbakLau": "",
@@ -1348,7 +1490,9 @@
     },
     "W+60-si4ging3": {
       "unicode": "U+65F6U+5883",
-      "characters": ["时境"],
+      "characters": [
+        "时境"
+      ],
       "controversial": 1,
       "related": [],
       "pinyin": "shi2jing4",
@@ -1386,7 +1530,9 @@
     },
     "W+61-tau1jam01": {
       "unicode": "U+5077U+9634",
-      "characters": ["偷阴"],
+      "characters": [
+        "偷阴"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "tou1yin1",
@@ -1394,7 +1540,9 @@
       "bbakLau": "",
       "head": "",
       "tail": "",
-      "refBy": ["W+62-tau1jam01"],
+      "refBy": [
+        "W+62-tau1jam01"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -1424,7 +1572,9 @@
     },
     "W+62-tau1jam01": {
       "unicode": "U+5077U+97F3",
-      "characters": ["偷音"],
+      "characters": [
+        "偷音"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "tou1yin1",
@@ -1437,7 +1587,9 @@
     },
     "W+65-tin1gi4": {
       "unicode": "U+5343U+7948",
-      "characters": ["千祈"],
+      "characters": [
+        "千祈"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "qian1qi2",
@@ -1475,7 +1627,9 @@
     },
     "W+66-tin1gi4tin1": {
       "unicode": "U+5343U+7948U+5343",
-      "characters": ["千祈千"],
+      "characters": [
+        "千祈千"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "qian1qi2qian1",
@@ -1513,7 +1667,9 @@
     },
     "W+67-tam2tam2zyun2": {
       "unicode": "U+27F7CU+27F7CU+8F6C",
-      "characters": ["𧽼𧽼转"],
+      "characters": [
+        "𧽼𧽼转"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "𧽼𧽼zhuan3",
@@ -1534,7 +1690,9 @@
     },
     "W+68-kwang00kwang00zyun2": {
       "unicode": "U+3622U+3622U+8F6C",
-      "characters": ["㘢㘢转"],
+      "characters": [
+        "㘢㘢转"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "㘢㘢zhuan3",
@@ -1542,7 +1700,9 @@
       "bbakLau": "",
       "head": "",
       "tail": "",
-      "refBy": ["W+68-gwang00gwang00zyun2"],
+      "refBy": [
+        "W+68-gwang00gwang00zyun2"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -1555,7 +1715,9 @@
     },
     "W+68-gwang00gwang00zyun2": {
       "unicode": "U+3622U+3622U+8F6C",
-      "characters": ["㘢㘢转"],
+      "characters": [
+        "㘢㘢转"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "㘢㘢zhuan3",
@@ -1568,7 +1730,9 @@
     },
     "W+69-wing5wang5zyun2": {
       "unicode": "U+8367U+60D1U+8F6C",
-      "characters": ["荧惑转"],
+      "characters": [
+        "荧惑转"
+      ],
       "controversial": 1,
       "related": [],
       "pinyin": "ying2huo4zhuan3",
@@ -1589,9 +1753,13 @@
     },
     "W+70-wing5wang6wang6": {
       "unicode": "U+8367U+60D1U+60D1",
-      "characters": ["荧惑惑"],
+      "characters": [
+        "荧惑惑"
+      ],
       "controversial": 1,
-      "related": ["U+6172-mun6"],
+      "related": [
+        "U+6172-mun6"
+      ],
       "pinyin": "ying2huo4huo4",
       "jyutping": "wing5wang6wang6",
       "bbakLau": "",
@@ -1627,9 +1795,13 @@
     },
     "W+71-hat7nji1": {
       "unicode": "U+4E5EU+513F",
-      "characters": ["乞儿"],
+      "characters": [
+        "乞儿"
+      ],
       "controversial": 0,
-      "related": ["W+72-mik9hik7leou5"],
+      "related": [
+        "W+72-mik9hik7leou5"
+      ],
       "pinyin": "qi3er2",
       "jyutping": "hat7nji1",
       "bbakLau": "",
@@ -1648,9 +1820,13 @@
     },
     "W+72-mik9hik7leou5": {
       "unicode": "U+89C5U+5403U+4F6C",
-      "characters": ["觅吃佬"],
+      "characters": [
+        "觅吃佬"
+      ],
       "controversial": 0,
-      "related": ["W+71-hat7nji1"],
+      "related": [
+        "W+71-hat7nji1"
+      ],
       "pinyin": "mi4chi1lao3",
       "jyutping": "mik9hik7leou5",
       "bbakLau": "",
@@ -1669,7 +1845,9 @@
     },
     "W+73-lak7gou1": {
       "unicode": "U+52D2U+80F6",
-      "characters": ["勒胶"],
+      "characters": [
+        "勒胶"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "le4jiao1",
@@ -1690,7 +1868,9 @@
     },
     "W+74-san1suk7gou1": {
       "unicode": "U+4F38U+7F29U+80F6",
-      "characters": ["伸缩胶"],
+      "characters": [
+        "伸缩胶"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "shen1suo1jiao1",
@@ -1711,7 +1891,9 @@
     },
     "W+75-aa6ddi2": {
       "unicode": "U+6838U+5B50",
-      "characters": ["核子"],
+      "characters": [
+        "核子"
+      ],
       "controversial": 0,
       "related": [
         "U+28CCD-toet10",
@@ -1738,7 +1920,9 @@
     },
     "W+76-aa6ge5": {
       "unicode": "U+6838U+8127",
-      "characters": ["核脧"],
+      "characters": [
+        "核脧"
+      ],
       "controversial": 0,
       "related": [
         "U+28CCD-toet10",
@@ -1752,7 +1936,9 @@
       "bbakLau": "",
       "head": "",
       "tail": "",
-      "refBy": ["W+76-aa6gai5"],
+      "refBy": [
+        "W+76-aa6gai5"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -1765,7 +1951,9 @@
     },
     "W+76-aa6gai5": {
       "unicode": "U+6838U+8127",
-      "characters": ["核脧"],
+      "characters": [
+        "核脧"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "he2zui1",
@@ -1778,7 +1966,9 @@
     },
     "W+78-ddeou3me4": {
       "unicode": "U+7076U+3737",
-      "characters": ["灶㜷"],
+      "characters": [
+        "灶㜷"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "zao4㜷",
@@ -1799,7 +1989,9 @@
     },
     "W+79-wui1leou5": {
       "unicode": "U+7070U+4F6C",
-      "characters": ["灰佬"],
+      "characters": [
+        "灰佬"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "hui1lao3",
@@ -1820,7 +2012,9 @@
     },
     "W+80-wui1leou5syu2": {
       "unicode": "U+7070U+8001U+9F20",
-      "characters": ["灰老鼠"],
+      "characters": [
+        "灰老鼠"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "hui1lao3shu3",
@@ -1841,7 +2035,9 @@
     },
     "W+81-bang4gang3": {
       "unicode": "U+5E9EU+8679",
-      "characters": ["庞虹"],
+      "characters": [
+        "庞虹"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "pang2hong2",
@@ -1862,7 +2058,9 @@
     },
     "W+82-bang4gang3": {
       "unicode": "U+5E9EU+7D73",
-      "characters": ["庞絳"],
+      "characters": [
+        "庞絳"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "pang2jiang4",
@@ -1883,9 +2081,15 @@
     },
     "W+83-fong3mo5": {
       "unicode": "U+653EU+9A6C",
-      "characters": ["放马"],
+      "characters": [
+        "放马"
+      ],
       "controversial": 0,
-      "related": ["U+5C59-eo1", "W+84-zo3njau4", "U+6FD1-loi6"],
+      "related": [
+        "U+5C59-eo1",
+        "W+84-zo3njau4",
+        "U+6FD1-loi6"
+      ],
       "pinyin": "fang4ma3",
       "jyutping": "fong3mo5",
       "bbakLau": "",
@@ -1904,7 +2108,9 @@
     },
     "W+84-zo3njau4": {
       "unicode": "U+70B8U+725B",
-      "characters": ["炸牛"],
+      "characters": [
+        "炸牛"
+      ],
       "controversial": 0,
       "related": [
         "U+6FD1-loi6",
@@ -1932,7 +2138,9 @@
     },
     "W+87-teo1tung2": {
       "unicode": "U+62D6U+6876",
-      "characters": ["拖桶"],
+      "characters": [
+        "拖桶"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "tuo1tong3",
@@ -1953,7 +2161,9 @@
     },
     "W+88-gwai6tung2": {
       "unicode": "U+67DCU+6876",
-      "characters": ["柜桶"],
+      "characters": [
+        "柜桶"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "gui4tong3",
@@ -1974,7 +2184,9 @@
     },
     "W+91-bi4ti3": {
       "unicode": "U+76AEU+523A",
-      "characters": ["皮刺"],
+      "characters": [
+        "皮刺"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "pi2ci4",
@@ -1995,7 +2207,9 @@
     },
     "W+92-nang1gai1": {
       "unicode": "U+24E4DU+818E",
-      "characters": ["𤹍膎"],
+      "characters": [
+        "𤹍膎"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "𤹍xie2",
@@ -2016,7 +2230,9 @@
     },
     "W+93-bbo1no1": {
       "unicode": "U+75A4U+24E3B",
-      "characters": ["疤𤸻"],
+      "characters": [
+        "疤𤸻"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "ba1𤸻",
@@ -2037,7 +2253,9 @@
     },
     "W+94-lom2gai1": {
       "unicode": "U+6984U+9E21",
-      "characters": ["榄鸡"],
+      "characters": [
+        "榄鸡"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "lan3ji1",
@@ -2058,7 +2276,9 @@
     },
     "W+154-bat9bi6": {
       "unicode": "U+9F3BU+9F3B",
-      "characters": ["鼻鼻"],
+      "characters": [
+        "鼻鼻"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "bi2bi2",
@@ -2079,7 +2299,9 @@
     },
     "W+153-luk9si4": {
       "unicode": "",
-      "characters": ["六时"],
+      "characters": [
+        "六时"
+      ],
       "controversial": 0,
       "related": [],
       "pinyin": "liu4shi2",
@@ -2117,7 +2339,9 @@
     },
     "W+155-slaa2gik9": {
       "unicode": "",
-      "characters": ["则剧"],
+      "characters": [
+        "则剧"
+      ],
       "controversial": 1,
       "related": [],
       "pinyin": "ze2jv4",

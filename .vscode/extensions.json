@@ -1,0 +1,7 @@
+{
+  "recommendations": [
+    "dbaeumer.vscode-eslint",
+    "alefragnani.project-manager",
+    "formulahendry.code-runner"
+  ]
+}

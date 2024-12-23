@@ -13,7 +13,7 @@ class DBTemplate {
         name: 'jiaojiaodubai',
         email: 'jiaojiaodubai23@gmial.coom'
       }
-    ],
+    ];
     this.data = [];
   }
 }
@@ -92,7 +92,7 @@ function transWord(word) {
   return {
     format: `${word.prefix}__self__${word.suffix}`,
     descriptions: word.descriptions,
-    sentences: word.hasOwnProperty('sentences')
+    sentences: Object.prototype.hasOwnProperty.call(word, 'sentences')
       ? word.sentences.map(s => transSententce(s))
       : []
   };

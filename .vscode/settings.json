@@ -1,5 +1,22 @@
 {
   "editor.indentSize": "tabSize",
   "editor.tabSize": 2,
-  "files.eol": "\n"
+  "files.eol": "\n",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "always"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "vscode.json-language-features"
+  },
+  "code-runner.executorMap": {
+    "javascript": "node",
+    "typescript": "tsx"
+  }
 }
