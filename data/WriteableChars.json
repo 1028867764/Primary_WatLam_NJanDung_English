@@ -5889,7 +5889,7 @@
     },
     "U+6587-man1": {
       "unicode": "U+6587",
-      "characters": ["文"],
+      "characters": ["文", "緡"],
       "controversial": 0,
       "related": ["U+94F6-ngan4", "U+7EB8-zi2"],
       "pinyin": "wen2",
@@ -8148,7 +8148,7 @@
     },
     "U+64C1-ung2": {
       "unicode": "U+64C1",
-      "characters": ["擁"],
+      "characters": ["擁", "㧬", "搑"],
       "controversial": 0,
       "related": ["A+96-zyu5", "U+22265-et8"],
       "pinyin": "yong1",
@@ -9611,7 +9611,7 @@
     },
     "U+2B2D0-gung3": {
       "unicode": "U+2B2D0",
-      "characters": ["⿰虫貢"],
+      "characters": ["𫋐"],
       "controversial": 0,
       "related": ["U+9033-njuk7"],
       "pinyin": "gong4",
@@ -12100,7 +12100,7 @@
                   "format": "{U+773C-njon5}{U+5C4B-uk7}__self__过垃圾堆",
                   "descriptions": {
                     "zh": "房间比垃圾堆还要脏乱",
-                    "en": "The room is even dirtier and messy than a garbage dump"
+                    "en": "The room is even dirtier and messier than a garbage dump"
                   }
                 }
               ]
@@ -23573,7 +23573,7 @@
     },
     "U+2C9B0-mak7": {
       "unicode": "U+2C9B0",
-      "characters": ["⿰𧾷百"],
+      "characters": ["𬦰"],
       "controversial": 0,
       "related": ["U+30DF2-bon4", "U+64D2-kem3"],
       "pinyin": "",
@@ -23978,7 +23978,7 @@
     },
     "U+2D9EA-mak7": {
       "unicode": "U+2D9EA",
-      "characters": ["⿰日黑"],
+      "characters": ["𭧪"],
       "controversial": 0,
       "related": [
         "U+664F-on3",
@@ -31699,7 +31699,7 @@
     },
     "U+2D75E-gwoi5": {
       "unicode": "U+2D75E",
-      "characters": ["⿰快戈", "㨤"],
+      "characters": ["𭝞", "㨤"],
       "controversial": 0,
       "related": ["U+7FB9-gaa1", "U+2D75E-gwoi5", "A+6-tam2", "U+22CC2-bbat7"],
       "pinyin": "",
@@ -32157,7 +32157,7 @@
     },
     "U+2D94A-ge6": {
       "unicode": "U+2D94A",
-      "characters": ["⿰既逢"],
+      "characters": ["𭥊"],
       "controversial": 0,
       "related": ["U+277D8-nong6"],
       "pinyin": "",
@@ -33878,7 +33878,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+651E-leo2}{U+96BB-zik7}__self__{U+8538-ddau1}蕹菜",
+                  "format": "{U+651E-leo2}{U+96BB-zik7}__self__{U+515C-ddau1}蕹菜",
                   "descriptions": {
                     "zh": "用菜篮子装空心菜",
                     "en": "Using a drain basket to contain water spinach"
@@ -35124,7 +35124,7 @@
     },
     "U+2C186-meu2": {
       "unicode": "U+2C186",
-      "characters": ["⿰歪卯"],
+      "characters": ["𬆆"],
       "controversial": 0,
       "related": ["A+5-cam2"],
       "pinyin": "",
@@ -42228,7 +42228,7 @@
     },
     "U+2E5A7-pang1": {
       "unicode": "U+2E5A7",
-      "characters": ["⿰衤旁"],
+      "characters": ["𮖧"],
       "controversial": 0,
       "related": [],
       "pinyin": "",
@@ -42266,7 +42266,7 @@
     },
     "U+29725-beo6": {
       "unicode": "U+29725",
-      "characters": ["⿱波食", "饽"],
+      "characters": ["𩜥", "饽"],
       "controversial": 0,
       "related": [],
       "pinyin": "bo1",
@@ -42427,6 +42427,57 @@
           ]
         }
       ]
+    },
+    "U+97FD-am1": {
+      "unicode": "U+97FD",
+      "characters": ["韽"],
+      "controversial": 0,
+      "related": [],
+      "pinyin": "an1",
+      "jyutping": "am1",
+      "bbakLau": "",
+      "head": "0",
+      "tail": "m",
+      "refBy": ["U+97FD-om03"],
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "哄小孩（睡觉）",
+            "en": "Soothing the child (sleeping)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__{U+4FAC-nung5}{U+513F-nji1}睡觉",
+                  "descriptions": {
+                    "zh": "哄小孩子睡觉",
+                    "en": "Soothing the child sleeping"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "U+97FD-om03": {
+      "unicode": "U+97FD",
+      "characters": ["韽""],
+      "controversial": 0,
+      "related": [],
+      "pinyin": "an1",
+      "jyutping": "om03",
+      "bbakLau": "",
+      "head": "0",
+      "tail": "m",
+      "refBy": [],
+      "meanings": []
     }
   },
   "name": "WriteableChars"
