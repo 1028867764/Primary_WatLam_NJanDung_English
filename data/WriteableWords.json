@@ -255,7 +255,7 @@
         "U+6EBE-oi1",
         "U+7ACB-lap9"
       ],
-      "pinyin": "la3䕢",
+      "pinyin": "la3zha3",
       "jyutping": "lo00zo00",
       "bbakLau": "",
       "head": "",
@@ -1672,7 +1672,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𧽼𧽼zhuan3",
+      "pinyin": "tan2tan2zhuan3",
       "jyutping": "tam2tam2zyun2",
       "bbakLau": "",
       "head": "",
@@ -1695,7 +1695,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "㘢㘢zhuan3",
+      "pinyin": "weng3weng3zhuan3",
       "jyutping": "kwang00kwang00zyun2",
       "bbakLau": "",
       "head": "",
@@ -1720,7 +1720,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "㘢㘢zhuan3",
+      "pinyin": "weng3weng3zhuan3",
       "jyutping": "gwang00gwang00zyun2",
       "bbakLau": "",
       "head": "",
@@ -1729,13 +1729,16 @@
       "meanings": []
     },
     "W+69-wing5wang5zyun2": {
-      "unicode": "U+8367U+60D1U+8F6C",
+      "unicode": "U+3622U+3622U+8F6C",
       "characters": [
-        "荧惑转"
+        "㘢㘢转"
       ],
       "controversial": 1,
-      "related": [],
-      "pinyin": "ying2huo4zhuan3",
+      "related": [
+        "W+70-wing5wang6wang6",
+        "W+68-kwang00kwang00zyun2"
+      ],
+      "pinyin": "weng3weng3zhuan3",
       "jyutping": "wing5wang5zyun2",
       "bbakLau": "",
       "head": "",
@@ -1752,15 +1755,16 @@
       ]
     },
     "W+70-wing5wang6wang6": {
-      "unicode": "U+8367U+60D1U+60D1",
+      "unicode": "U+3622U+3622U+3622",
       "characters": [
-        "荧惑惑"
+        "㘢㘢㘢"
       ],
       "controversial": 1,
       "related": [
-        "U+6172-mun6"
+        "U+6172-mun6",
+        "W+69-wing5wang5zyun2"
       ],
-      "pinyin": "ying2huo4huo4",
+      "pinyin": "weng3weng3weng3",
       "jyutping": "wing5wang6wang6",
       "bbakLau": "",
       "head": "",
@@ -1971,7 +1975,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "zao4㜷",
+      "pinyin": "zao4mi2",
       "jyutping": "ddeou3me4",
       "bbakLau": "",
       "head": "",
@@ -2212,7 +2216,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𤹍xie2",
+      "pinyin": "neng2xie2",
       "jyutping": "nang1gai1",
       "bbakLau": "",
       "head": "",
@@ -2235,7 +2239,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "ba1𤸻",
+      "pinyin": "ba1na4",
       "jyutping": "bbo1no1",
       "bbakLau": "",
       "head": "",

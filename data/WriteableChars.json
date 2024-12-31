@@ -22,7 +22,7 @@
         "U+7BF7-bung4",
         "U+5E4E-ming1",
         "A+7-zam3",
-        "A+47-tang1"
+        "U+4255-tang1"
       ],
       "pinyin": "an3",
       "jyutping": "am2",
@@ -699,7 +699,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𫇗",
+      "pinyin": "jian1",
       "jyutping": "gem5",
       "bbakLau": "",
       "head": "g",
@@ -936,7 +936,7 @@
       "related": [
         "U+9314-tap7"
       ],
-      "pinyin": "䌪",
+      "pinyin": "yan3",
       "jyutping": "jam3",
       "bbakLau": "",
       "head": "j",
@@ -1101,7 +1101,7 @@
         "W+93-bbo1no1",
         "U+5664-gam3"
       ],
-      "pinyin": "𥀬",
+      "pinyin": "yan3",
       "jyutping": "jim2",
       "bbakLau": "",
       "head": "j",
@@ -1177,7 +1177,9 @@
     "U+3536-kam2": {
       "unicode": "U+3536",
       "characters": [
-        "㔶"
+        "㔶",
+        "𢫏",
+        "搇"
       ],
       "controversial": 0,
       "related": [
@@ -1186,9 +1188,9 @@
         "U+7BF7-bung4",
         "U+5E4E-ming1",
         "A+7-zam3",
-        "A+47-tang1"
+        "U+4255-tang1"
       ],
-      "pinyin": "㔶",
+      "pinyin": "gan3",
       "jyutping": "kam2",
       "bbakLau": "",
       "head": "k",
@@ -1324,7 +1326,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "㨆",
+      "pinyin": "lin2",
       "jyutping": "lam1",
       "bbakLau": "",
       "head": "l",
@@ -1525,7 +1527,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𬻴",
+      "pinyin": "lian4",
       "jyutping": "lim6",
       "bbakLau": "",
       "head": "l",
@@ -1664,7 +1666,7 @@
         "U+4FAC-nung5",
         "U+4F22-e1"
       ],
-      "pinyin": "𩛎",
+      "pinyin": "man3",
       "jyutping": "mam1",
       "bbakLau": "",
       "head": "m",
@@ -1704,7 +1706,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "䣸",
+      "pinyin": "ran3",
       "jyutping": "nam2",
       "bbakLau": "",
       "head": "n",
@@ -1931,7 +1933,7 @@
         "U+6469-meo1",
         "U+25E49-nap7"
       ],
-      "pinyin": "⿰xin1nan2",
+      "pinyin": "nan2",
       "jyutping": "nam6",
       "bbakLau": "",
       "head": "n",
@@ -2291,7 +2293,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+651E-leo2}两{U+96BB-zik7}{U+6C34-sui2}衣袋{A+88-lui1}{U+7D27-gan2}{A+tsu}{U+6EF4-nik7}__self__酒菜",
+                  "format": "{U+651E-leo2}两{U+96BB-zik7}{U+6C34-sui2}衣袋{U+4363-lui1}{U+7D27-gan2}{A+tsu}{U+6EF4-nik7}__self__酒菜",
                   "descriptions": {
                     "zh": "拿两个塑料袋，把这些喜酒菜装起来",
                     "en": "Take two plastic bags and pack these festive dishes together"
@@ -2375,7 +2377,7 @@
       "related": [
         "U+20BCF-ket8"
       ],
-      "pinyin": "𠰃",
+      "pinyin": "ren3",
       "jyutping": "njam2",
       "bbakLau": "",
       "head": "nj",
@@ -2573,7 +2575,7 @@
         "U+35F6-pat7",
         "A+62-luk7"
       ],
-      "pinyin": "𧨾",
+      "pinyin": "shan2",
       "jyutping": "tam3",
       "bbakLau": "",
       "head": "t",
@@ -2698,7 +2700,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𨂾",
+      "pinyin": "nan2",
       "jyutping": "lom3",
       "bbakLau": "",
       "head": "l",
@@ -2764,7 +2766,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𨂾",
+      "pinyin": "nan2",
       "jyutping": "nom3",
       "bbakLau": "",
       "head": "n",
@@ -2926,7 +2928,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𠡧",
+      "pinyin": "en4",
       "jyutping": "an3",
       "bbakLau": "",
       "head": "0",
@@ -2969,7 +2971,7 @@
         "U+5406-eu1",
         "U+558A-hom3"
       ],
-      "pinyin": "㰽",
+      "pinyin": "yan4",
       "jyutping": "en3",
       "bbakLau": "",
       "head": "0",
@@ -3180,7 +3182,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "⿺zou3pian4",
+      "pinyin": "pian2",
       "jyutping": "bon4",
       "bbakLau": "",
       "head": "b-bb",
@@ -3374,7 +3376,7 @@
         "U+8DCC-ddit7",
         "U+634B-lyut7"
       ],
-      "pinyin": "⿰shui3chuan4",
+      "pinyin": "chan3",
       "jyutping": "con2",
       "bbakLau": "",
       "head": "c",
@@ -3468,7 +3470,7 @@
         "U+9635-zan6",
         "U+6392-boi4"
       ],
-      "pinyin": "䴼",
+      "pinyin": "chan4",
       "jyutping": "con3",
       "bbakLau": "",
       "head": "c",
@@ -4349,7 +4351,7 @@
         "U+719D-luk7",
         "U+712B-not8"
       ],
-      "pinyin": "𫝎",
+      "pinyin": "jin4",
       "jyutping": "gan3",
       "bbakLau": "",
       "head": "g",
@@ -4633,7 +4635,7 @@
               },
               "sentences": [
                 {
-                  "format": "{U+4F62-gyu5}{A+2-nem2}在__self__{U+65C1-bong5}{A+tsu}{U+5934-daa4}",
+                  "format": "{U+4F62-gyu5}{U+49D4-nem2}在__self__{U+65C1-bong5}{A+tsu}{U+5934-daa4}",
                   "descriptions": {
                     "zh": "他正躲在房子周围",
                     "en": "He is hiding around the house"
@@ -4933,7 +4935,7 @@
         "U+47D2-gyun6",
         "U+571E-lyun1"
       ],
-      "pinyin": "𧸫",
+      "pinyin": "quan2",
       "jyutping": "gun4",
       "bbakLau": "",
       "head": "g",
@@ -5618,7 +5620,7 @@
       "related": [
         "A+85-le2"
       ],
-      "pinyin": "㾓",
+      "pinyin": "yuan1",
       "jyutping": "jyun1",
       "bbakLau": "",
       "head": "j",
@@ -6385,7 +6387,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𢃮",
+      "pinyin": "mian3",
       "jyutping": "men1",
       "bbakLau": "",
       "head": "m",
@@ -6515,7 +6517,7 @@
         "U+21CAC-gwat9",
         "U+5229-li6"
       ],
-      "pinyin": "𫥶",
+      "pinyin": "man3",
       "jyutping": "mun5",
       "bbakLau": "",
       "head": "m",
@@ -6763,7 +6765,7 @@
       "related": [
         "U+296CE-mam1"
       ],
-      "pinyin": "𢆡",
+      "pinyin": "nian4",
       "jyutping": "nen6",
       "bbakLau": "",
       "head": "n",
@@ -6820,7 +6822,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "㫱",
+      "pinyin": "nan3",
       "jyutping": "nyun2",
       "bbakLau": "",
       "head": "n",
@@ -6918,7 +6920,7 @@
       ],
       "controversial": 1,
       "related": [],
-      "pinyin": "䖜",
+      "pinyin": "yin2",
       "jyutping": "ngan6",
       "bbakLau": "",
       "head": "ng",
@@ -6965,7 +6967,7 @@
       ],
       "controversial": 1,
       "related": [],
-      "pinyin": "㕥",
+      "pinyin": "ren2",
       "jyutping": "njan1",
       "bbakLau": "",
       "head": "nj",
@@ -7860,9 +7862,10 @@
         }
       ]
     },
-    "U+97EB-wan3": {
+    "U+97DE-wan3": {
       "unicode": "U+97EB",
       "characters": [
+        "韞",
         "韫"
       ],
       "controversial": 0,
@@ -8338,7 +8341,8 @@
       ],
       "controversial": 2,
       "related": [
-        "U+9F74-njen2"
+        "U+9F74-njen2",
+        "U+9B07-zang3"
       ],
       "pinyin": "chan2",
       "jyutping": "zin1",
@@ -8368,14 +8372,6 @@
                   }
                 }
               ]
-            },
-            {
-              "format": "__self__{U+9B07-zang3}{U+9B07-zang3}",
-              "descriptions": {
-                "zh": "难缠",
-                "en": "Difficult to get rid of"
-              },
-              "sentences": []
             }
           ]
         },
@@ -8722,7 +8718,7 @@
       "related": [
         "U+4E78-no2"
       ],
-      "pinyin": "𣚺",
+      "pinyin": "xiang4",
       "jyutping": "ong6",
       "bbakLau": "",
       "head": "0",
@@ -9235,7 +9231,7 @@
         "U+6271-kap7",
         "U+5E4E-ming1",
         "A+7-zam3",
-        "A+47-tang1"
+        "U+4255-tang1"
       ],
       "pinyin": "peng2",
       "jyutping": "bung4",
@@ -9453,7 +9449,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𥅻",
+      "pinyin": "chong1",
       "jyutping": "cung1",
       "bbakLau": "",
       "head": "c",
@@ -9855,7 +9851,7 @@
       "related": [
         "U+579B-doe6"
       ],
-      "pinyin": "㢥",
+      "pinyin": "dong4",
       "jyutping": "dung6",
       "bbakLau": "",
       "head": "d-dd",
@@ -10711,7 +10707,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "㾤",
+      "pinyin": "qiang1",
       "jyutping": "kung3",
       "bbakLau": "",
       "head": "k",
@@ -11091,7 +11087,7 @@
         "P+21-cing2njaa2",
         "A+10-ddan1"
       ],
-      "pinyin": "𤎜",
+      "pinyin": "lang2",
       "jyutping": "long1",
       "bbakLau": "",
       "head": "l",
@@ -11222,7 +11218,7 @@
       ],
       "controversial": 1,
       "related": [],
-      "pinyin": "㰍",
+      "pinyin": "long2",
       "jyutping": "lung1",
       "bbakLau": "",
       "head": "l",
@@ -11265,7 +11261,7 @@
       ],
       "controversial": 1,
       "related": [],
-      "pinyin": "㰍",
+      "pinyin": "long2",
       "jyutping": "lung3",
       "bbakLau": "",
       "head": "l",
@@ -11472,7 +11468,7 @@
       ],
       "controversial": 1,
       "related": [],
-      "pinyin": "𭷊",
+      "pinyin": "ling4",
       "jyutping": "ling3",
       "bbakLau": "",
       "head": "l",
@@ -11529,7 +11525,7 @@
         "W+15-wan5sat7",
         "U+7529-lat7"
       ],
-      "pinyin": "𬾂",
+      "pinyin": "ling4",
       "jyutping": "lang3",
       "bbakLau": "",
       "head": "l",
@@ -11614,7 +11610,7 @@
         "U+6271-kap7",
         "U+7BF7-bung4",
         "A+7-zam3",
-        "A+47-tang1"
+        "U+4255-tang1"
       ],
       "pinyin": "mi4",
       "jyutping": "ming1",
@@ -11656,7 +11652,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𠱄",
+      "pinyin": "min3",
       "jyutping": "ming2",
       "bbakLau": "",
       "head": "m",
@@ -11872,7 +11868,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "⿰pian4fei1",
+      "pinyin": "meng4",
       "jyutping": "mang3",
       "bbakLau": "",
       "head": "m",
@@ -11970,7 +11966,7 @@
       "related": [
         "U+712B-not8"
       ],
-      "pinyin": "㶶",
+      "pinyin": "nong2",
       "jyutping": "nung1",
       "bbakLau": "",
       "head": "n",
@@ -12132,7 +12128,7 @@
       "related": [
         "U+2D94A-ge6"
       ],
-      "pinyin": "𧟘",
+      "pinyin": "nang4",
       "jyutping": "nong6",
       "bbakLau": "",
       "head": "n",
@@ -12174,7 +12170,7 @@
       "related": [
         "U+763E-jan5"
       ],
-      "pinyin": "䑋",
+      "pinyin": "rang3",
       "jyutping": "nging5",
       "bbakLau": "",
       "head": "ng",
@@ -12339,7 +12335,7 @@
         "U+297CA-njaa3",
         "U+6F2E-ung6"
       ],
-      "pinyin": "𦚝",
+      "pinyin": "peng1",
       "jyutping": "pyng2",
       "bbakLau": "",
       "head": "p",
@@ -12613,7 +12609,7 @@
         "U+5FF3-don4",
         "U+64DE-slau2"
       ],
-      "pinyin": "𢲜",
+      "pinyin": "sun2",
       "jyutping": "fang4",
       "bbakLau": "",
       "head": "f",
@@ -12656,7 +12652,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𢲜",
+      "pinyin": "sun2",
       "jyutping": "slang4",
       "bbakLau": "",
       "head": "sl",
@@ -12671,7 +12667,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𢲜",
+      "pinyin": "sun2",
       "jyutping": "dang4",
       "bbakLau": "",
       "head": "d-dd",
@@ -13233,7 +13229,7 @@
         "U+8BBA-lan1",
         "U+2CE88-ngi4"
       ],
-      "pinyin": "𠼔",
+      "pinyin": "chang2",
       "jyutping": "zong4",
       "bbakLau": "",
       "head": "z",
@@ -13608,7 +13604,7 @@
         "U+7BF7-bung4",
         "U+5E4E-ming1"
       ],
-      "pinyin": "㳌",
+      "pinyin": "jia1",
       "jyutping": "ap7",
       "bbakLau": "",
       "head": "0",
@@ -13823,7 +13819,7 @@
         "U+5477-hop8",
         "U+6B36-sok8"
       ],
-      "pinyin": "䑜",
+      "pinyin": "tie4",
       "jyutping": "ddip7",
       "bbakLau": "",
       "head": "d-dd",
@@ -13865,7 +13861,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "䑜",
+      "pinyin": "tie4",
       "jyutping": "ddep8",
       "bbakLau": "",
       "head": "d-dd",
@@ -13880,7 +13876,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "䠟",
+      "pinyin": "die2",
       "jyutping": "ddep8",
       "bbakLau": "",
       "head": "d-dd",
@@ -14132,7 +14128,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𧬈",
+      "pinyin": "xi1",
       "jyutping": "hap7",
       "bbakLau": "",
       "head": "h",
@@ -14555,7 +14551,7 @@
         "U+7BF7-bung4",
         "U+5E4E-ming1",
         "A+7-zam3",
-        "A+47-tang1"
+        "U+4255-tang1"
       ],
       "pinyin": "xi1",
       "jyutping": "kap7",
@@ -14877,7 +14873,7 @@
         "U+57BD-nan1",
         "U+815D-nan3"
       ],
-      "pinyin": "𥼕",
+      "pinyin": "li4",
       "jyutping": "lep8",
       "bbakLau": "",
       "head": "l",
@@ -15057,7 +15053,7 @@
         "A+90-mau3",
         "U+715B-gwing2"
       ],
-      "pinyin": "𠱃",
+      "pinyin": "ao1",
       "jyutping": "nap7",
       "bbakLau": "",
       "head": "n",
@@ -15185,7 +15181,7 @@
         "U+6469-meo1",
         "U+30473-nam6"
       ],
-      "pinyin": "𥹉",
+      "pinyin": "na4",
       "jyutping": "nap7",
       "bbakLau": "",
       "head": "n",
@@ -15221,7 +15217,7 @@
         "U+9F74-njen2",
         "U+2A627-lat7"
       ],
-      "pinyin": "𤜯",
+      "pinyin": "cha1",
       "jyutping": "ngap10",
       "bbakLau": "",
       "head": "ng",
@@ -15263,7 +15259,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𤜯",
+      "pinyin": "cha1",
       "jyutping": "ngap7",
       "bbakLau": "",
       "head": "ng",
@@ -15282,7 +15278,7 @@
         "U+503E-king1",
         "U+54F5-bbet8"
       ],
-      "pinyin": "𠲺",
+      "pinyin": "yi4",
       "jyutping": "ngap7",
       "bbakLau": "",
       "head": "ng",
@@ -16057,7 +16053,7 @@
       "related": [
         "U+6303-zat7"
       ],
-      "pinyin": "𤗈",
+      "pinyin": "xie2",
       "jyutping": "slep8",
       "bbakLau": "",
       "head": "sl",
@@ -16109,7 +16105,7 @@
         "A+70-bbai1",
         "U+577A-bet10"
       ],
-      "pinyin": "𣲷",
+      "pinyin": "ni4",
       "jyutping": "lop8",
       "bbakLau": "",
       "head": "l",
@@ -16143,7 +16139,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𣲷",
+      "pinyin": "ni4",
       "jyutping": "nop8",
       "bbakLau": "",
       "head": "n",
@@ -16375,7 +16371,7 @@
         "U+4EA8-haa1",
         "U+5625-sloi1"
       ],
-      "pinyin": "𢡉",
+      "pinyin": "se4",
       "jyutping": "njap7",
       "bbakLau": "",
       "head": "nj",
@@ -16421,7 +16417,7 @@
         "U+4EA8-haa1",
         "U+5625-sloi1"
       ],
-      "pinyin": "𢡉",
+      "pinyin": "se4",
       "jyutping": "sap7",
       "bbakLau": "",
       "head": "s",
@@ -16475,12 +16471,20 @@
           },
           "words": [
             {
-              "format": "{U+7F20-zin1}__self__{U+9B07-zang3}",
+              "format": "__self__",
               "descriptions": {
-                "zh": "难缠",
-                "en": "Difficult to get rid of"
+                "zh": "",
+                "en": ""
               },
-              "sentences": []
+              "sentences": [
+                {
+                  "format": "{U+7F20-zin1}__self__{U+9B07-zang3}",
+                  "descriptions": {
+                    "zh": "难缠",
+                    "en": "Difficult to get rid of"
+                  }
+                }
+              ]
             }
           ]
         }
@@ -16535,7 +16539,7 @@
       "related": [
         "U+6A38-buk9"
       ],
-      "pinyin": "𣑦",
+      "pinyin": "qiong2",
       "jyutping": "kung1",
       "bbakLau": "",
       "head": "k",
@@ -16798,7 +16802,7 @@
         "U+35B7-si5",
         "A+42-nung2"
       ],
-      "pinyin": "𪤆",
+      "pinyin": "shan4",
       "jyutping": "sin01",
       "bbakLau": "",
       "head": "s",
@@ -16994,7 +16998,7 @@
       "controversial": 0,
       "related": [
         "U+2D75E-gwoi5",
-        "A+6-tam2",
+        "U+74ED-tam2",
         "U+52F6-cit7"
       ],
       "pinyin": "bi4",
@@ -17240,7 +17244,7 @@
         "U+5648-tuk7",
         "U+6B36-sok8"
       ],
-      "pinyin": "⿰mi3mie4",
+      "pinyin": "mie4",
       "jyutping": "bbat7",
       "bbakLau": "",
       "head": "b-bb",
@@ -17485,7 +17489,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𫊷",
+      "pinyin": "sha1",
       "jyutping": "lop8",
       "bbakLau": "",
       "head": "l",
@@ -17520,7 +17524,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𫊷",
+      "pinyin": "sha1",
       "jyutping": "slop8",
       "bbakLau": "",
       "head": "sl",
@@ -17535,7 +17539,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𫊷",
+      "pinyin": "sha1",
       "jyutping": "sop8",
       "bbakLau": "",
       "head": "s",
@@ -17779,7 +17783,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "㗧",
+      "pinyin": "zhi4",
       "jyutping": "ddet8",
       "bbakLau": "",
       "head": "d-dd",
@@ -17902,7 +17906,7 @@
       "related": [
         "U+6B86-ddai1"
       ],
-      "pinyin": "𣩂",
+      "pinyin": "zhe2",
       "jyutping": "ddit7",
       "bbakLau": "",
       "head": "d-dd",
@@ -18093,7 +18097,7 @@
       "related": [
         "U+27C35-dduk7"
       ],
-      "pinyin": "㓤",
+      "pinyin": "qia4",
       "jyutping": "gat7",
       "bbakLau": "",
       "head": "g",
@@ -18168,7 +18172,7 @@
       "related": [
         "U+884C-aa4"
       ],
-      "pinyin": "䞘",
+      "pinyin": "ji2",
       "jyutping": "gat9",
       "bbakLau": "",
       "head": "g",
@@ -18321,7 +18325,7 @@
         "U+2B976-mun5",
         "A+67-taa3"
       ],
-      "pinyin": "𡲬",
+      "pinyin": "qu1",
       "jyutping": "gwat9",
       "bbakLau": "",
       "head": "g",
@@ -18439,7 +18443,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𣢯",
+      "pinyin": "gu1",
       "jyutping": "gut9",
       "bbakLau": "",
       "head": "g",
@@ -18590,7 +18594,7 @@
       "related": [
         "U+3E43-pe3"
       ],
-      "pinyin": "𢲈",
+      "pinyin": "ji1",
       "jyutping": "ket8",
       "bbakLau": "",
       "head": "k",
@@ -18642,7 +18646,7 @@
         "U+5774-luk7",
         "U+67B6-go3"
       ],
-      "pinyin": "桛",
+      "pinyin": "ka3",
       "jyutping": "kak7",
       "bbakLau": "",
       "head": "k",
@@ -18717,7 +18721,7 @@
       "related": [
         "U+20C03-njam2"
       ],
-      "pinyin": "𠯏",
+      "pinyin": "chi1",
       "jyutping": "ket8",
       "bbakLau": "",
       "head": "k",
@@ -18753,7 +18757,7 @@
         "U+5540-njoi3",
         "U+2472F-ngap10"
       ],
-      "pinyin": "𪘧",
+      "pinyin": "zu2",
       "jyutping": "lat7",
       "bbakLau": "",
       "head": "l",
@@ -19292,7 +19296,7 @@
         "U+60DC-slik7",
         "U+5F97-ddak7"
       ],
-      "pinyin": "𭿰",
+      "pinyin": "mo4",
       "jyutping": "mat7",
       "bbakLau": "",
       "head": "m",
@@ -19851,7 +19855,7 @@
         "U+6EBE-oi1",
         "U+7ACB-lap9"
       ],
-      "pinyin": "𪞗",
+      "pinyin": "na4",
       "jyutping": "noet8",
       "bbakLau": "",
       "head": "n",
@@ -19984,7 +19988,7 @@
       ],
       "controversial": 1,
       "related": [],
-      "pinyin": "䦪",
+      "pinyin": "ya4",
       "jyutping": "njoet8",
       "bbakLau": "",
       "head": "nj",
@@ -20142,7 +20146,7 @@
         "U+279A0-ngak7",
         "A+62-luk7"
       ],
-      "pinyin": "㗶",
+      "pinyin": "po1",
       "jyutping": "pat7",
       "bbakLau": "",
       "head": "p",
@@ -20377,7 +20381,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𪤆",
+      "pinyin": "shan4",
       "jyutping": "sit7",
       "bbakLau": "",
       "head": "s",
@@ -20392,7 +20396,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𪤆",
+      "pinyin": "shan4",
       "jyutping": "seot7",
       "bbakLau": "",
       "head": "s",
@@ -20476,7 +20480,7 @@
         "W+75-aa6ddi2",
         "W+76-aa6ge5"
       ],
-      "pinyin": "𨳍",
+      "pinyin": "qi1",
       "jyutping": "toet10",
       "bbakLau": "",
       "head": "t",
@@ -20942,7 +20946,7 @@
         "U+35B7-si5",
         "U+4E5C-mat7"
       ],
-      "pinyin": "䮇",
+      "pinyin": "yu4",
       "jyutping": "lat9",
       "bbakLau": "",
       "head": "l",
@@ -20984,7 +20988,7 @@
       ],
       "controversial": 2,
       "related": [],
-      "pinyin": "䮇",
+      "pinyin": "yu4",
       "jyutping": "mat9",
       "bbakLau": "",
       "head": "m",
@@ -21163,7 +21167,7 @@
         "A+96-zyu5",
         "U+8E26-nge3"
       ],
-      "pinyin": "𢉥",
+      "pinyin": "ye4",
       "jyutping": "et8",
       "bbakLau": "",
       "head": "0",
@@ -21243,7 +21247,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𢉥",
+      "pinyin": "ye4",
       "jyutping": "nget8",
       "bbakLau": "",
       "head": "ng",
@@ -21875,7 +21879,7 @@
       ],
       "controversial": 1,
       "related": [],
-      "pinyin": "𢫣",
+      "pinyin": "bei3",
       "jyutping": "bbak7",
       "bbakLau": "",
       "head": "b-bb",
@@ -21925,7 +21929,7 @@
       "related": [
         "U+884C-aa4"
       ],
-      "pinyin": "𧼱",
+      "pinyin": "fu2",
       "jyutping": "bak9",
       "bbakLau": "",
       "head": "b-bb",
@@ -22176,7 +22180,7 @@
         "A+49-dap9",
         "U+644F-zung1"
       ],
-      "pinyin": "𢿭",
+      "pinyin": "chuo4",
       "jyutping": "cuk7",
       "bbakLau": "",
       "head": "c",
@@ -23064,7 +23068,7 @@
       "related": [
         "U+34E4-gat7"
       ],
-      "pinyin": "𧰵",
+      "pinyin": "du1",
       "jyutping": "dduk7",
       "bbakLau": "",
       "head": "d-dd",
@@ -23111,7 +23115,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "㞘",
+      "pinyin": "du1",
       "jyutping": "dduk7",
       "bbakLau": "",
       "head": "d-dd",
@@ -24071,7 +24075,7 @@
               },
               "sentences": [
                 {
-                  "format": "碟菜{U+5187-mau5}记{U+5F97-ddak7}{A+47-tang1}{U+7D27-gan2}，__self__{U+5F97-ddak7}一{U+58A9-ddyng1}蚊蝇",
+                  "format": "碟菜{U+5187-mau5}记{U+5F97-ddak7}{U+4255-tang1}{U+7D27-gan2}，__self__{U+5F97-ddak7}一{U+58A9-ddyng1}蚊蝇",
                   "descriptions": {
                     "zh": "这碟菜忘记罩好了，结果引来了一大堆苍蝇",
                     "en": "Forgot to cover this dish properly, which resulted in a lot of flies gathering"
@@ -24210,7 +24214,7 @@
         "U+7834-peo3",
         "U+952F-goe3"
       ],
-      "pinyin": "𠠎",
+      "pinyin": "kuo4",
       "jyutping": "kak7",
       "bbakLau": "",
       "head": "k",
@@ -24257,7 +24261,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𭠳",
+      "pinyin": "ke4",
       "jyutping": "kwak7",
       "bbakLau": "",
       "head": "k",
@@ -24371,7 +24375,7 @@
       ],
       "controversial": 2,
       "related": [],
-      "pinyin": "桛",
+      "pinyin": "ka3",
       "jyutping": "kat7",
       "bbakLau": "",
       "head": "k",
@@ -24578,12 +24582,20 @@
           },
           "words": [
             {
-              "format": "__self__{U+7833-lak7}{U+5B50-ddi2}",
+              "format": "__self__",
               "descriptions": {
-                "zh": "蒲桃的果实",
-                "en": "The fruit of Syzygium jambos"
+                "zh": "",
+                "en": ""
               },
-              "sentences": []
+              "sentences": [
+                {
+                  "format": "__self__{U+7833-lak7}{U+5B50-ddi2}",
+                  "descriptions": {
+                    "zh": "蒲桃的果实",
+                    "en": "The fruit of Syzygium jambos"
+                  }
+                }
+              ]
             }
           ]
         },
@@ -24643,7 +24655,7 @@
         "U+952F-goe3",
         "U+2080E-kak7"
       ],
-      "pinyin": "𠠝",
+      "pinyin": "li4",
       "jyutping": "lik7",
       "bbakLau": "",
       "head": "l",
@@ -25355,7 +25367,7 @@
         "U+30DF2-bon4",
         "U+64D2-kem3"
       ],
-      "pinyin": "",
+      "pinyin": "bo2",
       "jyutping": "mak7",
       "bbakLau": "",
       "head": "m",
@@ -25795,7 +25807,7 @@
         "U+5149-gwong1",
         "U+2439C-long1"
       ],
-      "pinyin": "",
+      "pinyin": "hei1",
       "jyutping": "mak7",
       "bbakLau": "",
       "head": "m",
@@ -25940,7 +25952,7 @@
         "U+35F6-pat7",
         "A+62-luk7"
       ],
-      "pinyin": "𧦠",
+      "pinyin": "e4",
       "jyutping": "ngak7",
       "bbakLau": "",
       "head": "ng",
@@ -26006,7 +26018,7 @@
         "U+5D85-ngeou4",
         "U+6264-nget8"
       ],
-      "pinyin": "𠵛",
+      "pinyin": "e4",
       "jyutping": "nguk9",
       "bbakLau": "",
       "head": "ng",
@@ -26960,7 +26972,7 @@
       "related": [
         "A+33-dding3"
       ],
-      "pinyin": "𤁷",
+      "pinyin": "di1",
       "jyutping": "zik9",
       "bbakLau": "",
       "head": "z",
@@ -27060,7 +27072,7 @@
         "U+6308-jit7",
         "U+22CC0-mo1"
       ],
-      "pinyin": "𢺡",
+      "pinyin": "zhuo2",
       "jyutping": "zuk9",
       "bbakLau": "",
       "head": "z",
@@ -27369,7 +27381,7 @@
       "related": [
         "A+31-bang5"
       ],
-      "pinyin": "㩧",
+      "pinyin": "bo2",
       "jyutping": "puk7",
       "bbakLau": "",
       "head": "p",
@@ -27409,7 +27421,7 @@
       ],
       "controversial": 1,
       "related": [],
-      "pinyin": "㩧",
+      "pinyin": "bo2",
       "jyutping": "muk7",
       "bbakLau": "",
       "head": "m",
@@ -27494,7 +27506,8 @@
     "U+26777-bbaa3": {
       "unicode": "U+26777",
       "characters": [
-        "𦝷"
+        "𦝷",
+        "㔙"
       ],
       "controversial": 0,
       "related": [
@@ -27503,7 +27516,7 @@
         "U+2669D-pyng2",
         "A+90-mau3"
       ],
-      "pinyin": "𦝷",
+      "pinyin": "beng4",
       "jyutping": "bbaa3",
       "bbakLau": "",
       "head": "b-bb",
@@ -28295,7 +28308,7 @@
         "U+2669D-pyng2",
         "U+6303-zat7"
       ],
-      "pinyin": "𩟊",
+      "pinyin": "nong2",
       "jyutping": "njaa3",
       "bbakLau": "",
       "head": "nj",
@@ -28338,7 +28351,7 @@
         "U+6E46-njom3",
         "U+6F26-son4"
       ],
-      "pinyin": "⿰yue4xiang1",
+      "pinyin": "xiang1",
       "jyutping": "njaa1",
       "bbakLau": "",
       "head": "nj",
@@ -28687,7 +28700,7 @@
         "U+767A-bbot8",
         "U+22AD6-syut7"
       ],
-      "pinyin": "⿱kuang2diu1",
+      "pinyin": "kuang2",
       "jyutping": "kwaa3",
       "bbakLau": "",
       "head": "k",
@@ -28736,7 +28749,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "⿱kuang2diu1",
+      "pinyin": "kuang2",
       "jyutping": "gwaa3",
       "bbakLau": "",
       "head": "g",
@@ -29118,7 +29131,7 @@
       "related": [
         "U+64D8-maa2"
       ],
-      "pinyin": "㔏",
+      "pinyin": "li4",
       "jyutping": "laa2",
       "bbakLau": "",
       "head": "l",
@@ -30142,7 +30155,7 @@
         "U+6485-gyut7",
         "U+64B4-ddan1"
       ],
-      "pinyin": "㪏",
+      "pinyin": "bi3",
       "jyutping": "bbai1",
       "bbakLau": "",
       "head": "b-bb",
@@ -31088,7 +31101,7 @@
       "related": [
         "U+2C186-meu2"
       ],
-      "pinyin": "䚦",
+      "pinyin": "zhi4",
       "jyutping": "ce2",
       "bbakLau": "",
       "head": "c",
@@ -31633,7 +31646,7 @@
       "related": [
         "U+6FC0-gik7"
       ],
-      "pinyin": "㨮",
+      "pinyin": "dou1",
       "jyutping": "ddau1",
       "bbakLau": "",
       "head": "d-dd",
@@ -31980,44 +31993,48 @@
           },
           "words": [
             {
-              "format": "蕉__self__",
+              "format": "__self__",
               "descriptions": {
-                "zh": "香蕉、芭蕉",
-                "en": "Bananas"
+                "zh": "",
+                "en": ""
               },
-              "sentences": []
-            },
-            {
-              "format": "番桃__self__",
-              "descriptions": {
-                "zh": "番石榴",
-                "en": "Guavas"
-              },
-              "sentences": []
-            },
-            {
-              "format": "荔枝__self__",
-              "descriptions": {
-                "zh": "荔枝",
-                "en": "lychees"
-              },
-              "sentences": []
-            },
-            {
-              "format": "{U+7833-lak7}{U+7833-lak7}__self__",
-              "descriptions": {
-                "zh": "蒲桃的果实",
-                "en": "The fruit of Syzygium jambos"
-              },
-              "sentences": []
-            },
-            {
-              "format": "{U+6A58-gwat7}__self__",
-              "descriptions": {
-                "zh": "泛指水果",
-                "en": "Refers to fruits in general"
-              },
-              "sentences": []
+              "sentences": [
+                {
+                  "format": "蕉__self__",
+                  "descriptions": {
+                    "zh": "香蕉、芭蕉",
+                    "en": "Bananas"
+                  }
+                },
+                {
+                  "format": "番桃__self__",
+                  "descriptions": {
+                    "zh": "番石榴",
+                    "en": "Guavas"
+                  }
+                },
+                {
+                  "format": "荔枝__self__",
+                  "descriptions": {
+                    "zh": "荔枝",
+                    "en": "lychees"
+                  }
+                },
+                {
+                  "format": "{U+7833-lak7}{U+7833-lak7}__self__",
+                  "descriptions": {
+                    "zh": "蒲桃的果实",
+                    "en": "The fruit of Syzygium jambos"
+                  }
+                },
+                {
+                  "format": "{U+6A58-gwat7}__self__",
+                  "descriptions": {
+                    "zh": "泛指水果",
+                    "en": "Refers to fruits in general"
+                  }
+                }
+              ]
             }
           ]
         }
@@ -33167,7 +33184,7 @@
       "related": [
         "A+28-cyut7"
       ],
-      "pinyin": "㵒",
+      "pinyin": "fei4",
       "jyutping": "fe6",
       "bbakLau": "",
       "head": "f",
@@ -34081,10 +34098,10 @@
       "related": [
         "U+7FB9-gaa1",
         "U+2D75E-gwoi5",
-        "A+6-tam2",
+        "U+74ED-tam2",
         "U+22CC2-bbat7"
       ],
-      "pinyin": "",
+      "pinyin": "kuai3",
       "jyutping": "gwoi5",
       "bbakLau": "",
       "head": "g",
@@ -34211,7 +34228,7 @@
         "U+5BF8-tyun3",
         "A+81-koe1"
       ],
-      "pinyin": "䊆",
+      "pinyin": "qiu3",
       "jyutping": "gau4",
       "bbakLau": "",
       "head": "g",
@@ -34293,7 +34310,7 @@
       ],
       "controversial": 2,
       "related": [],
-      "pinyin": "䊆",
+      "pinyin": "qiu3",
       "jyutping": "goe4",
       "bbakLau": "",
       "head": "g",
@@ -34400,7 +34417,7 @@
       ],
       "controversial": 0,
       "related": [
-        "A+32-ddyut7",
+        "U+47FE-ddyut7",
         "A+43-njung1",
         "U+8E0E-mau1"
       ],
@@ -34586,7 +34603,7 @@
       "related": [
         "U+277D8-nong6"
       ],
-      "pinyin": "",
+      "pinyin": "ji4",
       "jyutping": "ge6",
       "bbakLau": "",
       "head": "g",
@@ -34823,7 +34840,7 @@
         "U+7075-ling1",
         "U+6207-ngong3"
       ],
-      "pinyin": "𠋧",
+      "pinyin": "qie1",
       "jyutping": "hoe2",
       "bbakLau": "",
       "head": "h",
@@ -35668,7 +35685,7 @@
         "W+83-fong3mo5",
         "W+84-zo3njau4"
       ],
-      "pinyin": "𡲢",
+      "pinyin": "qie1",
       "jyutping": "ke1",
       "bbakLau": "",
       "head": "k",
@@ -35911,7 +35928,7 @@
         "U+7834-peo3",
         "U+952F-goe3"
       ],
-      "pinyin": "㓯",
+      "pinyin": "li2",
       "jyutping": "lai3",
       "bbakLau": "",
       "head": "l",
@@ -35951,9 +35968,9 @@
       ],
       "controversial": 0,
       "related": [
-        "A+88-lui1"
+        "U+4363-lui1"
       ],
-      "pinyin": "㓯",
+      "pinyin": "li2",
       "jyutping": "loi3",
       "bbakLau": "",
       "head": "l",
@@ -36114,7 +36131,7 @@
         "U+7747-tai2",
         "U+7784-miu4"
       ],
-      "pinyin": "䁖",
+      "pinyin": "lou1",
       "jyutping": "lou3",
       "bbakLau": "",
       "head": "l",
@@ -36156,7 +36173,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "䁖",
+      "pinyin": "lou1",
       "jyutping": "leu3",
       "bbakLau": "",
       "head": "l",
@@ -36416,7 +36433,7 @@
         "U+7BF1-lyu1",
         "U+7B74-cak7"
       ],
-      "pinyin": "䇭",
+      "pinyin": "lao3",
       "jyutping": "leou2",
       "bbakLau": "",
       "head": "l",
@@ -37103,7 +37120,7 @@
       "related": [
         "U+62C8-nim2"
       ],
-      "pinyin": "𢶤",
+      "pinyin": "lve3",
       "jyutping": "loe5",
       "bbakLau": "",
       "head": "l",
@@ -37218,7 +37235,7 @@
       ],
       "controversial": 0,
       "related": [
-        "A+2-nem2"
+        "U+49D4-nem2"
       ],
       "pinyin": "mi4",
       "jyutping": "mi3",
@@ -37264,7 +37281,7 @@
         "U+6256-njap7",
         "U+3A06-lam1"
       ],
-      "pinyin": "𢳀",
+      "pinyin": "ma1",
       "jyutping": "mo1",
       "bbakLau": "",
       "head": "m",
@@ -37527,7 +37544,7 @@
       "controversial": 0,
       "related": [
         "U+4F01-gi5",
-        "A+32-ddyut7",
+        "U+47FE-ddyut7",
         "A+43-njung1"
       ],
       "pinyin": "mou2",
@@ -37755,7 +37772,7 @@
         "U+5149-gwong1",
         "U+2439C-long1"
       ],
-      "pinyin": "𣋟",
+      "pinyin": "mo3",
       "jyutping": "mo1",
       "bbakLau": "",
       "head": "m",
@@ -37797,7 +37814,7 @@
       "related": [
         "A+5-cam2"
       ],
-      "pinyin": "",
+      "pinyin": "mao3",
       "jyutping": "meu2",
       "bbakLau": "",
       "head": "m",
@@ -38203,7 +38220,7 @@
         "U+77FA-ddik7",
         "U+6409-gwak7"
       ],
-      "pinyin": "𢷕",
+      "pinyin": "miao3",
       "jyutping": "mau1",
       "bbakLau": "",
       "head": "m",
@@ -38319,7 +38336,7 @@
       "related": [
         "W+40-leou5dau6"
       ],
-      "pinyin": "㜷",
+      "pinyin": "mi2",
       "jyutping": "me4",
       "bbakLau": "",
       "head": "m",
@@ -38347,7 +38364,7 @@
         "A+70-bbai1",
         "U+7F20-zin1"
       ],
-      "pinyin": "𪐀",
+      "pinyin": "na3",
       "jyutping": "no1",
       "bbakLau": "",
       "head": "n",
@@ -38859,7 +38876,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𠊎",
+      "pinyin": "ai2",
       "jyutping": "ngai1",
       "bbakLau": "",
       "head": "ng",
@@ -38946,7 +38963,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𬺈",
+      "pinyin": "qi3",
       "jyutping": "ngi4",
       "bbakLau": "",
       "head": "ng",
@@ -39662,7 +39679,7 @@
       "related": [
         "U+64D8-maa2"
       ],
-      "pinyin": "䠋",
+      "pinyin": "bai1",
       "jyutping": "pe1",
       "bbakLau": "",
       "head": "p",
@@ -39704,7 +39721,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "䠋",
+      "pinyin": "bai1",
       "jyutping": "pe3",
       "bbakLau": "",
       "head": "p",
@@ -39878,7 +39895,7 @@
       "related": [
         "U+5298-mai1"
       ],
-      "pinyin": "𠜱",
+      "pinyin": "pi1",
       "jyutping": "pai1",
       "bbakLau": "",
       "head": "p",
@@ -40042,7 +40059,7 @@
         "A+25-mun1",
         "U+771F-zan1"
       ],
-      "pinyin": "𥇲",
+      "pinyin": "shi2",
       "jyutping": "pyu2",
       "bbakLau": "",
       "head": "p",
@@ -40082,7 +40099,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𠵿",
+      "pinyin": "pi1",
       "jyutping": "pe1",
       "bbakLau": "",
       "head": "p",
@@ -40723,14 +40740,15 @@
     "U+24E8E-se4": {
       "unicode": "U+24E8E",
       "characters": [
-        "𤺎"
+        "𤺎",
+        "㾚"
       ],
       "controversial": 0,
       "related": [
         "A+18-len1",
         "U+75D5-an4"
       ],
-      "pinyin": "𤺎",
+      "pinyin": "xie1",
       "jyutping": "se4",
       "bbakLau": "",
       "head": "s",
@@ -40982,7 +41000,7 @@
         "A+42-nung2",
         "U+2A906-seot7"
       ],
-      "pinyin": "㖷",
+      "pinyin": "shi4",
       "jyutping": "si5",
       "bbakLau": "",
       "head": "s",
@@ -41041,7 +41059,7 @@
         "U+62C8-nem1",
         "P+38-tau1nem1bun00taa2"
       ],
-      "pinyin": "𢶌",
+      "pinyin": "sha1",
       "jyutping": "so5",
       "bbakLau": "",
       "head": "s",
@@ -41083,7 +41101,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𢶌",
+      "pinyin": "sha1",
       "jyutping": "soe3",
       "bbakLau": "",
       "head": "s",
@@ -42153,7 +42171,7 @@
                   }
                 },
                 {
-                  "format": "{U+49AA-njoet8}__self__{A+tsu}{A+32-ddyut7}{U+8D77-hi2}",
+                  "format": "{U+49AA-njoet8}__self__{A+tsu}{U+47FE-ddyut7}{U+8D77-hi2}",
                   "descriptions": {
                     "zh": "猛然起身",
                     "en": "Suddenly stand up"
@@ -42808,9 +42826,9 @@
       "characters": [
         "𠣫"
       ],
-      "controversial": 0,
+      "controversial": 1,
       "related": [],
-      "pinyin": "𠣫",
+      "pinyin": "shao4",
       "jyutping": "ziu6",
       "bbakLau": "",
       "head": "z",
@@ -42970,7 +42988,7 @@
         "U+7FFB-fen1",
         "U+22C88-ket8"
       ],
-      "pinyin": "㹃",
+      "pinyin": "fei4",
       "jyutping": "pe3",
       "bbakLau": "",
       "head": "p",
@@ -43020,7 +43038,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "㹃",
+      "pinyin": "fei4",
       "jyutping": "be4",
       "bbakLau": "",
       "head": "b-bb",
@@ -43035,7 +43053,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "㹃",
+      "pinyin": "fei4",
       "jyutping": "kwe3",
       "bbakLau": "",
       "head": "k",
@@ -43055,7 +43073,7 @@
         "U+5481-gam2",
         "U+6781-gik9"
       ],
-      "pinyin": "㚊",
+      "pinyin": "kai1",
       "jyutping": "gai02",
       "bbakLau": "",
       "head": "g",
@@ -43097,7 +43115,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "㚊",
+      "pinyin": "kai1",
       "jyutping": "kai02",
       "bbakLau": "",
       "head": "k",
@@ -43656,7 +43674,7 @@
       "related": [
         "U+644F-zung1"
       ],
-      "pinyin": "𠡪",
+      "pinyin": "dian4",
       "jyutping": "ddim3",
       "bbakLau": "",
       "head": "特殊",
@@ -43698,7 +43716,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "𠡪",
+      "pinyin": "dian4",
       "jyutping": "ddin3",
       "bbakLau": "",
       "head": "特殊",
@@ -43874,7 +43892,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "xia4ㇽ",
+      "pinyin": "xia4",
       "jyutping": "on03",
       "bbakLau": "",
       "head": "特殊",
@@ -44050,7 +44068,7 @@
       "related": [
         "U+20D7F-pe1"
       ],
-      "pinyin": "𡛁",
+      "pinyin": "wu4",
       "jyutping": "man5",
       "bbakLau": "",
       "head": "m",
@@ -44389,7 +44407,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "㿚",
+      "pinyin": "luo4",
       "jyutping": "leo1",
       "bbakLau": "",
       "head": "l",
@@ -44592,7 +44610,7 @@
       ],
       "controversial": 1,
       "related": [],
-      "pinyin": "𨑥",
+      "pinyin": "wu4",
       "jyutping": "man1",
       "bbakLau": "",
       "head": "m",
@@ -44634,7 +44652,7 @@
       ],
       "controversial": 1,
       "related": [],
-      "pinyin": "𨑥",
+      "pinyin": "wu4",
       "jyutping": "man4",
       "bbakLau": "",
       "head": "m",
@@ -44649,7 +44667,7 @@
       ],
       "controversial": 2,
       "related": [
-        "A+2-nem2"
+        "U+49D4-nem2"
       ],
       "pinyin": "pie1",
       "jyutping": "men3",
@@ -44890,7 +44908,7 @@
         "U+31363-kwaa3",
         "U+767A-bbot8"
       ],
-      "pinyin": "𢫖",
+      "pinyin": "shu4",
       "jyutping": "syut7",
       "bbakLau": "",
       "head": "s",
@@ -44966,7 +44984,7 @@
       "related": [
         "U+70C3-hang3"
       ],
-      "pinyin": "䰃",
+      "pinyin": "peng2",
       "jyutping": "baa4",
       "bbakLau": "",
       "head": "b-bb",
@@ -45527,7 +45545,7 @@
       ],
       "controversial": 0,
       "related": [],
-      "pinyin": "",
+      "pinyin": "pang2",
       "jyutping": "pang1",
       "bbakLau": "",
       "head": "p",
@@ -45683,7 +45701,7 @@
         "U+7F67-lam6",
         "U+8D77-hi2"
       ],
-      "pinyin": "",
+      "pinyin": "zun3",
       "jyutping": "dyun5",
       "bbakLau": "",
       "head": "d-dd",
@@ -45796,6 +45814,239 @@
       "tail": "m",
       "refBy": [],
       "meanings": []
+    },
+    "U+74ED-tam2": {
+      "unicode": "U+74ED",
+      "characters": [
+        "瓭"
+      ],
+      "controversial": 2,
+      "related": [
+        "U+2D75E-gwoi5",
+        "U+22CC2-bbat7",
+        "U+7FB9-gaa1"
+      ],
+      "pinyin": "dan3",
+      "jyutping": "tam2",
+      "bbakLau": "",
+      "head": "t",
+      "tail": "m",
+      "refBy": [],
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "舀",
+            "en": "Ladle, scoop"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__半碗粥{U+5206-fan1}我",
+                  "descriptions": {
+                    "zh": "请给我舀半碗粥",
+                    "en": "Please ladle me half a bowl of Congee"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "U+47FE-ddyut7": {
+      "unicode": "U+47FE",
+      "characters": [
+        "䟾"
+      ],
+      "controversial": 2,
+      "related": [
+        "U+4F01-gi5",
+        "A+43-njung1",
+        "U+8E0E-mau1"
+      ],
+      "pinyin": "jue2",
+      "jyutping": "ddyut7",
+      "bbakLau": "",
+      "head": "d-dd",
+      "tail": "t",
+      "refBy": [],
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "（忽然）站起",
+            "en": "(Suddenly) Stand up"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "睡睡觉又__self__{U+8D77-hi2}身{U+5C59-eo1}尿",
+                  "descriptions": {
+                    "zh": "正睡着觉突然起身去厕所撒尿",
+                    "en": "Suddenly getting up while sleeping and going to the bathroom to pee"
+                  }
+                },
+                {
+                  "format": "{U+5187-mau5}__self__{U+5F97-ddak7}{U+8D77-hi2}",
+                  "descriptions": {
+                    "zh": "站不起来",
+                    "en": "Can't stand up"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "U+4255-tang1": {
+      "unicode": "U+4255",
+      "characters": [
+        "䉕"
+      ],
+      "controversial": 2,
+      "related": [
+        "U+3536-kam2",
+        "U+6271-kap7",
+        "U+7BF7-bung4",
+        "U+5E4E-ming1",
+        "A+7-zam3"
+      ],
+      "pinyin": "ceng2",
+      "jyutping": "tang1",
+      "bbakLau": "",
+      "head": "t",
+      "tail": "ng",
+      "refBy": [],
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "盖上，罩上",
+            "en": "Cover up"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+5403-hik7}{U+9F50-dai4}饭记{U+5F97-ddak7}__self__好菜",
+                  "descriptions": {
+                    "zh": "吃完饭之后记得把剩菜罩好",
+                    "en": "Remember to cover up the leftovers after finishing your meal"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "U+4363-lui1": {
+      "unicode": "U+4363",
+      "characters": [
+        "䍣"
+      ],
+      "controversial": 2,
+      "related": [
+        "U+515C-ddau1"
+      ],
+      "pinyin": "lei2",
+      "jyutping": "lui1",
+      "bbakLau": "",
+      "head": "l",
+      "tail": "元音韵尾",
+      "refBy": [],
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "（用袋子）装、兜起来",
+            "en": "Pack (in a bag or sack)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "{U+4F7F-sai2}蛇皮袋__self__{U+4F4F-zyu6}{U+4E2A-geo3}{A+tsu}三{U+6A16-poe1}青菜",
+                  "descriptions": {
+                    "zh": "用蛇皮袋把这三株青菜装起来",
+                    "en": "Pack these three vegetables in a plastic woven sack"
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "U+49D4-nem2": {
+      "unicode": "U+49D4",
+      "characters": [
+        "䧔"
+      ],
+      "controversial": 2,
+      "related": [
+        "U+8995-men3"
+      ],
+      "pinyin": "nian4",
+      "jyutping": "nem2",
+      "bbakLau": "",
+      "head": "n",
+      "tail": "m",
+      "refBy": [],
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "躲藏",
+            "en": "Hide oneself"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "__self__回{U+886B-som1}柜",
+                  "descriptions": {
+                    "zh": "躲进衣柜",
+                    "en": "Hide in the wardrobe"
+                  }
+                }
+              ]
+            },
+            {
+              "format": "__self__{U+49D4-nem2}{U+9E21-gai1}",
+              "descriptions": {
+                "zh": "捉迷藏",
+                "en": "Hide-and-seek"
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
     }
   },
   "name": "WriteableChars"

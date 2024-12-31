@@ -55,56 +55,6 @@
         }
       ]
     },
-    "A+2-nem2": {
-      "unicode": "",
-      "characters": [
-        "nem2"
-      ],
-      "controversial": 0,
-      "related": [
-        "U+8995-men3"
-      ],
-      "pinyin": "nem2",
-      "jyutping": "nem2",
-      "bbakLau": "",
-      "head": "n",
-      "tail": "m",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "躲藏",
-            "en": "Hide oneself"
-          },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__回{U+886B-som1}柜",
-                  "descriptions": {
-                    "zh": "躲进衣柜",
-                    "en": "Hide in the wardrobe"
-                  }
-                }
-              ]
-            },
-            {
-              "format": "__self__{A+2-nem2}{U+9E21-gai1}",
-              "descriptions": {
-                "zh": "捉迷藏",
-                "en": "Hide-and-seek"
-              },
-              "sentences": []
-            }
-          ]
-        }
-      ]
-    },
     "A+3-nam1": {
       "unicode": "",
       "characters": [
@@ -217,50 +167,6 @@
         }
       ]
     },
-    "A+6-tam2": {
-      "unicode": "",
-      "characters": [
-        "tam2"
-      ],
-      "controversial": 0,
-      "related": [
-        "U+2D75E-gwoi5",
-        "U+22CC2-bbat7",
-        "U+7FB9-gaa1"
-      ],
-      "pinyin": "tam2",
-      "jyutping": "tam2",
-      "bbakLau": "",
-      "head": "t",
-      "tail": "m",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "舀",
-            "en": "Ladle, scoop"
-          },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__半碗粥{U+5206-fan1}我",
-                  "descriptions": {
-                    "zh": "请给我舀半碗粥",
-                    "en": "Please ladle me half a bowl of Congee"
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
     "A+7-zam3": {
       "unicode": "",
       "characters": [
@@ -273,7 +179,7 @@
         "U+6271-kap7",
         "U+7BF7-bung4",
         "U+5E4E-ming1",
-        "A+47-tang1"
+        "U+4255-tang1"
       ],
       "pinyin": "zam3",
       "jyutping": "zam3",
@@ -1291,7 +1197,7 @@
       "controversial": 0,
       "related": [
         "U+4F01-gi5",
-        "A+32-ddyut7",
+        "U+47FE-ddyut7",
         "U+8E0E-mau1"
       ],
       "pinyin": "njung1",
@@ -1450,52 +1356,6 @@
                   "descriptions": {
                     "zh": "把油层（用勺子）拨开",
                     "en": "Remove the oil layer (with a spoon)"
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "A+47-tang1": {
-      "unicode": "",
-      "characters": [
-        "tang1"
-      ],
-      "controversial": 0,
-      "related": [
-        "U+3536-kam2",
-        "U+6271-kap7",
-        "U+7BF7-bung4",
-        "U+5E4E-ming1",
-        "A+7-zam3"
-      ],
-      "pinyin": "tang1",
-      "jyutping": "tang1",
-      "bbakLau": "",
-      "head": "t",
-      "tail": "ng",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "盖上，罩上",
-            "en": "Cover up"
-          },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "{U+5403-hik7}{U+9F50-dai4}饭记{U+5F97-ddak7}__self__好菜",
-                  "descriptions": {
-                    "zh": "吃完饭之后记得把剩菜罩好",
-                    "en": "Remember to cover up the leftovers after finishing your meal"
                   }
                 }
               ]
@@ -1794,57 +1654,6 @@
                   "descriptions": {
                     "zh": "高压锅喷气",
                     "en": "Pressure cooker jetting"
-                  }
-                }
-              ]
-            }
-          ]
-        }
-      ]
-    },
-    "A+32-ddyut7": {
-      "unicode": "",
-      "characters": [
-        "ddyut7"
-      ],
-      "controversial": 0,
-      "related": [
-        "U+4F01-gi5",
-        "A+43-njung1",
-        "U+8E0E-mau1"
-      ],
-      "pinyin": "ddyut7",
-      "jyutping": "ddyut7",
-      "bbakLau": "",
-      "head": "d-dd",
-      "tail": "t",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "（忽然）站起",
-            "en": "(Suddenly) Stand up"
-          },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "睡睡觉又__self__{U+8D77-hi2}身{U+5C59-eo1}尿",
-                  "descriptions": {
-                    "zh": "正睡着觉突然起身去厕所撒尿",
-                    "en": "Suddenly getting up while sleeping and going to the bathroom to pee"
-                  }
-                },
-                {
-                  "format": "{U+5187-mau5}__self__{U+5F97-ddak7}{U+8D77-hi2}",
-                  "descriptions": {
-                    "zh": "站不起来",
-                    "en": "Can't stand up"
                   }
                 }
               ]
@@ -3460,48 +3269,6 @@
             "en": "Dealing with vague words casually"
           },
           "words": []
-        }
-      ]
-    },
-    "A+88-lui1": {
-      "unicode": "",
-      "characters": [
-        "lui1"
-      ],
-      "controversial": 0,
-      "related": [
-        "U+515C-ddau1"
-      ],
-      "pinyin": "lui1",
-      "jyutping": "lui1",
-      "bbakLau": "",
-      "head": "l",
-      "tail": "元音韵尾",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "（用袋子）装、兜起来",
-            "en": "Pack (in a bag or sack)"
-          },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "{U+4F7F-sai2}蛇皮袋__self__{U+4F4F-zyu6}{U+4E2A-geo3}{A+tsu}三{U+6A16-poe1}青菜",
-                  "descriptions": {
-                    "zh": "用蛇皮袋把这三株青菜装起来",
-                    "en": "Pack these three vegetables in a plastic woven sack"
-                  }
-                }
-              ]
-            }
-          ]
         }
       ]
     },
