@@ -426,7 +426,7 @@
       "pinyin": "qin2",
       "jyutping": "gam4",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "g",
       "tail": "m",
       "refBy": [],
       "meanings": [
@@ -468,7 +468,7 @@
       "pinyin": "qin2",
       "jyutping": "gem6",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "g",
       "tail": "m",
       "refBy": [
         "U+64D2-kem3"
@@ -512,7 +512,7 @@
       "pinyin": "qin2",
       "jyutping": "kem3",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "k",
       "tail": "m",
       "refBy": [],
       "meanings": []
@@ -1019,7 +1019,7 @@
       "pinyin": "yin1",
       "jyutping": "jam4",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "j",
       "tail": "m",
       "refBy": [
         "U+6114-njam4"
@@ -1085,7 +1085,7 @@
       "pinyin": "yin1",
       "jyutping": "njam4",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "nj",
       "tail": "m",
       "refBy": [],
       "meanings": []
@@ -2701,7 +2701,7 @@
       "pinyin": "𨂾",
       "jyutping": "lom3",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "l",
       "tail": "m",
       "refBy": [
         "U+280BE-nom3"
@@ -2767,7 +2767,7 @@
       "pinyin": "𨂾",
       "jyutping": "nom3",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "n",
       "tail": "m",
       "refBy": [],
       "meanings": []
@@ -2782,7 +2782,7 @@
       "pinyin": "shen3",
       "jyutping": "nam2",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "n",
       "tail": "m",
       "refBy": [
         "U+8C02-njam1"
@@ -2831,7 +2831,7 @@
       "pinyin": "shen3",
       "jyutping": "njam1",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "nj",
       "tail": "m",
       "refBy": [],
       "meanings": []
@@ -7283,7 +7283,7 @@
       "pinyin": "pian1",
       "jyutping": "pin1",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "p",
       "tail": "n",
       "refBy": [
         "U+504F-men1"
@@ -7320,12 +7320,12 @@
       "characters": [
         "偏"
       ],
-      "controversial": 0,
+      "controversial": 1,
       "related": [],
       "pinyin": "pian1",
       "jyutping": "men1",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "m",
       "tail": "n",
       "refBy": [],
       "meanings": []
@@ -8516,7 +8516,7 @@
       "pinyin": "yan3",
       "jyutping": "njen2",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "nj",
       "tail": "n",
       "refBy": [
         "U+9F74-ngen2"
@@ -8558,7 +8558,7 @@
       "pinyin": "yan3",
       "jyutping": "ngen2",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "ng",
       "tail": "n",
       "refBy": [],
       "meanings": []
@@ -12616,7 +12616,7 @@
       "pinyin": "𢲜",
       "jyutping": "fang4",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "f",
       "tail": "ng",
       "refBy": [
         "U+22C9C-slang4",
@@ -12659,7 +12659,7 @@
       "pinyin": "𢲜",
       "jyutping": "slang4",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "sl",
       "tail": "ng",
       "refBy": [],
       "meanings": []
@@ -12674,7 +12674,7 @@
       "pinyin": "𢲜",
       "jyutping": "dang4",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "d-dd",
       "tail": "ng",
       "refBy": [],
       "meanings": []
@@ -13488,7 +13488,7 @@
       "pinyin": "gong3",
       "jyutping": "kung2",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "k",
       "tail": "ng",
       "refBy": [],
       "meanings": [
@@ -13528,7 +13528,7 @@
       "pinyin": "gong3",
       "jyutping": "gung2",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "g",
       "tail": "ng",
       "refBy": [],
       "meanings": [
@@ -16112,7 +16112,7 @@
       "pinyin": "𣲷",
       "jyutping": "lop8",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "l",
       "tail": "p",
       "refBy": [
         "U+23CB7-nop8"
@@ -16146,7 +16146,7 @@
       "pinyin": "𣲷",
       "jyutping": "nop8",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "n",
       "tail": "p",
       "refBy": [],
       "meanings": []
@@ -16378,7 +16378,7 @@
       "pinyin": "𢡉",
       "jyutping": "njap7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "nj",
       "tail": "p",
       "refBy": [],
       "meanings": [
@@ -16424,7 +16424,7 @@
       "pinyin": "𢡉",
       "jyutping": "sap7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "s",
       "tail": "p",
       "refBy": [],
       "meanings": [
@@ -17488,7 +17488,7 @@
       "pinyin": "𫊷",
       "jyutping": "lop8",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "l",
       "tail": "p",
       "refBy": [
         "U+2B2B7-slop8",
@@ -17523,7 +17523,7 @@
       "pinyin": "𫊷",
       "jyutping": "slop8",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "sl",
       "tail": "p",
       "refBy": [],
       "meanings": []
@@ -17538,7 +17538,7 @@
       "pinyin": "𫊷",
       "jyutping": "sop8",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "s",
       "tail": "p",
       "refBy": [],
       "meanings": [
@@ -20945,7 +20945,7 @@
       "pinyin": "䮇",
       "jyutping": "lat9",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "l",
       "tail": "t",
       "refBy": [
         "U+4B87-mat9"
@@ -20987,7 +20987,7 @@
       "pinyin": "䮇",
       "jyutping": "mat9",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "m",
       "tail": "t",
       "refBy": [],
       "meanings": []
@@ -21002,7 +21002,7 @@
       "pinyin": "fu2",
       "jyutping": "pat7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "p",
       "tail": "t",
       "refBy": [],
       "meanings": [
@@ -21047,7 +21047,7 @@
       "pinyin": "fu2",
       "jyutping": "fat7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "f",
       "tail": "t",
       "refBy": [
         "U+62C2-pat7"
@@ -21098,7 +21098,7 @@
       "pinyin": "zun4",
       "jyutping": "ddat7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "d-dd",
       "tail": "t",
       "refBy": [
         "U+6358-nat7"
@@ -21147,7 +21147,7 @@
       "pinyin": "zun4",
       "jyutping": "nat7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "n",
       "tail": "t",
       "refBy": [],
       "meanings": []
@@ -21166,7 +21166,7 @@
       "pinyin": "𢉥",
       "jyutping": "et8",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "0",
       "tail": "t",
       "refBy": [
         "U+22265-nget8"
@@ -21246,7 +21246,7 @@
       "pinyin": "𢉥",
       "jyutping": "nget8",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "ng",
       "tail": "t",
       "refBy": [],
       "meanings": []
@@ -21355,7 +21355,7 @@
       "pinyin": "he2",
       "jyutping": "kwat7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "k",
       "tail": "t",
       "refBy": [
         "U+7D07-gwat7"
@@ -21389,7 +21389,7 @@
       "pinyin": "he2",
       "jyutping": "gwat7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "g",
       "tail": "t",
       "refBy": [],
       "meanings": []
@@ -27116,7 +27116,7 @@
       "pinyin": "cu4",
       "jyutping": "tuk7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "t",
       "tail": "k",
       "refBy": [
         "U+5648-cuk7"
@@ -27165,7 +27165,7 @@
       "pinyin": "cu4",
       "jyutping": "cuk7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "c",
       "tail": "k",
       "refBy": [],
       "meanings": []
@@ -27183,7 +27183,7 @@
       "pinyin": "di1",
       "jyutping": "ddik7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "d-dd",
       "tail": "k",
       "refBy": [
         "U+6EF4-nik7"
@@ -27273,7 +27273,7 @@
       "pinyin": "di1",
       "jyutping": "nik7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "n",
       "tail": "k",
       "refBy": [],
       "meanings": []
@@ -27290,7 +27290,7 @@
       "pinyin": "ce4",
       "jyutping": "zak7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "z",
       "tail": "k",
       "refBy": [],
       "meanings": [
@@ -28690,7 +28690,7 @@
       "pinyin": "⿱kuang2diu1",
       "jyutping": "kwaa3",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "k",
       "tail": "丢ng",
       "refBy": [
         "U+31363-gwaa3"
@@ -28739,7 +28739,7 @@
       "pinyin": "⿱kuang2diu1",
       "jyutping": "gwaa3",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "g",
       "tail": "丢ng",
       "refBy": [],
       "meanings": []
@@ -28830,7 +28830,7 @@
       "pinyin": "yang1",
       "jyutping": "njaa1",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "nj",
       "tail": "丢ng",
       "refBy": [
         "U+79E7-jaa1"
@@ -28879,7 +28879,7 @@
       "pinyin": "yang1",
       "jyutping": "jaa1",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "j",
       "tail": "丢ng",
       "refBy": [],
       "meanings": [
@@ -28919,7 +28919,7 @@
       "pinyin": "que4",
       "jyutping": "ddaa2",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "d-dd",
       "tail": "丢k",
       "refBy": [],
       "meanings": [
@@ -28973,7 +28973,7 @@
       "pinyin": "que4",
       "jyutping": "taa2",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "t",
       "tail": "丢k",
       "refBy": [],
       "meanings": [
@@ -42896,7 +42896,7 @@
       "pinyin": "yi3",
       "jyutping": "nge3",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "ng",
       "tail": "元音韵尾",
       "refBy": [
         "U+8E26-e3"
@@ -42954,7 +42954,7 @@
       "pinyin": "yi3",
       "jyutping": "e3",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "0",
       "tail": "元音韵尾",
       "refBy": [],
       "meanings": []
@@ -42973,7 +42973,7 @@
       "pinyin": "㹃",
       "jyutping": "pe3",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "p",
       "tail": "元音韵尾",
       "refBy": [
         "U+3E43-be4",
@@ -43023,7 +43023,7 @@
       "pinyin": "㹃",
       "jyutping": "be4",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "b-bb",
       "tail": "元音韵尾",
       "refBy": [],
       "meanings": []
@@ -43038,7 +43038,7 @@
       "pinyin": "㹃",
       "jyutping": "kwe3",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "k",
       "tail": "元音韵尾",
       "refBy": [],
       "meanings": []
@@ -43058,7 +43058,7 @@
       "pinyin": "㚊",
       "jyutping": "gai02",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "g",
       "tail": "元音韵尾",
       "refBy": [
         "U+368A-kai02"
@@ -43100,7 +43100,7 @@
       "pinyin": "㚊",
       "jyutping": "kai02",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "k",
       "tail": "元音韵尾",
       "refBy": [],
       "meanings": []
@@ -43115,7 +43115,7 @@
       "pinyin": "xi4",
       "jyutping": "hai6",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "h",
       "tail": "元音韵尾",
       "refBy": [],
       "meanings": [
@@ -43138,7 +43138,7 @@
       "pinyin": "xi4",
       "jyutping": "ai6",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "0",
       "tail": "元音韵尾",
       "refBy": [],
       "meanings": [
@@ -43173,7 +43173,7 @@
       "pinyin": "di1",
       "jyutping": "ddi01",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "d-dd",
       "tail": "元音韵尾",
       "refBy": [
         "U+5572-ni01"
@@ -43287,7 +43287,7 @@
       "pinyin": "di1",
       "jyutping": "ni01",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "n",
       "tail": "元音韵尾",
       "refBy": [],
       "meanings": []
@@ -43308,7 +43308,7 @@
       "pinyin": "zhui1",
       "jyutping": "njui1",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "nj",
       "tail": "元音韵尾",
       "refBy": [
         "U+9525-zui1"
@@ -43350,7 +43350,7 @@
       "pinyin": "zhui1",
       "jyutping": "zui1",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "z",
       "tail": "元音韵尾",
       "refBy": [],
       "meanings": []
@@ -43367,7 +43367,7 @@
       "pinyin": "cai3",
       "jyutping": "njoi2",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "nj",
       "tail": "元音韵尾",
       "refBy": [
         "U+8E29-coi2"
@@ -43409,7 +43409,7 @@
       "pinyin": "cai3",
       "jyutping": "coi2",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "c",
       "tail": "元音韵尾",
       "refBy": [],
       "meanings": []
@@ -43426,7 +43426,7 @@
       "pinyin": "zha4",
       "jyutping": "co3",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "c",
       "tail": "元音韵尾",
       "refBy": [],
       "meanings": [
@@ -43478,7 +43478,7 @@
       "pinyin": "zha4",
       "jyutping": "zo3",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "z",
       "tail": "元音韵尾",
       "refBy": [],
       "meanings": [
@@ -43510,7 +43510,7 @@
       "pinyin": "ao4",
       "jyutping": "ngou2",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "ng",
       "tail": "元音韵尾",
       "refBy": [
         "U+62D7-ou2"
@@ -43552,7 +43552,7 @@
       "pinyin": "ao4",
       "jyutping": "ou2",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "0",
       "tail": "元音韵尾",
       "refBy": [],
       "meanings": []
@@ -44787,7 +44787,7 @@
       "pinyin": "jue2",
       "jyutping": "kwak7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "k",
       "tail": "k",
       "refBy": [
         "U+9481-gwak7",
@@ -44820,7 +44820,7 @@
       "pinyin": "jue2",
       "jyutping": "gwak7",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "g",
       "tail": "k",
       "refBy": [],
       "meanings": []
@@ -44835,7 +44835,7 @@
       "pinyin": "jue2",
       "jyutping": "gwak9",
       "bbakLau": "",
-      "head": "多声母",
+      "head": "g",
       "tail": "k",
       "refBy": [],
       "meanings": []

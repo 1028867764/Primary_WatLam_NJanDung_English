@@ -51005,29 +51005,6 @@
       "meanings": [],
       "bbakLau": ""
     },
-    "U+8A50-zo3": {
-      "unicode": "U+8A50",
-      "characters": [
-        "詐"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "zha4",
-      "jyutping": "zo3",
-      "head": "z",
-      "tail": "",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "騙",
-            "en": ""
-          },
-          "words": []
-        }
-      ],
-      "bbakLau": ""
-    },
     "U+7D1A-zap7": {
       "unicode": "U+7D1A",
       "characters": [
@@ -59960,21 +59937,6 @@
       "pinyin": "kui4",
       "jyutping": "kwai3",
       "head": "kw",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
-    "U+9310-zui1": {
-      "unicode": "U+9310",
-      "characters": [
-        "錐"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "zhui1",
-      "jyutping": "zui1",
-      "head": "z",
       "tail": "",
       "refBy": [],
       "meanings": [],
@@ -73420,29 +73382,6 @@
       "meanings": [],
       "bbakLau": ""
     },
-    "U+9310-njui1": {
-      "unicode": "U+9310",
-      "characters": [
-        "錐"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "zhui1",
-      "jyutping": "njui1",
-      "head": "nj",
-      "tail": "",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "白讀",
-            "en": ""
-          },
-          "words": []
-        }
-      ],
-      "bbakLau": ""
-    },
     "U+9082-0oi6": {
       "unicode": "U+9082",
       "characters": [
@@ -75128,29 +75067,6 @@
       "tail": "",
       "refBy": [],
       "meanings": [],
-      "bbakLau": ""
-    },
-    "U+8A50-co3": {
-      "unicode": "U+8A50",
-      "characters": [
-        "詐"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "zha4",
-      "jyutping": "co3",
-      "head": "c",
-      "tail": "",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "假装",
-            "en": ""
-          },
-          "words": []
-        }
-      ],
       "bbakLau": ""
     },
     "U+5C94-co1": {
