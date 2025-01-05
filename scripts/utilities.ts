@@ -92,11 +92,27 @@ function exportDB() {
         });
       });
     });
+
+    /* 先处理关联，这样关联词可以迁移到多音字 */
+    if (Array.isArray(entry.related)) {
+      if (entry.related.length) {
+        const allRelaed = [id, ...entry.related];
+        allRelaed.forEach(relID => {
+          console.log(`solve relID: ${relID}`);
+          // 排除自身
+          const related = mainDB.solveIdArray(allRelaed.filter(id => id !== relID));
+          mainDB._database.data[relID].related = related;
+        });
+      } else {
+        entry.related = {};
+      }
+    }
+
     if (Array.isArray(entry.refBy)) {
       if (entry.refBy.length) {
         const allRef = [id, ...entry.refBy];
-        const refBy = mainDB.solveIdArray(allRef);
         allRef.forEach(refID => {
+          const refBy = mainDB.solveIdArray(allRef.filter(id => id !== refID));
           const refEntry = mainDB._database.data[refID];
           refEntry.refBy = refBy;
           if (refID !== id) {
@@ -109,18 +125,6 @@ function exportDB() {
         });
       } else {
         entry.refBy = {};
-      }
-    }
-    if (Array.isArray(entry.related)) {
-      if (entry.related.length) {
-        const allRelaed = [id, ...entry.related];
-        const related = mainDB.solveIdArray(allRelaed);
-        allRelaed.forEach(relID => {
-          console.log(`solve relID: ${relID}`);
-          mainDB._database.data[relID].related = related;
-        });
-      } else {
-        entry.related = {};
       }
     }
   }
