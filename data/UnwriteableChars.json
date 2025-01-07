@@ -20,7 +20,7 @@
       "jyutping": "maa5",
       "bbakLau": "",
       "head": "m",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾上",
       "refBy": [],
       "meanings": [
         {
@@ -43,7 +43,7 @@
       "jyutping": "le5",
       "bbakLau": "",
       "head": "l",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾上",
       "refBy": [],
       "meanings": [
         {
@@ -2263,7 +2263,7 @@
       "jyutping": "bbaa1",
       "bbakLau": "beng1",
       "head": "b-bb",
-      "tail": "陽·梗二",
+      "tail": "陽棚",
       "refBy": [],
       "meanings": [
         {
@@ -2305,7 +2305,7 @@
       "jyutping": "naa6",
       "bbakLau": "neng6",
       "head": "n",
-      "tail": "陽·梗二",
+      "tail": "陽棚",
       "refBy": [],
       "meanings": [
         {
@@ -2348,7 +2348,7 @@
       "jyutping": "naa3",
       "bbakLau": "neng3",
       "head": "n",
-      "tail": "陽·梗二",
+      "tail": "陽棚",
       "refBy": [],
       "meanings": [
         {
@@ -2391,7 +2391,7 @@
       "jyutping": "taa3",
       "bbakLau": "teng3?caang3?",
       "head": "t",
-      "tail": "陽·梗二",
+      "tail": "陽棚",
       "refBy": [],
       "meanings": [
         {
@@ -2433,7 +2433,7 @@
       "jyutping": "bi4",
       "bbakLau": "",
       "head": "b-bb",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾平",
       "refBy": [],
       "meanings": [
         {
@@ -2465,7 +2465,7 @@
       "jyutping": "bai5",
       "bbakLau": "",
       "head": "b-bb",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾上",
       "refBy": [],
       "meanings": [
         {
@@ -2509,7 +2509,7 @@
       "jyutping": "bbai1",
       "bbakLau": "",
       "head": "b-bb",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾平",
       "refBy": [],
       "meanings": [
         {
@@ -2591,7 +2591,7 @@
       "jyutping": "bou4",
       "bbakLau": "",
       "head": "b-bb",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾平",
       "refBy": [
         "A+71-bau4"
       ],
@@ -2633,7 +2633,7 @@
       "jyutping": "bau4",
       "bbakLau": "",
       "head": "b-bb",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾平",
       "refBy": [],
       "meanings": []
     },
@@ -2648,7 +2648,7 @@
       "jyutping": "bu4",
       "bbakLau": "",
       "head": "b-bb",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾平",
       "refBy": [],
       "meanings": [
         {
@@ -2690,7 +2690,7 @@
       "jyutping": "dde1",
       "bbakLau": "",
       "head": "d-dd",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾平",
       "refBy": [],
       "meanings": [
         {
@@ -2749,7 +2749,7 @@
       "jyutping": "gai2",
       "bbakLau": "",
       "head": "g",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾上",
       "refBy": [],
       "meanings": [
         {
@@ -2794,7 +2794,7 @@
       "jyutping": "gau5",
       "bbakLau": "",
       "head": "g",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾上",
       "refBy": [],
       "meanings": [
         {
@@ -2842,7 +2842,7 @@
       "jyutping": "ge1",
       "bbakLau": "",
       "head": "g",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾平",
       "refBy": [],
       "meanings": [
         {
@@ -2890,7 +2890,7 @@
       "jyutping": "ge1",
       "bbakLau": "",
       "head": "g",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾平",
       "refBy": [],
       "meanings": [
         {
@@ -2939,7 +2939,7 @@
       "jyutping": "jai3",
       "bbakLau": "",
       "head": "j",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾去",
       "refBy": [],
       "meanings": [
         {
@@ -2990,7 +2990,7 @@
       "jyutping": "koe1",
       "bbakLau": "",
       "head": "k",
-      "tail": "元音韵尾",
+      "tail": "陽棚",
       "refBy": [],
       "meanings": [
         {
@@ -3033,7 +3033,7 @@
       "jyutping": "keu3",
       "bbakLau": "",
       "head": "k",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾去",
       "refBy": [],
       "meanings": [
         {
@@ -3075,7 +3075,7 @@
       "jyutping": "keu2",
       "bbakLau": "",
       "head": "k",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾上",
       "refBy": [],
       "meanings": [
         {
@@ -3117,7 +3117,7 @@
       "jyutping": "kou3",
       "bbakLau": "",
       "head": "k",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾去",
       "refBy": [
         "A+84-kou2"
       ],
@@ -3159,7 +3159,7 @@
       "jyutping": "kou2",
       "bbakLau": "",
       "head": "k",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾上",
       "refBy": [],
       "meanings": []
     },
