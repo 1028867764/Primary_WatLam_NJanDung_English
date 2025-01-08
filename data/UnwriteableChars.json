@@ -20,7 +20,7 @@
       "jyutping": "maa5",
       "bbakLau": "",
       "head": "m",
-      "tail": "元音韵尾上",
+      "tail": "元音韵尾·上",
       "refBy": [],
       "meanings": [
         {
@@ -43,7 +43,7 @@
       "jyutping": "le5",
       "bbakLau": "",
       "head": "l",
-      "tail": "元音韵尾上",
+      "tail": "元音韵尾·上",
       "refBy": [],
       "meanings": [
         {
@@ -2433,7 +2433,7 @@
       "jyutping": "bi4",
       "bbakLau": "",
       "head": "b-bb",
-      "tail": "元音韵尾平",
+      "tail": "元音韵尾·平",
       "refBy": [],
       "meanings": [
         {
@@ -2465,7 +2465,7 @@
       "jyutping": "bai5",
       "bbakLau": "",
       "head": "b-bb",
-      "tail": "元音韵尾上",
+      "tail": "元音韵尾·上",
       "refBy": [],
       "meanings": [
         {
@@ -2509,7 +2509,7 @@
       "jyutping": "bbai1",
       "bbakLau": "",
       "head": "b-bb",
-      "tail": "元音韵尾平",
+      "tail": "元音韵尾·平",
       "refBy": [],
       "meanings": [
         {
@@ -2591,7 +2591,7 @@
       "jyutping": "bou4",
       "bbakLau": "",
       "head": "b-bb",
-      "tail": "元音韵尾平",
+      "tail": "元音韵尾·平",
       "refBy": [
         "A+71-bau4"
       ],
@@ -2633,7 +2633,7 @@
       "jyutping": "bau4",
       "bbakLau": "",
       "head": "b-bb",
-      "tail": "元音韵尾平",
+      "tail": "元音韵尾·平",
       "refBy": [],
       "meanings": []
     },
@@ -2648,7 +2648,7 @@
       "jyutping": "bu4",
       "bbakLau": "",
       "head": "b-bb",
-      "tail": "元音韵尾平",
+      "tail": "元音韵尾·平",
       "refBy": [],
       "meanings": [
         {
@@ -2690,7 +2690,7 @@
       "jyutping": "dde1",
       "bbakLau": "",
       "head": "d-dd",
-      "tail": "元音韵尾平",
+      "tail": "元音韵尾·平",
       "refBy": [],
       "meanings": [
         {
@@ -2749,7 +2749,7 @@
       "jyutping": "gai2",
       "bbakLau": "",
       "head": "g",
-      "tail": "元音韵尾上",
+      "tail": "元音韵尾·上",
       "refBy": [],
       "meanings": [
         {
@@ -2794,7 +2794,7 @@
       "jyutping": "gau5",
       "bbakLau": "",
       "head": "g",
-      "tail": "元音韵尾上",
+      "tail": "元音韵尾·上",
       "refBy": [],
       "meanings": [
         {
@@ -2842,7 +2842,7 @@
       "jyutping": "ge1",
       "bbakLau": "",
       "head": "g",
-      "tail": "元音韵尾平",
+      "tail": "元音韵尾·平",
       "refBy": [],
       "meanings": [
         {
@@ -2890,7 +2890,7 @@
       "jyutping": "ge1",
       "bbakLau": "",
       "head": "g",
-      "tail": "元音韵尾平",
+      "tail": "元音韵尾·平",
       "refBy": [],
       "meanings": [
         {
@@ -2939,7 +2939,7 @@
       "jyutping": "jai3",
       "bbakLau": "",
       "head": "j",
-      "tail": "元音韵尾去",
+      "tail": "元音韵尾·去",
       "refBy": [],
       "meanings": [
         {
@@ -3033,7 +3033,7 @@
       "jyutping": "keu3",
       "bbakLau": "",
       "head": "k",
-      "tail": "元音韵尾去",
+      "tail": "元音韵尾·去",
       "refBy": [],
       "meanings": [
         {
@@ -3075,7 +3075,7 @@
       "jyutping": "keu2",
       "bbakLau": "",
       "head": "k",
-      "tail": "元音韵尾上",
+      "tail": "元音韵尾·上",
       "refBy": [],
       "meanings": [
         {
@@ -3117,7 +3117,7 @@
       "jyutping": "kou3",
       "bbakLau": "",
       "head": "k",
-      "tail": "元音韵尾去",
+      "tail": "元音韵尾·去",
       "refBy": [
         "A+84-kou2"
       ],
@@ -3159,7 +3159,7 @@
       "jyutping": "kou2",
       "bbakLau": "",
       "head": "k",
-      "tail": "元音韵尾上",
+      "tail": "元音韵尾·上",
       "refBy": [],
       "meanings": []
     },
@@ -3176,7 +3176,7 @@
       "jyutping": "le2",
       "bbakLau": "",
       "head": "l",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾·上",
       "refBy": [],
       "meanings": [
         {
@@ -3218,7 +3218,7 @@
       "jyutping": "le1",
       "bbakLau": "",
       "head": "l",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾·平",
       "refBy": [],
       "meanings": [
         {
@@ -3260,7 +3260,7 @@
       "jyutping": "leo1",
       "bbakLau": "",
       "head": "l",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾·平",
       "refBy": [],
       "meanings": [
         {
@@ -3283,7 +3283,7 @@
       "jyutping": "lou2",
       "bbakLau": "",
       "head": "l",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾·上",
       "refBy": [],
       "meanings": [
         {
@@ -3376,7 +3376,7 @@
       "jyutping": "mau3",
       "bbakLau": "",
       "head": "m",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾·去",
       "refBy": [],
       "meanings": [
         {
@@ -3418,7 +3418,7 @@
       "jyutping": "nai1",
       "bbakLau": "",
       "head": "n",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾·平",
       "refBy": [],
       "meanings": [
         {
@@ -3487,7 +3487,7 @@
       "jyutping": "ngai5",
       "bbakLau": "",
       "head": "ng",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾·上",
       "refBy": [],
       "meanings": [
         {
@@ -3529,7 +3529,7 @@
       "jyutping": "peu1",
       "bbakLau": "",
       "head": "p",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾·平",
       "refBy": [],
       "meanings": [
         {
@@ -3551,6 +3551,13 @@
                     "zh": "侧踢电线杆",
                     "en": "Side kick the electric pole"
                   }
+                },
+                {
+                  "format": "__self__起{U+96BB-zik7}{U+4F01-gi5}{U+811A-zaa2}",
+                  "descriptions": {
+                    "zh": "将（摩托车、自行车等的）脚撑踢起来",
+                    "en": "Kick up the side leg support (of a motorcycle, bicycle, etc.)"
+                  }
                 }
               ]
             }
@@ -3571,7 +3578,7 @@
       "jyutping": "sleo2",
       "bbakLau": "",
       "head": "sl",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾·上",
       "refBy": [],
       "meanings": [
         {
@@ -3622,7 +3629,7 @@
       "jyutping": "zyu5",
       "bbakLau": "",
       "head": "z",
-      "tail": "元音韵尾",
+      "tail": "元音韵尾·上",
       "refBy": [],
       "meanings": [
         {
