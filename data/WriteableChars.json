@@ -5355,7 +5355,7 @@
       "related": [
         "U+9773-kan3",
         "U+22849-sap7",
-        "U+22849-njap7",
+        "U+53FA-njap7",
         "U+5625-sloi1"
       ],
       "pinyin": "qian1",
@@ -5721,7 +5721,7 @@
       "related": [
         "U+60AD-hon1",
         "U+22849-sap7",
-        "U+22849-njap7",
+        "U+53FA-njap7",
         "U+5625-sloi1",
         "U+4EA8-haa1"
       ],
@@ -16358,12 +16358,12 @@
         }
       ]
     },
-    "U+22849-njap7": {
-      "unicode": "U+22849",
+    "U+53FA-njap7": {
+      "unicode": "U+53FA",
       "characters": [
-        "𢡉"
+        "叺"
       ],
-      "controversial": 1,
+      "controversial": 2,
       "related": [
         "U+22849-sap7",
         "U+60AD-hon1",
@@ -16371,7 +16371,7 @@
         "U+4EA8-haa1",
         "U+5625-sloi1"
       ],
-      "pinyin": "se4",
+      "pinyin": "chi3",
       "jyutping": "njap7",
       "bbakLau": "",
       "head": "nj",
@@ -16411,7 +16411,7 @@
       ],
       "controversial": 0,
       "related": [
-        "U+22849-njap7",
+        "U+53FA-njap7",
         "U+60AD-hon1",
         "U+9773-kan3",
         "U+4EA8-haa1",
@@ -21002,7 +21002,9 @@
         "拂"
       ],
       "controversial": 0,
-      "related": [],
+      "related": [
+        "U+62C2-fat7"
+      ],
       "pinyin": "fu2",
       "jyutping": "pat7",
       "bbakLau": "",
@@ -21043,6 +21045,7 @@
       ],
       "controversial": 0,
       "related": [
+        "U+62C2-pat7",
         "U+790A-fak7",
         "U+790A-fak9",
         "U+7833-lak7",
@@ -21053,9 +21056,7 @@
       "bbakLau": "",
       "head": "f",
       "tail": "t",
-      "refBy": [
-        "U+62C2-pat7"
-      ],
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
@@ -27924,7 +27925,7 @@
       "related": [
         "U+60AD-hon1",
         "U+22849-sap7",
-        "U+22849-njap7",
+        "U+53FA-njap7",
         "U+9773-kan3",
         "U+5625-sloi1"
       ],

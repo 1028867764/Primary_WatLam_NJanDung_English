@@ -9069,7 +9069,7 @@
             "@related_han_zi": "相关搜索的词条字符",
             "related_han_zi": "𢡉",
             "@related_bian_hao": "相关搜索的词条身份证号码",
-            "related_bian_hao": "U+22849-njap7"
+            "related_bian_hao": "U+53FA-njap7"
           },
           {
             "@related_han_zi": "相关搜索的词条字符",
@@ -9694,7 +9694,7 @@
             "@related_han_zi": "相关搜索的词条字符",
             "related_han_zi": "𢡉",
             "@related_bian_hao": "相关搜索的词条身份证号码",
-            "related_bian_hao": "U+22849-njap7"
+            "related_bian_hao": "U+53FA-njap7"
           },
           {
             "@related_han_zi": "相关搜索的词条字符",
@@ -27682,7 +27682,7 @@
       },
       {
         "@id": "词条身份证号码",
-        "id": "U+22849-njap7",
+        "id": "U+53FA-njap7",
         "@unicode": "主字万国统一码",
         "unicode": "U+22849",
         "@character": "主字字符",
@@ -27789,7 +27789,7 @@
             "@related_han_zi": "相关搜索的词条字符",
             "related_han_zi": "𢡉",
             "@related_bian_hao": "相关搜索的词条身份证号码",
-            "related_bian_hao": "U+22849-njap7"
+            "related_bian_hao": "U+53FA-njap7"
           },
           {
             "@related_han_zi": "相关搜索的词条字符",
@@ -47197,7 +47197,7 @@
             "@related_han_zi": "相关搜索的词条字符",
             "related_han_zi": "𢡉",
             "@related_bian_hao": "相关搜索的词条身份证号码",
-            "related_bian_hao": "U+22849-njap7"
+            "related_bian_hao": "U+53FA-njap7"
           },
           {
             "@related_han_zi": "相关搜索的词条字符",
