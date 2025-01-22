@@ -63327,21 +63327,6 @@
       "meanings": [],
       "bbakLau": ""
     },
-    "U+75D5-0an4": {
-      "unicode": "U+75D5",
-      "characters": [
-        "痕"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "hen2",
-      "jyutping": "an4",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
     "U+72E0-0an6": {
       "unicode": "U+72E0",
       "characters": [
@@ -64659,36 +64644,15 @@
         "翼"
       ],
       "controversial": 0,
-      "related": [],
+      "related": [
+        "U+96C0-ddaa2"
+      ],
       "pinyin": "yi4",
       "jyutping": "ik9",
       "head": "0",
-      "tail": "",
+      "tail": "k",
       "refBy": [],
       "meanings": [],
-      "bbakLau": ""
-    },
-    "U+7FFC-0yk9": {
-      "unicode": "U+7FFC",
-      "characters": [
-        "翼"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "yi4",
-      "jyutping": "yk9",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "白讀",
-            "en": ""
-          },
-          "words": []
-        }
-      ],
       "bbakLau": ""
     },
     "U+7E79-0ik9": {
@@ -65285,29 +65249,6 @@
       "meanings": [],
       "bbakLau": ""
     },
-    "U+60E1-0ok8": {
-      "unicode": "U+60E1",
-      "characters": [
-        "惡"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "e4",
-      "jyutping": "ok8",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "凶～",
-            "en": ""
-          },
-          "words": []
-        }
-      ],
-      "bbakLau": ""
-    },
     "U+6069-0an1": {
       "unicode": "U+6069",
       "characters": [
@@ -65362,21 +65303,6 @@
       "related": [],
       "pinyin": "ou1",
       "jyutping": "au1",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
-    "U+5614-0au2": {
-      "unicode": "U+5614",
-      "characters": [
-        "嘔"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "ou3",
-      "jyutping": "au2",
       "head": "0",
       "tail": "",
       "refBy": [],
@@ -65527,21 +65453,6 @@
       "meanings": [],
       "bbakLau": ""
     },
-    "U+5C4B-0uk7": {
-      "unicode": "U+5C4B",
-      "characters": [
-        "屋"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "wu1",
-      "jyutping": "uk7",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
     "U+4E2B-0o1": {
       "unicode": "U+4E2B",
       "characters": [
@@ -65640,44 +65551,6 @@
       "meanings": [],
       "bbakLau": ""
     },
-    "U+58D3-0ot8": {
-      "unicode": "U+58D3",
-      "characters": [
-        "壓"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "ya1",
-      "jyutping": "ot8",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
-    "U+58D3-0ap7": {
-      "unicode": "U+58D3",
-      "characters": [
-        "壓"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "ya1",
-      "jyutping": "ap7",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "《广西通志・汉语方言志》中的記音",
-            "en": ""
-          },
-          "words": []
-        }
-      ],
-      "bbakLau": ""
-    },
     "U+555E-0ot8": {
       "unicode": "U+555E",
       "characters": [
@@ -65744,44 +65617,6 @@
       "tail": "",
       "refBy": [],
       "meanings": [],
-      "bbakLau": ""
-    },
-    "U+664F-0on3": {
-      "unicode": "U+664F",
-      "characters": [
-        "晏"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "yan4",
-      "jyutping": "on3",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
-    "U+5406-0eu1": {
-      "unicode": "U+5406",
-      "characters": [
-        "吆"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "yao1",
-      "jyutping": "eu1",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "白讀",
-            "en": ""
-          },
-          "words": []
-        }
-      ],
       "bbakLau": ""
     },
     "U+6291-0ik7": {
@@ -65921,21 +65756,6 @@
       "related": [],
       "pinyin": "yin1",
       "jyutping": "an1",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
-    "U+7616-0am2": {
-      "unicode": "U+7616",
-      "characters": [
-        "瘖"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "yin1",
-      "jyutping": "am2",
       "head": "0",
       "tail": "",
       "refBy": [],
@@ -67298,21 +67118,6 @@
       "meanings": [],
       "bbakLau": ""
     },
-    "U+5F71-0ing2": {
-      "unicode": "U+5F71",
-      "characters": [
-        "影"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "ying3",
-      "jyutping": "ing2",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
     "U+6C59-wu1": {
       "unicode": "U+6C59",
       "characters": [
@@ -67323,21 +67128,6 @@
       "pinyin": "wu1",
       "jyutping": "wu1",
       "head": "w",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
-    "U+6620-0ing2": {
-      "unicode": "U+6620",
-      "characters": [
-        "映"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "ying4",
-      "jyutping": "ing2",
-      "head": "0",
       "tail": "",
       "refBy": [],
       "meanings": [],
@@ -77389,21 +77179,6 @@
       "meanings": [],
       "bbakLau": ""
     },
-    "U+6F1A-0au3": {
-      "unicode": "U+6F1A",
-      "characters": [
-        "漚"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "ou1",
-      "jyutping": "au3",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
     "U+6BC6-0au3": {
       "unicode": "U+6BC6",
       "characters": [
@@ -77450,29 +77225,6 @@
         {
           "descriptions": {
             "zh": "~口、屈理~理",
-            "en": ""
-          },
-          "words": []
-        }
-      ],
-      "bbakLau": ""
-    },
-    "U+62D7-0ou2": {
-      "unicode": "U+62D7",
-      "characters": [
-        "拗"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "ao3",
-      "jyutping": "ou2",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "彎折",
             "en": ""
           },
           "words": []
@@ -81311,21 +81063,6 @@
       "meanings": [],
       "bbakLau": ""
     },
-    "U+4F22-0e1": {
-      "unicode": "U+4F22",
-      "characters": [
-        "伢"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "ya2",
-      "jyutping": "e1",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
     "U+4F64-wo5": {
       "unicode": "U+4F64",
       "characters": [
@@ -84442,21 +84179,6 @@
       "pinyin": "ji1",
       "jyutping": "gak9",
       "head": "g",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
-    "U+58C5-0ung1": {
-      "unicode": "U+58C5",
-      "characters": [
-        "壅"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "yong1",
-      "jyutping": "ung1",
-      "head": "0",
       "tail": "",
       "refBy": [],
       "meanings": [],
@@ -89049,21 +88771,6 @@
       "pinyin": "yu2",
       "jyutping": "jyu4",
       "head": "j",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
-    "U+63DE-0am2": {
-      "unicode": "U+63DE",
-      "characters": [
-        "揞"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "an3",
-      "jyutping": "am2",
-      "head": "0",
       "tail": "",
       "refBy": [],
       "meanings": [],
@@ -113104,21 +112811,6 @@
       "related": [],
       "pinyin": "he2",
       "jyutping": "aa6",
-      "head": "0",
-      "tail": "",
-      "refBy": [],
-      "meanings": [],
-      "bbakLau": ""
-    },
-    "U+7FF3-0ai3": {
-      "unicode": "U+7FF3",
-      "characters": [
-        "翳"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "yi4",
-      "jyutping": "ai3",
       "head": "0",
       "tail": "",
       "refBy": [],

@@ -16937,7 +16937,10 @@
       "bbakLau": "",
       "head": "0",
       "tail": "t",
-      "refBy": [],
+      "refBy": [
+        "U+4E00-jat7",
+        "U+5F0C-jat7"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -21402,7 +21405,8 @@
     "U+6076-ok8": {
       "unicode": "U+6076",
       "characters": [
-        "恶"
+        "恶",
+        "惡"
       ],
       "controversial": 0,
       "related": [
@@ -21503,7 +21507,9 @@
       "bbakLau": "",
       "head": "0",
       "tail": "k",
-      "refBy": [],
+      "refBy": [
+        "U+7FFC-0ik9"
+      ],
       "meanings": [
         {
           "descriptions": {
@@ -29701,7 +29707,8 @@
     "U+6CA4-au3": {
       "unicode": "U+6CA4",
       "characters": [
-        "沤"
+        "沤",
+        "漚"
       ],
       "controversial": 0,
       "related": [],
@@ -29789,7 +29796,8 @@
     "U+5455-au2": {
       "unicode": "U+5455",
       "characters": [
-        "呕"
+        "呕",
+        "嘔"
       ],
       "controversial": 0,
       "related": [
