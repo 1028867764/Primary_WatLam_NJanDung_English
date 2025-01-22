@@ -117,7 +117,7 @@ function exportDB() {
           refEntry.refBy = refBy;
           if (refID !== id) {
             Object.keys(entry).forEach(key => {
-              if (!['pinyin', 'jyutping', 'head', 'tail', 'bbakLau'].includes(key)) {
+              if (!['pinyin', 'jyutping', 'head', 'tail', 'bbakLau', 'refBy'].includes(key)) {
                 refEntry[key] = entry[key];
               }
             });
