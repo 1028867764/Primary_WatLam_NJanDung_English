@@ -11214,7 +11214,8 @@
       "unicode": "U+3C0D",
       "characters": [
         "㰍",
-        "𭛇"
+        "𭛇",
+        "襱"
       ],
       "controversial": 1,
       "related": [],
@@ -11257,7 +11258,8 @@
       "unicode": "U+3C0D",
       "characters": [
         "㰍",
-        "𭛇"
+        "𭛇",
+        "襱"
       ],
       "controversial": 1,
       "related": [],
@@ -11551,6 +11553,13 @@
                   "descriptions": {
                     "zh": "天上不会掉钱的",
                     "en": "Money won't fall from the sky"
+                  }
+                },
+                {
+                  "format": "__self__头毛",
+                  "descriptions": {
+                    "zh": "掉头发",
+                    "en": "Hair loss"
                   }
                 }
               ]
