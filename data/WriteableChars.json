@@ -16931,16 +16931,16 @@
         "弌"
       ],
       "controversial": 1,
-      "related": [],
+      "related": [
+        "U+4E00-jat7",
+        "U+5F0C-jat7"
+      ],
       "pinyin": "yi1",
       "jyutping": "at7",
       "bbakLau": "",
       "head": "0",
       "tail": "t",
-      "refBy": [
-        "U+4E00-jat7",
-        "U+5F0C-jat7"
-      ],
+      "refBy": [],
       "meanings": [
         {
           "descriptions": {
