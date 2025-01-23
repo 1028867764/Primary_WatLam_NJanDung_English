@@ -11426,7 +11426,8 @@
       "related": [
         "U+8F98-luk7",
         "U+8F9A-lin2",
-        "U+8F65-lin3"
+        "U+8F65-lin3",
+        "W+51-mo1ling1"
       ],
       "pinyin": "ling2",
       "jyutping": "ling1",
@@ -46167,6 +46168,46 @@
                   }
                 }
               ]
+            }
+          ]
+        }
+      ]
+    },
+    "U+6876-tung2": {
+      "unicode": "U+6876",
+      "characters": [
+        "桶"
+      ],
+      "controversial": 0,
+      "related": [],
+      "pinyin": "tong3",
+      "jyutping": "tung2",
+      "bbakLau": "",
+      "head": "t",
+      "tail": "ng",
+      "refBy": [],
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "",
+            "en": ""
+          },
+          "words": [
+            {
+              "format": "拖__self__",
+              "descriptions": {
+                "zh": "抽屉",
+                "en": "Drawers"
+              },
+              "sentences": []
+            },
+            {
+              "format": "柜__self__",
+              "descriptions": {
+                "zh": "抽屉",
+                "en": "Drawers"
+              },
+              "sentences": []
             }
           ]
         }

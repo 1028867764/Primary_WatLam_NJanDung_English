@@ -1069,7 +1069,7 @@
       "characters": [
         "符法"
       ],
-      "controversial": 0,
+      "controversial": 1,
       "related": [],
       "pinyin": "fu2fa3",
       "jyutping": "fuk7fat7",
@@ -2135,52 +2135,6 @@
           "descriptions": {
             "zh": "大便（第二字常念小称音）",
             "en": "Defecate (The second character is pronounced as cute-tone commonly)"
-          },
-          "words": []
-        }
-      ]
-    },
-    "W+87-teo1tung2": {
-      "unicode": "U+62D6U+6876",
-      "characters": [
-        "拖桶"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "tuo1tong3",
-      "jyutping": "teo1tung2",
-      "bbakLau": "",
-      "head": "",
-      "tail": "",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "抽屉",
-            "en": "Drawers"
-          },
-          "words": []
-        }
-      ]
-    },
-    "W+88-gwai6tung2": {
-      "unicode": "U+67DCU+6876",
-      "characters": [
-        "柜桶"
-      ],
-      "controversial": 0,
-      "related": [],
-      "pinyin": "gui4tong3",
-      "jyutping": "gwai6tung2",
-      "bbakLau": "",
-      "head": "",
-      "tail": "",
-      "refBy": [],
-      "meanings": [
-        {
-          "descriptions": {
-            "zh": "抽屉",
-            "en": "Drawers"
           },
           "words": []
         }
