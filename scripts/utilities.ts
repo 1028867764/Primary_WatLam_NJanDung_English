@@ -67,23 +67,38 @@ function exportDB() {
     }
   }
 
-  for (const id in mainDB._database.data) {
-    console.log(`solve ID ${id}`);
-    const entry = mainDB._database.data[id];
+  mainDB.iterEntry((id, entry) => {
+    /* 预先把被关联词条加入关联列表 */
+    if (Array.isArray(entry.related)) {
+      entry.related.forEach((relID) => {
+        const relatedEntry = mainDB.getEntry(relID);
+        if (relatedEntry && Array.isArray(relatedEntry.related) && !relatedEntry.related.includes(id)) {
+          relatedEntry.related.push(id);
+          mainDB.setEntry(relID, relatedEntry);
+        }
+      });
+    }
+  })
+
+  mainDB.iterEntry((id, entry) => {
+    // 所有词条都至少有一个字型，因为有音无字的词条已经将字型回退为其粤拼
     const char = entry.characters[0];
-    entry.meanings.forEach(meaning => {
+    entry.meanings.forEach((meaning) => {
       solveIDRef(meaning, 'descriptions.zh');
       solveIDRef(meaning, 'descriptions.en');
-      meaning.words.forEach(word => {
+      meaning.words.forEach((word) => {
+        // 由于word的format在solveIDRef中会被替换，所以需要先暂存一下
         let wordFormat = char;
+        // if 语句主要是为了满足ts的类型检查，实际不必判断
         if (typeof word.format === 'string') {
           wordFormat = word.format = word.format.replace(/__self__/g, char);
         }
         solveIDRef(word, 'format');
         solveIDRef(word, 'descriptions.zh');
         solveIDRef(word, 'descriptions.en');
-        word.sentences.forEach(sentence => {
-          if (typeof sentence.format === 'string') {
+        word.sentences.forEach((sentence) => {
+          // if 语句主要是为了满足ts的类型检查，实际不必判断
+          if (typeof sentence.format ==='string') {
             sentence.format = sentence.format.replace(/__self__/g, wordFormat);
           }
           solveIDRef(sentence, 'format');
@@ -93,19 +108,8 @@ function exportDB() {
       });
     });
 
-    /* 先处理关联，这样关联词可以迁移到多音字 */
     if (Array.isArray(entry.related)) {
-      if (entry.related.length) {
-        const allRelaed = [id, ...entry.related];
-        allRelaed.forEach(relID => {
-          console.log(`solve relID: ${relID}`);
-          // 排除自身
-          const related = mainDB.solveIdArray(allRelaed.filter(id => id !== relID));
-          mainDB._database.data[relID].related = related;
-        });
-      } else {
-        entry.related = {};
-      }
+      entry.related = mainDB.solveIdArray(entry.related);
     }
 
     if (Array.isArray(entry.refBy)) {
@@ -127,7 +131,10 @@ function exportDB() {
         entry.refBy = {};
       }
     }
-  }
+
+    mainDB.setEntry(id, entry);
+  });
+
   mainDB.save('./test');
 }
 
@@ -225,6 +232,10 @@ class DB {
    */
   setEntry(id: string, entry: Entry) {
     this._database.data[id] = entry;
+  }
+
+  setEntryProperty(id: string, key: string, value: unknown) {
+    this._database.data[id][key] = value;
   }
 
   /**
