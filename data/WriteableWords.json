@@ -1422,15 +1422,15 @@
       "meanings": []
     },
     "W+58-ddeou2ji02": {
-      "unicode": "U+65E9U+4EE5",
+      "unicode": "U+65E9U+8FE9",
       "characters": [
-        "早以"
+        "早迩"
       ],
-      "controversial": 0,
+      "controversial": 1,
       "related": [
         "W+59-zau6ji02"
       ],
-      "pinyin": "zao3yi3",
+      "pinyin": "zao3er3",
       "jyutping": "ddeou2ji02",
       "bbakLau": "",
       "head": "",
@@ -1464,15 +1464,15 @@
       ]
     },
     "W+59-zau6ji02": {
-      "unicode": "U+65E7U+4EE5",
+      "unicode": "U+65E7U+8FE9",
       "characters": [
-        "旧以"
+        "旧迩"
       ],
-      "controversial": 0,
+      "controversial": 1,
       "related": [
         "W+58-ddeou2ji02"
       ],
-      "pinyin": "jiu4yi3",
+      "pinyin": "jiu4er3",
       "jyutping": "zau6ji02",
       "bbakLau": "",
       "head": "",
