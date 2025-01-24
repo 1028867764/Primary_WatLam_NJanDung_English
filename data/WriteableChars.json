@@ -9667,6 +9667,13 @@
                     "zh": "须要住院吗？",
                     "en": "Is it necessary to be in hospital?"
                   }
+                },
+                {
+                  "format": "{U+5187-mau5}有人__self__四楼",
+                  "descriptions": {
+                    "zh": "没有人住在四楼",
+                    "en": "No one lives on the fourth floor"
+                  }
                 }
               ]
             }
