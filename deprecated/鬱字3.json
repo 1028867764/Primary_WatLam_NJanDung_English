@@ -5717,7 +5717,7 @@
                     "@prefix": "例句前缀",
                     "prefix": "我先上床",
                     "@suffix": "例句后缀",
-                    "suffix": "{U+52B8-lyk9}{A+er}ke3",
+                    "suffix": "{U+52B6-lyk9}{A+er}ke3",
                     "@descriptions": "例句释义",
                     "descriptions": {
                       "zh": "我先到床上休息一会儿",
@@ -7047,7 +7047,7 @@
                   },
                   {
                     "@prefix": "例句前缀",
-                    "prefix": "{U+5452-maa5}{A+er}{U+3A06-lam1}{U+96BB-zik7}狗，一{U+52B8-lyk9}{A+er}{U+4F62-gyu5}",
+                    "prefix": "{U+5452-maa5}{A+er}{U+3A06-lam1}{U+96BB-zik7}狗，一{U+52B6-lyk9}{A+er}{U+4F62-gyu5}",
                     "@suffix": "例句后缀",
                     "suffix": "咬口你",
                     "@descriptions": "例句释义",
@@ -13947,7 +13947,7 @@
             "@related_han_zi": "相关搜索的词条字符",
             "related_han_zi": "劸",
             "@related_bian_hao": "相关搜索的词条身份证号码",
-            "related_bian_hao": "U+52B8-lyk9"
+            "related_bian_hao": "U+52B6-lyk9"
           },
           {
             "@related_han_zi": "相关搜索的词条字符",
@@ -27512,7 +27512,7 @@
       },
       {
         "@id": "词条身份证号码",
-        "id": "U+52B8-lyk9",
+        "id": "U+52B6-lyk9",
         "@unicode": "主字万国统一码",
         "unicode": "U+52B8",
         "@character": "主字字符",
@@ -42228,7 +42228,7 @@
                     "@prefix": "例句前缀",
                     "prefix": "碟菜",
                     "@suffix": "例句后缀",
-                    "suffix": "{U+5728-deo5}，{U+667E-long6}{U+52B8-lyk9}{A+er}再{U+5403-hik7}",
+                    "suffix": "{U+5728-deo5}，{U+667E-long6}{U+52B6-lyk9}{A+er}再{U+5403-hik7}",
                     "@descriptions": "例句释义",
                     "descriptions": {
                       "zh": "这碟菜还很烫，先放凉片刻再吃",
@@ -47883,7 +47883,7 @@
                     "@prefix": "例句前缀",
                     "prefix": "{W+13-pun sli}",
                     "@suffix": "例句后缀",
-                    "suffix": "{U+5481-gam2}多，一{U+52B8-lyk9}{A+er}哽死{A+a}{U+5728-deo5}",
+                    "suffix": "{U+5481-gam2}多，一{U+52B6-lyk9}{A+er}哽死{A+a}{U+5728-deo5}",
                     "@descriptions": "例句释义",
                     "descriptions": {
                       "zh": "拼命往嘴里塞这么多，当心噎死",
@@ -58852,7 +58852,7 @@
             "@related_han_zi": "相关搜索的词条字符",
             "related_han_zi": "劸",
             "@related_bian_hao": "相关搜索的词条身份证号码",
-            "related_bian_hao": "U+52B8-lyk9"
+            "related_bian_hao": "U+52B6-lyk9"
           },
           {
             "@related_han_zi": "相关搜索的词条字符",
@@ -74711,7 +74711,7 @@
             "@related_han_zi": "相关搜索的词条字符",
             "related_han_zi": "劸",
             "@related_bian_hao": "相关搜索的词条身份证号码",
-            "related_bian_hao": "U+52B8-lyk9"
+            "related_bian_hao": "U+52B6-lyk9"
           },
           {
             "@related_han_zi": "相关搜索的词条字符",
