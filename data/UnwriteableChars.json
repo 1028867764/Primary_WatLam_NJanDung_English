@@ -2182,24 +2182,7 @@
             "zh": "（说假话来）捉弄人，戏弄",
             "en": "To tell lies and play tricks on people"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         }
       ]
     },
