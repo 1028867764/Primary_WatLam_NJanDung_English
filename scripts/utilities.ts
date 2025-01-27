@@ -121,7 +121,12 @@ function exportDB() {
           refEntry.refBy = refBy;
           if (refID !== id) {
             Object.keys(entry).forEach(key => {
-              if (!['pinyin', 'jyutping', 'head', 'tail', 'bbakLau', 'refBy'].includes(key)) {
+              const uniqueKeys = ['pinyin', 'jyutping', 'head', 'tail', 'bbakLau', 'refBy'];
+              // 对于有音无字的词条，字形就是粤拼，不需要继承主词条的字形
+              if (refEntry.characters[0] !== entry.characters[0]) {
+                uniqueKeys.push('characters');
+              }
+              if (!uniqueKeys.includes(key)) {
                 refEntry[key] = entry[key];
               }
             });
