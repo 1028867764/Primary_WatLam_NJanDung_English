@@ -10377,24 +10377,7 @@
             "zh": "乱动、不安分地动、闹腾、挣扎，多含贬义",
             "en": "Moving around, restless, struggling, often with negative connotations"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         }
       ]
     },
@@ -24371,24 +24354,7 @@
             "zh": "用绳缠绕以箍紧",
             "en": "Wrap with rope to tighten"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         }
       ]
     },
@@ -36992,24 +36958,7 @@
             "zh": "网底或带疏眼的碗状容具，可用于漉去水分；亦指网底或疏眼捞具",
             "en": "Mesh bottom or bowl shaped container with sparse eyes, can be used to drain water"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         },
         {
           "descriptions": {
@@ -45408,48 +45357,14 @@
             "zh": "（弹力绳、橡皮筋等）失去弹性，变得长软而松弛",
             "en": "(Elastic cords, rubber bands, etc.) lose their elasticity and become long, soft, and loose"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         },
         {
           "descriptions": {
             "zh": "（绳索）不紧绷，松垮下垂",
             "en": "(Rope) not tight, loose and sagging"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         }
       ]
     },

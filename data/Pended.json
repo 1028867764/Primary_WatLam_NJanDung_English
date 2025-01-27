@@ -264,24 +264,7 @@
             "zh": "比喻做事做到一半；「LK」可念作「lang2kang2」或「lang2kang3」",
             "en": "Metaphorically speaking, doing things halfway;「LK」can be pronounced as「lang2kang2」or「lang2kang3」"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         }
       ]
     },
@@ -436,24 +419,7 @@
             "zh": "麻烦事",
             "en": "Nuisance"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         }
       ]
     },
@@ -476,24 +442,7 @@
             "zh": "琐碎之事物",
             "en": "Trivial matters"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         }
       ]
     },
@@ -579,24 +528,7 @@
             "zh": "形容皮肤皲裂",
             "en": "Describing cracked skin"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         }
       ]
     },
@@ -605,7 +537,7 @@
       "characters": [
         "逞响"
       ],
-      "controversial": 0,
+      "controversial": 1,
       "related": [],
       "pinyin": "cheng3xiang3",
       "jyutping": "cing2jaa2",
@@ -619,24 +551,7 @@
             "zh": "吹嘘，炫耀，嘚瑟",
             "en": "Show off, boast, brag"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         }
       ]
     },
@@ -645,7 +560,7 @@
       "characters": [
         "逞嚷"
       ],
-      "controversial": 0,
+      "controversial": 1,
       "related": [],
       "pinyin": "cheng3rang3",
       "jyutping": "cing2njaa2",
@@ -659,24 +574,7 @@
             "zh": "吹嘘，炫耀，嘚瑟",
             "en": "Show off, boast, brag"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         }
       ]
     },
@@ -699,24 +597,7 @@
             "zh": "丢三落四，吊儿郎当，做事马马虎虎，毛手毛脚；穿搭不搭调",
             "en": "Forgetful, reckless, casual; Mismatch in dressing"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         }
       ]
     },
@@ -771,7 +652,7 @@
       "characters": [
         "落雨bak湿"
       ],
-      "controversial": 2,
+      "controversial": 0,
       "related": [],
       "pinyin": "luo4yu3bakshi1",
       "jyutping": "lok10jyu5bak9sap7",
@@ -782,27 +663,10 @@
       "meanings": [
         {
           "descriptions": {
-            "zh": "下雨天到处都湿漉漉的（ 第三字「湴」所选字仅供参考）",
-            "en": "It's wet everywhere on rainy days (The selection of the third character「湴」 is for reference only)"
+            "zh": "下雨天到处都湿漉漉的",
+            "en": "It's wet everywhere on rainy days"
           },
-          "words": [
-            {
-              "format": "__self__",
-              "descriptions": {
-                "zh": "",
-                "en": ""
-              },
-              "sentences": [
-                {
-                  "format": "__self__",
-                  "descriptions": {
-                    "zh": "",
-                    "en": ""
-                  }
-                }
-              ]
-            }
-          ]
+          "words": []
         }
       ]
     },
