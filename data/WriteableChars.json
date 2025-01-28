@@ -1277,7 +1277,7 @@
       "related": [
         "U+5A01-wai1",
         "U+964B-lau6",
-        "A+75-gau5"
+        "U+211A5-gau5"
       ],
       "pinyin": "jin4",
       "jyutping": "kam1",
@@ -36763,7 +36763,7 @@
       ],
       "controversial": 0,
       "related": [
-        "A+75-gau5",
+        "U+211A5-gau5",
         "U+5A01-wai1",
         "U+6B63-zing3"
       ],
@@ -41730,7 +41730,7 @@
       "controversial": 0,
       "related": [
         "U+964B-lau6",
-        "A+75-gau5",
+        "U+211A5-gau5",
         "U+52B2-ging6",
         "U+6B63-zing3"
       ],
@@ -46138,6 +46138,59 @@
               "descriptions": {
                 "zh": "抽屉",
                 "en": "Drawers"
+              },
+              "sentences": []
+            }
+          ]
+        }
+      ]
+    },
+    "U+211A5-gau5": {
+      "unicode": "U+211A5",
+      "characters": [
+        "𡆥"
+      ],
+      "controversial": 1,
+      "related": [
+        "U+5A01-wai1",
+        "U+964B-lau6",
+        "U+7981-kam1",
+        "U+6B63-zing3"
+      ],
+      "pinyin": "jiu4",
+      "jyutping": "gau5",
+      "bbakLau": "",
+      "head": "g",
+      "tail": "元音韵尾·上",
+      "refBy": [],
+      "meanings": [
+        {
+          "descriptions": {
+            "zh": "破烂不堪，年久失修（「旧」？可是声调念阳上）",
+            "en": "Worn down and in disrepair (「旧」? But the tone is「阳上」)"
+          },
+          "words": [
+            {
+              "format": "__self__",
+              "descriptions": {
+                "zh": "",
+                "en": ""
+              },
+              "sentences": [
+                {
+                  "format": "电池__self__{A+le5}，充{U+7053-lan5}电{U+4E4D-co02}{U+4F7F-sai2}{U+5F97-ddak7}十分钟",
+                  "descriptions": {
+                    "zh": "电池折旧了，充满电只能用十分钟",
+                    "en": "The battery is worn. After being fully charged, it can only be discharged for ten minutes"
+                  }
+                }
+              ]
+            },
+            {
+              "format": "__self__lak7cak7",
+              "descriptions": {
+                "zh": "破烂玩意儿",
+                "en": "Old and torn stuff"
               },
               "sentences": []
             }

@@ -2191,7 +2191,7 @@
             "@related_han_zi": "相关搜索的词条字符",
             "related_han_zi": "gau5",
             "@related_bian_hao": "相关搜索的词条身份证号码",
-            "related_bian_hao": "A+75-gau5"
+            "related_bian_hao": "U+211A5-gau5"
           }
         ],
         "pinyin": "",
@@ -62112,7 +62112,7 @@
             "@related_han_zi": "相关搜索的词条字符",
             "related_han_zi": "gau5",
             "@related_bian_hao": "相关搜索的词条身份证号码",
-            "related_bian_hao": "A+75-gau5"
+            "related_bian_hao": "U+211A5-gau5"
           },
           {
             "@related_han_zi": "相关搜索的词条字符",
@@ -70516,7 +70516,7 @@
             "@related_han_zi": "相关搜索的词条字符",
             "related_han_zi": "gau5",
             "@related_bian_hao": "相关搜索的词条身份证号码",
-            "related_bian_hao": "A+75-gau5"
+            "related_bian_hao": "U+211A5-gau5"
           },
           {
             "@related_han_zi": "相关搜索的词条字符",
@@ -81977,7 +81977,7 @@
       },
       {
         "@id": "词条身份证号码",
-        "id": "A+75-gau5",
+        "id": "U+211A5-gau5",
         "@unicode": "主字万国统一码",
         "unicode": "",
         "@character": "主字字符",
