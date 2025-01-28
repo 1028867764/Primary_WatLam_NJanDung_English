@@ -13479,7 +13479,7 @@
       ],
       "controversial": 0,
       "related": [
-        "U+20904-nguk7"
+        "U+9AF7-nguk7"
       ],
       "pinyin": "gong3",
       "jyutping": "kung2",
@@ -26066,17 +26066,17 @@
         }
       ]
     },
-    "U+20904-nguk7": {
-      "unicode": "U+20904",
+    "U+9AF7-nguk7": {
+      "unicode": "U+9AF7",
       "characters": [
-        "𠤄",
-        "髷"
+        "髷",
+        "𠤄"
       ],
       "controversial": 1,
       "related": [
         "U+62F1-kung2"
       ],
-      "pinyin": "ju1",
+      "pinyin": "qu1",
       "jyutping": "nguk7",
       "bbakLau": "",
       "head": "ng",
@@ -26121,7 +26121,7 @@
               },
               "sentences": [
                 {
-                  "format": "条山路__self__来{U+20904-nguk7}去，{U+6781-gik9}难{U+884C-aa4}",
+                  "format": "条山路__self__来{U+9AF7-nguk7}去，{U+6781-gik9}难{U+884C-aa4}",
                   "descriptions": {
                     "zh": "这山路弯来弯去的，真难走",
                     "en": "This mountain road twists and turns, it's really difficult to drive on"
