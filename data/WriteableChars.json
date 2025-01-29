@@ -21213,6 +21213,13 @@
                     "zh": "公交车上太拥挤",
                     "en": "The bus is too crowded"
                   }
+                },
+                {
+                  "format": "{U+884C-aa4}去成功{U+5605-geo4}路{U+5187-mau5}算__self__",
+                  "descriptions": {
+                    "zh": "通往成功的道路并不拥挤",
+                    "en": "The road to success is not crowded"
+                  }
                 }
               ]
             }
